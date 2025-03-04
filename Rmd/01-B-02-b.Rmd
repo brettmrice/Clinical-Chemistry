@@ -1,0 +1,151 @@
+# Special Precautions {-}
+
+Accurate lipid testing relies on careful handling from start to finish. Pre-analytical steps are key to ensuring reliable results
+
+*   **Patient Preparation**
+    *   **Fasting**
+    *   **Medications**
+    *   **Recent Illness/Surgery**
+    *   **Posture**
+*   **Specimen Collection**
+    *   **Tube Type**
+    *   **Order of Draw**
+    *   **Tourniquet Time**
+*   **Specimen Processing**
+    *   **Timing**
+    *   **Centrifugation**
+    *   **Storage**
+*   **Analytical Considerations**
+    *   **Reagent Quality**
+    *   **Calibration**
+    *   **Quality Control (QC)**
+*   **Interfering Substances**
+    *   **Endogenous**
+    *   **Exogenous**
+
+
+## **Patient Preparation** {-}
+*   **Fasting:** Patients should typically fast for 9-12 hours before lipid testing
+*   Rationale: Fasting is essential because triglyceride levels are significantly affected by recent food intake. Non-fasting samples can lead to falsely elevated triglyceride levels, affecting LDL cholesterol calculations
+*   **Medications:** Certain medications can affect lipid levels
+    *   Examples: Statins, fibrates, niacin, beta-blockers, oral contraceptives, corticosteroids
+    *   Action: The healthcare provider should review the patient's medication list and determine if any medications need to be temporarily discontinued before testing. Document all medications the patient is taking
+*   **Recent Illness/Surgery:** Acute illness, surgery, or trauma can affect lipid levels
+    *   Rationale: Stress and inflammation can temporarily alter lipid metabolism
+    *   Action: Testing should be deferred until the patient has recovered from the acute event. Note any recent illnesses or surgeries on the test request form
+*   **Posture:** The patient should be seated for at least 5 minutes before blood collection
+    *   Rationale: Prolonged standing can affect plasma volume and lipid concentrations
+    *   Action: Ensure the patient is comfortably seated before venipuncture
+
+## **Specimen Collection** {-}
+*   **Tube Type:** Serum separator tubes (SST) or plasma tubes with EDTA are commonly used
+*   Rationale: SSTs allow for easy separation of serum, while EDTA tubes provide plasma samples. The choice depends on the laboratory's standard operating procedures and the specific assays being performed
+*   Action: Follow the laboratory's guidelines for tube selection. Ensure the tubes are within their expiration date
+*   **Order of Draw:** Follow the correct order of draw when collecting multiple tubes
+    *   Rationale: To prevent cross-contamination from tube additives. Lipid panels are typically drawn after blood culture tubes and coagulation tubes
+    *   Action: Follow CLSI guidelines for the order of draw
+*   **Tourniquet Time:** Minimize tourniquet time (ideally less than 1 minute)
+    *   Rationale: Prolonged tourniquet time can cause hemoconcentration, leading to falsely elevated lipid levels
+      *   Action: Release the tourniquet as soon as blood flow is established, and before the last tube is filled
+
+## **Specimen Processing** {-}
+*   **Timing:** Process the specimen as soon as possible after collection
+    *   Rationale: To prevent degradation of lipids and cellular metabolism affecting results
+    *   Action: Centrifuge the sample within 1-2 hours of collection
+*   **Centrifugation:** Centrifuge the sample according to the manufacturer's instructions for the specific tube type
+    *   Rationale: Proper centrifugation ensures complete separation of serum or plasma from cells
+    *   Action: Use the correct speed and duration for centrifugation
+*   **Storage:** If analysis is delayed, store the specimen refrigerated (2-8°C) for up to 7 days or frozen (-20°C or -70°C) for longer storage
+    *   Rationale: To prevent lipid degradation
+    *   Action: Aliquot the sample into smaller portions to avoid repeated freeze-thaw cycles, which can degrade lipids
+
+## **Analytical Considerations** {-}
+*   **Reagent Quality:** Use high-quality reagents and store them according to the manufacturer's instructions
+    *   Rationale: To ensure accurate and reliable results
+    *   Action: Check expiration dates and discard expired reagents
+*   **Calibration:** Calibrate the instrument regularly using appropriate standards
+    *   Rationale: To ensure accurate and precise measurements
+    *   Action: Follow the manufacturer's calibration schedule and procedures
+*   **Quality Control (QC):** Run quality control samples at regular intervals to monitor the accuracy and precision of the assay
+    *   Rationale: To detect any shifts or trends in the assay performance
+    *   Action: Follow the laboratory's QC procedures. Evaluate QC results before releasing patient results
+
+## **Interfering Substances** {-}
+*   **Endogenous:** Bilirubin, hemoglobin, lipemia
+    *   Rationale: These substances can interfere with spectrophotometric assays, leading to inaccurate results
+    *   Action: Use methods less susceptible to interference, or employ techniques to remove or correct for the interfering substance
+*   **Exogenous:** Medications, contrast dyes
+    *   Rationale: Certain medications and contrast dyes can affect lipid levels
+    *   Action: Be aware of potential interferences from medications and contrast dyes. Document any such substances the patient has taken
+
+
+## **Troubleshooting** {-}
+
+*   **High Lipid Results**
+    *   Pre-Analytical:
+        *   Patient not fasting
+        *   Prolonged tourniquet time
+        *   Improper collection tube
+    *   Analytical:
+        *   Incorrect calibration
+        *   Reagent deterioration
+        *   Interfering substances
+*   **Low Lipid Results**
+    *   Pre-Analytical:
+        *   Improper storage
+        *   Lipid degradation
+    *   Analytical:
+        *   Incorrect calibration
+        *   Reagent deterioration
+*   **Inconsistent Results**
+    *   Check patient preparation
+    *   Review collection and processing procedures
+    *   Evaluate reagent quality and calibration
+    *   Consider interfering substances
+
+## **Interfering Substances** {-}
+
+*   **Lipemia**
+    *   Interference: Causes turbidity, affecting spectrophotometric readings
+    *   Mechanism: Lipids scatter light, leading to inaccurate absorbance measurements
+    *   Mitigation:
+        *   Use lipemia clearing techniques (ultracentrifugation, lipid clearing reagents)
+        *   Consider methods less affected by turbidity
+*   **Bilirubin**
+    *   Interference: Absorbs light at similar wavelengths, affecting absorbance readings
+    *   Mechanism: Competes with the chromogen for light absorption
+    *   Mitigation:
+        *   Use methods less susceptible to bilirubin interference
+        *   Employ bilirubin correction techniques
+*   **Hemoglobin**
+    *   Interference: Absorbs light and can interfere with enzymatic reactions
+    *   Mechanism: Released from hemolyzed red blood cells
+    *   Mitigation:
+        *   Avoid hemolysis during collection and processing
+        *   Use methods less susceptible to hemoglobin interference
+*   **Ascorbic Acid (Vitamin C)**
+    *   Interference: Can interfere with certain enzymatic reactions
+    *   Mechanism: Acts as a reducing agent
+    *   Mitigation: Use methods less susceptible to ascorbic acid interference
+*   **Medications**
+    *   Interference: Certain drugs can directly affect lipid levels
+    *   Examples:
+        *   Statins: Decrease cholesterol
+        *   Fibrates: Decrease triglycerides, increase HDL
+        *   Beta-blockers: Increase triglycerides, decrease HDL
+        *   Oral contraceptives: Increase triglycerides, decrease HDL
+    *   Mitigation: Be aware of patient's medication list
+
+## **Key Terms** {-}
+
+*   **Pre-analytical:** Processes that occur before the sample is analyzed
+*   **Analytical:** Processes involved in analyzing the sample
+*   **Interfering Substance:** A substance that affects the accuracy of a test
+*   **Lipemia:** The presence of excess lipids in the blood
+*   **Hemolysis:** The breakdown of red blood cells
+*   **Calibration:** Adjusting an instrument to ensure accurate readings
+*   **Quality Control:** Samples used to monitor the accuracy and precision of a test
+*   **Spectrophotometry:** A method to measure the absorbance of light by a solution
+*   **Chromogen:** A substance that produces a colored product
+*   **Enzymatic Method:** A laboratory method that uses enzymes to catalyze a reaction
+*   **Immunochemical Methods:** Laboratory methods that use antibodies to measure a substance

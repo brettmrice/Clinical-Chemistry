@@ -1,0 +1,137 @@
+# Physiology {-}
+
+Enzyme activity is crucial for maintaining cellular functions, and deviations from normal levels can indicate a range of diseases
+
+## **Normal States** {-}
+
+*   **Balanced Enzyme Activity:** Enzyme levels and activity are tightly regulated to maintain homeostasis
+*   **Cellular Compartmentalization:** Enzymes are localized to specific cellular compartments to ensure proper function
+
+### **Balanced Enzyme Activity** {-}
+
+*   Appropriate levels of enzymes are present in cells and body fluids to catalyze biochemical reactions efficiently
+*   Enzyme activity is regulated by substrate concentration, pH, temperature, inhibitors, and activators
+*   Enzyme synthesis and degradation are balanced to maintain a constant enzyme concentration
+*   Enzymes are localized to specific cellular compartments to ensure proper function
+
+### **Cellular Compartmentalization** {-}
+
+*   Enzymes involved in specific metabolic pathways are localized to specific cellular compartments (e.g., mitochondria, endoplasmic reticulum, cytosol)
+*   Compartmentalization ensures that reactions occur efficiently and in a coordinated manner
+*   Compartmentalization also prevents enzymes from interfering with other cellular processes
+*   Examples:
+    *   Enzymes of glycolysis are located in the cytosol
+    *   Enzymes of the Krebs cycle are located in the mitochondria
+    *   Enzymes of fatty acid synthesis are located in the cytosol
+    *   Enzymes of the electron transport chain are located in the inner mitochondrial membrane
+
+## **Abnormal States** {-}
+
+*   **Enzyme Deficiencies:** Genetic defects leading to reduced or absent enzyme activity
+*   **Enzyme Elevations:** Increased enzyme levels in blood due to tissue damage or disease
+*   **Isoenzyme Variations:** Abnormal distribution of isoenzymes
+*   **Enzyme Inhibitions:** Inhibition of enzyme activity by drugs, toxins, or metabolic disorders
+
+### **Enzyme Deficiencies** {-}
+
+*   **Definition:** Genetic disorders caused by mutations in genes encoding enzymes, leading to reduced or absent enzyme activity
+*   **Pathophysiology:** Enzyme deficiencies disrupt metabolic pathways, leading to the accumulation of substrates and/or the deficiency of products
+*   **Laboratory Findings:** Reduced or absent enzyme activity in affected tissues
+*   **Symptoms:** Varies depending on the specific enzyme deficiency and the metabolic pathway affected
+*   **Examples**
+    *   Phenylketonuria (PKU): Deficiency in phenylalanine hydroxylase (PAH)
+        *   Elevated phenylalanine levels in blood
+        *   Intellectual disability, seizures
+    *   Galactosemia: Deficiency in galactose-1-phosphate uridyltransferase (GALT)
+        *   Elevated galactose levels in blood and urine
+        *   Liver damage, cataracts, intellectual disability
+    *   Tay-Sachs Disease: Deficiency in hexosaminidase A
+        *   Accumulation of gangliosides in nerve cells
+        *   Neurological deterioration, seizures, blindness
+    *   Gaucher Disease: Deficiency in glucocerebrosidase
+        *   Accumulation of glucocerebrosides in macrophages
+        *   Splenomegaly, hepatomegaly, bone pain
+    *   Lesch-Nyhan Syndrome: Deficiency in hypoxanthine-guanine phosphoribosyltransferase (HGPRT)
+        *   Elevated uric acid levels in blood and urine
+        *   Neurological dysfunction, self-mutilation
+    *   Severe Combined Immunodeficiency (SCID): Deficiency in adenosine deaminase (ADA)
+        *   Accumulation of deoxyadenosine in lymphocytes
+        *   Impaired immune function, increased susceptibility to infections
+
+### **Enzyme Elevations** {-}
+
+*   **Definition:** Increased enzyme levels in blood, indicating tissue damage or disease
+*   **Pathophysiology:** Tissue damage or disease causes the release of enzymes from cells into the bloodstream
+*   **Laboratory Findings:** Elevated enzyme levels in blood
+*   **Symptoms:** Varies depending on the specific enzyme and the tissue affected
+*   **Examples**
+    *   Myocardial Infarction (Heart Attack): Elevated troponin, creatine kinase (CK), and CK-MB
+        *   Chest pain, shortness of breath
+    *   Hepatitis: Elevated alanine aminotransferase (ALT) and aspartate aminotransferase (AST)
+        *   Fatigue, jaundice, abdominal pain
+    *   Pancreatitis: Elevated amylase and lipase
+        *   Abdominal pain, nausea, vomiting
+    *   Prostate Cancer: Elevated prostate-specific antigen (PSA)
+        *   Urinary symptoms, bone pain
+    *   Muscular Dystrophy: Elevated creatine kinase (CK)
+        *   Muscle weakness, muscle wasting
+
+### **Isoenzyme Variations** {-}
+
+*   **Definition:** Abnormal distribution of isoenzymes, indicating tissue-specific damage or disease
+*   **Pathophysiology:** Different tissues express different isoenzymes of certain enzymes. Measuring the levels of these isoenzymes can help identify the source of tissue damage
+*   **Laboratory Findings:** Altered ratios of isoenzymes
+*   **Symptoms:** Varies depending on the specific isoenzyme and the tissue affected
+*   **Examples**
+    *   Creatine Kinase (CK) Isoenzymes:
+        *   CK-MM: Found primarily in skeletal muscle
+        *   CK-MB: Found primarily in heart muscle
+        *   CK-BB: Found primarily in brain and smooth muscle
+        *   Elevated CK-MB suggests myocardial damage
+    *   Lactate Dehydrogenase (LDH) Isoenzymes:
+        *   LDH-1: Found primarily in heart and red blood cells
+        *   LDH-2: Found primarily in heart and red blood cells
+        *   LDH-3: Found primarily in lung and other tissues
+        *   LDH-4: Found primarily in liver and muscle
+        *   LDH-5: Found primarily in liver and muscle
+        *   Elevated LDH-1 and LDH-2 suggest myocardial damage or hemolysis
+        *   Elevated LDH-5 suggests liver damage or muscle damage
+    *   Alkaline Phosphatase (ALP) Isoenzymes:
+        *   Liver ALP: Found primarily in liver
+        *   Bone ALP: Found primarily in bone
+        *   Intestinal ALP: Found primarily in intestine
+        *   Elevated liver ALP suggests liver disease or biliary obstruction
+        *   Elevated bone ALP suggests bone disease
+
+### **Enzyme Inhibitions** {-}
+
+*   **Definition:** Inhibition of enzyme activity by drugs, toxins, or metabolic disorders
+*   **Pathophysiology:** Inhibitors bind to enzymes, preventing them from catalyzing reactions
+*   **Laboratory Findings:** Decreased enzyme activity
+*   **Symptoms:** Varies depending on the specific enzyme and the metabolic pathway affected
+*   **Examples**
+    *   Cyanide Poisoning: Cyanide inhibits cytochrome oxidase, an enzyme in the electron transport chain
+        *   Cellular respiration is inhibited, leading to rapid death
+    *   Organophosphate Poisoning: Organophosphates inhibit acetylcholinesterase, an enzyme that breaks down acetylcholine
+        *   Acetylcholine accumulates, leading to muscle paralysis and respiratory failure
+    *   Methanol Poisoning: Methanol is metabolized to formaldehyde and formic acid, which inhibit cytochrome oxidase
+        *   Cellular respiration is inhibited, leading to metabolic acidosis, blindness, and death
+    *   Warfarin Therapy: Warfarin inhibits vitamin K epoxide reductase, an enzyme required for the synthesis of clotting factors
+        *   Blood clotting is inhibited, preventing thrombosis
+    *   Statins: Statins inhibit HMG-CoA reductase, an enzyme in cholesterol synthesis
+        *   Cholesterol synthesis is reduced, lowering LDL cholesterol levels
+
+## **Key Terms** {-}
+
+*   **Enzyme Deficiency:** Genetic disorder with reduced or absent enzyme activity
+*   **Enzyme Elevation:** Increased enzyme levels in blood
+*   **Isoenzyme:** Different forms of the same enzyme, with tissue-specific distribution
+*   **Enzyme Inhibition:** Reduced enzyme activity due to inhibitors
+*   **Phenylketonuria (PKU):** Deficiency in phenylalanine hydroxylase
+*   **Galactosemia:** Deficiency in galactose-1-phosphate uridyltransferase
+*   **Myocardial Infarction:** Heart attack
+*   **Hepatitis:** Inflammation of the liver
+*   **Pancreatitis:** Inflammation of the pancreas
+*   **Prostate Cancer:** Cancer of the prostate gland
+*   **Muscular Dystrophy:** A group of genetic disorders that cause progressive muscle weakness and loss
+*   **Isoenzymes:** Different forms of the same enzyme, with tissue-specific distribution

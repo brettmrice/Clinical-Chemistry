@@ -1,0 +1,148 @@
+# Physiology {-}
+
+## **Physiologic States in Carbohydrate Metabolism** {-}
+*   **Normal State:**
+    *   **Normoglycemia:**
+        *   Maintained within a tight range by hormones like insulin and glucagon
+        *   Provides a constant energy supply, especially for the brain
+
+*   **Abnormal States:**
+    *   **Hyperglycemia:** High blood glucose, often due to diabetes (lack of insulin or insulin resistance). Can cause acute (DKA, HHS) and chronic (retinopathy, nephropathy, neuropathy, cardiovascular disease) complications
+    *   **Hypoglycemia:** Low blood glucose, due to excess insulin, liver/kidney disease, or other factors. Can cause neurological symptoms, seizures, coma, and brain damage
+    *   **Insulin Resistance:** Cells don't respond to insulin, leading to high insulin levels and increased risk of type 2 diabetes
+    *   **Genetic Disorders:**
+        *   **Glycogen Storage Diseases (GSDs):** Enzyme deficiencies in glycogen metabolism leading to glycogen accumulation and hypoglycemia
+        *   **Galactosemia:** Enzyme deficiencies in galactose metabolism leading to accumulation of galactose and organ damage
+        *   **Fructose Intolerance:** Enzyme deficiencies in fructose metabolism leading to accumulation of fructose-1-phosphate and organ damage
+        *   **Pentosuria:** Benign condition, deficiency in L-xylulose reductase which is required for the metabolism of L-xylulose
+
+## **Normal Sate** {-}
+
+### **Normoglycemia** {-}
+
+*   **Definition:** Normal blood glucose levels
+*   **Fasting:** 70-99 mg/dL (3.9-5.5 mmol/L)
+*   **Postprandial (2 hours after eating):** < 140 mg/dL (7.8 mmol/L)
+*   **Maintenance:** A complex interplay of hormones (insulin, glucagon, epinephrine, cortisol), liver function, and cellular glucose uptake maintains normoglycemia
+*   **Importance:** Provides a constant supply of glucose for energy, especially for the brain, which relies heavily on glucose
+
+## **Abnormal States** {-}
+
+### **Hyperglycemia** {-}
+
+*   **Definition:** Abnormally high blood glucose levels
+*   **Causes:**
+    *   **Diabetes Mellitus (Type 1 and Type 2):**
+        *   **Type 1:** Autoimmune destruction of pancreatic beta cells, leading to absolute insulin deficiency
+        *   **Type 2:** Insulin resistance (cells don't respond properly to insulin) and relative insulin deficiency (pancreas can't produce enough insulin to overcome resistance)
+    *   **Gestational Diabetes:** Insulin resistance during pregnancy
+    *   **Other Endocrine Disorders:** Cushing's syndrome (excess cortisol), acromegaly (excess growth hormone), hyperthyroidism
+    *   **Pancreatic Diseases:** Pancreatitis, cystic fibrosis (affecting pancreatic function)
+    *   **Medications:** Corticosteroids, some diuretics
+    *   **Stress/Illness:** Stress hormones (cortisol, epinephrine) can raise blood glucose
+*   **Symptoms:**
+    *   **Classic Symptoms:** Polyuria (frequent urination), polydipsia (excessive thirst), polyphagia (increased hunger), unexplained weight loss
+    *   **Other Symptoms:** Fatigue, blurred vision, slow-healing sores, frequent infections
+*   **Complications:**
+    *   **Acute:**
+        *   **Diabetic Ketoacidosis (DKA):** Primarily in Type 1 diabetes. Insulin deficiency leads to increased lipolysis, ketone body production, and metabolic acidosis
+        *   **Hyperosmolar Hyperglycemic State (HHS):** Primarily in Type 2 diabetes. Severe hyperglycemia leads to dehydration and hyperosmolarity, but less ketosis than DKA
+    *   **Chronic:**
+        *   **Microvascular Complications:**
+            *   **Retinopathy:** Damage to blood vessels in the retina, leading to vision loss
+            *   **Nephropathy:** Damage to blood vessels in the kidneys, leading to kidney failure
+            *   **Neuropathy:** Damage to nerves, leading to pain, numbness, and loss of sensation
+        *   **Macrovascular Complications:**
+            *   **Cardiovascular Disease:** Increased risk of heart attacks and strokes
+            *   **Peripheral Artery Disease:** Reduced blood flow to the limbs, increasing the risk of amputation
+
+### **Hypoglycemia** {-}
+
+*   **Definition:** Abnormally low blood glucose levels
+*   **Threshold:** Generally defined as < 70 mg/dL (3.9 mmol/L), but symptoms can vary
+*   **Causes:**
+    *   **Excess Insulin:**
+        *   **Insulin Overdose:** In diabetic patients
+        *   **Insulinoma:** Insulin-secreting tumor of the pancreas
+    *   **Reactive Hypoglycemia:** Exaggerated insulin release after a meal
+    *   **Fasting Hypoglycemia:**
+        *   **Liver Disease:** Impaired gluconeogenesis and glycogen storage
+        *   **Kidney Disease:** Impaired gluconeogenesis
+        *   **Hormone Deficiencies:** Adrenal insufficiency (low cortisol), growth hormone deficiency
+        *   **Certain Tumors:** Non-islet cell tumors can secrete insulin-like substances
+    *   **Alcohol Consumption:** Inhibits gluconeogenesis
+    *   **Intense Exercise:** Can deplete glycogen stores
+*   **Symptoms:**
+    *   **Adrenergic Symptoms (Early):** Sweating, shakiness, anxiety, palpitations, hunger
+    *   **Neuroglycopenic Symptoms (Later):** Confusion, dizziness, blurred vision, difficulty speaking, seizures, loss of consciousness
+*   **Complications:**
+    *   **Brain Damage:** Prolonged or severe hypoglycemia can lead to irreversible brain damage
+    *   **Seizures**
+    *   **Coma**
+    *   **Death**
+
+### **Insulin Resistance** {-}
+
+*   **Definition:** Cells don't respond normally to insulin, requiring higher levels of insulin to achieve the same effect on glucose uptake
+*   **Causes:**
+    *   **Obesity:** Excess adipose tissue releases factors that interfere with insulin signaling
+    *   **Genetics:** Some individuals are genetically predisposed to insulin resistance
+    *   **Physical Inactivity**
+    *   **Inflammation**
+    *   **Aging**
+*   **Consequences:**
+    *   **Hyperinsulinemia:** Elevated insulin levels as the pancreas tries to compensate for resistance
+    *   **Prediabetes:** Impaired fasting glucose or impaired glucose tolerance
+    *   **Type 2 Diabetes:** Eventually, the pancreas may not be able to produce enough insulin to overcome resistance
+    *   **Metabolic Syndrome:** A cluster of conditions including insulin resistance, abdominal obesity, high blood pressure, high triglycerides, and low HDL cholesterol, increasing the risk of cardiovascular disease and type 2 diabetes
+
+### **Genetic Defects in Glycogen Metabolism** {-}
+
+#### **Glycogen Storage Diseases (GSDs)** {-}
+
+*   **Definition:** A group of inherited disorders caused by deficiencies in enzymes involved in glycogen synthesis or breakdown
+*   **Types:**
+    *   **Von Gierke Disease (Type Ia):** Deficiency in glucose-6-phosphatase. Causes severe hypoglycemia, hepatomegaly, lactic acidosis, hyperlipidemia
+    *   **Pompe Disease (Type II):** Deficiency in lysosomal α-glucosidase (acid maltase). Causes glycogen accumulation in lysosomes, affecting various organs, especially the heart and muscles
+    *   **Cori Disease (Type III):** Deficiency in debranching enzyme. Causes milder hypoglycemia and hepatomegaly than Von Gierke disease
+    *   **McArdle Disease (Type V):** Deficiency in muscle glycogen phosphorylase. Causes muscle cramps and fatigue during exercise
+*   **Symptoms:** Depend on the specific enzyme deficiency and the tissues affected
+
+#### **Galactosemia** {-}
+
+*   **Definition:** An inherited disorder caused by deficiency in enzymes needed to convert galactose to glucose
+*   **Cause:** Most commonly a deficiency in galactose-1-phosphate uridyltransferase (GALT)
+*   **Symptoms:**
+    *   **Early:** Feeding difficulties, vomiting, diarrhea, lethargy, jaundice, hepatomegaly
+    *   **Later:** Cataracts, intellectual disability, liver damage, kidney damage
+*   **Treatment:** Strict galactose-free diet
+
+#### **Fructose Intolerance** {-}
+
+*   **Definition:** Impaired Fructose Metabolism
+    *   **Hereditary Fructose Intolerance (HFI):** Deficiency in aldolase B. Causes accumulation of fructose-1-phosphate, inhibiting gluconeogenesis and glycogenolysis
+    *   **Fructose Malabsorption:** Impaired absorption of fructose in the small intestine
+*   **Symptoms:**
+    *   **HFI:** Vomiting, abdominal pain, hypoglycemia, liver damage, kidney damage
+    *   **Fructose Malabsorption:** Bloating, gas, diarrhea
+*   **Treatment:**
+    *   **HFI:** Strict fructose-free and sucrose-free diet
+    *   **Fructose Malabsorption:** Limiting fructose intake
+
+#### **Pentosuria** {-}
+
+*   **Definition:** Excess excretion of pentoses in the urine
+    *   **Essential Pentosuria:** Deficiency in L-xylulose reductase which is required for the metabolism of L-xylulose, a pentose sugar
+*   **Symptoms:**
+    *   **Essential Pentosuria:** Benign condition where L-xylulose accumulates and is excreted in urine, thus there are no clinical symptoms
+
+## **Key Terms** {-}
+
+*   **Normoglycemia:** Normal blood glucose levels
+*   **Hyperglycemia:** Elevated blood glucose levels
+*   **Hypoglycemia:** Reduced blood glucose levels
+*   **Insulin Resistance:** Impaired cellular response to insulin
+*   **Glycogen Storage Diseases (GSDs):** Genetic defects in glycogen metabolism
+*   **Galactosemia:** Impaired galactose metabolism
+*   **Fructose Intolerance:** Impaired fructose metabolism
+*   **Pentosuria:** Excess excretion of pentoses in the urine

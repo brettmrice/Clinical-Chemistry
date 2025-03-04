@@ -1,0 +1,124 @@
+# Glycated Proteins {-}
+
+Glycated proteins, particularly HbA1c, are the cornerstone of diabetes monitoring. They provide a retrospective view of glucose control, helping clinicians and patients make informed decisions
+*   **Definition:** Glycated proteins are formed when glucose non-enzymatically binds to proteins, a process known as glycation or the Maillard reaction. The extent of glycation depends on the average glucose concentration over time and the protein's lifespan
+*   **Clinical Significance:** Glycated proteins provide a measure of average glucose levels over an extended period, making them valuable for assessing glycemic control in diabetes mellitus
+*   **Types of Glycated Proteins**
+    *   **Glycated Hemoglobin (HbA1c):** The most commonly measured glycated protein, reflecting average blood glucose levels over the past 2-3 months
+    *   **Fructosamine:** Represents glycated serum proteins, reflecting average glucose levels over the past 2-3 weeks
+    *   **Glycated Albumin:** Reflects average glucose levels over the past 2-3 weeks, similar to fructosamine
+
+## **Glycated Hemoglobin (HbA1c)** {-}
+
+*   **Principle:** HbA1c is formed when glucose binds to hemoglobin in red blood cells. The percentage of hemoglobin that is glycated is proportional to the average blood glucose concentration over the lifespan of the red blood cell (approximately 120 days)
+*   **Clinical Use**
+    *   Diagnosis of diabetes mellitus
+    *   Monitoring long-term glycemic control in patients with diabetes
+    *   Assessment of treatment effectiveness
+*   **Specimen Requirements**
+    *   **Whole Blood (EDTA):** No fasting required
+    *   **Collection:** Routine venipuncture
+    *   **Storage:** Stable for up to a week refrigerated
+
+### **Analytical Methods** {-}
+
+*   **Ion-Exchange Chromatography**
+    *   **Principle:** Separates hemoglobin fractions based on charge differences. Glycated hemoglobin has a different charge than non-glycated hemoglobin, allowing for separation
+    *   **Procedure**
+        *   Hemolysate is applied to an ion-exchange column
+        *   Different hemoglobin fractions are eluted using a gradient of increasing ionic strength
+        *   Fractions are detected spectrophotometrically
+    *   **Advantages:** Accurate and precise
+    *   **Disadvantages:** Labor-intensive, requires specialized equipment
+*   **Affinity Chromatography**
+    *   **Principle:** Uses boronate affinity to bind glycated hemoglobin. Boronate binds specifically to the cis-diol groups of glycated hemoglobin
+    *   **Procedure**
+        *   Hemolysate is applied to a boronate affinity column
+        *   Glycated hemoglobin binds to the boronate resin, while non-glycated hemoglobin is washed away
+        *   Glycated hemoglobin is eluted from the column
+        *   The amount of glycated hemoglobin is quantified spectrophotometrically
+    *   **Advantages:** Specific for glycated hemoglobin
+    *   **Disadvantages:** Can be affected by interfering substances
+*   **Immunoassay**
+    *   **Principle:** Uses antibodies specific to glycated hemoglobin to capture and quantify HbA1c
+    *   **Procedure**
+        *   Sample is incubated with HbA1c-specific antibodies
+        *   The amount of antibody-HbA1c complex formed is measured
+        *   Detection methods include enzyme-linked immunosorbent assay (ELISA) and turbidimetric inhibition immunoassay (TINIA)
+    *   **Advantages:** Automated, high-throughput, widely available
+    *   **Disadvantages:** Susceptible to interferences from hemoglobin variants and other factors affecting red blood cell turnover
+*   **Capillary Electrophoresis**
+    *   **Principle:** Separates hemoglobin fractions based on their electrophoretic mobility in a capillary tube. Glycated hemoglobin has a different mobility than non-glycated hemoglobin
+    *   **Procedure**
+        *   Hemolysate is injected into a capillary tube filled with an electrolyte solution
+        *   An electric field is applied, causing hemoglobin fractions to migrate at different rates
+        *   Fractions are detected spectrophotometrically
+    *   **Advantages:** High resolution, rapid analysis
+    *   **Disadvantages:** Requires specialized equipment
+
+### **Interferences and Limitations** {-}
+
+*   **Hemoglobin Variants**
+    *   Certain hemoglobin variants (e.g., HbS, HbC, HbE, HbF) can interfere with HbA1c measurements, leading to inaccurate results. Some variants don't glycate normally or interfere with antibody binding
+    *   Use HbA1c methods that are not affected by common variants. If interference is suspected, use an alternative method or refer to a specialized laboratory
+*   **Red Blood Cell Turnover**
+    *   Conditions affecting red blood cell turnover (e.g., anemia, hemolysis, hemoglobinopathies) can affect HbA1c levels
+    *   Increased red blood cell turnover can lead to falsely low HbA1c results, while decreased turnover can lead to falsely high results
+*   **Ethnicity**
+    *   Some ethnic groups (e.g., African Americans, Hispanics) may have slightly different HbA1c levels compared to Caucasians, even with similar glucose control
+    *   Interpret HbA1c results with caution, considering individual factors and clinical context
+*   **Pregnancy**
+    *   HbA1c may not accurately reflect glycemic control during pregnancy due to changes in red blood cell turnover
+    *   Use alternative methods, such as continuous glucose monitoring (CGM), for assessing glycemic control during pregnancy
+*   **Renal Disease**
+    *   Chronic kidney disease can affect HbA1c levels due to changes in red blood cell lifespan and uremia
+    *   Use HbA1c results with caution, considering the severity of renal disease
+
+## **Fructosamine** {-}
+
+*   **Principle:** Fructosamine measures glycated serum proteins, primarily albumin. The extent of glycation reflects average glucose levels over the preceding 2-3 weeks (a shorter-term marker compared to HbA1c)
+*   **Clinical Use**
+    *   Monitoring glycemic control over a shorter period than HbA1c
+    *   Situations where HbA1c is unreliable (e.g., hemoglobinopathies, hemolytic anemia)
+*   **Specimen Requirements**
+    *   Serum or plasma
+    *   Fasting not required
+*   **Analytical Methods**
+    *   **Colorimetric Assay**
+        *   Based on the ability of glycated proteins to reduce nitroblue tetrazolium (NBT) to formazan
+        *   The amount of formazan produced is proportional to the fructosamine concentration
+*   **Interferences and Limitations**
+    *   Serum protein levels
+    *   Conditions affecting protein turnover (e.g., nephrotic syndrome, liver disease)
+    *   Ascorbic acid (Vitamin C)
+
+## **Glycated Albumin** {-}
+
+*   **Principle:** Glycated albumin measures the percentage of albumin that is glycated, reflecting average glucose levels over the preceding 2-3 weeks (another short-term option)
+*   **Clinical Use**
+    *   Similar to fructosamine
+    *   May be more reliable than fructosamine in certain conditions
+*   **Specimen Requirements**
+    *   Serum or plasma
+    *   Fasting not required
+*   **Analytical Methods**
+    *   **Enzymatic Assay**
+        *   Glycated albumin is cleaved by protease to release glycated amino acids
+        *   Glycated amino acids are then quantified using enzymatic reactions
+    *   **Affinity Chromatography**
+        *   Glycated albumin is separated from non-glycated albumin using affinity chromatography
+        *   The amount of glycated albumin is then quantified
+*   **Interferences and Limitations**
+    *   Albumin levels
+    *   Conditions affecting albumin turnover
+
+## **Key Terms** {-}
+
+*   **Glycation:** The non-enzymatic binding of glucose to proteins
+*   **Glycated Hemoglobin (HbA1c):** Glycated hemoglobin in red blood cells
+*   **Fructosamine:** Glycated serum proteins, primarily albumin
+*   **Glycated Albumin:** Glycated albumin in serum
+*   **Hemoglobin Variant:** An abnormal form of hemoglobin
+*   **Red Blood Cell Turnover:** The rate at which red blood cells are replaced
+*   **Interference:** A substance or condition that affects the accuracy of a test
+*   **Analytical Method:** The laboratory procedure used to measure a substance

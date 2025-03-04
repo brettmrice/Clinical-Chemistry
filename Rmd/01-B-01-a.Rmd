@@ -1,0 +1,157 @@
+# Metabolic {-}
+
+Lipid metabolic pathways are vital for energy storage, cell structure, and hormone synthesis. Their metabolism is a complex set of processes for both breaking down and building up these molecules
+
+*   **Key Pathways**
+    *   **Lipolysis:** Triglyceride breakdown to release fatty acids and glycerol
+    *   **Fatty Acid Oxidation (Beta-Oxidation):** Fatty acid breakdown to generate energy
+    *   **Lipogenesis:** Fatty acid synthesis from acetyl-CoA
+    *   **Triglyceride Synthesis:** Esterification of fatty acids with glycerol to form triglycerides
+    *   **Cholesterol Synthesis:** A multi-step process to produce cholesterol
+    *   **Lipoprotein Metabolism:** The processes of assembling, transporting, and breaking down lipoproteins to deliver lipids throughout the body
+
+## **Lipolysis** {-}
+
+*   **Purpose:** To break down stored triglycerides (fats) into glycerol and fatty acids
+*   **Location:** Cytosol of adipose (fat) tissue cells
+*   **Regulation**
+    *   Hormone-sensitive lipase (HSL) is the rate-limiting enzyme
+    *   Activated by: Epinephrine, glucagon, cortisol (hormones that signal low energy)
+    *   Inhibited by: Insulin (hormone that signals high energy)
+*   **Process**
+    1.  Hormone binds to receptor
+    2.  Signal cascade activates protein kinase A (PKA)
+    3.  PKA phosphorylates and activates HSL
+    4.  HSL hydrolyzes triglycerides into diglycerides, monoglycerides, and ultimately glycerol and fatty acids
+*   **Fate of Products**
+    *   Fatty acids bind to albumin in the blood and are transported to tissues for energy use (beta-oxidation)
+    *   Glycerol is transported to the liver for gluconeogenesis or glycolysis
+
+## **Fatty Acid Oxidation (Beta-Oxidation)** {-}
+
+*   **Purpose:** To break down fatty acids into acetyl-CoA for energy production (primarily in mitochondria)
+*   **Location:** Mitochondrial matrix
+*   **Process**
+    1.  **Activation:** Fatty acid is activated by coenzyme A (CoA) to form fatty acyl-CoA
+        *   Requires ATP
+    2.  **Transport:** Fatty acyl-CoA is transported into the mitochondrial matrix via the carnitine shuttle
+    3.  **Beta-Oxidation Cycle**
+        *   Each cycle shortens the fatty acyl-CoA by two carbon atoms, producing:
+            *   One molecule of acetyl-CoA (enters Krebs Cycle)
+            *   One molecule of FADH2 (enters electron transport chain)
+            *   One molecule of NADH (enters electron transport chain)
+*   **Regulation**
+    *   Carnitine palmitoyltransferase I (CPT-I) is the rate-limiting enzyme
+    *   Inhibited by: Malonyl-CoA (product of fatty acid synthesis)
+*   **Energy Yield:** Very efficient energy production
+    *   Example: Palmitic acid (16 carbons) yields 129 ATP
+*   **Odd-Chain Fatty Acids**
+    *   Oxidation proceeds normally until the last three carbons
+    *   Propionyl-CoA is formed, which is converted to succinyl-CoA (enters Krebs Cycle)
+
+## **Ketogenesis** {-}
+
+*   **Purpose:** To produce ketone bodies (acetone, acetoacetate, beta-hydroxybutyrate) from acetyl-CoA during periods of prolonged fasting, starvation, or uncontrolled diabetes
+*   **Location:** Mitochondrial matrix of liver cells
+*   **Process**
+    1.  Acetyl-CoA molecules combine to form acetoacetyl-CoA
+    2.  Acetoacetyl-CoA is converted to HMG-CoA
+    3.  HMG-CoA is cleaved to form acetoacetate
+    4.  Acetoacetate can be:
+        *   Reduced to beta-hydroxybutyrate
+        *   Spontaneously decarboxylated to acetone
+*   **Regulation**
+    *   Availability of fatty acids and acetyl-CoA
+*   **Fate of Ketone Bodies**
+    *   Released into the blood and transported to other tissues (brain, heart, muscle) for energy use
+    *   Converted back to acetyl-CoA for entry into Krebs Cycle
+*   **Clinical Significance**
+    *   Ketone bodies provide an alternative fuel source for the brain during starvation
+    *   Excessive production of ketone bodies can lead to ketoacidosis (dangerous lowering of blood pH), especially in uncontrolled diabetes
+
+## **Lipogenesis** {-}
+
+*   **Purpose:** To synthesize fatty acids from acetyl-CoA
+*   **Location:** Cytosol of liver and adipose tissue cells
+*   **Process**
+    1.  **Acetyl-CoA Transport:** Acetyl-CoA is transported from the mitochondria to the cytosol via the citrate shuttle
+    2.  **Activation:** Acetyl-CoA is carboxylated to form malonyl-CoA by acetyl-CoA carboxylase (ACC)
+        *   Requires ATP and biotin
+    3.  **Fatty Acid Synthesis**
+        *   Malonyl-CoA and acetyl-CoA are repeatedly added to a growing fatty acid chain by fatty acid synthase (FAS)
+        *   Requires NADPH
+        *   Palmitic acid (16 carbons) is the primary product
+*   **Regulation**
+    *   Acetyl-CoA carboxylase (ACC) is the rate-limiting enzyme
+    *   Activated by: Insulin, citrate
+    *   Inhibited by: Glucagon, palmitoyl-CoA (feedback inhibition)
+
+## **Triglyceride Synthesis** {-}
+
+*   **Purpose:** To synthesize triglycerides (triacylglycerols) from glycerol and fatty acids for storage
+*   **Location:** Cytosol of liver and adipose tissue cells
+*   **Process**
+    1.  Glycerol-3-phosphate is formed from either:
+        *   Glycerol (in the liver)
+        *   Dihydroxyacetone phosphate (DHAP) from glycolysis (in adipose tissue)
+    2.  Fatty acids are activated by CoA to form fatty acyl-CoA
+    3.  Fatty acyl-CoA molecules are sequentially added to glycerol-3-phosphate to form:
+        *   Lysophosphatidic acid
+        *   Phosphatidic acid
+        *   Diacylglycerol
+        *   Triacylglycerol (triglyceride)
+*   **Regulation**
+    *   Availability of glycerol-3-phosphate and fatty acids
+    *   Insulin promotes triglyceride synthesis
+
+## **Cholesterol Synthesis** {-}
+
+*   **Purpose:** To synthesize cholesterol, an essential component of cell membranes and precursor for steroid hormones and bile acids
+*   **Location:** Cytosol and endoplasmic reticulum of liver cells
+*   **Process:** A complex, multi-step pathway involving:
+    1.  Acetyl-CoA molecules combine to form HMG-CoA
+    2.  HMG-CoA is reduced to mevalonate by HMG-CoA reductase (the rate-limiting enzyme)
+    3.  Mevalonate is converted to isopentenyl pyrophosphate
+    4.  Isopentenyl pyrophosphate is converted to squalene
+    5.  Squalene is cyclized and modified to form cholesterol
+*   **Regulation**
+    *   HMG-CoA reductase is the rate-limiting enzyme
+    *   Inhibited by: Cholesterol, statin drugs
+    *   Activated by: Insulin
+*   **Fate of Cholesterol**
+    *   Incorporated into cell membranes
+    *   Used to synthesize steroid hormones (cortisol, aldosterone, sex hormones)
+    *   Converted to bile acids in the liver (for fat digestion)
+    *   Packaged into lipoproteins for transport in the blood
+
+## **Lipoprotein Metabolism** {-}
+
+*   **Purpose:** To transport lipids (triglycerides, cholesterol) in the blood
+*   **Lipoprotein Classes**
+    *   Chylomicrons: Transport dietary triglycerides from the intestine to tissues
+    *   VLDL (Very-Low-Density Lipoproteins): Transport triglycerides from the liver to tissues
+    *   LDL (Low-Density Lipoproteins): Transport cholesterol from the liver to tissues
+    *   HDL (High-Density Lipoproteins): Transport cholesterol from tissues back to the liver
+*   **Process**
+    1.  **Assembly:** Lipoproteins are assembled in the intestine (chylomicrons) or liver (VLDL, HDL)
+    2.  **Secretion:** Lipoproteins are secreted into the blood
+    3.  **Lipolysis:** Triglycerides in chylomicrons and VLDL are hydrolyzed by lipoprotein lipase (LPL) in capillaries, releasing fatty acids for uptake by tissues
+    4.  **Remnant Uptake:** Chylomicron remnants and IDL (intermediate-density lipoproteins) are taken up by the liver
+    5.  **LDL Formation:** VLDL is converted to LDL as triglycerides are removed
+    6.  **Receptor-Mediated Uptake:** LDL is taken up by cells via LDL receptors
+    7.  **Reverse Cholesterol Transport:** HDL picks up cholesterol from tissues and transports it back to the liver for excretion
+*   **Regulation**
+    *   Complex hormonal and enzymatic regulation
+
+## **Key Terms** {-}
+
+*   **Lipolysis:** The breakdown of triglycerides into glycerol and fatty acids
+*   **Beta-Oxidation:** The breakdown of fatty acids into acetyl-CoA
+*   **Ketogenesis:** The production of ketone bodies from acetyl-CoA
+*   **Lipogenesis:** The synthesis of fatty acids from acetyl-CoA
+*   **Triglyceride Synthesis:** The formation of triglycerides from glycerol and fatty acids
+*   **Cholesterol Synthesis:** The production of cholesterol from acetyl-CoA
+*   **Lipoproteins:** Particles that transport lipids in the blood
+*   **Hormone-Sensitive Lipase (HSL):** An enzyme that hydrolyzes triglycerides
+*   **Acetyl-CoA Carboxylase (ACC):** An enzyme that carboxylates acetyl-CoA to form malonyl-CoA
+*   **HMG-CoA Reductase:** The rate-limiting enzyme in cholesterol synthesis

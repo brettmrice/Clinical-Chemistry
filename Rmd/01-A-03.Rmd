@@ -1,0 +1,147 @@
+# Result Interpretation {-}
+
+Interpreting carbohydrate test results is about piecing together the clinical picture, lab values, and patient history. It's not just about the numbers, but about what they mean in context
+
+## **Glucose** {-}
+
+*   **Fasting Glucose**
+    *   **Normal:** 70-99 mg/dL (3.9-5.5 mmol/L)
+    *   **Impaired Fasting Glucose (Prediabetes):** 100-125 mg/dL (5.6-6.9 mmol/L)
+    *   **Diabetes:** ≥ 126 mg/dL (7.0 mmol/L) on more than one occasion
+    *   **Interpretation**
+        *   Elevated fasting glucose suggests impaired insulin secretion or insulin resistance
+        *   Prediabetes indicates an increased risk of developing type 2 diabetes
+*   **Random Glucose**
+    *   **Diabetes:** ≥ 200 mg/dL (11.1 mmol/L) with symptoms of hyperglycemia
+    *   **Interpretation**
+        *   A random glucose level of 200 mg/dL or higher in a patient with classic symptoms of diabetes (polyuria, polydipsia, unexplained weight loss) is diagnostic of diabetes
+*   **Postprandial Glucose (2-hour postprandial)**
+    *   **Normal:** < 140 mg/dL (7.8 mmol/L)
+    *   **Impaired Glucose Tolerance (Prediabetes):** 140-199 mg/dL (7.8-11.0 mmol/L)
+    *   **Diabetes:** ≥ 200 mg/dL (11.1 mmol/L)
+    *   **Interpretation**
+        *   Elevated postprandial glucose indicates impaired insulin sensitivity or secretion
+        *   Impaired glucose tolerance indicates an increased risk of developing type 2 diabetes
+
+## **Oral Glucose Tolerance Test (OGTT)** {-}
+
+*   **Non-pregnant Adults**
+    *   **Normal**
+        *   Fasting glucose < 100 mg/dL (5.6 mmol/L)
+        *   2-hour glucose < 140 mg/dL (7.8 mmol/L)
+    *   **Impaired Glucose Tolerance (Prediabetes)**
+        *   Fasting glucose < 100 mg/dL (5.6 mmol/L)
+        *   2-hour glucose 140-199 mg/dL (7.8-11.0 mmol/L)
+    *   **Diabetes**
+        *   Fasting glucose ≥ 126 mg/dL (7.0 mmol/L)
+        *   2-hour glucose ≥ 200 mg/dL (11.1 mmol/L)
+    *   **Interpretation**
+        *   OGTT provides a dynamic assessment of glucose metabolism, revealing both fasting and postprandial abnormalities
+        *   Impaired glucose tolerance indicates an increased risk of developing type 2 diabetes
+*   **Gestational Diabetes**
+    *   Diagnostic criteria vary depending on the organization (e.g., ADA, WHO, IADPSG). A common approach is the Carpenter-Coustan criteria using a 100-gram glucose load:
+        *   Fasting ≥ 95 mg/dL (5.3 mmol/L)
+        *   1-hour ≥ 180 mg/dL (10.0 mmol/L)
+        *   2-hour ≥ 155 mg/dL (8.6 mmol/L)
+        *   3-hour ≥ 140 mg/dL (7.8 mmol/L)
+        *   Diagnosis requires two or more values meeting or exceeding these criteria
+    *   **Interpretation**
+        *   Gestational diabetes is associated with increased risks for both the mother and the fetus, including macrosomia, hypoglycemia, and preeclampsia
+        *   Management typically involves dietary modifications, exercise, and sometimes insulin therapy
+
+## **Glycated Hemoglobin (HbA1c)** {-}
+
+*   **Normal:** < 5.7%
+*   **Prediabetes:** 5.7-6.4%
+*   **Diabetes:** ≥ 6.5%
+*   **Target for most patients with diabetes:** < 7.0%
+*   **Interpretation**
+    *   HbA1c reflects average glucose levels over the past 2-3 months
+    *   It is used for both diagnosis and monitoring of diabetes
+    *   The target HbA1c for most patients with diabetes is < 7.0%, but individualized goals may be set based on factors such as age, comorbidities, and risk of hypoglycemia
+*   **Limitations**
+    *   HbA1c may be unreliable in conditions affecting red blood cell turnover (e.g., anemia, hemoglobinopathies)
+    *   Certain ethnic groups may have different HbA1c levels for the same average glucose
+
+## **Urine Glucose** {-}
+
+*   **Normal:** Negative
+*   **Positive:** Presence of glucose in urine
+*   **Interpretation**
+    *   Glucose in urine indicates that the renal threshold for glucose (approximately 180 mg/dL) has been exceeded
+    *   Urine glucose testing is less sensitive and specific than blood glucose testing and is primarily used as a screening tool
+    *   A positive urine glucose test should be followed up with blood glucose testing
+
+## **Ketones** {-}
+
+*   **Normal:** Negative
+*   **Positive:** Presence of ketones in blood or urine
+*   **Interpretation**
+    *   Ketones are produced when the body breaks down fat for energy due to insufficient glucose availability
+    *   Ketones in urine or blood indicate a state of ketosis, which can occur in conditions such as:
+        *   Diabetic ketoacidosis (DKA)
+        *   Starvation
+        *   Low-carbohydrate diets
+    *   Elevated ketones, especially in the context of hyperglycemia and metabolic acidosis, are suggestive of DKA, a medical emergency
+
+## **Fructosamine** {-}
+
+*   **Normal:** Varies depending on the assay
+*   **Elevated:** Indicates elevated average glucose levels over the past 2-3 weeks
+*   **Interpretation**
+    *   Fructosamine is a marker of short-term glycemic control
+    *   It may be useful in situations where HbA1c is unreliable, such as in patients with hemoglobinopathies or altered red blood cell turnover
+
+## **Factors Affecting Interpretation** {-}
+
+*   **Medications**
+    *   Certain medications can affect glucose levels. Corticosteroids, diuretics, and some antipsychotics can increase glucose, while insulin and oral hypoglycemic agents decrease glucose
+    *   Consider the patient's medication list when interpreting carbohydrate test results
+*   **Acute Illness/Stress**
+    *   Acute illness and stress can elevate glucose levels due to hormonal changes
+    *   Account for these factors when interpreting results, especially in hospitalized patients
+*   **Pregnancy**
+    *   Pregnancy affects glucose metabolism, and specific diagnostic criteria are used for gestational diabetes
+    *   Interpret glucose test results in the context of pregnancy-specific guidelines
+*   **Renal Disease**
+    *   Renal disease can affect glucose metabolism and HbA1c levels
+    *   Use caution when interpreting carbohydrate test results in patients with renal disease
+*   **Liver Disease**
+    *   Severe liver disease can affect glucose metabolism due to impaired gluconeogenesis and glycogen storage
+    *   Use caution when interpreting carbohydrate test results in patients with liver disease
+
+## **Clinical Correlation** {-}
+
+*   **Diabetes Mellitus**
+    *   Characterized by hyperglycemia due to defects in insulin secretion, insulin action, or both
+    *   Diagnosis is based on fasting glucose, 2-hour glucose during OGTT, HbA1c, or random glucose with symptoms
+    *   Management involves lifestyle modifications, oral hypoglycemic agents, and/or insulin therapy
+*   **Prediabetes**
+    *   Characterized by impaired fasting glucose or impaired glucose tolerance
+    *   Indicates an increased risk of developing type 2 diabetes
+    *   Management involves lifestyle modifications to prevent progression to diabetes
+*   **Gestational Diabetes**
+    *   Diabetes that develops during pregnancy
+    *   Diagnosis is based on OGTT
+    *   Management involves dietary modifications, exercise, and sometimes insulin therapy
+*   **Hypoglycemia**
+    *   Characterized by low blood glucose levels
+    *   Symptoms include sweating, shakiness, confusion, and loss of consciousness
+    *   Causes include excess insulin, missed meals, exercise, and certain medical conditions
+*   **Diabetic Ketoacidosis (DKA)**
+    *   A life-threatening complication of diabetes characterized by hyperglycemia, ketosis, and metabolic acidosis
+    *   Management involves insulin therapy, fluid resuscitation, and electrolyte replacement
+
+## **Key Terms** {-}
+
+*   **Fasting Glucose:** Glucose level after an overnight fast
+*   **Postprandial Glucose:** Glucose level after a meal
+*   **Oral Glucose Tolerance Test (OGTT):** A test to assess glucose metabolism
+*   **Glycated Hemoglobin (HbA1c):** A measure of average glucose levels over 2-3 months
+*   **Renal Threshold:** The glucose concentration at which glucose begins to appear in the urine
+*   **Ketones:** Products of fat breakdown
+*   **Fructosamine:** A measure of average glucose levels over 2-3 weeks
+*   **Prediabetes:** A condition of impaired glucose metabolism that increases the risk of developing diabetes
+*   **Gestational Diabetes:** Diabetes that develops during pregnancy
+*   **Hypoglycemia:** Low blood glucose levels
+*   **Diabetic Ketoacidosis (DKA):** A life-threatening complication of diabetes characterized by hyperglycemia, ketosis, and metabolic acidosis

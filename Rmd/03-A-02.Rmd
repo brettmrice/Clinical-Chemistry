@@ -1,0 +1,62 @@
+# Procedures {-}
+
+Reliable blood gas analysis is essential for assessing a patient's respiratory and metabolic health
+
+## **Analytical Principles** {-}
+
+*   Blood gas measurements assess pH, oxygen (Pa$O_2$), and carbon dioxide (Pa$CO_2$) levels
+    *   pH: Potentiometric measurement using a pH-sensitive electrode
+    *   Pa$O_2$: Amperometric measurement using a Clark electrode
+    *   Pa$CO_2$: Potentiometric measurement using a Severinghaus electrode
+*   Bicarbonate ($HCO_3^-$) is calculated, not measured directly, using the Henderson-Hasselbalch equation
+*   Some analyzers measure electrolytes ($Na^+$, $K^+$, $Cl^-$, $Ca^{2+}$) using ion-selective electrodes
+
+## **Special Precautions** {-}
+
+*   Patient Preparation
+    *   Steady state: Ensure the patient's condition and therapy have stabilized
+    *   Supplemental oxygen: Document the patient's oxygen level
+*   Specimen Collection
+    *   Arterial sample preferred: For accurate assessment of oxygen and acid-base status
+    *   Site selection: Radial artery is common due to collateral circulation
+    *   Technique:
+        *   Perform Modified Allen Test
+        *   Use correct needle angle
+        *   Prevent air bubbles
+        *   Proper mixing: Promptly mix specimen
+    *   Syringe Type: Pre-heparinized syringe
+
+## **Specimen Handling and Processing** {-}
+
+*   Timing: Analyze promptly (within 15-30 minutes) or store on ice to slow metabolism
+*   Storage: If delay is unavoidable, store on ice (analyze within 1-2 hours)
+*   Air Exposure: Prevent air exposure
+*   Clotting: Reject clotted samples
+
+## **Interfering Substances** {-}
+
+*   Air Contamination
+    *   Falsely elevates Pa$O_2$, decreases Pa$CO_2$
+*   Excess Heparin
+    *   Lowers pH
+*   Metabolic Activity
+    *   Decreases Pa$O_2$, increases Pa$CO_2$
+*   Temperature: Affects gas solubility and electrode function
+*   High Bilirubin or Lipids: Affect electrode measurements
+*   Calibration Errors: Inaccurate results
+
+## **Troubleshooting** {-}
+
+*   Unexpected Results
+    *   Check patient preparation
+    *   Review collection/processing
+    *   Evaluate reagent quality
+    *   Consider interferences
+    *   Repeat the test
+*   Out-of-Control QC
+    *   Check QC materials
+    *   Recalibrate the instrument
+    *   Review reagents
+*   Inconsistent Results
+    *   Check electrode performance
+    *   Perform instrument maintenance

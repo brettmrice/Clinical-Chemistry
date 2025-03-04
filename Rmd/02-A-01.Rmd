@@ -1,0 +1,70 @@
+# Biochemicals {-}
+
+Enzymes are essential biological catalysts, and their functions are central to understanding biochemistry and disease. This comprehensive overview covers their biochemical theory, metabolic pathways, normal and abnormal states, and their physical and chemical properties
+
+## **Biochemical Theory and Pathways** {-}
+
+*   **Enzymes as Catalysts:** Lower activation energy, increase reaction rates
+*   **Structure and Function:** Active site, cofactors, coenzymes, holoenzymes
+*   **Mechanism of Action**
+    *   Substrate Binding (Lock-and-Key vs. Induced Fit)
+    *   Transition State Stabilization
+    *   Catalytic Strategies (Acid-Base, Covalent, Metal Ion)
+*   **Factors Affecting Enzyme Activity**
+    *   Substrate/Enzyme Concentration
+    *   Temperature and pH
+    *   Inhibitors (Competitive, Noncompetitive, Uncompetitive)
+    *   Activators
+*   **Enzyme Regulation**
+    *   Allosteric Control
+    *   Covalent Modification
+    *   Proteolytic Activation
+    *   Gene Expression
+*   **Enzymes in Metabolic Pathways:** Glycolysis, Krebs Cycle, etc
+*   **Kinetics:** Michaelis-Menten Kinetics, Lineweaver-Burk Plots
+
+## **Normal and Abnormal States** {-}
+
+*   **Normal Enzyme Activity**
+    *   Balanced enzyme levels and activity for homeostasis
+    *   Cellular compartmentalization for efficiency and regulation
+*   **Abnormal States**
+    *   Enzyme Deficiencies: Genetic mutations, impaired synthesis
+    *   Enzyme Elevations: Tissue damage, disease processes
+    *   Isoenzyme Variations: Altered distribution patterns
+    *   Enzyme Inhibitions: Toxins, drugs, metabolic disorders
+*   **Examples**
+    *   Phenylketonuria (PKU): Deficiency of phenylalanine hydroxylase
+    *   Myocardial Infarction: Elevated troponin, CK-MB
+    *   Hepatitis: Elevated ALT, AST
+
+## **Physical and Chemical Properties** {-}
+
+*   **General Properties**
+    *   Proteins with unique amino acid sequences
+    *   Soluble in aqueous solutions
+    *   High substrate specificity
+    *   Catalytic Activity
+    *   Sensitivity to Environmental Conditions (Temperature, pH)
+*   **Specific Enzymes**
+    *   Lactate Dehydrogenase (LDH): Tetrameric, five isoenzymes
+    *   Creatine Kinase (CK): Dimeric, three isoenzymes (MM, MB, BB)
+    *   Aspartate Aminotransferase (AST) and Alanine Aminotransferase (ALT): Transaminases with different tissue distributions
+    *   Gamma-Glutamyl Transferase (GGT): Glycoprotein involved in glutathione metabolism
+    *   Amylase: Hydrolyzes starch
+    *   Lipase: Hydrolyzes triglycerides
+    *   Alkaline Phosphatase (ALP): Hydrolyzes phosphate esters
+    *   Angiotensin-Converting Enzyme (ACE): Converts angiotensin I to angiotensin II
+
+## **Interconnections** {-}
+
+*   **Enzymes Drive Metabolic Pathways:** Their activity determines the flow of metabolites and the overall efficiency of the pathways
+*   **Genetic Mutations:** Genetic mutations can lead to enzyme deficiencies and metabolic disorders
+*   **Tissue Damage Releases Enzymes:** Cell injury results in the release of enzymes into the bloodstream, providing diagnostic markers for specific conditions
+*   **Regulation Ensures Homeostasis:** Enzyme regulation is crucial for maintaining metabolic balance
+
+## **Clinical Significance** {-}
+
+*   **Diagnostic Markers:** Enzyme levels are valuable diagnostic markers for various diseases
+*   **Prognosis:** Some enzyme levels indicate the severity of organ damage and can guide treatment decisions
+*   **Monitoring Treatment:** Enzyme activity is also essential for monitoring the treatment of disorders

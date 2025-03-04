@@ -1,0 +1,106 @@
+# Metabolic {-}
+
+Enzymes are catalysts that accelerate biochemical reactions within cells. They are vital to all metabolic processes, from energy production to DNA replication
+
+## **Enzymes** {-}
+
+*   **Definition:** Biological catalysts that speed up chemical reactions in living organisms. They are proteins with specific three-dimensional structures that enable them to bind to reactants (substrates) and facilitate the conversion of substrates into products
+*   **Importance:** Enzymes are essential for life because they allow biochemical reactions to occur at a rate fast enough to sustain life. Without enzymes, many of these reactions would occur too slowly or not at all
+*   **Key Concepts**
+    *   Catalysis: Enzymes lower the activation energy of reactions, increasing the reaction rate without being consumed themselves
+    *   Specificity: Enzymes are highly specific for their substrates and the reactions they catalyze
+    *   Regulation: Enzyme activity can be regulated by various factors, including substrate concentration, pH, temperature, inhibitors, and activators
+
+## **Structure** {-}
+
+*   **Apoenzyme:** The protein component of an enzyme. It is inactive without its cofactor
+*   **Cofactor:** A non-protein chemical compound that is bound to the apoenzyme and is required for its biological activity. Cofactors can be inorganic ions (e.g., Mg2+, Zn2+) or organic molecules (coenzymes)
+*   **Coenzyme:** An organic cofactor. Many coenzymes are derived from vitamins (e.g., NAD+ from niacin, FAD from riboflavin, coenzyme A from pantothenic acid)
+*   **Holoenzyme:** The catalytically active enzyme complex, consisting of the apoenzyme and its cofactor
+
+## **Enzyme-Substrate Interaction** {-}
+
+*   **Active Site:** A specific region of the enzyme where the substrate binds and catalysis occurs. The active site is a three-dimensional pocket or cleft formed by amino acid residues
+*   **Binding**
+    *   Enzymes bind to substrates through non-covalent interactions (e.g., hydrogen bonds, hydrophobic interactions, ionic bonds)
+    *   The enzyme-substrate complex (ES complex) is formed when the substrate binds to the active site
+*   **Models**
+    *   Lock-and-Key Model: The enzyme's active site is perfectly complementary to the substrate
+    *   Induced-Fit Model: The enzyme's active site is flexible and changes shape upon substrate binding to achieve a better fit
+
+## **Mechanism of Action** {-}
+
+*   **Activation Energy:** Enzymes lower the activation energy (Ea) of a reaction, which is the energy required to reach the transition state
+*   **Steps**
+    1.  Substrate Binding: The enzyme binds to the substrate to form the ES complex
+    2.  Transition State Formation: The enzyme stabilizes the transition state, reducing its energy and facilitating the reaction
+    3.  Product Formation: The reaction occurs, and the substrate is converted into products
+    4.  Product Release: The products are released from the enzyme, and the enzyme returns to its original state
+*   **Catalytic Strategies**
+    *   Acid-Base Catalysis: Enzymes use acidic or basic amino acid residues to transfer protons and stabilize intermediates
+    *   Covalent Catalysis: Enzymes form a temporary covalent bond with the substrate
+    *   Metal Ion Catalysis: Enzymes use metal ions to stabilize charged intermediates or facilitate redox reactions
+    *   Proximity and Orientation Effects: Enzymes bring substrates into close proximity and proper orientation for the reaction to occur
+
+## **Factors Affecting Enzyme Activity** {-}
+
+*   **Substrate Concentration**
+    *   Increasing substrate concentration increases the reaction rate until the enzyme is saturated (all active sites are occupied)
+    *   Michaelis-Menten Kinetics: Describes the relationship between reaction rate and substrate concentration
+        *   Vmax: The maximum reaction rate when the enzyme is saturated with substrate
+        *   Km: The Michaelis constant, representing the substrate concentration at which the reaction rate is half of Vmax
+*   **Enzyme Concentration**
+    *   Increasing enzyme concentration increases the reaction rate (if substrate is not limiting)
+*   **Temperature**
+    *   Enzyme activity increases with temperature up to an optimal temperature
+    *   Above the optimal temperature, the enzyme denatures and activity decreases
+*   **pH**
+    *   Enzymes have an optimal pH range for activity
+    *   Extreme pH values can denature the enzyme and abolish activity
+*   **Inhibitors**
+    *   Substances that decrease enzyme activity
+    *   Reversible Inhibitors: Bind to the enzyme through non-covalent interactions and can be removed
+        *   Competitive Inhibitors: Bind to the active site and compete with the substrate
+        *   Noncompetitive Inhibitors: Bind to a site distinct from the active site and reduce enzyme activity
+        *   Uncompetitive Inhibitors: Bind only to the ES complex
+    *   Irreversible Inhibitors: Form a stable covalent bond with the enzyme, permanently inactivating it
+*   **Activators**
+    *   Substances that increase enzyme activity
+    *   Bind to the enzyme and change its conformation, making it more active
+
+## **Regulation of Enzyme Activity** {-}
+
+*   **Allosteric Regulation:** Enzymes have regulatory sites (allosteric sites) where modulators (activators or inhibitors) bind, changing the enzyme's conformation and activity
+*   **Covalent Modification:** Enzymes can be regulated by covalent addition or removal of chemical groups (e.g., phosphorylation, acetylation)
+*   **Proteolytic Activation:** Some enzymes are synthesized as inactive precursors (zymogens) that are activated by proteolytic cleavage (e.g., digestive enzymes)
+*   **Gene Expression:** The amount of enzyme present in the cell can be regulated by controlling the rate of gene transcription and translation
+
+## **Enzymes in Metabolic Pathways** {-}
+
+*   **Role:** Enzymes catalyze each step in metabolic pathways, ensuring that reactions occur efficiently and in a coordinated manner
+*   **Examples**
+    *   Glycolysis: Enzymes such as hexokinase, phosphofructokinase, and pyruvate kinase regulate glucose breakdown
+    *   Krebs Cycle: Enzymes such as citrate synthase, isocitrate dehydrogenase, and alpha-ketoglutarate dehydrogenase regulate the Krebs cycle
+    *   Fatty Acid Synthesis: Enzymes such as acetyl-CoA carboxylase and fatty acid synthase regulate fatty acid synthesis
+    *   DNA Replication: Enzymes such as DNA polymerase, helicase, and ligase are essential for DNA replication
+
+## **Key Terms** {-}
+
+*   **Enzyme:** A biological catalyst that speeds up chemical reactions
+*   **Substrate:** The reactant that an enzyme acts on
+*   **Active Site:** The specific region of the enzyme where the substrate binds and catalysis occurs
+*   **Cofactor:** A non-protein chemical compound required for enzyme activity
+*   **Coenzyme:** An organic cofactor
+*   **Holoenzyme:** The catalytically active enzyme complex
+*   **Activation Energy:** The energy required to reach the transition state
+*   **Vmax:** The maximum reaction rate
+*   **Km:** The Michaelis constant, representing the substrate concentration at which the reaction rate is half of Vmax
+*   **Inhibitor:** A substance that decreases enzyme activity
+*   **Activator:** A substance that increases enzyme activity
+*   **Allosteric Regulation:** Regulation of enzyme activity by binding of modulators to allosteric sites
+*   **Covalent Modification:** Regulation of enzyme activity by covalent addition or removal of chemical groups
+*   **Zymogen:** An inactive precursor of an enzyme
+*   **Metabolic Pathway:** A series of interconnected biochemical reactions catalyzed by enzymes
+*   **Kinase:** An enzyme that transfers phosphate groups to a molecule (phosphorylates). Most kinases act on hydroxyl groups of serine, threonine, and tyrosine residues of proteins
+*   **Phosphatase:** An enzyme that removes a phosphate group from a molecule (dephosphorylates)
+*   **Decarboxylase:** An enzyme that removes a carboxyl group from a molecule

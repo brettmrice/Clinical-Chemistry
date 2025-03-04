@@ -1,0 +1,216 @@
+# Physiology {-}
+
+Protein and nitrogen balance is essential for health. Abnormalities in protein metabolism can lead to a variety of disorders
+
+## **Normal States** {-}
+
+*   **Nitrogen Balance:** Intake of nitrogen equals excretion of nitrogen
+*   **Normal Protein Synthesis and Degradation:** Balanced synthesis and degradation of proteins
+*   **Normal Amino Acid Levels:** Appropriate levels of amino acids in blood and tissues
+
+### **Nitrogen Balance** {-}
+
+*   Nitrogen balance is a state in which the amount of nitrogen consumed (primarily as protein) equals the amount of nitrogen excreted (primarily as urea)
+*   **Positive Nitrogen Balance:** Nitrogen intake exceeds nitrogen excretion, indicating net protein synthesis. This occurs during growth, pregnancy, and recovery from illness
+*   **Negative Nitrogen Balance:** Nitrogen excretion exceeds nitrogen intake, indicating net protein breakdown. This occurs during starvation, severe illness, and trauma
+*   **Factors Affecting Nitrogen Balance**
+    *   Dietary protein intake
+    *   Hormonal status (e.g., growth hormone, insulin, cortisol)
+    *   Illness and stress
+    *   Physical activity
+
+### **Normal Protein Synthesis and Degradation** {-}
+
+*   Protein synthesis and degradation are continuous processes that occur in all cells
+*   Protein synthesis is regulated by:
+    *   Availability of amino acids
+    *   Hormonal signals
+    *   Energy availability
+    *   Genetic factors
+*   Protein degradation is regulated by:
+    *   Lysosomal degradation
+    *   Ubiquitin-proteasome pathway
+*   The balance between protein synthesis and degradation is essential for maintaining tissue mass and function
+
+### **Normal Amino Acid Levels** {-}
+
+*   Amino acids are present in blood and tissues at specific concentrations
+*   Essential Amino Acids: Must be obtained from the diet
+*   Non-Essential Amino Acids: Can be synthesized by the body
+*   Amino acid levels are regulated by:
+    *   Dietary intake
+    *   Protein synthesis and degradation
+    *   Transamination and deamination
+    *   Hormonal signals
+    *   Renal function
+
+## **Abnormal States** {-}
+
+*   **Protein-Energy Malnutrition (PEM):** Insufficient intake of protein and energy
+*   **Amino Acid Disorders:** Genetic defects in amino acid metabolism
+*   **Urea Cycle Disorders:** Genetic defects in the urea cycle
+*   **Hyperammonemia:** Elevated ammonia levels in blood
+*   **Proteinuria:** Presence of excess protein in urine
+*   **Hypoproteinemia:** Abnormally low levels of protein in the blood
+
+### **Protein-Energy Malnutrition (PEM)** {-}
+
+*   **Definition:** A condition caused by insufficient intake of protein and energy, leading to depletion of body protein stores
+*   **Types**
+    *   **Marasmus:** Severe deficiency of calories, leading to wasting of muscle and fat
+    *   **Kwashiorkor:** Adequate calorie intake but severe deficiency of protein, leading to edema and ascites
+*   **Pathophysiology**
+    *   Inadequate intake of protein and energy leads to:
+        *   Decreased protein synthesis
+        *   Increased protein degradation
+        *   Depletion of body protein stores
+        *   Impaired immune function
+        *   Organ dysfunction
+*   **Laboratory Findings**
+    *   Decreased serum albumin and prealbumin levels
+    *   Decreased transferrin and retinol-binding protein levels
+    *   Decreased lymphocyte count
+    *   Negative nitrogen balance
+*   **Symptoms**
+    *   Wasting of muscle and fat
+    *   Edema and ascites (Kwashiorkor)
+    *   Growth retardation (in children)
+    *   Impaired immune function
+    *   Increased susceptibility to infections
+
+### **Amino Acid Disorders** {-}
+
+*   **Definition:** Genetic defects in amino acid metabolism, leading to the accumulation of specific amino acids and/or their metabolites
+*   **Pathophysiology**
+    *   Enzyme deficiencies disrupt metabolic pathways, leading to:
+        *   Accumulation of substrates
+        *   Deficiency of products
+        *   Toxic effects of accumulated metabolites
+*   **Laboratory Findings**
+    *   Elevated levels of specific amino acids in blood and urine
+    *   Reduced or absent enzyme activity in affected tissues
+*   **Symptoms**
+    *   Varies depending on the specific amino acid disorder and the metabolic pathway affected
+*   **Examples**
+    *   Phenylketonuria (PKU): Deficiency in phenylalanine hydroxylase (PAH)
+        *   Elevated phenylalanine levels in blood
+        *   Intellectual disability, seizures
+    *   Maple Syrup Urine Disease (MSUD): Deficiency in branched-chain alpha-keto acid dehydrogenase (BCKDH)
+        *   Elevated levels of branched-chain amino acids (leucine, isoleucine, valine) in blood and urine
+        *   Neurological dysfunction, feeding difficulties, maple syrup odor in urine
+    *   Homocystinuria: Deficiency in cystathionine beta-synthase (CBS)
+        *   Elevated homocysteine levels in blood and urine
+        *   Cardiovascular disease, thromboembolism, intellectual disability
+    *   Alkaptonuria: Deficiency in homogentisate 1,2-dioxygenase
+        *   Accumulation of homogentisic acid in tissues and urine
+        *   Darkening of urine upon exposure to air, ochronosis (pigmentation of cartilage), arthritis
+
+### **Urea Cycle Disorders** {-}
+
+*   **Definition:** Genetic defects in enzymes of the urea cycle, leading to impaired conversion of ammonia to urea
+*   **Pathophysiology**
+    *   Enzyme deficiencies disrupt the urea cycle, leading to:
+        *   Accumulation of ammonia in blood (hyperammonemia)
+        *   Deficiency of urea
+*   **Laboratory Findings**
+    *   Elevated ammonia levels in blood
+    *   Decreased blood urea nitrogen (BUN) levels
+*   **Symptoms**
+    *   Vomiting, irritability, lethargy, seizures, coma
+*   **Examples**
+    *   Ornithine Transcarbamylase Deficiency (OTC): Most common urea cycle disorder
+        *   Elevated ammonia levels in blood
+        *   Neurological symptoms
+    *   Carbamoyl Phosphate Synthetase I Deficiency (CPS I): Deficiency in the first enzyme of the urea cycle
+        *   Elevated ammonia levels in blood
+        *   Neurological symptoms
+
+### **Hyperammonemia** {-}
+
+*   **Definition:** Elevated ammonia levels in blood
+*   **Causes**
+    *   Urea cycle disorders
+    *   Liver failure
+    *   Reye's syndrome
+    *   Certain medications
+*   **Pathophysiology**
+    *   Elevated ammonia levels are toxic to the brain, leading to:
+        *   Cerebral edema
+        *   Seizures
+        *   Coma
+        *   Death
+*   **Laboratory Findings**
+    *   Elevated ammonia levels in blood
+
+### **Proteinuria** {-}
+
+*   **Definition:** Presence of excess protein in urine
+*   **Causes**
+    *   Kidney disease (e.g., glomerulonephritis, nephrotic syndrome)
+    *   Diabetes
+    *   Hypertension
+    *   Multiple myeloma
+*   **Pathophysiology**
+    *   Damage to the glomeruli or tubules in the kidneys leads to increased protein excretion in urine
+*   **Laboratory Findings**
+    *   Elevated protein levels in urine
+    *   Albumin is the most common protein detected
+*   **Symptoms**
+    *   Foamy urine
+    *   Edema
+    *   Fatigue
+
+### **Hypoproteinemia** {-}
+
+*   **Definition:** Abnormally low levels of protein in the blood
+*   **Causes**
+    *   Malnutrition
+    *   Liver disease (impaired protein synthesis)
+    *   Kidney disease (protein loss in urine)
+    *   Inflammatory bowel disease (impaired protein absorption)
+*   **Pathophysiology**
+    *   Reduced protein synthesis or increased protein loss leads to:
+        *   Decreased serum albumin levels
+        *   Edema
+        *   Impaired immune function
+        *   Increased susceptibility to infections
+*   **Laboratory Findings**
+    *   Decreased serum albumin and total protein levels
+
+## **Key Terms** {-}
+
+*   **Nitrogen Balance:** The balance between nitrogen intake and excretion
+*   **Protein Synthesis:** The production of proteins from amino acids
+*   **Protein Degradation:** The breakdown of proteins into amino acids
+*   **Essential Amino Acids:** Amino acids that must be obtained from the diet
+*   **Non-Essential Amino Acids:** Amino acids that can be synthesized by the body
+*   **Protein-Energy Malnutrition (PEM):** A condition caused by insufficient intake of protein and energy
+*   **Amino Acid Disorders:** Genetic defects in amino acid metabolism
+*   **Urea Cycle Disorders:** Genetic defects in the urea cycle
+*   **Hyperammonemia:** Elevated ammonia levels in blood
+*   **Proteinuria:** Presence of excess protein in urine
+*   **Hypoproteinemia:** Abnormally low levels of protein in the blood
+*   **Albumin:** A major protein in the blood
+*   **Glomeruli:** Filtering units within the kidney
+*   **Tubules:** Portion of the nephron carrying filtrate after the glomerulus
+*   **Edema:** Swelling caused by excess fluid trapped in your body's tissues
+*   **Ascites:** The accumulation of fluid in the peritoneal cavity, causing abdominal swelling
+*   **Lymphocytes:** A type of white blood cell that is part of the immune system
+*   **Anabolism:** The synthesis of complex molecules from simpler ones, an energy-consuming process
+*   **Catabolism:** The breakdown of complex molecules into simpler ones, releasing energy
+*   **Proteases:** An enzyme that breaks down proteins and peptides
+*   **Lysosomal Degradation:** Degradation that occurs in the lysosomes
+*   **Ubiquitin-Proteasome Pathway:** A major pathway for protein degradation in eukaryotes
+*   **Transamination:** The transfer of an amino group from one molecule to another
+*   **Deamination:** The removal of an amino group from a molecule
+*   **Ochronosis:** A condition characterized by the abnormal accumulation of homogentisic acid in connective tissues, leading to bluish-black discoloration
+*   **Glomerulonephritis:** Inflammation of the glomeruli, the filtering units in the kidneys
+*   **Nephrotic Syndrome:** A kidney disorder characterized by proteinuria, hypoalbuminemia, and edema
+*   **Myeloma:** A cancer of plasma cells
+*   **Inflammatory Bowel Disease (IBD):** A group of inflammatory conditions of the colon and small intestine
+*   **Mitochondria:** Membrane-bound cell organelles (mitochondrion, singular) that generate most of the chemical energy needed to power the cell's biochemical reactions. Chemical energy is produced by the mitochondria is stored in a small molecule called adenosine triphosphate (ATP)
+*   **Endoplasmic Reticulum:** A network of membranes inside a cell through which proteins and other molecules move. Proteins are synthesized on ribosomes attached to the endoplasmic reticulum
+*   **Cytosol:** The part of the cytoplasm that does not contain organelles
+*   **Enzyme:** A substance produced by a living organism which acts as a catalyst to bring about a specific biochemical reaction
+*   **Receptors:** A protein molecule that receives and responds to a chemical signal
+*   **Organelles:** A number of organized or specialized structures within a living cell

@@ -1,0 +1,77 @@
+# Metabolic {-}
+
+This section of acid-base determinations (including blood gases) will cover topics associated with biochemical theory and pathways, including:
+
+*   How pH relates to acidity and alkalinity
+*   How the Henderson-Hasselbalch equation explains the interactions
+*   How to evaluate parameters associated with normal and abnormal states
+*   How to classify disease states
+
+## **Biochemical Theory** {-}
+
+*   **Acids, Bases, pH**
+    *   Acids donate $H^+$, bases accept them
+    *   $pH = -log[H^+]$, reflecting acidity or alkalinity
+*   **Buffer Systems**
+    *   Resist pH changes (bicarbonate, hemoglobin, phosphate, protein)
+*   **Henderson-Hasselbalch Equation**
+    *   $pH = pKa + \log \left( {\frac {[HCO_3^-]} {0.03 \times PaCO_2}} \right)$
+    *   Relates pH, bicarbonate, and Pa$CO_2$, crucial for acid-base assessment
+*   **pH and H+ Ion Concentration**
+    *   Inverse relationship: Increased [$H^+$] decreases pH
+*   **CO2 and O2 Transport**
+    *   $O_2$ transport relies on hemoglobin, affected by pH, $CO_2$, temperature, 2,3-BPG
+    *   $CO_2$ transported as dissolved gas, carbaminohemoglobin, and bicarbonate
+    *   Carbonic anhydrase catalyzes $CO_2$ to bicarbonate, chloride shift maintains balance
+*   **Regulation**
+    *   Chemical Buffers: Immediate action to maintain pH balance by binding or releasing $H^+$ ions
+    *   Lungs (respiratory compensation)
+    *   Kidneys (metabolic compensation)
+
+## **Metabolic Pathways** {-}
+
+*   Acid production is a normal bodily process, requiring regulation by chemical buffers, as well as the renal and respiratory systems
+*   Kidneys filter and selectively secrete or reabsorb ions to maintain balance
+*   Lungs adjust breathing patterns in response to pH imbalances
+
+## **Normal States** {-}
+
+*   Blood pH = 7.35-7.45
+*   Arterial Blood Gas Values
+    *   Pa$O_2$: 80-100 mmHg
+    *   Pa$CO_2$: 35-45 mmHg
+    *   $HCO_3^-$: 22-26 mEq/L
+    *   Base Excess: -2 to +2 mEq/L
+    *   Sa$O_2$: 95-100%
+*   Normal acid-base balance requires functional renal, pulmonary, and metabolic systems
+
+## **Abnormal States** {-}
+
+*   **Acidosis (pH < 7.35)**
+    *   Respiratory: Increased Pa$CO_2$
+        *   Hypoventilation (COPD, drug OD, muscular disorders)
+    *   Metabolic: Decreased $HCO_3^-$
+        *   Increased acid production (DKA, lactic acidosis, toxins)
+        *   Bicarbonate loss (diarrhea, RTA)
+        *   Impaired acid excretion (kidney failure)
+*   **Alkalosis (pH > 7.45)**
+    *   Respiratory: Decreased Pa$CO_2$
+        *   Hyperventilation (anxiety, pain, hypoxia)
+    *   Metabolic: Increased $HCO_3^-$
+        *   Acid loss (vomiting, suctioning)
+        *   Bicarbonate intake or retention
+*   **Other Abnormalities**
+    *   Hypoxemia (Pa$O_2$ < 80 mmHg)
+        *   Reduced inspired oxygen, hypoventilation, diffusion impairment, V/Q mismatch
+    *   Hypercapnia (Pa$CO_2$ > 45 mmHg)
+        *   Hypoventilation, increased dead space ventilation, increased $CO_2$ production
+
+## **Interconnections** {-}
+
+*   Respiratory & Renal Systems Coordinate: Imbalances in one system are compensated for by the other
+*   pH & Ion Concentrations: pH affects electrolytes and enzyme activity
+
+## **Clinical Significance** {-}
+
+*   Blood gases are essential for the diagnosis and treatment of acid base and metabolic disorders
+*   Key to remember and apply the Henderson-Hasselbalch equation, allowing for a mechanistic approach to metabolic disturbances
