@@ -1,0 +1,42 @@
+# Procedures {-}
+
+Carbohydrate testing is all about assessing glucose levels to diagnose and monitor diabetes, while also looking for other specific sugars tied to metabolic disorders. We use a variety of techniques to get a comprehensive picture of how the body is handling sugars
+
+## **Key Tests & Principles** {-}
+
+*   **Glucose Measurement**
+    *   **Principle:** Uses enzymatic reactions (glucose oxidase or hexokinase) to quantify glucose
+    *   We're measuring the products or byproducts of these enzyme-catalyzed reactions
+*   **Glucose Tolerance Testing (GTT)**
+    *   **Principle:** Measures the body's ability to clear glucose from the blood after a challenge dose
+    *   This assesses both insulin secretion and insulin sensitivity
+*   **Glycated Hemoglobin (HbA1c)**
+    *   **Principle:** Quantifies the percentage of hemoglobin that has glucose attached, reflecting average glucose levels over 2-3 months
+    *   Provides a long-term view of glycemic control
+*   **Urine Glucose**
+    *   **Principle:** Detects the presence of glucose in urine when blood glucose exceeds the kidney's reabsorption capacity
+    *   A quick, but less sensitive, way to check for high blood sugar
+*   **Ketone Measurement**
+    *   **Principle:** Detects ketones in blood or urine, indicating fat breakdown due to insufficient glucose use
+    *   Important in diagnosing and monitoring diabetic ketoacidosis (DKA)
+*   **Other Carbohydrate Tests**
+    *   **Principle:** Uses specialized enzymatic or chromatographic methods to quantify other sugars like galactose or fructose
+    *   Used for diagnosing specific metabolic disorders
+
+## **Factors Affecting Results** {-}
+
+*   **Special Precautions**
+    *   **Patient Prep:** Includes proper fasting, awareness of medications, and consideration of acute illness
+    *   **Specimen Handling:** Involves prompt processing, appropriate temperature control, and use of the correct anticoagulants
+    *   **Reagent Quality:** Proper storage and awareness of expiration dates are essential
+*   **Troubleshooting**
+    *   We need to be able to identify the source of errors (pre-analytical, analytical) if results are unexpected
+*   **Interfering Substances**
+    *   Substances like ascorbic acid (vitamin C), bilirubin, lipids, and hemoglobin can affect certain assays
+    *   Knowing about these interferences helps us choose the best methods and interpret results correctly
+
+## **Interpretation & Disease Correlation** {-}
+
+*   **Normoglycemia & Aberrations:** Understanding normal ranges for all these tests is foundational
+*   **Linking Labs to Disease:** Recognizing how specific test patterns correlate with conditions like diabetes, prediabetes, gestational diabetes, hypoglycemia, DKA, and other metabolic disorders is the ultimate goal
+*   **Putting in Context:** Remembering that patient factors, medications, and even ethnicity can influence lab results makes interpretation more nuanced

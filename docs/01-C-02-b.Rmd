@@ -1,0 +1,155 @@
+# Special Precautions {-}
+
+Accurate measurement of heme derivatives relies on meticulous technique, starting from how the sample is collected and continuing all the way through to spotting and fixing any issues that come up
+
+*   **Key Considerations**
+    *   Specimen Collection
+    *   Specimen Handling and Processing
+    *   Analytical Considerations
+    *   Interfering Substances
+    *   Troubleshooting
+
+## **Specimen Collection** {-}
+
+*   **Bilirubin**
+    *   Specimen Type: Serum or plasma (fasting sample preferred)
+    *   Tube Type: SST (serum separator tube) or plasma tube with heparin or EDTA
+    *   Special Precautions: Protect the sample from light, as bilirubin is light-sensitive. Collect the sample before any contrast dyes are administered
+*   **Urine Bilirubin**
+    *   Specimen Type: Fresh, random urine sample
+    *   Container: Clean, dry container
+    *   Special Precautions: Protect from light, analyze as soon as possible
+*   **Urine Urobilinogen**
+    *   Specimen Type: Fresh, 2-hour or 24-hour urine collection
+    *   Collection: Collect urine in a container with a preservative (e.g., sodium carbonate) to prevent oxidation of urobilinogen to urobilin
+    *   Special Precautions: Protect from light, analyze as soon as possible
+*   **Iron Studies**
+    *   Specimen Type: Serum (fasting sample preferred)
+    *   Tube Type: Trace metal-free tube
+    *   Special Precautions: Avoid hemolysis, as red blood cells contain high concentrations of iron. Collect the sample before iron therapy or blood transfusions
+*   **Porphyrin Analysis**
+    *   Specimen Type: Urine, blood, or feces
+    *   Collection: Collect urine in a dark container with a preservative (e.g., sodium carbonate or acetic acid). Collect blood in EDTA tubes. Collect feces in a clean container
+    *   Special Precautions: Protect from light, follow specific collection instructions for each type of porphyria
+*   **Fecal Occult Blood Test (FOBT)**
+    *   Specimen Type: Stool sample
+    *   Collection: Collect stool samples on multiple days (typically three) to increase sensitivity
+    *   Special Precautions: Follow specific dietary and medication restrictions prior to collection. Avoid contamination with urine or toilet paper
+
+## **Specimen Handling and Processing** {-}
+
+*   **Bilirubin**
+    *   Handling: Protect the sample from light at all times
+    *   Processing: Centrifuge the sample promptly to separate serum or plasma. Analyze immediately or store refrigerated (2-8°C) for up to 24 hours. For longer storage, freeze at -20°C or -70°C
+*   **Urine Bilirubin**
+    *   Handling: Protect from light
+    *   Processing: Analyze the sample immediately. If a delay is unavoidable, refrigerate at 2-8°C for up to 2 hours
+*   **Urine Urobilinogen**
+    *   Handling: Protect from light
+    *   Processing: Analyze the sample immediately. If a delay is unavoidable, refrigerate at 2-8°C for up to 4 hours
+*   **Iron Studies**
+    *   Handling: Avoid hemolysis
+    *   Processing: Centrifuge the sample promptly. Analyze immediately or store refrigerated at 2-8°C for up to 7 days. For longer storage, freeze at -20°C or -70°C
+*   **Porphyrin Analysis**
+    *   Handling: Protect from light
+    *   Processing: Follow specific extraction and purification procedures for each type of sample (urine, blood, feces). Store samples frozen at -20°C or -70°C until analysis
+*   **Fecal Occult Blood Test (FOBT)**
+    *   Handling: Follow specific instructions for developing the test
+    *   Processing: Develop the test within the recommended time frame. Store developed tests properly to maintain color stability
+
+## **Analytical Considerations** {-}
+
+*   **Reagent Quality**
+    *   Bilirubin: Use fresh reagents, as diazo reagents can degrade over time. Store reagents according to the manufacturer's instructions
+    *   Iron Studies: Use high-quality reagents to minimize interferences from trace metals
+    *   Porphyrin Analysis: Use high-purity solvents and standards for chromatography
+    *   FOBT: Ensure the guaiac paper is not expired and is properly stored
+*   **Calibration**
+    *   Bilirubin: Calibrate spectrophotometers regularly using bilirubin standards
+    *   Iron Studies: Calibrate instruments using iron standards
+    *   Porphyrin Analysis: Calibrate HPLC instruments using porphyrin standards
+*   **Quality Control (QC)**
+    *   Bilirubin: Run quality control samples at regular intervals to monitor the accuracy and precision of bilirubin assays
+    *   Iron Studies: Run quality control samples for serum iron, TIBC, transferrin saturation, and ferritin assays
+    *   Porphyrin Analysis: Run quality control samples to monitor the performance of chromatographic separations and detection
+    *   FOBT: Use positive and negative controls to ensure the test is working properly
+
+## **Interfering Substances** {-}
+
+*   **Bilirubin**
+    *   Lipemia: Causes turbidity, affecting spectrophotometric readings
+        *   Mitigation: Use lipemia clearing techniques (ultracentrifugation, lipid clearing reagents) or methods less affected by turbidity
+    *   Hemolysis: Interferes with diazo reaction
+        *   Mitigation: Avoid hemolysis during collection and processing
+    *   Certain Medications: Can affect bilirubin levels
+        *   Mitigation: Be aware of patient's medication list
+*   **Urine Bilirubin**
+    *   Ascorbic Acid (Vitamin C): Can cause false negatives
+        *   Mitigation: Avoid high doses of ascorbic acid prior to testing
+    *   Certain Medications: Can cause false positives
+        *   Mitigation: Be aware of patient's medication list
+*   **Urine Urobilinogen**
+    *   Porphyrinogens, Sulfonamides: Can interfere with Ehrlich's reagent
+        *   Mitigation: Be aware of patient's medication list
+*   **Iron Studies**
+    *   Hemolysis: Releases iron, falsely elevating serum iron levels
+        *   Mitigation: Avoid hemolysis during collection and processing
+    *   Recent Iron Therapy or Blood Transfusions: Can falsely elevate serum iron and ferritin levels
+        *   Mitigation: Collect the sample before iron therapy or blood transfusions
+*   **Porphyrin Analysis**
+    *   Interfering Substances: Can affect chromatographic separations and detection
+        *   Mitigation: Use high-purity solvents and reagents
+*   **Fecal Occult Blood Test (FOBT)**
+    *   Guaiac-Based FOBT (gFOBT):
+        *   Red Meat, Certain Fruits and Vegetables: Can cause false positives
+            *   Mitigation: Restrict red meat, certain fruits and vegetables prior to testing
+        *   Vitamin C: Can cause false negatives
+            *   Mitigation: Avoid high doses of Vitamin C prior to testing
+    *   Fecal Immunochemical Test (FIT):
+        *   Rarely affected by diet, but may be affected by upper GI bleeds
+
+## **Troubleshooting** {-}
+
+*   **Unexpected Bilirubin Results**
+    *   Pre-Analytical:
+        *   Exposure to light
+        *   Delayed processing
+        *   Patient not fasting
+    *   Analytical:
+        *   Incorrect calibration
+        *   Reagent deterioration
+        *   Interfering substances
+*   **Unexpected Iron Study Results**
+    *   Pre-Analytical:
+        *   Hemolysis
+        *   Recent iron therapy
+        *   Improper collection tube
+    *   Analytical:
+        *   Incorrect calibration
+        *   Reagent deterioration
+        *   Contamination
+*   **Inconsistent Porphyrin Analysis Results**
+    *   Check extraction and purification procedures
+    *   Review chromatographic separations
+    *   Evaluate reagent quality and calibration
+*   **False Positive or Negative FOBT Results**
+    *   Review patient preparation
+    *   Evaluate reagent quality and developing procedure
+    *   Consider interfering substances and pathological conditions
+
+## **Key Terms** {-}
+
+*   **Pre-analytical:** Processes that occur before the sample is analyzed
+*   **Analytical:** Processes involved in analyzing the sample
+*   **Interfering Substance:** A substance that affects the accuracy of a test
+*   **Lipemia:** The presence of excess lipids in the blood
+*   **Hemolysis:** The breakdown of red blood cells
+*   **Calibration:** Adjusting an instrument to ensure accurate readings
+*   **Quality Control:** Samples used to monitor the accuracy and precision of a test
+*   **SST:** Serum Separator Tube
+*   **EDTA:** Ethylenediaminetetraacetic acid, an anticoagulant
+*   **HPLC:** High-Performance Liquid Chromatography
+*   **FOBT:** Fecal Occult Blood Test
+*   **FIT:** Fecal Immunochemical Test
+*   **gFOBT:** Guaiac-Based Fecal Occult Blood Test
+*   **Trace metal-free tube:** A tube that is designed to minimize any metal contamination

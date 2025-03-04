@@ -1,0 +1,153 @@
+# Calculations {-}
+
+These formulas are vital for assessing fluid and electrolyte balance, as well as identifying underlying metabolic disturbances
+
+## **Osmolality** {-}
+
+*   **Definition:** A measure of the concentration of solute particles in a solution. It reflects the number of dissolved particles per kilogram of solvent (water)
+*   **Units:** milliosmoles per kilogram (mOsm/kg) or millimoles per kilogram (mmol/kg)
+*   **Measured Osmolality:** Determined using an osmometer, which measures colligative properties of the solution (e.g., freezing point depression or vapor pressure depression)
+*   **Calculated Osmolality:** Estimated from the concentrations of major solutes in the plasma
+*   **Osmolal Gap:** The difference between measured osmolality and calculated osmolality. An elevated osmolal gap suggests the presence of unmeasured osmotically active substances in the plasma
+
+### **Calculation of Osmolality** {-}
+
+*   **Formula**
+    *   $Osmolality (mOsm/kg) = 2[Na^+] + \left( \frac {[Glucose (mg/dL)]} {18} \right) + \left( \frac {[BUN (mg/dL)]} {2.8} \right)$
+    *   Where:
+        *   [$Na^+$] = Sodium concentration in mmol/L
+        *   [$Glucose$] = Glucose concentration in mg/dL
+        *   [$BUN$] = Blood urea nitrogen concentration in mg/dL
+        *   18 = Conversion factor for glucose (mg/dL to mmol/L)
+        *   2.8 = Conversion factor for BUN (mg/dL to mmol/L)
+*   **SI Units**
+    *   $Osmolality (mmol/kg) = 2[Na^+] + [Glucose] + [Urea]$
+    *   Where:
+        *   [$Na^+$] = Sodium concentration in mmol/L
+        *   [$Glucose$] = Glucose concentration in mmol/L
+        *   [$Urea$] = Urea concentration in mmol/L
+*   **Normal Range**
+    *   275-295 mOsm/kg
+    *   Most contributions to the measured serum osmolality comes from sodium, chloride, potassium, urea, and glucose
+
+### **Clinical Significance of Osmolality** {-}
+
+*   **Assessment of Hydration Status:** Osmolality reflects the balance between water and solutes in the blood
+*   **Evaluation of Kidney Function:** Osmolality can be used to assess the kidney's ability to concentrate or dilute urine
+*   **Diagnosis of Electrolyte Imbalances:** Changes in osmolality can indicate electrolyte disorders
+*   **Detection of Toxic Substances:** An elevated osmolal gap can suggest the presence of unmeasured osmotically active substances (e.g., ethanol, methanol, ethylene glycol)
+
+### **Increased Osmolality** {-}
+
+*   **Causes**
+    *   Dehydration: Water deficit leads to increased solute concentration
+    *   Hypernatremia: Elevated sodium levels
+    *   Hyperglycemia: Elevated glucose levels (e.g., in diabetes)
+    *   Uremia: Elevated BUN levels (e.g., in kidney failure)
+    *   Toxic Ingestions: Presence of unmeasured osmotically active substances (e.g., ethanol, methanol, ethylene glycol)
+*   **Symptoms**
+    *   Thirst, confusion, lethargy, seizures, coma
+
+### **Decreased Osmolality** {-}
+
+*   **Causes**
+    *   Overhydration: Water excess leads to decreased solute concentration
+    *   Hyponatremia: Low sodium levels
+    *   SIADH (Syndrome of Inappropriate Antidiuretic Hormone Secretion): Excessive ADH leads to water retention
+    *   Adrenal Insufficiency: Impaired cortisol production affects water and electrolyte balance
+*   **Symptoms**
+    *   Nausea, headache, confusion, muscle cramps, seizures, coma
+
+### **Increased Osmolal Gap** {-}
+
+*   **Causes**
+    *   Presence of unmeasured osmotically active substances:
+        *   Ethanol
+        *   Methanol
+        *   Ethylene Glycol
+        *   Isopropanol
+        *   Propylene Glycol
+        *   Acetone
+    *   Less Common Causes:
+        *   Mannitol
+        *   Glycerol
+        *   Severe Hyperlipidemia or Hyperproteinemia
+        *   Lactic Acidosis
+
+## **Anion Gap** {-}
+
+*   **Definition:** The difference between measured cations (positively charged ions) and anions (negatively charged ions) in serum or plasma. It is used to assess acid-base balance, particularly in cases of metabolic acidosis
+*   **Purpose:** The anion gap helps identify the cause of metabolic acidosis by distinguishing between conditions that increase unmeasured anions and those that result in a loss of bicarbonate
+*   **Measured Ions**
+    *   Cations: Sodium ($Na^+$) and Potassium ($K^+$)
+    *   Anions: Chloride ($Cl^-$) and Bicarbonate ($HCO_3^-$)
+
+### **Calculation of Anion Gap** {-}
+
+*   **Formula**
+    *   Anion Gap = ($Na^+$ + $K^+$) - ($Cl^-$ + $HCO_3^-$)
+    *   Anion Gap = $Na^+$ - ($Cl^-$ + $HCO_3^-$) (when potassium is not measured)
+*   **Normal Range**
+    *   With Potassium: 8-16 mEq/L or mmol/L
+    *   Without Potassium: 10-20 mEq/L or mmol/L
+
+### **Clinical Significance of Anion Gap** {-}
+
+*   **Normal Anion Gap Metabolic Acidosis (NAGMA)**
+    *   Also known as hyperchloremic metabolic acidosis
+    *   The decrease in bicarbonate is compensated by an increase in chloride, maintaining a normal anion gap
+    *   Causes:
+        *   Gastrointestinal Bicarbonate Loss: Diarrhea, ileostomy
+        *   Renal Tubular Acidosis (RTA): Impaired reabsorption of bicarbonate or impaired excretion of acid by the kidneys
+        *   Administration of Chloride-Containing Solutions: Saline infusion
+        *   Certain Medications: Acetazolamide, cholestyramine
+*   **Elevated Anion Gap Metabolic Acidosis (HAGMA)**
+    *   The decrease in bicarbonate is accompanied by an increase in unmeasured anions, resulting in an elevated anion gap
+    *   Causes:
+        *   Ketoacidosis: Diabetic ketoacidosis (DKA), alcoholic ketoacidosis, starvation ketoacidosis
+        *   Lactic Acidosis: Anaerobic metabolism due to shock, sepsis, or severe exercise
+        *   Renal Failure: Accumulation of sulfates, phosphates, and other organic acids
+        *   Toxic Ingestions:
+            *   Methanol: Metabolized to formic acid
+            *   Ethylene Glycol: Metabolized to glycolic acid and oxalic acid
+            *   Salicylates: Disrupts cellular metabolism
+    *   Mnemonic for High Anion Gap Acidosis: "MUDPILES"
+        *   M: Methanol
+        *   U: Uremia (Renal Failure)
+        *   D: Diabetic Ketoacidosis
+        *   P: Propylene Glycol
+        *   I: Iron, Isoniazid
+        *   L: Lactic Acidosis
+        *   E: Ethylene Glycol
+        *   S: Salicylates
+*   **Decreased Anion Gap**
+    *   Rare and typically less clinically significant
+    *   Causes:
+        *   Hypoalbuminemia: Albumin is a major unmeasured anion, so decreased albumin levels can lower the anion gap
+        *   Multiple Myeloma: Increased levels of cationic immunoglobulins
+        *   Bromide Intoxication: Bromide is measured as chloride, leading to an artificially elevated chloride level and a decreased anion gap
+        *   Lithium Toxicity: Causes $Cl^-$ retention
+
+## **Key Terms** {-}
+
+*   **Osmolality:** Concentration of solute particles in a solution
+*   **Osmolal Gap:** Difference between measured and calculated osmolality
+*   **Anion Gap:** Difference between measured cations and anions in serum
+*   **Measured Cations:** Sodium and Potassium
+*   **Measured Anions:** Chloride and Bicarbonate
+*   **Hypoalbuminemia:** Abnormally low levels of protein in the blood
+*   **Multiple Myeloma:** A cancer of plasma cells
+*   **Bromide Intoxication:** A condition where a person has ingested a toxic amount of bromide
+*   **Normal Saline:** Normal Saline (or Saline) is a mixture of sodium chloride (salt) in water. It is used for rinsing wounds, nasal passages, and contact lenses. Intravenous normal saline can be used for fluid replacement in a number of conditions, such as dehydration, hypovolemia, and sepsis
+*   **Ischemia:** An inadequate blood supply to an organ or part of the body
+*   **Hypoxia:** An inadequate oxygen supply to the cells and tissues of the body
+*   **Hypercapnia:** The presence of abnormally high levels of carbon dioxide in the blood
+*   **Hypoventilation:** The state in which a reduced amount of air enters the lungs
+*   **Hyperventilation:** The state of breathing too fast or too deeply
+*   **Paresthesias:** An abnormal sensation, typically tingling or pricking ("pins and needles"), caused chiefly by pressure on or damage to peripheral nerves
+*   **Carpopedal Spasm:** Cramps in the hands and feet
+*   **Enzyme:** A substance produced by a living organism which acts as a catalyst to bring about a specific biochemical reaction
+*   **In Vitro:** Taking place in a test tube, culture dish, or elsewhere outside a living organism
+*   **In Vivo:** Occurring within a living organism
+*   **Homeostasis:** The process by which organisms maintain a relatively stable internal environment
+*   **Electrolyte:** An ion that conducts electrical impulses in solution

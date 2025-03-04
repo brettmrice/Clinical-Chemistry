@@ -1,0 +1,129 @@
+# Principles {-}
+
+Lipid testing in the lab helps to assess cardiovascular risk, diagnose lipid disorders, and monitor treatment
+
+*   **Core Lipid Tests**
+    *   **Total Cholesterol:** Measures all cholesterol in the blood
+    *   **Triglycerides:** Measures the amount of triglycerides in the blood
+    *   **HDL Cholesterol:** Measures high-density lipoprotein cholesterol
+    *   **LDL Cholesterol:** Measures low-density lipoprotein cholesterol
+    *   **Apolipoproteins:** Measures specific apolipoproteins associated with lipoproteins
+
+## **Total Cholesterol** {-}
+
+*   **Principle:** Enzymatic methods are commonly used. Cholesterol esterase hydrolyzes cholesterol esters to free cholesterol. Cholesterol oxidase then oxidizes free cholesterol to cholest-4-en-3-one and hydrogen peroxide (H2O2). H2O2 is then reacted with a chromogen in the presence of peroxidase (POD) to produce a colored product, which is measured spectrophotometrically
+*   **Reactions**
+    1.  Cholesterol Esters --(Cholesterol Esterase)--> Cholesterol + Fatty Acids
+    2.  Cholesterol + O2 --(Cholesterol Oxidase)--> Cholest-4-en-3-one + H2O2
+    3.  2 H2O2 + Chromogen --(Peroxidase)--> Oxidized Chromogen (Colored) + 2 H2O
+*   **Detection:** The intensity of the colored product is directly proportional to the total cholesterol concentration in the sample
+*   **Advantages:** Accurate, precise, and widely available
+*   **Disadvantages:** Can be affected by interfering substances such as bilirubin and hemoglobin
+
+## **Triglycerides** {-}
+
+*   **Principle:** Enzymatic methods are used. Lipoprotein lipase (LPL) hydrolyzes triglycerides to glycerol and free fatty acids. Glycerol is then phosphorylated by glycerol kinase (GK) to glycerol-3-phosphate (G-3-P). G-3-P is oxidized by glycerol-3-phosphate oxidase (GPO) to dihydroxyacetone phosphate (DAP) and H2O2. H2O2 is then reacted with a chromogen in the presence of peroxidase (POD) to produce a colored product, which is measured spectrophotometrically
+*   **Reactions**
+    1.  Triglycerides --(Lipoprotein Lipase)--> Glycerol + 3 Fatty Acids
+    2.  Glycerol + ATP --(Glycerol Kinase)--> Glycerol-3-Phosphate + ADP
+    3.  Glycerol-3-Phosphate + O2 --(Glycerol-3-Phosphate Oxidase)--> Dihydroxyacetone Phosphate + H2O2
+    4.  2 H2O2 + Chromogen --(Peroxidase)--> Oxidized Chromogen (Colored) + 2 H2O
+*   **Detection:** The intensity of the colored product is directly proportional to the triglycerides concentration in the sample
+*   **Advantages:** Accurate, precise, and widely available
+*   **Disadvantages:** Can be affected by interfering substances such as bilirubin and lipemia
+
+## **HDL Cholesterol** {-}
+
+*   **Principle**
+    *   **Direct Methods:** Use selective detergents or antibodies to block non-HDL lipoproteins (LDL, VLDL, chylomicrons), leaving only HDL to be measured. The HDL cholesterol is then measured using a cholesterol oxidase-peroxidase method similar to that used for total cholesterol
+    *   **Indirect Methods:** Use precipitation reagents to selectively precipitate non-HDL lipoproteins, followed by measurement of cholesterol in the supernatant containing only HDL
+*   **Reactions**
+    *   **Direct Methods**
+        1.  Selective Detergents/Antibodies block non-HDL lipoproteins
+        2.  HDL Cholesterol + O2 --(Cholesterol Oxidase)--> Cholest-4-en-3-one + H2O2
+        3.  2 H2O2 + Chromogen --(Peroxidase)--> Oxidized Chromogen (Colored) + 2 H2O
+    *   **Indirect Methods**
+        1.  Non-HDL lipoproteins are precipitated
+        2.  HDL Cholesterol + O2 --(Cholesterol Oxidase)--> Cholest-4-en-3-one + H2O2
+        3.  2 H2O2 + Chromogen --(Peroxidase)--> Oxidized Chromogen (Colored) + 2 H2O
+*   **Detection:** The intensity of the colored product is directly proportional to the HDL cholesterol concentration in the sample
+*   **Advantages**
+    *   Direct methods are automated and less susceptible to interferences
+    *   Indirect methods are inexpensive but more labor-intensive
+*   **Disadvantages**
+    *   Indirect methods can be affected by incomplete precipitation or carryover of non-HDL lipoproteins
+    *   Direct methods can be affected by certain interfering substances
+
+## **LDL Cholesterol** {-}
+
+*   **Principle**
+    *   **Friedewald Equation (Calculation):** LDL cholesterol is estimated using the Friedewald equation:
+    *   LDL Cholesterol = Total Cholesterol - HDL Cholesterol - (Triglycerides / 5) (all in mg/dL)
+    *   LDL Cholesterol = Total Cholesterol - HDL Cholesterol - (Triglycerides / 2.2) (all in mmol/L)
+    *   This equation is valid only when triglycerides are < 400 mg/dL (4.5 mmol/L)
+    *   **Direct Methods:** Use selective detergents or antibodies to block non-LDL lipoproteins (HDL, VLDL, chylomicrons), leaving only LDL to be measured. The LDL cholesterol is then measured using a cholesterol oxidase-peroxidase method similar to that used for total cholesterol
+*   **Reactions**
+    *   **Direct Methods**
+        1.  Selective Detergents/Antibodies block non-LDL lipoproteins
+        2.  LDL Cholesterol + O2 --(Cholesterol Oxidase)--> Cholest-4-en-3-one + H2O2
+        3.  2 H2O2 + Chromogen --(Peroxidase)--> Oxidized Chromogen (Colored) + 2 H2O
+*   **Detection:** The intensity of the colored product (for direct methods) is directly proportional to the LDL cholesterol concentration in the sample
+*   **Advantages**
+    *   Friedewald equation is inexpensive and widely used
+    *   Direct methods are more accurate and can be used when triglycerides are elevated
+*   **Disadvantages**
+    *   Friedewald equation is not accurate when triglycerides are > 400 mg/dL (4.5 mmol/L) or in certain dyslipidemia
+    *   Direct methods are more expensive
+
+## **Apolipoproteins** {-}
+
+*   **Principle:** Immunochemical methods are commonly used to measure specific apolipoproteins. Antibodies specific to the apolipoprotein are used to capture and quantify the apolipoprotein in a blood sample
+*   **Methods**
+    *   **Turbidimetric Immunoassay (TIA):** Antibody-apolipoprotein complex formation is measured by the change in turbidity (light scattering)
+    *   **Nephelometry:** Antibody-apolipoprotein complex formation is measured by the amount of light scattered at an angle
+    *   **Enzyme-Linked Immunosorbent Assay (ELISA):** Enzyme-labeled antibodies are used, and the enzyme activity is measured to quantify the antibody-apolipoprotein complex
+*   **Detection:** The amount of antibody-apolipoprotein complex formed is measured, and is proportional to the apolipoprotein concentration
+*   **Advantages:** Specific and automated
+*   **Disadvantages:** Can be affected by interfering substances and requires specialized equipment
+
+## **Lipoprotein (a)** {-}
+
+*   **Principle:** Immunochemical methods are commonly used to measure Lp(a). Antibodies specific to Lp(a) are used to capture and quantify the Lp(a) in a blood sample
+*   **Methods**
+    *   **Turbidimetric Immunoassay (TIA):** Antibody-Lp(a) complex formation is measured by the change in turbidity (light scattering)
+    *   **Nephelometry:** Antibody-Lp(a) complex formation is measured by the amount of light scattered at an angle
+    *   **Enzyme-Linked Immunosorbent Assay (ELISA):** Enzyme-labeled antibodies are used, and the enzyme activity is measured to quantify the antibody-Lp(a) complex
+*   **Detection:** The amount of antibody-Lp(a) complex formed is measured, and is proportional to the Lp(a) concentration
+*   **Advantages:** Specific and automated
+*   **Disadvantages:** Can be affected by interfering substances and requires specialized equipment
+
+## **Lipid Electrophoresis** {-}
+
+*   **Principle:** Separates lipoproteins based on their electrical charge and size
+*   **Procedure**
+    *   Serum is applied to a support medium (e.g., agarose gel or paper)
+    *   An electric field is applied, causing lipoproteins to migrate at different rates
+    *   Lipoproteins are stained with a lipid-specific dye
+*   **Detection:** The separated lipoprotein bands are visualized and quantified
+*   **Clinical Significance**
+    *   Helps identify specific lipoprotein abnormalities, such as:
+        *   Elevated chylomicrons
+        *   Increased VLDL
+        *   Increased LDL
+        *   Decreased HDL
+    *   Used to diagnose and classify hyperlipidemias
+
+## **Key Terms** {-}
+
+*   **Cholesterol Esterase:** An enzyme that hydrolyzes cholesterol esters
+*   **Cholesterol Oxidase:** An enzyme that oxidizes cholesterol
+*   **Peroxidase:** An enzyme that catalyzes the reaction between hydrogen peroxide and a chromogen
+*   **Lipoprotein Lipase (LPL):** An enzyme that hydrolyzes triglycerides in lipoproteins
+*   **Glycerol Kinase:** An enzyme that phosphorylates glycerol
+*   **Glycerol-3-Phosphate Oxidase:** An enzyme that oxidizes glycerol-3-phosphate
+*   **Chromogen:** A substance that produces a colored product
+*   **Turbidimetric Immunoassay (TIA):** An immunoassay that measures the change in turbidity
+*   **Nephelometry:** An immunoassay that measures the amount of light scattered
+*   **Enzyme-Linked Immunosorbent Assay (ELISA):** An immunoassay that uses enzyme-labeled antibodies
+*   **Friedewald Equation:** An equation used to estimate LDL cholesterol
+*   **Apolipoproteins:** Proteins that bind to lipoproteins

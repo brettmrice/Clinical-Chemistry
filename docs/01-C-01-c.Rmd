@@ -1,0 +1,122 @@
+# Properties {-}
+
+The physical and chemical properties of heme derivatives are essential for their function in oxygen transport, electron transfer, and detoxification
+
+## **Hemoglobin** {-}
+
+*   **Definition:** A protein found in red blood cells responsible for transporting oxygen from the lungs to the tissues and carbon dioxide from the tissues to the lungs
+*   **Structure**
+    *   Tetrameric Protein: Consists of four polypeptide chains (globins)
+    *   Two α Chains and Two β Chains: In adult hemoglobin (HbA), each chain is linked to a heme group
+    *   Heme Group: A porphyrin ring with a central iron atom (Fe2+ in the functional state)
+*   **Physical Properties**
+    *   Color: Red when oxygenated (oxyhemoglobin), bluish-red when deoxygenated (deoxyhemoglobin)
+    *   Solubility: Soluble in water within red blood cells
+    *   Molecular Weight: Approximately 64,000 Da
+    *   Quaternary Structure: Tetrameric structure allows for cooperative binding of oxygen
+*   **Chemical Properties**
+    *   Oxygen Binding: Iron atom in heme binds reversibly to oxygen
+        *   Oxyhemoglobin: Hemoglobin bound to oxygen
+        *   Deoxyhemoglobin: Hemoglobin without oxygen
+    *   Carbon Dioxide Binding: Hemoglobin can also bind to carbon dioxide and transport it back to the lungs
+    *   Allosteric Regulation: Oxygen binding is affected by pH, carbon dioxide, and 2,3-bisphosphoglycerate (2,3-BPG)
+    *   Methemoglobin Formation: Iron can be oxidized to Fe3+, forming methemoglobin, which cannot bind oxygen
+    *   Carbaminohemoglobin Formation: Carbon dioxide can bind to amino groups in hemoglobin, forming carbaminohemoglobin
+
+## **Myoglobin** {-}
+
+*   **Definition:** A protein found in muscle cells that stores oxygen and facilitates oxygen diffusion
+*   **Structure**
+    *   Monomeric Protein: Consists of a single polypeptide chain (globin)
+    *   Heme Group: A porphyrin ring with a central iron atom (Fe2+ in the functional state)
+*   **Physical Properties**
+    *   Color: Red
+    *   Solubility: Soluble in water within muscle cells
+    *   Molecular Weight: Approximately 17,000 Da
+    *   Tertiary Structure: Globular protein with a hydrophobic pocket for the heme group
+*   **Chemical Properties**
+    *   Oxygen Binding: Iron atom in heme binds reversibly to oxygen
+        *   Oxymyoglobin: Myoglobin bound to oxygen
+        *   Deoxymyoglobin: Myoglobin without oxygen
+    *   Higher Oxygen Affinity: Myoglobin has a higher affinity for oxygen than hemoglobin, allowing it to store oxygen in muscles
+    *   Not Affected by Allosteric Regulators: Oxygen binding is not significantly affected by pH, carbon dioxide, or 2,3-BPG
+
+## **Bilirubin** {-}
+
+*   **Definition:** A yellow pigment produced from the breakdown of heme
+*   **Types**
+    *   Unconjugated Bilirubin (Indirect): Insoluble in water, transported in blood bound to albumin
+    *   Conjugated Bilirubin (Direct): Water-soluble, conjugated with glucuronic acid in the liver
+*   **Structure**
+    *   Tetrapyrrole Ring: A linear chain of four pyrrole rings
+*   **Physical Properties**
+    *   Color: Yellow
+    *   Solubility:
+        *   Unconjugated: Insoluble in water
+        *   Conjugated: Soluble in water
+    *   Light Sensitivity: Bilirubin is degraded by light
+*   **Chemical Properties**
+    *   Formation from Heme: Produced by heme oxygenase and biliverdin reductase
+    *   Conjugation: Conjugated with glucuronic acid by UDP-glucuronosyltransferase (UGT) in the liver, making it water-soluble
+    *   Excretion: Secreted into bile and excreted in feces
+    *   Diazo Reaction: Reacts with diazonium salts to form a colored product (used in laboratory assays)
+    *   Phototherapy: Blue light converts bilirubin to more soluble isomers that can be excreted in urine (used in treating neonatal jaundice)
+
+## **Urobilinogen** {-}
+
+*   **Definition:** A colorless compound produced in the intestine by bacterial reduction of bilirubin
+*   **Structure**
+    *   Tetrapyrrole Ring: Similar to bilirubin, but more reduced
+*   **Physical Properties**
+    *   Color: Colorless
+    *   Solubility: Soluble in water
+*   **Chemical Properties**
+    *   Formation from Bilirubin: Produced by bacterial reduction of bilirubin in the intestine
+    *   Oxidation to Urobilin: Urobilinogen can be oxidized to urobilin, a brown pigment
+    *   Excretion:
+        *   Most of the urobilinogen is excreted in feces as stercobilin (gives feces its brown color)
+        *   A small amount is reabsorbed and excreted in urine as urobilin (gives urine its yellow color)
+    *   Ehrlich's Reagent: Reacts with Ehrlich's reagent (p-dimethylaminobenzaldehyde) to form a colored product (used in laboratory assays)
+
+## **Porphyrins** {-}
+
+*   **Definition:** A group of cyclic tetrapyrrole compounds that are intermediates in heme synthesis
+*   **Types**
+    *   Uroporphyrin
+    *   Coproporphyrin
+    *   Protoporphyrin
+*   **Structure**
+    *   Cyclic Tetrapyrrole Ring: Four pyrrole rings linked by methene bridges
+*   **Physical Properties**
+    *   Color: Highly colored compounds, exhibiting fluorescence
+    *   Solubility: Varies depending on the specific porphyrin and its substituents
+*   **Chemical Properties**
+    *   Heme Precursors: Intermediates in the synthesis of heme
+    *   Metal Binding: Can bind to metal ions, such as iron
+    *   Fluorescence: Exhibit fluorescence under UV light, allowing for detection and quantification
+    *   Acid Extraction: Can be extracted from biological samples using acidic solutions
+    *   Porphyria Markers: Accumulation of specific porphyrins in urine, blood, or feces is indicative of porphyria
+
+## **Key Properties Summarized** {-}
+
+| Heme Derivative | Structure                               | Physical Properties                               | Chemical Properties                                                                                       |
+| --------------- | --------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| Hemoglobin      | Tetrameric Protein + 4 Heme             | Red (oxygenated), Soluble                           | Oxygen Binding, CO2 Binding, Allosteric Regulation, Methemoglobin Formation, Carbaminohemoglobin Formation |
+| Myoglobin       | Monomeric Protein + Heme                | Red, Soluble                                      | Oxygen Binding (Higher Affinity), Not Affected by Allosteric Regulators                                 |
+| Bilirubin       | Tetrapyrrole Ring                         | Yellow, Insoluble (Unconjugated), Soluble (Conjugated) | Formation from Heme, Conjugation, Excretion, Diazo Reaction, Phototherapy                                |
+| Urobilinogen    | Tetrapyrrole Ring                         | Colorless, Soluble                                 | Formation from Bilirubin, Oxidation to Urobilin, Excretion, Ehrlich's Reagent                           |
+| Porphyrins      | Cyclic Tetrapyrrole Ring                  | Highly Colored, Fluorescent                         | Heme Precursors, Metal Binding, Fluorescence, Acid Extraction, Porphyria Markers                           |
+
+## **Key Terms** {-}
+
+*   **Heme:** A porphyrin ring complex with a central iron atom
+*   **Hemoglobin:** The protein in red blood cells that transports oxygen
+*   **Myoglobin:** The protein in muscle cells that stores oxygen
+*   **Bilirubin:** A yellow pigment produced from the breakdown of heme
+*   **Urobilinogen:** A colorless compound produced in the intestine by bacterial reduction of bilirubin
+*   **Porphyrins:** Cyclic tetrapyrrole compounds that are intermediates in heme synthesis
+*   **Oxyhemoglobin:** Hemoglobin bound to oxygen
+*   **Deoxyhemoglobin:** Hemoglobin without oxygen
+*   **Unconjugated Bilirubin:** Bilirubin that has not been conjugated in the liver
+*   **Conjugated Bilirubin:** Bilirubin that has been conjugated in the liver
+*   **Porphyria:** A genetic disorder caused by deficiencies in enzymes of the heme synthesis pathway

@@ -1,0 +1,178 @@
+# Disease Correlation {-}
+
+The results of carbohydrate tests paint a picture of the patient's metabolic health. Certain patterns of results point to specific disease states, and understanding these correlations is key
+
+## **Diabetes Mellitus (DM)** {-}
+
+*   **Definition:** A group of metabolic disorders characterized by hyperglycemia resulting from defects in insulin secretion, insulin action, or both
+*   **Types**
+    *   Type 1 Diabetes (T1DM): Autoimmune destruction of pancreatic beta cells, leading to absolute insulin deficiency
+    *   Type 2 Diabetes (T2DM): Progressive insulin resistance and relative insulin deficiency
+    *   Gestational Diabetes (GDM): Diabetes diagnosed during pregnancy
+    *   Other specific types of diabetes: Due to genetic defects, medications, or other conditions
+*   **Laboratory Findings**
+    *   **Fasting Plasma Glucose (FPG):** ≥ 126 mg/dL (7.0 mmol/L) on more than one occasion
+    *   **Oral Glucose Tolerance Test (OGTT):** 2-hour plasma glucose ≥ 200 mg/dL (11.1 mmol/L)
+    *   **HbA1c:** ≥ 6.5%
+    *   **Random Plasma Glucose:** ≥ 200 mg/dL (11.1 mmol/L) in a patient with classic symptoms of hyperglycemia (polyuria, polydipsia, unexplained weight loss)
+    *   **Urine Glucose:** Positive (in cases of significant hyperglycemia)
+    *   **Ketones:** Positive (especially in T1DM with uncontrolled hyperglycemia)
+*   **Disease State Correlation**
+    *   Elevated FPG, OGTT, and HbA1c levels are diagnostic of diabetes mellitus
+    *   The severity of hyperglycemia correlates with the risk of developing long-term complications (e.g., retinopathy, nephropathy, neuropathy, cardiovascular disease)
+    *   Presence of ketones indicates uncontrolled diabetes and increased risk of diabetic ketoacidosis (DKA)
+*   **Clinical Significance**
+    *   Early diagnosis and management of diabetes are essential to prevent or delay the onset of complications
+    *   Monitoring of glucose levels and HbA1c is crucial for assessing treatment effectiveness and adjusting therapy as needed
+    *   Patient education and lifestyle modifications (diet, exercise) are important components of diabetes management
+
+## **Prediabetes** {-}
+
+*   **Definition:** A state of impaired glucose regulation characterized by either impaired fasting glucose (IFG) or impaired glucose tolerance (IGT)
+*   **Laboratory Findings**
+    *   **Impaired Fasting Glucose (IFG):** FPG 100-125 mg/dL (5.6-6.9 mmol/L)
+    *   **Impaired Glucose Tolerance (IGT):** 2-hour plasma glucose during OGTT 140-199 mg/dL (7.8-11.0 mmol/L)
+    *   **HbA1c:** 5.7-6.4%
+*   **Disease State Correlation**
+    *   Prediabetes indicates an increased risk of developing type 2 diabetes, cardiovascular disease, and other complications
+    *   The higher the glucose levels, the greater the risk of progression to diabetes
+*   **Clinical Significance**
+    *   Early identification of prediabetes allows for intervention with lifestyle modifications (diet, exercise) to prevent or delay the onset of type 2 diabetes
+    *   Regular monitoring of glucose levels and HbA1c is recommended
+
+## **Gestational Diabetes Mellitus (GDM)** {-}
+
+*   **Definition:** Diabetes diagnosed during pregnancy
+*   **Screening**
+    *   Typically performed between 24-28 weeks of gestation
+    *   1-hour Glucose Challenge Test (GCT): 50-gram glucose load, measure plasma glucose after 1 hour. A value ≥ 130-140 mg/dL (7.2-7.8 mmol/L) is considered positive and requires a follow-up OGTT
+*   **Diagnosis**
+    *   Oral Glucose Tolerance Test (OGTT) with a 75-gram or 100-gram glucose load
+    *   Diagnostic criteria vary depending on the organization (e.g., ADA, WHO, IADPSG)
+    *   Common criteria (Carpenter-Coustan, 100-gram OGTT):
+        *   Fasting ≥ 95 mg/dL (5.3 mmol/L)
+        *   1-hour ≥ 180 mg/dL (10.0 mmol/L)
+        *   2-hour ≥ 155 mg/dL (8.6 mmol/L)
+        *   3-hour ≥ 140 mg/dL (7.8 mmol/L)
+        *   Two or more values meeting or exceeding these criteria establish the diagnosis
+*   **Laboratory Findings**
+    *   Elevated glucose levels during OGTT
+*   **Disease State Correlation**
+    *   GDM is associated with increased risks for both the mother and the fetus, including macrosomia (large baby), hypoglycemia, preeclampsia, and increased risk of developing type 2 diabetes later in life
+*   **Clinical Significance**
+    *   Early diagnosis and management of GDM are essential to reduce the risks for both the mother and the fetus
+    *   Management typically involves dietary modifications, exercise, and sometimes insulin therapy
+    *   Postpartum glucose testing is recommended to assess for persistent diabetes
+
+## **Hypoglycemia** {-}
+
+*   **Definition:** Abnormally low blood glucose levels
+*   **Causes**
+    *   Excess insulin administration in patients with diabetes
+    *   Oral hypoglycemic agents
+    *   Missed meals or inadequate carbohydrate intake
+    *   Excessive exercise
+    *   Alcohol consumption
+    *   Certain medical conditions (e.g., liver disease, kidney disease, hormone deficiencies, insulinoma)
+*   **Laboratory Findings**
+    *   Plasma glucose < 70 mg/dL (3.9 mmol/L)
+    *   In severe cases, glucose may be < 50 mg/dL (2.8 mmol/L)
+*   **Disease State Correlation**
+    *   Symptoms of hypoglycemia include sweating, shakiness, anxiety, palpitations, confusion, dizziness, blurred vision, difficulty speaking, seizures, loss of consciousness
+    *   Severe hypoglycemia can lead to brain damage and death
+*   **Clinical Significance**
+    *   Prompt recognition and treatment of hypoglycemia are essential
+    *   Treatment typically involves ingestion of fast-acting carbohydrates (e.g., glucose tablets, juice)
+    *   Underlying causes of hypoglycemia should be identified and addressed
+
+## **Diabetic Ketoacidosis (DKA)** {-}
+
+*   **Definition:** A life-threatening complication of diabetes characterized by hyperglycemia, ketosis, and metabolic acidosis
+*   **Etiology**
+    *   Primarily occurs in patients with type 1 diabetes due to absolute insulin deficiency
+    *   Can also occur in patients with type 2 diabetes under conditions of severe stress, infection, or illness
+*   **Laboratory Findings**
+    *   **Plasma Glucose:** Elevated, typically > 250 mg/dL (13.9 mmol/L)
+    *   **Ketones:** Elevated in serum or urine
+        *   Beta-hydroxybutyrate is the predominant ketone body
+    *   **Arterial Blood Gases (ABG)**
+        *   pH < 7.3
+        *   Bicarbonate (HCO3-) < 15 mEq/L
+    *   **Electrolytes**
+        *   Anion gap > 12 mEq/L
+        *   Potassium may be normal, elevated, or decreased
+*   **Disease State Correlation**
+    *   DKA is a medical emergency requiring prompt treatment
+    *   Symptoms include polyuria, polydipsia, nausea, vomiting, abdominal pain, weakness, fruity-smelling breath, and altered mental status
+*   **Clinical Significance**
+    *   Prompt diagnosis and treatment of DKA are essential to prevent complications such as cerebral edema, cardiac arrhythmias, and death
+    *   Treatment involves insulin therapy, fluid resuscitation, and electrolyte replacement
+
+## **Hyperosmolar Hyperglycemic State (HHS)** {-}
+
+*   **Definition:** A life-threatening complication of diabetes characterized by severe hyperglycemia, hyperosmolarity, and dehydration, without significant ketosis
+*   **Etiology**
+    *   Primarily occurs in patients with type 2 diabetes
+    *   Often precipitated by illness, infection, or dehydration
+*   **Laboratory Findings**
+    *   **Plasma Glucose:** Very elevated, typically > 600 mg/dL (33.3 mmol/L)
+    *   **Serum Osmolality:** > 320 mOsm/kg
+    *   **Ketones:** Absent or mild
+    *   **Arterial Blood Gases (ABG):** pH > 7.3, bicarbonate > 15 mEq/L
+    *   **Electrolytes:** May show electrolyte imbalances
+*   **Disease State Correlation**
+    *   HHS is a medical emergency requiring prompt treatment
+    *   Symptoms include severe dehydration, altered mental status, seizures, and coma
+*   **Clinical Significance**
+    *   Prompt diagnosis and treatment of HHS are essential to prevent complications such as cerebral edema, thromboembolic events, and death
+    *   Treatment involves fluid resuscitation, insulin therapy, and electrolyte replacement
+
+## **Galactosemia** {-}
+
+*   **Definition:** A rare genetic metabolic disorder characterized by the inability to metabolize galactose due to a deficiency in one of the enzymes involved in galactose metabolism
+*   **Types**
+    *   Classic Galactosemia: Deficiency of galactose-1-phosphate uridyltransferase (GALT)
+    *   Galactokinase Deficiency: Deficiency of galactokinase (GALK)
+    *   UDP-Galactose-4-Epimerase Deficiency: Deficiency of UDP-galactose-4-epimerase (GALE)
+*   **Laboratory Findings**
+    *   Elevated galactose levels in blood and urine
+    *   Deficiency of the specific enzyme in red blood cells
+    *   Urine reducing substances positive (non-glucose)
+*   **Disease State Correlation**
+    *   Symptoms of galactosemia include feeding difficulties, vomiting, diarrhea, lethargy, jaundice, hepatomegaly, cataracts, and intellectual disability
+    *   Early diagnosis and treatment are essential to prevent long-term complications
+*   **Clinical Significance**
+    *   Newborn screening for galactosemia is performed in many countries
+    *   Treatment involves strict dietary restriction of galactose
+
+## **Hereditary Fructose Intolerance (HFI)** {-}
+
+*   **Definition:** A rare genetic metabolic disorder caused by a deficiency in aldolase B, leading to the accumulation of fructose-1-phosphate in the liver, kidney, and small intestine
+*   **Laboratory Findings**
+    *   Hypoglycemia after fructose ingestion
+    *   Elevated liver enzymes (AST, ALT)
+    *   Elevated bilirubin
+    *   Prolonged prothrombin time (PT)
+    *   Urine reducing substances positive (non-glucose)
+    *   Genetic testing confirms the diagnosis
+*   **Disease State Correlation**
+    *   Symptoms of HFI include vomiting, abdominal pain, hypoglycemia, liver damage, and kidney dysfunction
+    *   Repeated fructose ingestion can lead to liver failure and death
+*   **Clinical Significance**
+    *   Early diagnosis and treatment are essential to prevent long-term complications
+    *   Treatment involves strict dietary restriction of fructose, sucrose, and sorbitol
+
+## **Key Terms** {-}
+
+*   **Diabetes Mellitus:** A group of metabolic disorders characterized by hyperglycemia
+*   **Prediabetes:** A state of impaired glucose regulation
+*   **Gestational Diabetes:** Diabetes diagnosed during pregnancy
+*   **Hypoglycemia:** Abnormally low blood glucose levels
+*   **Diabetic Ketoacidosis (DKA):** A life-threatening complication of diabetes characterized by hyperglycemia, ketosis, and metabolic acidosis
+*   **Hyperosmolar Hyperglycemic State (HHS):** A life-threatening complication of diabetes characterized by severe hyperglycemia, hyperosmolarity, and dehydration without significant ketosis
+*   **Galactosemia:** A genetic disorder characterized by the inability to metabolize galactose
+*   **Hereditary Fructose Intolerance (HFI):** A genetic disorder caused by a deficiency in aldolase B, leading to the accumulation of fructose-1-phosphate
+*   **Fasting Plasma Glucose (FPG):** Glucose level after an overnight fast
+*   **Oral Glucose Tolerance Test (OGTT):** A test to assess glucose metabolism
+*   **HbA1c:** A measure of average glucose levels over 2-3 months
+*   **Ketones:** Products of fat breakdown

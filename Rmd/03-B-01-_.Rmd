@@ -1,0 +1,91 @@
+# Metabolic {-}
+
+Electrolytes and trace elements are crucial for life, and abnormal levels can indicate underlying disease. This section provides a summary of each major electrolyte and their metabolic function and properties
+
+## **Biochemical Theory and Pathways** {-}
+
+*   Electrolytes: Crucial for fluid balance, nerve/muscle function
+*   Trace Elements: Essential for enzymes, hormones, and immunity
+*   Key Electrolytes: Sodium, potassium, chloride, bicarbonate
+*   Other Important ions: Calcium, magnesium, phosphorus, iron, Trace elements
+*   Regulation
+    *   Hormones: Aldosterone, ADH, PTH, Vitamin D, FGF23
+    *   Organs: Kidneys, lungs, parathyroid glands
+*   Transport Mechanisms
+    *   Ion channels
+    *   Pumps (e.g., $Na^+$/$K^+$ ATPase)
+    *   Binding proteins (e.g., transferrin)
+
+## **Normal States** {-}
+
+*   Normal Electrolyte Concentrations
+    *   $Na^+$: 136-145 mmol/L
+    *   $K^+$: 3.5-5.1 mmol/L
+    *   $Cl^-$: 98-107 mmol/L
+    *   $HCO_3^-$: 23-29 mmol/L
+    *   $Ca^{2+}$: 8.6-10.2 mg/dL
+    *   $Mg^{2+}$: 1.7-2.2 mg/dL
+    *   $P$: 2.5-4.5 mg/dL
+    *   $Fe$: 60-170 μg/dL
+    *   TIBC: 240-450 μg/dL
+*   Balanced Distribution: Between ICF and ECF
+*   Functional Regulation: By hormones and kidneys
+
+## **Abnormal States** {-}
+
+*   Sodium Imbalances: Hyponatremia, hypernatremia
+*   Potassium Imbalances: Hypokalemia, hyperkalemia
+*   Chloride Imbalances: Hypochloremia, hyperchloremia
+*   Calcium Imbalances: Hypocalcemia, hypercalcemia
+*   Magnesium Imbalances: Hypomagnesemia, hypermagnesemia
+*   Phosphate Imbalances: Hypophosphatemia, hyperphosphatemia
+*   Iron Imbalances: Iron deficiency anemia, hemochromatosis
+
+## **Functions and Imbalances** {-}
+
+*   Sodium ($Na^+$)
+    *   Function: Fluid balance, nerve/muscle function
+    *   Hyponatremia: Fluid overload, sodium loss
+    *   Hypernatremia: Dehydration, sodium gain
+*   Potassium ($K^+$)
+    *   Function: Membrane potential, nerve/muscle function
+    *   Hypokalemia: Loss (diuretics), cellular shift
+    *   Hyperkalemia: Renal failure, cellular release
+*   Chloride ($Cl^-$)
+    *   Function: Fluid balance, nerve transmission
+    *   Hypochloremia: Loss (vomiting), increased bicarbonate
+    *   Hyperchloremia: Excess infusion, dehydration
+*   Calcium ($Ca^{2+}$)
+    *   Function: Bone structure, muscle contraction, clotting
+    *   Hypocalcemia: Hypoparathyroidism, vitamin D deficiency
+    *   Hypercalcemia: Hyperparathyroidism, malignancy
+*   Magnesium ($Mg^{2+}$)
+    *   Function: Enzyme activity, muscle function
+    *   Hypomagnesemia: Poor intake, impaired absorption
+    *   Hypermagnesemia: Renal failure, excess intake
+*   Phosphorus ($P$)
+    *   Function: Bone structure, energy production
+    *   Hypophosphatemia: Poor intake, cellular shift
+    *   Hyperphosphatemia: Renal failure, hypoparathyroidism
+*   Iron ($Fe$)
+    *   Function: Oxygen transport (hemoglobin)
+    *   Iron Deficiency: Anemia
+    *   Iron overload: Hemochromatosis
+*   Trace Elements
+    *   Function: Varies by element (e.g., enzyme cofactors, hormone synthesis)
+    *   Imbalances: Deficiency or toxicity
+
+## **Underlying Pathologies** {-}
+
+*   Kidney Disease: Affects electrolyte regulation
+*   Hormonal Disorders: Affect electrolyte levels
+*   Nutritional Deficiencies: Impair electrolyte and trace element intake
+*   Genetic Disorders: Affect electrolyte metabolism
+*   Toxic Exposures: Affect trace elements
+
+## **Key Considerations** {-}
+
+*   Recognizing abnormal electrolyte levels is crucial for diagnosis
+*   Imbalances can lead to life-threatening complications
+*   Correction of electrolyte abnormalities requires addressing the underlying cause
+*   Trace element analysis is important for specialized disorders

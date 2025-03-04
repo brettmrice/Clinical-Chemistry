@@ -1,0 +1,160 @@
+# Principles {-}
+
+Accurate electrolyte testing is essential for diagnosing and managing a wide range of medical conditions
+
+## **Analytical Principles** {-}
+
+*   **General Considerations**
+    *   Direct vs. Indirect Methods: Direct ISEs measure activity in undiluted samples, reducing interferences from proteins and lipids. Indirect ISEs require sample dilution
+    *   Interferences: Be aware of common interfering substances and take appropriate steps to minimize their impact
+*   **Instrumentation**
+    *   Automated Chemistry Analyzers: Most electrolyte measurements are performed on automated chemistry analyzers using ISEs or spectrophotometric methods
+    *   Blood Gas Analyzers: Measure electrolytes in whole blood using ISEs
+
+
+## **Sodium and Potassium** {-}
+
+*   **Principle:** Ion-Selective Electrodes (ISEs) are the most common method for measuring sodium and potassium
+    *   Direct ISEs: Measure the activity of the ion in undiluted samples
+    *   Indirect ISEs: Measure the activity of the ion after dilution
+*   **Electrodes**
+    *   Sodium Electrode: Contains a glass membrane that is selectively permeable to sodium ions ($Na^+$)
+    *   Potassium Electrode: Contains a valinomycin membrane that is selectively permeable to potassium ions ($K^+$)
+*   **Process**
+    1.  The sample (serum, plasma, or whole blood) is introduced into the measuring chamber, where it comes into contact with the ISE
+    2.  The ions of interest (sodium or potassium) diffuse across the membrane, creating a potential difference
+    3.  The potential difference is measured by a high-impedance voltmeter and is proportional to the ion concentration
+*   **Reactions**
+    *   The ion-selective membrane selectively binds to the ion of interest, creating a potential difference
+*   **Detection:** The ion concentration is displayed on the instrument readout
+*   **Advantages:** Rapid, accurate, and precise measurements
+*   **Disadvantages:** Susceptible to interferences from protein contamination (in some methods) and improper calibration
+
+## **Chloride** {-}
+
+*   **Principle:** Ion-Selective Electrodes (ISEs) are commonly used
+*   **Electrode:** A chloride electrode contains a membrane that is selectively permeable to chloride ions ($Cl^-$)
+*   **Process**
+    1.  The sample is introduced into the measuring chamber, where it comes into contact with the ISE
+    2.  Chloride ions diffuse across the membrane, creating a potential difference
+    3.  The potential difference is measured by a high-impedance voltmeter and is proportional to the chloride concentration
+*   **Reactions**
+        *   The ion-selective membrane selectively binds to chloride ions, creating a potential difference
+*   **Detection:** The chloride concentration is displayed on the instrument readout
+*   **Advantages:** Rapid, accurate, and precise measurements
+*   **Disadvantages:** Susceptible to interferences from certain medications and improper calibration
+*   **Amperometric-Chloridometric Titration**
+    *   Silver ($Ag$) ions are liberated at a known rate
+    *   The $Cl$ ions react with the silver
+        *   $Cl^- + Ag^+ → AgCl (Solid)$
+    *   Once all the $Cl$ ions are consumed, the excess of Silver can then be detected by amperometry
+
+## **Total Carbon Dioxide ($CO_2$)** {-}
+
+*   **Principle:** Enzymatic methods or indirect ISEs are used to measure total carbon dioxide. Total $CO_2$ includes bicarbonate ($HCO_3^-$), carbonic acid ($H_2CO_3$), and dissolved carbon dioxide ($CO_2$)
+*   **Enzymatic Method**
+    *   Acidification of the Sample: $CO_2$ is converted to $H_2CO_3$
+        *   $CO_2 + H_2O ↔ H_2CO_3$
+    *   Conversion to Bicarbonate: Then it is converted to bicarbonate
+        *   $H_2CO_3 ↔ H^+ + HCO_3^-$
+    *   Reaction with PEP Carboxylase: Bicarbonate will react with phosphoenolpyruvate ($PEP$) to produce oxaloacetate, which then converts to malate with $NADH$
+        *   $HCO_3^- + PEP → Oxaloacetate$
+        *   $Oxaloacetate + NADH → Malate + NAD^+$
+    *   As $NADH$ becomes $NAD^+$, the change is measured spectrophotometrically
+*   **Indirect ISE Method**
+    1.  $CO_2$ diffuses across a membrane into a bicarbonate buffer solution
+    2.  The change in pH is measured by a pH-sensitive electrode, which is proportional to the $CO_2$ concentration
+*   **Detection:** The change in absorbance (enzymatic method) or the change in pH (ISE method) is measured
+*   **Advantages:** Rapid and automated
+*   **Disadvantages:** Susceptible to interferences from volatile acids and bases, improper calibration
+
+## **Bicarbonate ($HCO_3^-$)** {-}
+
+*   **Principle:** Bicarbonate is not directly measured but is typically calculated from pH and Pa$CO_2$ using the Henderson-Hasselbalch equation
+*   **Calculation**
+    *   The Henderson-Hasselbalch equation relates pH to the concentrations of bicarbonate ($HCO_3^-$) and carbon dioxide ($CO_2$):
+    *   $pH = pKa + log \left( \frac{[HCO_3^-]}{[CO_2]} \right)$
+    *   Since [$CO_2$] is proportional to Pa$CO_2$, the equation can be written as:
+    *   $pH = pKa + log \left( \frac{[HCO_3^-]}{0.03 \times PaCO_2} \right)$
+    *   $[HCO_3^-] = 10^{(pH - pKa)} \times 0.03 \times PaCO_2$
+        *   pKa = 6.1 (dissociation constant of carbonic acid)
+        *   0.  03 = Solubility coefficient of $CO_2$ in plasma
+*   **Advantages:** Provides a clinically useful estimate of bicarbonate concentration
+*   **Disadvantages:** Is subject to errors in pH and P$CO_2$ measurements
+*   **Direct Measurement Methods**
+    *   ISE: Measured by this method using a bicarbonate-selective membrane
+        *   Similar to chloride methods, but using a bicarbonate selective electrode
+
+## **Calcium ($Ca^{2+}$)** {-}
+
+*   **Principle:** Several methods are available, including spectrophotometry and ion-selective electrodes (ISEs)
+*   **Spectrophotometric Methods**
+    *   Complexation with a Dye: Dyes such as Arsenazo III or o-cresolphthalein complexone ($OCPC$) bind to calcium ions, forming a colored complex that is measured spectrophotometrically
+*   **Ion-Selective Electrode (ISE) Methods**
+    *   A membrane selectively permeable to calcium ions produces a potential difference related to the calcium concentration
+    *   Measures ionized calcium
+*   **Reactions**
+    *   Spectrophotometric Methods: $Ca^{2+} + Dye → Dye-Ca^{2+}$ Complex (Colored)
+*   **Detection:** The absorbance of the colored complex (spectrophotometric methods) or the potential difference (ISE methods) is measured
+*   **Advantages:** Both methods are widely available and automated
+*   **Disadvantages:** Spectrophotometric methods are susceptible to interferences from hemolysis and lipemia; ISE methods require careful calibration and maintenance
+
+## **Magnesium ($Mg^{2+}$)** {-}
+
+*   **Principle:** Several methods are available, including spectrophotometry and ion-selective electrodes (ISEs)
+*   **Spectrophotometric Methods**
+    *   Dye-Binding Methods: Magnesium reacts with a dye such as calmagite or methylthymol blue to form a colored complex
+*   **Ion-Selective Electrode (ISE) Methods**
+    *   Used to measure ionized magnesium
+*   **Reactions**
+    *   Spectrophotometric Methods: $Mg^{2+} + Dye → Dye-Mg^{2+}$ Complex (Colored)
+*   **Detection:** The absorbance of the colored complex (spectrophotometric methods) or the potential difference (ISE methods) is measured
+*   **Advantages:** Both methods are widely available and automated
+*   **Disadvantages:** Spectrophotometric methods are susceptible to interferences from calcium and other ions; ISE methods require careful calibration and maintenance
+
+## **Phosphorus ($P$)** {-}
+
+*   **Principle:** Phosphorus (as phosphate) reacts with ammonium molybdate to form a phosphomolybdate complex, which is then reduced to molybdenum blue
+*   **Reactions**
+        *   $P + Ammonium Molybdate → Phosphomolybdate Complex$
+        *   $Phosphomolybdate Complex + Reducing Agent → Molybdenum Blue$
+*   **Detection:** The intensity of the molybdenum blue color is measured spectrophotometrically
+*   **Advantages:** Relatively simple and widely available
+*   **Disadvantages:** Susceptible to interferences from hemolysis, lipemia, and bilirubin
+
+## **Iron ($Fe$)** {-}
+
+*   **Principle:** Iron is released from transferrin by an acidic buffer and reduced to $Fe^{2+}$. The $Fe^{2+}$ reacts with a chromogen to form a colored complex, which is measured spectrophotometrically
+*   **Reactions**
+    *   $Transferrin-Fe^{3+} + Acidic Buffer → Transferrin + Fe^{3+}$
+    *   $Fe^{3+} + Reducing Agent → Fe^{2+}$
+    *   $Fe^{2+} + Chromogen → Colored Complex$
+*   **Detection:** The intensity of the colored complex is directly proportional to the iron concentration in the sample
+*   **Advantages:** Widely available and relatively inexpensive
+*   **Disadvantages:** Affected by diurnal variation and recent iron intake
+
+## **Total Iron-Binding Capacity (TIBC)** {-}
+
+*   **Principle:** Excess iron is added to saturate all binding sites on transferrin. The unbound iron is removed, and the total iron is then measured using a similar method to serum iron
+*   **Reactions**
+    *   $Transferrin + Excess Fe^{3+} → Transferrin-Fe^{3+}$ (Saturated)
+    *   Removal of Unbound $Fe^{3+}$
+    *   $Transferrin-Fe^{3+} + Acidic Buffer → Transferrin + Fe^{3+}$
+    *   $Fe^{3+} + Reducing Agent → Fe^{2+}$
+    *   $Fe^{2+} + Chromogen → Colored Complex$
+*   **Detection:** The intensity of the colored complex is directly proportional to the TIBC
+*   **Advantages:** Provides an estimate of transferrin concentration
+*   **Disadvantages:** More complex than serum iron measurement
+
+## **Key Terms** {-}
+
+*   **Ion-Selective Electrode (ISE):** An electrochemical sensor that responds selectively to specific ions
+*   **Potentiometry:** A method to measure the electrical potential difference between two electrodes
+*   **Amperometry:** A method to measure the electrical current flowing through an electrochemical cell
+*   **Spectrophotometry:** A method to measure the absorbance of light by a solution
+*   **Chromogen:** A substance that produces a colored product
+*   **Enzymatic Method:** A laboratory method that uses enzymes to catalyze a reaction
+*   **ISE (Ion-selective electrode):** Measures the concentration of specific ions through a membrane
+*   **ISE direct:** Uses an undiluted sample
+*   **ISE indirect:** Requires sample dilution
+*   **Coefficient of Variation:** Measure of precision

@@ -1,0 +1,76 @@
+# Clearances {-}
+
+Clearance tests assess the rate at which substances are removed from the body, usually by the kidneys. They are essential for evaluating kidney function
+
+*   **Key Concepts:** Glomerular Filtration, Tubular Reabsorption, Tubular Secretion
+*   **Calculations:** Clearance is calculated using the following formula:
+
+    *   C = (U x V) / P
+
+        *   C = Clearance (mL/min)
+        *   U = Urine concentration of the substance (mg/dL)
+        *   V = Urine flow rate (mL/min)
+        *   P = Plasma concentration of the substance (mg/dL)
+
+## **Creatinine Clearance** {-}
+
+*   **Principle:** Measures the rate at which creatinine is removed from the blood by the kidneys. Creatinine is a waste product of muscle metabolism that is freely filtered by the glomeruli and is neither reabsorbed nor significantly secreted by the tubules
+*   **Procedure**
+    1.  **24-Hour Urine Collection:** The patient collects all urine for a 24-hour period, starting and ending at the same time of day. The total volume of urine is measured, and a small aliquot is sent to the laboratory
+    2.  **Blood Sample Collection:** A blood sample is collected during the 24-hour urine collection period
+    3.  **Creatinine Measurement:** Creatinine is measured in both the urine and serum samples using the Jaffe reaction or an enzymatic method
+    4.  **Calculation:** Creatinine clearance is calculated using the formula:
+        *   C = (U x V) / P
+*   **Corrections:** Corrected for Body Surface Area (BSA)
+*   **Reportable Range:** 25 - 250 mL/min
+*   **Sources of Error**
+        *   Incomplete Urine Collection: A major source of error. Ensure the patient understands the importance of collecting all urine during the 24-hour period
+        *   Improper Timing: Starting and ending the collection at the wrong time
+        *   Medications: Some medications can affect creatinine clearance
+        *   Muscle Mass: Creatinine production is related to muscle mass. Individuals with very high or low muscle mass may have inaccurate creatinine clearance estimates
+*   **Alternate Estimates (eGFR)**
+    *   **Equations**
+        *   Cockcroft-Gault Equation: Estimates creatinine clearance based on serum creatinine, age, weight, and sex. Overestimates GFR in obese patients
+        *   MDRD (Modification of Diet in Renal Disease) Equation: Estimates GFR based on serum creatinine, age, sex, and ethnicity
+        *   CKD-EPI (Chronic Kidney Disease Epidemiology Collaboration) Equation: More accurate than MDRD, particularly at higher GFR levels
+*   **Clinical Significance**
+    *   Creatinine clearance is a measure of glomerular filtration rate (GFR) and is used to assess kidney function
+    *   Decreased creatinine clearance indicates impaired kidney function
+    *   Creatinine clearance is used to stage chronic kidney disease (CKD) and to adjust medication dosages
+*   **CKD Stages**
+        *   Stage 1: Kidney damage with normal or increased GFR (≥ 90 mL/min/1.73 m2)
+        *   Stage 2: Kidney damage with mild decrease in GFR (60-89 mL/min/1.73 m2)
+        *   Stage 3a: Moderate decrease in GFR (45-59 mL/min/1.73 m2)
+        *   Stage 3b: Moderate decrease in GFR (30-44 mL/min/1.73 m2)
+        *   Stage 4: Severe decrease in GFR (15-29 mL/min/1.73 m2)
+        *   Stage 5: Kidney failure (GFR < 15 mL/min/1.73 m2 or dialysis)
+
+## **Urea Clearance** {-}
+
+*   **Principle:** Measures the rate at which urea is removed from the blood by the kidneys. Urea is freely filtered by the glomeruli and is partially reabsorbed by the tubules
+*   **Procedure**
+    1.  **Timed Urine Collection:** The patient collects urine for a timed period (e.g., 1 hour, 2 hours). The total volume of urine is measured, and a small aliquot is sent to the laboratory
+    2.  **Blood Sample Collection:** A blood sample is collected during the urine collection period
+    3.  **Urea Measurement:** Urea is measured in both the urine and serum samples using the urease method
+    4.  **Calculation:** Urea clearance is calculated using the formula:
+        *   C = (U x V) / P
+*   **Clinical Significance**
+    *   Urea clearance is a measure of kidney function and can be used to assess GFR
+    *   Urea clearance is less accurate than creatinine clearance because urea reabsorption varies with urine flow rate and hydration status
+    *   Urea clearance is primarily of historical interest and is not commonly used in clinical practice
+
+## **Key Terms** {-}
+
+*   **Clearance:** The rate at which a substance is removed from the blood by the kidneys
+*   **Glomerular Filtration Rate (GFR):** The rate at which blood is filtered by the glomeruli
+*   **Tubular Reabsorption:** The process by which substances are reabsorbed from the renal tubules back into the bloodstream
+*   **Tubular Secretion:** The process by which substances are secreted from the bloodstream into the renal tubules
+*   **Creatinine:** A waste product of muscle metabolism
+*   **Urea:** A waste product of protein metabolism
+*   **24-Hour Urine Collection:** A collection of all urine produced over a 24-hour period
+*   **Timed Urine Collection:** A collection of urine produced over a specified period of time
+*   **Jaffe Reaction:** A chemical reaction used to measure creatinine
+*   **Urease Method:** An enzymatic method used to measure urea
+*   **Estimated Glomerular Filtration Rate (eGFR):** An estimate of GFR based on serum creatinine, age, sex, and ethnicity
+*   **Body Surface Area (BSA):** The measured or calculated surface of a human body
+*   **CKD Stages:** Stages of chronic kidney disease based on GFR

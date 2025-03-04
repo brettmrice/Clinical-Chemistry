@@ -1,0 +1,131 @@
+# Properties {-}
+
+The unique structures of lipids dictate their physical and chemical behaviors. This knowledge is essential for understanding how lipids are transported, stored, and used in the body
+
+## **Physical and Chemical Properties** {-}
+
+*   **Lipoproteins**
+    *   **Physical:** Spherical particles with a core of triglycerides and cholesterol esters, surrounded by a shell of phospholipids, cholesterol, and apolipoproteins
+    *   **Chemical:** Amphipathic nature allows transport of hydrophobic lipids in the aqueous blood
+*   **Phospholipids**
+    *   **Physical:** Amphipathic molecules with a polar head group and nonpolar fatty acid tails. They form bilayers in aqueous solutions
+    *   **Chemical:** Hydrolyzed by phospholipases. Participate in cell signaling and membrane structure
+*   **Triglycerides**
+    *   **Physical:** Nonpolar, hydrophobic molecules that are liquid at body temperature
+    *   **Chemical:** Ester bonds are hydrolyzed by lipases. Primary form of energy storage
+*   **Cholesterol**
+    *   **Physical:** A rigid, hydrophobic steroid ring structure
+    *   **Chemical:** Precursor for steroid hormones and bile acids. Can form esters with fatty acids
+*   **Apolipoproteins**
+    *   **Physical:** Proteins that bind to lipoproteins, providing structure and targeting signals
+    *   **Chemical:** Interact with cell surface receptors and enzymes. Activate or inhibit enzymes in lipid metabolism
+
+## **Lipoproteins** {-}
+
+*   **Definition:** Complex particles that transport lipids (triglycerides, cholesterol) in the aqueous environment of the blood. They are essential for delivering lipids to and from tissues
+*   **Structure**
+    *   **Core:** Hydrophobic core containing triglycerides and cholesterol esters
+    *   **Shell:** Amphipathic shell containing phospholipids, free cholesterol, and apolipoproteins
+*   **Classes**
+    *   **Chylomicrons:** Transport dietary triglycerides from the intestine to tissues
+    *   **VLDL (Very-Low-Density Lipoproteins):** Transport triglycerides from the liver to tissues
+    *   **LDL (Low-Density Lipoproteins):** Transport cholesterol from the liver to tissues
+    *   **HDL (High-Density Lipoproteins):** Transport cholesterol from tissues back to the liver (reverse cholesterol transport)
+*   **Physical Properties**
+    *   **Shape:** Spherical
+    *   **Size:** Varies depending on the class (chylomicrons > VLDL > LDL > HDL)
+    *   **Density:** Varies depending on the lipid and protein content (HDL > LDL > VLDL > chylomicrons)
+    *   **Solubility:** Amphipathic nature allows them to be dispersed in the aqueous blood
+*   **Chemical Properties**
+    *   **Amphipathic Nature:** The outer shell is amphipathic, allowing the hydrophobic lipids in the core to be transported in the blood
+    *   **Apolipoprotein Interactions:** Apolipoproteins on the surface interact with cell surface receptors and enzymes involved in lipid metabolism
+    *   **Lipolysis:** Triglycerides in chylomicrons and VLDL are hydrolyzed by lipoprotein lipase (LPL), releasing fatty acids for uptake by tissues
+*   **Apolipoproteins Functions**
+    *   Structural Component
+    *   Ligands for receptors
+    *   Enzyme regulators
+
+## **Phospholipids** {-}
+
+*   **Definition:** Amphipathic lipids that are major components of cell membranes. They consist of a glycerol backbone, two fatty acid tails, and a phosphate group attached to a polar head group
+*   **Structure**
+    *   **Glycerol Backbone:** A three-carbon molecule
+    *   **Fatty Acid Tails:** Two fatty acids attached to the glycerol backbone via ester bonds. One is saturated and the other is unsaturated
+    *   **Phosphate Group:** A phosphate group attached to the third carbon of glycerol, linked to a polar head group
+    *   **Polar Head Group:** Varies (e.g., choline, serine, ethanolamine, inositol)
+*   **Physical Properties**
+    *   **Amphipathic Nature:** They have both hydrophobic (fatty acid tails) and hydrophilic (polar head group) regions
+    *   **Bilayer Formation:** In aqueous solutions, phospholipids spontaneously form bilayers, with the hydrophobic tails facing inward and the hydrophilic head groups facing outward
+    *   **Fluidity:** The fluidity of the bilayer depends on the saturation of the fatty acid tails and the presence of cholesterol
+*   **Chemical Properties**
+    *   **Hydrolysis:** Phospholipids can be hydrolyzed by phospholipases, releasing fatty acids and other molecules
+    *   **Cell Signaling:** Some phospholipids (e.g., phosphatidylinositol) play a role in cell signaling pathways
+    *   **Membrane Structure:** They are essential components of cell membranes, providing structure and flexibility
+
+## **Triglycerides** {-}
+
+*   **Definition:** Neutral lipids consisting of a glycerol molecule esterified with three fatty acids. They are the primary form of energy storage in the body
+*   **Structure**
+    *   **Glycerol Backbone:** A three-carbon molecule
+    *   **Fatty Acids:** Three fatty acids attached to the glycerol backbone via ester bonds. The fatty acids can be saturated, unsaturated, or a combination thereof
+*   **Physical Properties**
+    *   **Hydrophobic Nature:** Nonpolar and insoluble in water
+    *   **Liquid at Body Temperature:** Most triglycerides are liquid at body temperature (fats that are solid at room temperature have a higher proportion of saturated fatty acids)
+    *   **Energy Density:** High energy density (9 kcal/gram)
+*   **Chemical Properties**
+    *   **Ester Bonds:** The ester bonds linking the fatty acids to glycerol can be hydrolyzed by lipases, releasing fatty acids and glycerol
+    *   **Saponification:** Triglycerides can be saponified (hydrolyzed with a strong base) to produce glycerol and soap (fatty acid salts)
+    *   **Oxidation:** Fatty acids can be oxidized to produce energy (beta-oxidation)
+
+## **Cholesterol** {-}
+
+*   **Definition:** A sterol lipid that is an essential component of cell membranes and a precursor for steroid hormones and bile acids
+*   **Structure**
+    *   **Steroid Ring Structure:** Four fused hydrocarbon rings (A, B, C, and D)
+    *   **Hydroxyl Group:** A hydroxyl (-OH) group at carbon 3, making it weakly amphipathic
+    *   **Alkyl Side Chain:** An alkyl side chain at carbon 17
+*   **Physical Properties**
+    *   **Hydrophobic Nature:** Mostly nonpolar and insoluble in water
+    *   **Rigid Structure:** The steroid ring structure is rigid and provides stability to cell membranes
+    *   **Crystalline Solid:** Cholesterol is a crystalline solid at room temperature
+*   **Chemical Properties**
+    *   **Precursor for Steroid Hormones:** Cholesterol is the precursor for steroid hormones such as cortisol, aldosterone, testosterone, estrogen, and progesterone
+    *   **Precursor for Bile Acids:** Cholesterol is converted to bile acids in the liver, which aid in the digestion and absorption of fats
+    *   **Esterification:** The hydroxyl group at carbon 3 can be esterified with a fatty acid, forming cholesterol esters, which are more hydrophobic and are stored in cells and lipoproteins
+    *   **Hydroxylation:** Cholesterol can be hydroxylated to form various oxysterols, which have regulatory functions
+
+## **Apolipoproteins** {-}
+
+*   **Definition:** Proteins that bind to lipoproteins, providing structural support, targeting signals, and enzyme regulation
+*   **Types**
+    *   **ApoA-I:** Major protein of HDL; activates LCAT (lecithin-cholesterol acyltransferase)
+    *   **ApoB-100:** Major protein of VLDL and LDL; ligand for LDL receptor
+    *   **ApoC-II:** Activates lipoprotein lipase (LPL)
+    *   **ApoE:** Ligand for LDL receptor and LDL receptor-related protein (LRP)
+*   **Physical Properties**
+    *   **Soluble Proteins:** Soluble in aqueous solutions
+    *   **Amphipathic Regions:** Contain amphipathic regions that allow them to interact with both lipids and water
+*   **Chemical Properties**
+    *   **Lipid Binding:** Bind to lipids in lipoproteins, stabilizing the structure
+    *   **Receptor Binding:** Interact with cell surface receptors, mediating lipoprotein uptake
+    *   **Enzyme Activation:** Activate or inhibit enzymes involved in lipid metabolism
+*   **Functions**
+    *   Structural Component
+    *   Ligands for receptors
+    *   Enzyme regulators
+
+## **Key Terms** {-}
+
+*   **Lipoproteins:** Particles that transport lipids in the blood
+*   **Phospholipids:** Amphipathic lipids that are major components of cell membranes
+*   **Triglycerides:** Neutral lipids consisting of a glycerol molecule esterified with three fatty acids
+*   **Cholesterol:** A sterol lipid that is an essential component of cell membranes and a precursor for steroid hormones and bile acids
+*   **Apolipoproteins:** Proteins that bind to lipoproteins, providing structural support, targeting signals, and enzyme regulation
+*   **Amphipathic:** Having both hydrophobic and hydrophilic regions
+*   **Hydrophobic:** Repelling water
+*   **Hydrophilic:** Attracted to water
+*   **Ester Bond:** A chemical bond formed between an alcohol and a carboxylic acid
+*   **Saponification:** The hydrolysis of a triglyceride with a strong base to produce glycerol and soap
+*   **Steroid Ring Structure:** The four fused hydrocarbon rings that form the basic structure of cholesterol and other steroid hormones
+*   **Lipoprotein Lipase (LPL):** An enzyme that hydrolyzes triglycerides in lipoproteins
+*   **LCAT (Lecithin-Cholesterol Acyltransferase):** An enzyme that esterifies cholesterol in HDL

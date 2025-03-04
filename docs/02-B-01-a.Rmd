@@ -1,0 +1,134 @@
+# Metabolic {-}
+
+Proteins are essential for cell structure, enzyme catalysis, and immune responses. The body uses proteins and other nitrogen-containing compounds as a building block or final product. Understanding protein metabolism is crucial for understanding numerous physiological processes
+
+## **Proteins and Other Nitrogen-Containing Compounds** {-}
+
+*   **Definition:** Proteins are large biomolecules consisting of one or more long chains of amino acids linked by peptide bonds
+*   **Function:** Proteins perform a wide variety of functions in living organisms, including:
+    *   Enzymes: Catalyze biochemical reactions
+    *   Structural Proteins: Provide support and shape to cells and tissues
+    *   Transport Proteins: Carry molecules across cell membranes or in the bloodstream
+    *   Hormones: Act as chemical messengers
+    *   Antibodies: Recognize and bind to foreign substances
+    *   Contractile Proteins: Enable muscle contraction
+*   **Other Nitrogen-Containing Compounds:** In addition to proteins, other important nitrogen-containing compounds include amino acids, nucleotides, creatine, porphyrins, and neurotransmitters
+*   **Key Metabolic Pathways**
+    *   Protein Synthesis: Production of proteins from amino acids
+    *   Protein Degradation: Breakdown of proteins into amino acids
+    *   Amino Acid Metabolism:
+        *   Transamination
+        *   Deamination
+        *   Urea Cycle
+        *   Synthesis of Specialized Products
+
+## **Protein Synthesis** {-}
+
+*   **Purpose:** To produce proteins from amino acids, based on the genetic code
+*   **Location:** Ribosomes in the cytoplasm
+*   **Process**
+    1.  **Transcription:** DNA is transcribed into mRNA in the nucleus
+    2.  **Translation:** mRNA is translated into a protein on ribosomes in the cytoplasm
+        *   mRNA binds to ribosomes
+        *   tRNA molecules bring specific amino acids to the ribosome
+        *   Amino acids are linked together by peptide bonds to form a polypeptide chain
+    3.  **Post-Translational Modification:** The polypeptide chain is modified to form a functional protein
+        *   Folding: The polypeptide chain folds into a specific three-dimensional structure
+        *   Modification: Chemical groups may be added or removed (e.g., glycosylation, phosphorylation)
+        *   Cleavage: The polypeptide chain may be cleaved into smaller fragments
+        *   Quaternary Structure: Multiple polypeptide chains may assemble to form a complex protein
+*   **Regulation**
+    *   Transcription Factors: Regulate the transcription of genes
+    *   mRNA Stability: Affects the amount of protein produced
+    *   Ribosome Availability: Affects the rate of translation
+    *   Post-Translational Modification: Can activate or inactivate proteins
+
+## **Protein Degradation** {-}
+
+*   **Purpose:** To break down proteins into amino acids
+*   **Location:** Lysosomes and proteasomes
+*   **Process**
+    1.  **Lysosomal Degradation**
+        *   Proteins are taken up by lysosomes
+        *   Lysosomes contain proteases that degrade proteins into amino acids
+    2.  **Ubiquitin-Proteasome Pathway**
+        *   Proteins are tagged with ubiquitin
+        *   Ubiquitinated proteins are degraded by proteasomes into small peptides
+        *   Peptides are further degraded into amino acids
+*   **Regulation**
+    *   Ubiquitin Ligases: Regulate the ubiquitination of proteins
+    *   Proteasome Activity: Regulated by ATP and other factors
+
+## **Amino Acid Metabolism** {-}
+
+*   **Purpose:** To convert amino acids into other molecules, including energy, glucose, lipids, and specialized products
+*   **Transamination**
+    *   Transfer of an amino group from an amino acid to a keto acid
+    *   Catalyzed by aminotransferases (transaminases)
+    *   Requires pyridoxal phosphate (vitamin B6) as a cofactor
+    *   Important for synthesizing non-essential amino acids
+*   **Deamination**
+    *   Removal of an amino group from an amino acid
+    *   Produces ammonia (NH3)
+    *   Ammonia is toxic and must be converted to urea for excretion
+*   **Urea Cycle**
+    *   Conversion of ammonia to urea
+    *   Occurs in the liver
+    *   Involves a series of enzymatic reactions
+    *   Urea is excreted in the urine
+*   **Synthesis of Specialized Products**
+    *   Amino acids are used to synthesize a variety of specialized products, including:
+        *   Neurotransmitters (e.g., serotonin, dopamine)
+        *   Hormones (e.g., thyroid hormones)
+        *   Purines and Pyrimidines (building blocks of DNA and RNA)
+        *   Porphyrins (e.g., heme)
+        *   Creatine
+*   **Regulation**
+    *   Hormonal Control: Insulin, glucagon, and cortisol regulate amino acid metabolism
+    *   Allosteric Regulation: Enzymes in amino acid metabolic pathways are regulated by allosteric effectors
+    *   Substrate Availability: The availability of amino acids affects the rate of metabolism
+
+## **Creatine Metabolism** {-}
+
+*   **Purpose:** To synthesize creatine and phosphocreatine, which are important for energy storage in muscle cells
+*   **Process**
+    1.  **Synthesis of Creatine**
+        *   Arginine + Glycine → Guanidinoacetate + Ornithine (in kidney)
+        *   Guanidinoacetate + SAM → Creatine + SAH (in liver)
+    2.  **Transport to Muscle**
+        *   Creatine is transported from the liver to muscle cells
+    3.  **Phosphorylation of Creatine**
+        *   Creatine + ATP ↔ Phosphocreatine + ADP (catalyzed by creatine kinase)
+    4.  **Use of Phosphocreatine**
+        *   Phosphocreatine is used to regenerate ATP during muscle contraction
+    5.  **Degradation of Creatine and Phosphocreatine**
+        *   Creatine and phosphocreatine are spontaneously converted to creatinine
+        *   Creatinine is excreted in the urine
+*   **Clinical Significance**
+    *   Creatine kinase (CK) is used as a marker of muscle damage
+    *   Creatinine is used as a measure of kidney function
+
+## **Key Terms** {-}
+
+*   **Protein Synthesis:** The production of proteins from amino acids
+*   **Protein Degradation:** The breakdown of proteins into amino acids
+*   **Amino Acid Metabolism:** The processing of amino acids for energy, glucose, lipids, and specialized products
+*   **Transamination:** The transfer of an amino group from an amino acid to a keto acid
+*   **Deamination:** The removal of an amino group from an amino acid
+*   **Urea Cycle:** The conversion of ammonia to urea
+*   **Creatine:** A molecule that stores energy in muscle cells
+*   **Phosphocreatine:** A phosphorylated form of creatine that stores energy
+*   **Creatinine:** A waste product formed from the breakdown of creatine and phosphocreatine
+*   **Ribosome:** A cellular structure that synthesizes proteins
+*   **tRNA (transfer RNA):** An RNA molecule that brings amino acids to the ribosome
+*   **mRNA (messenger RNA):** An RNA molecule that carries the genetic code from DNA to the ribosome
+*   **Transcription:** The process of copying DNA into RNA
+*   **Translation:** The process of converting mRNA into a protein
+*   **Protease:** An enzyme that breaks down proteins
+*   **Aminotransferase (Transaminase):** An enzyme that catalyzes the transfer of an amino group
+*   **SAM (S-Adenosylmethionine):** A methyl donor in biochemical reactions
+*   **SAH (S-Adenosylhomocysteine):** A product of SAM-dependent methylation reactions
+*   **Hormones:** Molecules synthesized from amino acids which act as a signaling molecule. Some examples include, thyroxine, epinephrine, and dopamine
+*   **Neurotransmitters:** Signaling molecules responsible for transmitting messages between neurons. Amino acids are the building blocks of neurotransmitters such as GABA, glutamate, dopamine, serotonin, etc
+*   **Purines and Pyrimidines:** These are nitrogenous compounds that are essential components of genetic material (DNA & RNA)
+*   **Porphyrins:** This is a group of heterocyclic organic compounds, often forming a ring. A porphyrin is a crucial building block of heme-containing molecules that include hemoglobin and cytochromes

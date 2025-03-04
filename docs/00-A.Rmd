@@ -1,0 +1,23 @@
+# ASCP BOC {-}
+
+ASCP BOC's Content Guideline for the Technologist in Chemistry, C(ASCP), and the Specialist in Chemistry, SH(ASCP), certification exams consists of five major content areas. The information below was last revised on ASCP's website March 2022
+
+## **General Chemistry** {-}
+*   **Exam Percentage:** 15% - 25%
+*   **Description:** Biochemical theory and physiology, test procedures, test result interpretation, and disease state correlation for carbohydrates, lipids, and heme derivatives
+
+## **Proteins and Enzymes** {-}
+*   **Exam Percentage:** 15% - 25%
+*   **Description:** Biochemical theory and physiology, test procedures, test result interpretation, and disease state correlation for enzymes, proteins and other nitrogen-containing compounds
+
+## **Acid-Base, Blood Gases, and Electrolytes** {-}
+*   **Exam Percentage:** 15% - 25%
+*   **Description:** Biochemical theory and physiology, test procedures, test result interpretation, and disease state correlation for acid-base determinations, blood gases, and electrolytes
+
+## **Special Chemistry** {-}
+*   **Exam Percentage:** 15% - 20%
+*   **Description:** Biochemical theory and physiology, test procedures, test result interpretation, and disease state correlation for endocrinology, vitamins, therapeutic drug monitoring, and toxicology
+
+## **Laboratory Operations** {-}
+*   **Exam Percentage:** C(ASCP): 15% - 20% | SC(ASCP): 20% - 25%
+*   **Description:** Quality assessment/troubleshooting, compliance, regulations, safety, laboratory mathematics, instrumentation, and laboratory administration (SC EXAM ONLY)

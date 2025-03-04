@@ -1,0 +1,133 @@
+# Henderson-Hasselbach {-}
+
+Blood gases and pH are vital for homeostasis
+
+## **Acid-Base Balance** {-}
+
+*   **Definition of Acids and Bases**
+    *   Acid: A substance that donates protons ($H^+$)
+    *   Base: A substance that accepts protons ($H^+$)
+*   **pH Scale**
+    *   $pH = -log[H^+] = -log[H_3O^+]$
+    *   Ranges from 0 to 14, with 7 being neutral
+    *   pH < 7: Acidic
+    *   pH > 7: Basic (alkaline)
+*   **Normal Blood pH:** 7.35-7.45
+*   **Importance of Acid-Base Balance**
+    *   Optimal enzyme function
+    *   Maintenance of cell membrane integrity
+    *   Appropriate protein structure and function
+    *   Electrolyte balance
+*   **Acidemia:** Blood pH < 7.35
+*   **Alkalemia:** Blood pH > 7.45
+*   **Major Buffer Systems in the Body**
+    *   Bicarbonate Buffer System: Primary buffer system in extracellular fluid
+    *   Hemoglobin Buffer System: Buffers pH changes within red blood cells
+    *   Phosphate Buffer System: Important in intracellular fluid and urine
+    *   Protein Buffer System: Buffers pH changes in intracellular and extracellular fluid
+
+## **Biochemical Theory** {-}
+
+*   **Sources of Acids and Bases**
+    *   Volatile Acid: Carbon dioxide ($CO_2$), produced during metabolism, is converted to carbonic acid ($H_2CO_3$)
+          *   $CO_2$ + $H_2O$ ↔ $H_2CO_3$ ↔ $H^+$ + $HCO_3^-$
+          *   The lungs regulate $CO_2$ levels through ventilation
+    *   Nonvolatile Acids: Produced from the metabolism of proteins and other organic compounds
+          *   Examples: Sulfuric acid, phosphoric acid, lactic acid, ketoacids
+          *   The kidneys excrete nonvolatile acids
+    *   Bases: Generated through metabolic processes, but less significant than acid production
+
+## **Regulation of Acid-Base Balance** {-}
+
+*   **Buffer Systems**
+    *   Act immediately to resist pH changes
+    *   Do not eliminate acids or bases from the body
+*   **Respiratory System**
+    *   Regulates $CO_2$ levels through ventilation
+    *   Responds rapidly (within minutes) to pH changes
+*   **Renal System**
+    *   Excretes nonvolatile acids and regenerates bicarbonate ($HCO_3^-$)
+    *   Responds slowly (over hours to days) to pH changes
+*   **Compensation Mechanisms**
+    *   Respiratory Compensation: The lungs adjust ventilation to change $CO_2$ levels in response to metabolic acid-base disturbances
+    *   Renal Compensation: The kidneys adjust $HCO_3^-$ excretion and $H^+$ secretion to compensate for respiratory acid-base disturbances
+
+## **Respiratory Control** {-}
+
+*   **Ventilation**
+    *   Increased Ventilation: Blows off $CO_2$, decreases $H_2CO_3$, and raises pH
+    *   Decreased Ventilation: Retains $CO_2$, increases $H_2CO_3$, and lowers pH
+*   **Chemoreceptors**
+    *   Central Chemoreceptors: Located in the medulla oblongata and respond to changes in pH and $CO_2$ levels in the cerebrospinal fluid (CSF)
+    *   Peripheral Chemoreceptors: Located in the carotid and aortic bodies and respond to changes in pH, $CO_2$, and $O_2$ levels in the blood
+*   **Response to Acidosis**
+    *   Increased ventilation to blow off $CO_2$ and raise pH
+*   **Response to Alkalosis**
+    *   Decreased ventilation to retain $CO_2$ and lower pH
+
+## **Renal Control** {-}
+
+*   **Bicarbonate Reabsorption**
+    *   Most bicarbonate ($HCO_3^-$) is reabsorbed in the proximal tubule
+    *   Involves the enzyme carbonic anhydrase and the secretion of $H^+$ into the tubular lumen
+*   **Acid Excretion**
+    *   $H^+$ is secreted into the tubular lumen
+    *   $H^+$ combines with buffers such as phosphate ($HPO_4^{2-}$) and ammonia ($NH_3$) to form titratable acid ($H_2PO_4^-$) and ammonium ($NH_4^+$)
+    *   Ammonia is produced from glutamine in the proximal tubule
+*   **Response to Acidosis**
+    *   Increased $H^+$ secretion
+    *   Increased bicarbonate reabsorption
+    *   Increased ammonia production
+*   **Response to Alkalosis**
+    *   Decreased $H^+$ secretion
+    *   Decreased bicarbonate reabsorption
+
+## **Acid-Base Imbalances** {-}
+
+*   **Acidosis:** A condition in which the blood pH is below the normal range (< 7.35)
+    *   Respiratory Acidosis: Caused by increased $CO_2$ levels (decreased ventilation)
+    *   Metabolic Acidosis: Caused by decreased $HCO_3^-$ levels or increased nonvolatile acid production
+*   **Alkalosis:** A condition in which the blood pH is above the normal range (> 7.45)
+    *   Respiratory Alkalosis: Caused by decreased $CO_2$ levels (increased ventilation)
+    *   Metabolic Alkalosis: Caused by increased $HCO_3^-$ levels or decreased nonvolatile acid levels
+
+## **Henderson-Hasselbalch Equation** {-}
+
+*   **Equation**
+    *   $pH = pKa + \log \left( \frac {[A^-]} {[HA]} \right)$
+        *   $pH$: Measure of acidity or basicity
+        *   $pKa$: The negative log of the acid dissociation constant (Ka), indicating the strength of an acid
+        *   \[$A^-$]: Concentration of the conjugate base
+        *   \[$HA$]: Concentration of the weak acid
+*   **Application to Bicarbonate Buffer System**
+    *   $pH = 6.1 + \log \left( {\frac {[HCO_3^-]} {0.03 \times PaCO_2}} \right)$
+        *   6.1 = $pKa$ of carbonic acid ($H_2CO_3$)
+        *   [$HCO_3^-$] = Concentration of bicarbonate in mmol/L
+        *   Pa$CO_2$ = Partial pressure of carbon dioxide in mmHg
+        *   0.03 = Solubility coefficient of $CO_2$ in blood (converts Pa$CO_2$ to [$H_2CO_3$])
+*   **Clinical Significance**
+    *   The Henderson-Hasselbalch equation describes the relationship between pH, bicarbonate, and Pa$CO_2$ in the blood
+    *   It is used to assess acid-base balance and to determine the cause of acid-base disturbances
+    *   Changes in bicarbonate and Pa$CO_2$ affect the pH, and the body uses compensation mechanisms to maintain the pH within the normal range
+
+## **Key Terms** {-}
+
+*   **Acid:** A substance that donates protons ($H^+$)
+*   **Base:** A substance that accepts protons ($H^+$)
+*   **pH:** A measure of the acidity or basicity of a solution
+*   **Buffer:** A solution that resists changes in pH
+*   **Acidosis:** A condition in which the blood pH is below the normal range
+*   **Alkalosis:** A condition in which the blood pH is above the normal range
+*   **Bicarbonate ($HCO_3^-$):** A major buffer in the blood
+*   **Partial Pressure of Carbon Dioxide (Pa$CO_2$):** A measure of the carbon dioxide level in the blood
+*   **Ventilation:** The process of moving air into and out of the lungs
+*   **Respiratory Compensation:** The adjustment of ventilation to correct metabolic acid-base disturbances
+*   **Renal Compensation:** The adjustment of renal excretion of acid or base to correct respiratory acid-base disturbances
+*   **Anion Gap:** The difference between measured cations and anions in serum, used to assess metabolic acidosis
+*   **Henderson-Hasselbalch Equation:** An equation that describes the relationship between pH, bicarbonate, and Pa$CO_2$
+*   **Hyperventilation:** Increased rate and depth of breathing
+*   **Hypoventilation:** Decreased rate and depth of breathing
+*   **Bohr Effect:** The effect of pH and $CO_2$ on the oxygen-binding affinity of hemoglobin
+*   **Carbonic Anhydrase:** The enzyme that catalyzes the interconversion of carbon dioxide and bicarbonate
+*   **Normoventilation:** The state of normal breathing, with an appropriate balance of oxygen and carbon dioxide
+*   **Hypoxemia:** Deficiency in the saturation of oxygen in arterial blood

@@ -1,0 +1,95 @@
+# Metabolic {-}
+
+Heme derivatives play critical roles in oxygen transport, electron transfer, and detoxification. Understanding heme metabolism is essential for interpreting various clinical conditions
+
+## **Heme Derivatives** {-}
+
+*   **Definition:** Heme is a porphyrin ring complex with a central iron atom (usually in the Fe2+ ferrous state). It's a prosthetic group essential for the function of various proteins
+*   **Examples**
+    *   Hemoglobin: Oxygen transport in red blood cells
+    *   Myoglobin: Oxygen storage in muscle cells
+    *   Cytochromes: Electron transport in mitochondria
+    *   Catalase and Peroxidase: Detoxification of hydrogen peroxide
+    *   Tryptophan Pyrrolase: Catalyzes the first step in the catabolism of tryptophan
+*   **Key Metabolic Pathways**
+    *   Heme Synthesis: Production of heme in the bone marrow and liver
+    *   Heme Degradation: Breakdown of heme in the spleen and liver, leading to bilirubin formation
+
+## **Heme Synthesis** {-}
+
+*   **Purpose:** To produce heme, which is essential for hemoglobin, myoglobin, cytochromes, and other heme-containing proteins
+*   **Location:** Bone marrow (primarily for hemoglobin synthesis) and liver (for cytochromes and other heme proteins)
+*   **Subcellular Location:** Initial steps in mitochondria, intermediate steps in cytosol, and final steps back in mitochondria
+*   **Process**
+    1.  **Glycine + Succinyl CoA → δ-Aminolevulinate (ALA)**
+        *   Catalyzed by ALA synthase (rate-limiting enzyme) in mitochondria
+        *   Requires pyridoxal phosphate (vitamin B6) as a cofactor
+    2.  **2 ALA → Porphobilinogen (PBG)**
+        *   Catalyzed by ALA dehydratase (also known as porphobilinogen synthase) in the cytosol
+        *   Inhibited by lead
+    3.  **4 PBG → Protoporphyrin**
+        *   A series of enzymatic reactions in the cytosol convert four molecules of PBG into protoporphyrin
+    4.  **Protoporphyrin + Fe2+ → Heme**
+        *   Catalyzed by ferrochelatase in mitochondria
+        *   Inhibited by lead
+*   **Regulation**
+    *   ALA synthase is the rate-limiting enzyme and is regulated by:
+        *   Heme: Inhibits ALA synthase (feedback inhibition)
+        *   Erythropoietin: Stimulates ALA synthase (in erythroid cells)
+        *   Drugs and Steroid Hormones: Can induce ALA synthase (in liver)
+
+## **Heme Degradation** {-}
+
+*   **Purpose:** To breakdown heme from aged or damaged red blood cells and recycle its components
+*   **Location:** Primarily in the spleen and liver
+*   **Process**
+    1.  **Heme → Biliverdin**
+        *   Catalyzed by heme oxygenase in macrophages
+        *   Heme oxygenase opens the porphyrin ring, releasing iron (Fe2+) and carbon monoxide (CO)
+    2.  **Biliverdin → Bilirubin**
+        *   Catalyzed by biliverdin reductase in macrophages
+        *   Bilirubin is insoluble in water (unconjugated bilirubin)
+    3.  **Bilirubin → Bilirubin-Albumin Complex**
+        *   Bilirubin is transported in the blood bound to albumin
+        *   Albumin increases the solubility of bilirubin
+    4.  **Uptake by Liver**
+        *   The bilirubin-albumin complex is taken up by hepatocytes
+        *   Bilirubin dissociates from albumin and is transported into the hepatocyte
+    5.  **Conjugation of Bilirubin**
+        *   Bilirubin is conjugated with glucuronic acid by bilirubin UDP-glucuronosyltransferase (UGT) in the endoplasmic reticulum
+        *   Conjugation makes bilirubin water-soluble (conjugated bilirubin)
+    6.  **Secretion into Bile**
+        *   Conjugated bilirubin is secreted into bile and transported to the small intestine
+    7.  **Conversion to Urobilinogen**
+        *   In the intestine, bacteria convert conjugated bilirubin to urobilinogen
+    8.  **Fate of Urobilinogen**
+        *   Most of the urobilinogen is excreted in the feces as stercobilin (gives feces its brown color)
+        *   A small amount of urobilinogen is reabsorbed into the blood and excreted in the urine as urobilin (gives urine its yellow color)
+
+## **Iron Metabolism** {-}
+
+*   **Importance:** Iron is a crucial component of heme and is tightly regulated
+*   **Dietary Iron:** Absorbed in the small intestine
+*   **Transport:** Transported in the blood bound to transferrin
+*   **Storage:** Stored in cells as ferritin or hemosiderin
+*   **Regulation:** Hepcidin, a hormone produced by the liver, regulates iron absorption and release
+
+## **Porphyrias** {-}
+
+*   **Definition:** A group of genetic disorders caused by deficiencies in enzymes of the heme synthesis pathway
+*   **Types:** Different types are characterized by the specific enzyme deficiency
+*   **Symptoms:** Vary depending on the type of porphyria
+*   **Diagnosis:** Based on elevated levels of porphyrins and porphyrin precursors in urine, blood, and feces
+
+## **Key Terms** {-}
+
+*   **Heme:** A porphyrin ring complex with a central iron atom
+*   **ALA Synthase:** The rate-limiting enzyme in heme synthesis
+*   **ALA Dehydratase:** An enzyme in heme synthesis inhibited by lead
+*   **Ferrochelatase:** An enzyme in heme synthesis that inserts iron into protoporphyrin, inhibited by lead
+*   **Heme Oxygenase:** An enzyme that breaks down heme into biliverdin
+*   **Biliverdin Reductase:** An enzyme that converts biliverdin to bilirubin
+*   **UDP-Glucuronosyltransferase (UGT):** An enzyme that conjugates bilirubin with glucuronic acid
+*   **Urobilinogen:** A product of bilirubin degradation in the intestine
+*   **Porphyrias:** Genetic disorders caused by deficiencies in enzymes of the heme synthesis pathway
+*   **Hepcidin:** A hormone that regulates iron absorption and release

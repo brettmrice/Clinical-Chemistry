@@ -1,0 +1,200 @@
+# Physiology {-}
+
+Electrolyte balance is critical for maintaining cellular function, fluid balance, and overall health. Deviations from normal electrolyte levels can indicate various underlying conditions
+
+## **Normal States** {-}
+
+*   **Normal Electrolyte Concentrations**
+    *   Electrolyte concentrations are maintained within narrow physiological ranges
+    *   Sodium ($Na^+$): 136-145 mmol/L (conventional and SI units)
+    *   Potassium ($K^+$): 3.5-5.1 mmol/L (conventional and SI units)
+    *   Chloride ($Cl^-$): 98-107 mmol/L (conventional and SI units)
+    *   Bicarbonate ($HCO_3^-$): 23-29 mmol/L (conventional and SI units)
+    *   Calcium ($Ca^{2+}$): 8.6-10.2 mg/dL or 2.2-2.6 mmol/L (SI units)
+    *   Magnesium ($Mg^{2+}$): 1.7-2.2 mg/dL or 0.70-0.90 mmol/L (SI units)
+    *   Phosphorus ($P$): 2.5-4.5 mg/dL or 0.81-1.45 mmol/L (SI units)
+*   **Electrolyte Distribution**
+    *   Appropriate distribution of electrolytes between intracellular fluid (ICF) and extracellular fluid (ECF)
+    *   Sodium: Predominantly extracellular
+    *   Potassium: Predominantly intracellular
+*   **Hormonal Regulation**
+    *   Aldosterone: Regulates sodium and potassium balance
+    *   Antidiuretic Hormone (ADH): Regulates water balance, affecting sodium concentration
+    *   Parathyroid Hormone (PTH): Regulates calcium and phosphate balance
+    *   Vitamin D: Regulates calcium absorption and bone metabolism
+*   **Kidney Function**
+    *   Normal kidney function is essential for maintaining electrolyte balance through reabsorption and excretion
+
+## **Abnormal States** {-}
+
+*   **Sodium Imbalances**
+        *   Hyponatremia
+        *   Hypernatremia
+*   **Potassium Imbalances**
+        *   Hypokalemia
+        *   Hyperkalemia
+*   **Chloride Imbalances**
+        *   Hypochloremia
+        *   Hyperchloremia
+*   **Calcium Imbalances**
+        *   Hypocalcemia
+        *   Hypercalcemia
+*   **Magnesium Imbalances**
+        *   Hypomagnesemia
+        *   Hypermagnesemia
+*   **Phosphate Imbalances**
+        *   Hypophosphatemia
+        *   Hyperphosphatemia
+
+### **Sodium Imbalances** {-}
+
+*   **Hyponatremia**
+    *   Definition: Serum sodium concentration < 136 mmol/L
+    *   Causes
+        *   Hypovolemic Hyponatremia: Sodium loss with greater water loss (e.g., vomiting, diarrhea, diuretics)
+        *   Euvolemic Hyponatremia: Normal sodium levels, but increased water retention (e.g., SIADH, hypothyroidism)
+        *   Hypervolemic Hyponatremia: Increased sodium and water retention, with water excess being greater (e.g., heart failure, cirrhosis)
+    *   Symptoms: Nausea, headache, confusion, muscle cramps, seizures, coma
+*   **Hypernatremia**
+    *   Definition: Serum sodium concentration > 145 mmol/L
+    *   Causes
+        *   Hypovolemic Hypernatremia: Water loss with greater sodium loss (e.g., sweating, diarrhea)
+        *   Euvolemic Hypernatremia: Water loss with normal sodium levels (e.g., diabetes insipidus)
+        *   Hypervolemic Hypernatremia: Sodium gain with greater water gain (e.g., hypertonic saline administration)
+    *   Symptoms: Thirst, confusion, muscle twitching, seizures, coma
+
+### **Potassium Imbalances** {-}
+
+*   **Hypokalemia**
+    *   Definition: Serum potassium concentration < 3.5 mmol/L
+    *   Causes
+        *   Decreased Intake: Poor dietary intake
+        *   Increased Loss: Vomiting, diarrhea, diuretics, hyperaldosteronism
+        *   Cellular Shift: Insulin, alkalosis, beta-adrenergic agonists
+    *   Symptoms: Muscle weakness, fatigue, cardiac arrhythmias, constipation
+*   **Hyperkalemia**
+    *   Definition: Serum potassium concentration > 5.1 mmol/L
+    *   Causes
+        *   Decreased Excretion: Kidney failure, hypoaldosteronism, potassium-sparing diuretics
+        *   Cellular Release: Tissue damage, hemolysis, acidosis, insulin deficiency
+        *   Increased Intake: Excessive potassium supplementation
+    *   Symptoms: Muscle weakness, cardiac arrhythmias, paralysis, cardiac arrest
+
+### **Chloride Imbalances** {-}
+
+*   **Hypochloremia**
+    *   Definition: Serum chloride concentration < 98 mmol/L
+    *   Causes
+        *   Loss of Chloride: Vomiting, nasogastric suctioning, diuretics
+        *   Increased Bicarbonate: Metabolic alkalosis
+        *   Water Retention: Heart failure, SIADH
+    *   Symptoms: Muscle weakness, confusion, metabolic alkalosis
+*   **Hyperchloremia**
+    *   Definition: Serum chloride concentration > 107 mmol/L
+    *   Causes
+        *   Chloride Excess: Excessive saline infusion
+        *   Loss of Bicarbonate: Diarrhea, renal tubular acidosis
+        *   Dehydration: Water deficit
+    *   Symptoms: Lethargy, weakness, metabolic acidosis
+
+### **Calcium Imbalances** {-}
+
+*   **Hypocalcemia**
+    *   Definition: Serum calcium concentration < 8.6 mg/dL or ionized calcium < 4.6 mg/dL
+    *   Causes
+        *   Hypoparathyroidism: Decreased PTH production
+        *   Vitamin D Deficiency: Impaired calcium absorption
+        *   Kidney Disease: Decreased calcium reabsorption, increased phosphate
+        *   Hypomagnesemia: Impairs PTH secretion
+    *   Symptoms: Muscle cramps, tetany, paresthesias, seizures, cardiac arrhythmias
+*   **Hypercalcemia**
+    *   Definition: Serum calcium concentration > 10.2 mg/dL or ionized calcium > 5.6 mg/dL
+    *   Causes
+        *   Hyperparathyroidism: Increased PTH production
+        *   Malignancy: Bone metastasis, ectopic PTH production
+        *   Vitamin D Excess: Increased calcium absorption
+        *   Thiazide Diuretics: Increase calcium reabsorption
+    *   Symptoms: Fatigue, weakness, constipation, kidney stones, bone pain, altered mental status
+
+### **Magnesium Imbalances** {-}
+
+*   **Hypomagnesemia**
+    *   Definition: Serum magnesium concentration < 1.7 mg/dL
+    *   Causes
+        *   Poor Dietary Intake: Malnutrition, alcoholism
+        *   Impaired Absorption: Malabsorption syndromes
+        *   Increased Excretion: Diuretics, hyperaldosteronism
+    *   Symptoms: Muscle weakness, tremors, seizures, cardiac arrhythmias
+*   **Hypermagnesemia**
+    *   Definition: Serum magnesium concentration > 2.2 mg/dL
+    *   Causes
+        *   Kidney Failure: Decreased magnesium excretion
+        *   Excessive Magnesium Intake: Antacids, laxatives
+    *   Symptoms: Muscle weakness, lethargy, respiratory depression, cardiac arrest
+
+### **Phosphate Imbalances** {-}
+
+*   **Hypophosphatemia**
+    *   Definition: Serum phosphate concentration < 2.5 mg/dL
+    *   Causes
+        *   Decreased Intake: Malnutrition, alcoholism
+        *   Cellular Shift: Insulin, alkalosis
+        *   Increased Excretion: Hyperparathyroidism, diuretics
+    *   Symptoms: Muscle weakness, bone pain, seizures, respiratory failure
+*   **Hyperphosphatemia**
+    *   Definition: Serum phosphate concentration > 4.5 mg/dL
+    *   Causes
+        *   Kidney Failure: Decreased phosphate excretion
+        *   Hypoparathyroidism: Decreased PTH production
+        *   Cellular Release: Tissue damage, hemolysis
+    *   Symptoms: Muscle cramps, tetany, cardiac arrhythmias
+
+## **Trace Elements** {-}
+
+*   **Iron (Fe)**
+    *   Iron Deficiency Anemia: Fatigue, weakness, pallor, low hemoglobin, low serum iron, low ferritin, high TIBC
+    *   Hemochromatosis: Fatigue, joint pain, abdominal pain, elevated serum iron, elevated ferritin, elevated transferrin saturation
+*   **Zinc (Zn)**
+    *   Acrodermatitis Enteropathica: A genetic disorder that affects zinc absorption, leading to skin lesions, diarrhea, and growth retardation
+*   **Copper (Cu)**
+    *   Wilson's Disease: A genetic disorder that causes copper to accumulate in the liver, brain, and other organs, leading to liver disease and neurological symptoms
+*   **Selenium (Se)**
+    *   Keshan Disease: A congestive cardiomyopathy caused by a deficiency of selenium
+*   **Iodine (I)**
+    *   Iodine Deficiency: Can result in goiter, hypothyroidism, and cretinism (in children)
+
+## **Key Terms** {-}
+
+*   **Electrolyte:** An ion that conducts electrical impulses in solution
+*   **Cation:** A positively charged ion
+*   **Anion:** A negatively charged ion
+*   **Intracellular Fluid (ICF):** Fluid within cells
+*   **Extracellular Fluid (ECF):** Fluid outside cells
+*   **Aldosterone:** A hormone that increases sodium reabsorption and potassium excretion in the kidneys
+*   **Antidiuretic Hormone (ADH):** A hormone that regulates water reabsorption in the kidneys
+*   **Parathyroid Hormone (PTH):** A hormone that increases blood calcium levels
+*   **Vitamin D:** A hormone that increases blood calcium and phosphate levels
+*   **Hemochromatosis:** A genetic disorder of iron overload
+*   **Hemolysis:** The breakdown of red blood cells
+*   **Dehydration:** A condition caused by the excessive loss of water from the body
+*   **Ascites:** The accumulation of fluid in the peritoneal cavity, causing abdominal swelling
+*   **Edema:** Swelling caused by excess fluid trapped in your body's tissues
+*   **Hypovolemia:** The medical term for a decrease in blood volume which results in decreased oxygen delivery to the body
+*   **Hypoxia:** The deficiency in the amount of oxygen reaching tissues
+*   **Hypercapnia:** The presence of abnormally high levels of carbon dioxide in the blood
+*   **Hypoventilation:** The state in which a reduced amount of air enters the lungs
+*   **Hyperventilation:** The state of breathing too fast or too deeply
+*   **Paresthesias:** An abnormal sensation, typically tingling or pricking ("pins and needles"), caused chiefly by pressure on or damage to peripheral nerves
+*   **Carpopedal Spasm:** Cramps in the hands and feet
+*   **Acromegaly:** A disorder that results from excess growth hormone (GH) after the growth plates have closed
+*   **Acrodermatitis Enteropathica:** A genetic disorder that affects zinc absorption, leading to skin lesions, diarrhea, and growth retardation
+*   **Wilson's Disease:** A genetic disorder that causes copper to accumulate in the liver, brain, and other organs, leading to liver disease and neurological symptoms
+*   **Keshan Disease:** A congestive cardiomyopathy caused by a deficiency of selenium
+*   **Cretinism:** Hypothyroidism in infants and children is called cretinism
+*   **Goiter:** An abnormal enlargement of the thyroid gland
+*   **Hormone:** A regulatory substance produced in an organism and transported in tissue fluids such as blood or sap to stimulate specific cells or tissues into action
+*   **Atherosclerosis:** A disease of the arteries characterized by the deposition of plaques of fatty material on their inner walls
+*   **In Vitro:** Taking place in a test tube, culture dish, or elsewhere outside a living organism
+*   **In Vivo:** Occurring within a living organism
+*   **Homeostasis:** The process by which organisms maintain a relatively stable internal environment
+*   **Neuropathy:** Weakness, numbness, and pain from nerve damage, usually in the hands and feet

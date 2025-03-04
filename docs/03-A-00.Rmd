@@ -1,0 +1,85 @@
+# (PART\*) Acid-Base, Electrolytes {-}
+
+# Acid-Base {-}
+
+Blood gas analysis is a critical tool for assessing a patient's respiratory and metabolic status
+
+*   Underlying biochemical principles
+*   Proper testing techniques
+*   Accurate interpretation of results
+
+## **Biochemical Theory and Pathways** {-}
+
+*   **Fundamentals**
+    *   Acids donate $H^+$, bases accept $H^+$
+    *   pH: A measure of acidity/alkalinity
+    *   Buffers: Resist pH changes
+*   **Key Players**
+    *   The relationship of $pH$, $HCO_3^-$, and Pa$CO_2$ in the bicarbonate buffer system (Henderson-Hasselbalch equation)
+    *   $O_2$ and $CO_2$: Transport mechanisms and influencers
+    *   Acid-Base Control
+        *   Lungs and ventilation (fast response)
+        *   Kidneys, $HCO_3^-$ regulation (slow response)
+        *   Understanding the concepts of respiratory and metabolic balance will help to understand the disease state
+*   **Understanding Arterial Blood Gasses (ABGs) requires understanding of the underlying physiology**
+    *   Understanding acid production and elimination
+    *   Understanding acid-base balance within the body
+
+## **Laboratory Test Procedures** {-}
+
+*   **Measurements**
+    *   $pH$: Potentiometry with glass electrode
+    *   Pa$O_2$: Amperometry with Clark electrode
+    *   Pa$CO_2$: Potentiometry with Severinghaus electrode
+*   **Calculations**
+    *   $HCO_3^-$ is calculated using the Henderson-Hasselbalch equation
+    *   Base Excess (BE) and Anion Gap (AG) are also calculated
+*   **Considerations**
+    *   Sample handling: anaerobic with prompt processing
+    *   Quality Control: Calibrate instruments correctly
+    *   Troubleshooting and interfering substances
+
+## **Test Result Interpretation** {-}
+
+*   **Normal Values to Know**
+    *   pH: 7.35-7.45
+    *   Pa$CO_2$: 35-45 mmHg
+    *   $HCO_3^-$: 22-26 mEq/L
+    *   Pa$O_2$: 80-100 mmHg
+    *   Sa$O_2$: 95-100%
+    *   Base Excess: -2 to +2 mEq/L
+*   **Steps to interpretation**
+    *   Is pH normal, acidemic, or alkalemic?
+    *   Match primary disorder by abnormal levels of Pa$CO_2$ or $HCO_3^-$
+    *   Is there compensation? Are these values appropriate
+    *   What is the Pa$O_2$/Sa$O_2$?
+*   **Important Formulas**
+    *   Henderson-Hasselbalch Equation
+        *   $pH = pKa + \log \left( \frac {[A^-]} {[HA]} \right)$
+        *   $pH = 6.1 + \log \left( {\frac {[HCO_3^-]} {0.03 \times pCO_2}} \right)$
+    *   Anion Gap Calculation
+        *   [$Na^+$] + [$K^+$] - [$Cl^-$] - [$HCO_3^-$]
+
+## **Disease State Correlation** {-}
+
+*   **Respiratory Acidosis**
+    *   pH < 7.35, Pa$CO_2$ > 45
+    *   Causes: COPD, drug overdose
+*   **Respiratory Alkalosis**
+    *   pH > 7.45, Pa$CO_2$ < 35
+    *   Causes: Anxiety, hypoxia
+*   **Metabolic Acidosis**
+    *   pH < 7.35, $HCO_3^-$ < 22
+    *   Causes: DKA, renal failure
+*   **Metabolic Alkalosis**
+    *   pH > 7.45, $HCO_3^-$ > 26
+    *   Causes: Vomiting, diuretic use
+*   **Additional Clinical Considerations**
+    *   Use Anion Gap calculation to distinguish causes of metabolic acidosis
+    *   Consider Hypoxemia
+
+## **In Summary** {-}
+
+*   ABGs require an understanding of basic chemistry, as well as an understanding of the clinical implications for each result
+*   The Henderson-Hasselbalch equation can be used to further identify any potential disturbance with the values that were collected
+*   The kidneys, lungs, and chemical buffers all work together to maintain homeostasis in the body
