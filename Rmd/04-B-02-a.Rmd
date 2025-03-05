@@ -1,0 +1,173 @@
+# Principles {-}
+
+Analyzing vitamins and nutrients requires a range of sophisticated laboratory techniques. These procedures are fundamental for assessing nutritional status and diagnosing deficiencies or excesses
+
+## **General Principles of Nutrient Analysis** {-}
+
+*   **Sample Preparation:** Sample preparation is crucial for accurate nutrient analysis. It involves extraction, purification, and concentration steps
+*   **Quality Control:** Quality control measures are essential to ensure the accuracy and reliability of results
+*   **Standardization:** Standardization of methods and use of reference materials are necessary to minimize variability between laboratories
+
+## **Common Analytical Techniques** {-}
+
+### **Spectrophotometry** {-}
+
+*   **Principle:** Measures the absorbance or transmission of light through a solution
+*   **Application:** Used for measuring vitamins that have characteristic absorption spectra in the ultraviolet (UV) or visible region
+*   **Procedure**
+    1.  Sample Preparation: Extract the vitamin from the sample and dissolve it in a suitable solvent
+    2.  Spectrophotometric Measurement: Measure the absorbance of the solution at a specific wavelength
+    3.  Quantification: Compare the absorbance to a standard curve to determine the vitamin concentration
+*   **Advantages:** Simple, inexpensive, and widely available
+*   **Limitations:** Can be subject to interference from other compounds in the sample
+*   **Examples**
+    *   **Vitamin A:** Measurement of retinol in serum or plasma
+    *   **Vitamin C:** Measurement of ascorbic acid in serum or plasma
+
+### **Fluorometry** {-}
+
+*   **Principle:** Measures the fluorescence emitted by a molecule after it absorbs light at a specific wavelength
+*   **Application:** Used for vitamins that exhibit fluorescence properties
+*   **Procedure**
+    1.  Sample Preparation: Extract the vitamin from the sample and dissolve it in a suitable solvent
+    2.  Fluorometric Measurement: Excite the sample with light at a specific wavelength and measure the emitted fluorescence
+    3.  Quantification: Compare the fluorescence intensity to a standard curve to determine the vitamin concentration
+*   **Advantages:** More sensitive than spectrophotometry
+*   **Limitations:** Susceptible to interference from fluorescent compounds in the sample
+*   **Examples**
+    *   **Riboflavin (Vitamin B2):** Measurement in serum or urine
+    *   **Thiamin (Vitamin B1):** Measurement in blood
+
+### **Immunoassays** {-}
+
+*   **Principle:** Based on the specific binding of antibodies to the target analyte (vitamin or nutrient)
+*   **Types**
+    *   **Enzyme-Linked Immunosorbent Assay (ELISA):** Uses an enzyme-labeled antibody to detect the analyte
+    *   **Chemiluminescent Immunoassay (CLIA):** Uses a chemiluminescent label to detect the analyte
+*   **Procedure**
+    1.  Sample Preparation: Prepare the sample to remove interfering substances
+    2.  Antibody Binding: Add the sample to a microplate coated with a specific antibody
+    3.  Enzyme-Labeled Antibody: Add an enzyme-labeled antibody that binds to the analyte
+    4.  Substrate Addition: Add a substrate that reacts with the enzyme to produce a detectable signal
+    5.  Signal Measurement: Measure the signal (absorbance, fluorescence, or luminescence)
+    6.  Quantification: Compare the signal to a standard curve to determine the analyte concentration
+*   **Advantages:** High sensitivity and specificity
+*   **Limitations:** Can be subject to interference from heterophile antibodies and matrix effects
+*   **Examples**
+    *   **Vitamin B12:** Measurement in serum or plasma
+    *   **Folate:** Measurement in serum or red blood cells
+
+### **Chromatography** {-}
+
+*   **Principle:** Separates compounds based on their physical and chemical properties
+*   **Types**
+    *   **High-Performance Liquid Chromatography (HPLC):** Uses high pressure to force the sample through a column with a stationary phase
+        *   **Applications:** Water-soluble and fat-soluble vitamins, amino acids, fatty acids
+    *   **Gas Chromatography (GC):** Separates volatile compounds based on their boiling points
+        *   **Applications:** Fatty acids, volatile organic compounds
+    *   **Thin-Layer Chromatography (TLC):** Separates compounds on a thin layer of adsorbent material
+        *   **Applications:** Screening for aminoacidopathies, lipid analysis
+*   **Detection Methods**
+    *   **UV-Vis Detection:** Measures the absorbance of compounds at specific wavelengths
+    *   **Fluorescence Detection:** Measures the fluorescence of compounds after excitation with light
+    *   **Electrochemical Detection:** Measures the oxidation or reduction of compounds
+    *   **Mass Spectrometry (MS):** Measures the mass-to-charge ratio of compounds
+*   **Procedure**
+    1.  Sample Preparation: Extract the analytes from the sample and dissolve them in a suitable solvent
+    2.  Chromatographic Separation: Inject the sample into the chromatography system and separate the compounds based on their properties
+    3.  Detection: Detect the separated compounds using an appropriate detection method
+    4.  Quantification: Compare the peak areas or heights to a standard curve to determine the analyte concentrations
+*   **Advantages:** High resolution and sensitivity; can separate and quantify multiple compounds simultaneously
+*   **Limitations:** Requires specialized equipment and skilled operators
+*   **Examples**
+    *   **Vitamin D:** Measurement of 25-hydroxyvitamin D and 1,25-dihydroxyvitamin D
+    *   **Vitamin E:** Measurement of tocopherols and tocotrienols
+    *   **Amino Acids:** Measurement in serum or urine
+    *   **Fatty Acids:** Measurement in plasma or tissues
+
+### **Liquid Chromatography-Mass Spectrometry (LC-MS)** {-}
+
+*   **Principle:** Combines the separation capabilities of liquid chromatography with the detection power of mass spectrometry
+*   **Types**
+    *   **LC-MS:** Liquid chromatography coupled with a single mass spectrometer
+    *   **LC-MS/MS:** Liquid chromatography coupled with tandem mass spectrometry (more sensitive and specific)
+*   **Procedure**
+    1.  Sample Preparation: Extract the analytes from the sample and dissolve them in a suitable solvent
+    2.  Chromatographic Separation: Inject the sample into the liquid chromatography system and separate the compounds based on their properties
+    3.  Mass Spectrometry Detection: Ionize the separated compounds and measure their mass-to-charge ratio using a mass spectrometer
+    4.  Quantification: Compare the peak areas to a standard curve to determine the analyte concentrations
+*   **Advantages:** High sensitivity, specificity, and throughput; can quantify multiple compounds simultaneously
+*   **Limitations:** Requires expensive equipment and highly skilled operators
+*   **Examples**
+    *   **Vitamin D:** Measurement of 25-hydroxyvitamin D and 1,25-dihydroxyvitamin D
+    *   **Vitamin K:** Measurement of phylloquinone and menaquinones
+    *   **Amino Acids:** Measurement in serum or urine
+    *   **Fatty Acids:** Measurement in plasma or tissues
+
+### **Atomic Absorption Spectrometry (AAS)** {-}
+
+*   **Principle:** Measures the absorption of light by free atoms in the gaseous state
+*   **Application:** Used for measuring minerals, such as calcium, magnesium, iron, and zinc
+*   **Procedure**
+    1.  Sample Preparation: Digest the sample to release the minerals
+    2.  Atomization: Convert the minerals to free atoms in a flame or graphite furnace
+    3.  Atomic Absorption Measurement: Pass light through the atomized sample and measure the absorption of light at a specific wavelength
+    4.  Quantification: Compare the absorbance to a standard curve to determine the mineral concentration
+*   **Advantages:** High sensitivity and specificity for mineral analysis
+*   **Limitations:** Requires specialized equipment and can be subject to matrix effects
+*   **Examples**
+    *   **Calcium:** Measurement in serum or urine
+    *   **Magnesium:** Measurement in serum or red blood cells
+    *   **Iron:** Measurement in serum
+
+### **Inductively Coupled Plasma Mass Spectrometry (ICP-MS)** {-}
+
+*   **Principle:** Measures the mass-to-charge ratio of ions produced in an inductively coupled plasma
+*   **Application:** Used for measuring trace elements and minerals in various samples
+*   **Procedure**
+    1.  Sample Preparation: Digest the sample to release the elements
+    2.  Plasma Generation: Introduce the sample into an inductively coupled plasma, which ionizes the elements
+    3.  Mass Spectrometry Detection: Pass the ions through a mass spectrometer, which separates them based on their mass-to-charge ratio
+    4.  Quantification: Compare the ion intensities to a standard curve to determine the element concentrations
+*   **Advantages:** High sensitivity, multi-element analysis, and isotope ratio measurements
+*   **Limitations:** Requires specialized equipment and can be subject to matrix effects
+*   **Examples**
+    *   **Trace Elements:** Measurement in serum, urine, or tissues
+    *   **Mineral Analysis:** Measurement in foods and dietary supplements
+
+## **Point-of-Care Testing (POCT)** {-}
+
+*   **Principle:** Involves rapid, portable testing performed near the patient
+*   **Applications:** Screening for nutritional deficiencies, monitoring nutrient status in clinical settings
+*   **Methods**
+    *   **Lateral Flow Immunoassays:** Used for rapid detection of vitamins and minerals
+    *   **Electrochemical Sensors:** Used for measuring glucose, electrolytes, and other analytes
+*   **Advantages:** Rapid turnaround time, ease of use, and portability
+*   **Limitations:** Lower accuracy and precision compared to laboratory-based methods
+
+## **Summary Table of Analytical Techniques** {-}
+
+| Technique                | Principle                                                      | Application                                                                 | Advantages                                                           | Limitations                                                              |
+| :----------------------- | :------------------------------------------------------------- | :-------------------------------------------------------------------------- | :------------------------------------------------------------------- | :----------------------------------------------------------------------- |
+| Spectrophotometry        | Measures absorbance or transmission of light                   | Vitamins with characteristic absorption spectra                           | Simple, inexpensive, widely available                                | Subject to interference                                                  |
+| Fluorometry              | Measures fluorescence emitted by a molecule                    | Vitamins that exhibit fluorescence properties                             | More sensitive than spectrophotometry                                | Susceptible to interference                                              |
+| Immunoassays             | Antibody-antigen binding                                       | Vitamins and nutrients                                                      | High sensitivity and specificity                                    | Subject to interference, requires specific antibodies                    |
+| Chromatography           | Separates compounds based on their properties                | Water-soluble and fat-soluble vitamins, amino acids, fatty acids            | High resolution and sensitivity, can separate multiple compounds     | Requires specialized equipment and skilled operators                   |
+| LC-MS                    | Combines liquid chromatography with mass spectrometry          | Vitamins, amino acids, fatty acids                                          | High sensitivity, specificity, and throughput                       | Requires expensive equipment and highly skilled operators                   |
+| Atomic Absorption Spectrometry | Measures the absorption of light by free atoms             | Minerals                                                                    | High sensitivity and specificity for mineral analysis                 | Requires specialized equipment, subject to matrix effects                |
+| ICP-MS                   | Measures the mass-to-charge ratio of ions in a plasma        | Trace elements and minerals                                               | High sensitivity, multi-element analysis                               | Requires specialized equipment, subject to matrix effects                |
+| Point-of-Care Testing    | Rapid testing performed near the patient                        | Screening for nutritional deficiencies, monitoring nutrient status          | Rapid turnaround time, ease of use, portability                        | Lower accuracy and precision compared to laboratory-based methods       |
+
+## **Key Terms** {-}
+
+*   **Spectrophotometry:** A technique that measures the absorbance or transmission of light through a solution
+*   **Fluorometry:** A technique that measures the fluorescence emitted by a molecule after it absorbs light
+*   **Immunoassay:** A technique that uses antibodies to detect and quantify specific substances
+*   **Chromatography:** A technique that separates compounds based on their physical and chemical properties
+*   **Liquid Chromatography-Mass Spectrometry (LC-MS):** A technique that combines liquid chromatography with mass spectrometry
+*   **Atomic Absorption Spectrometry (AAS):** A technique that measures the absorption of light by free atoms
+*   **Inductively Coupled Plasma Mass Spectrometry (ICP-MS):** A technique that measures the mass-to-charge ratio of ions produced in an inductively coupled plasma
+*   **Point-of-Care Testing (POCT):** Testing performed near the patient
+*   **Standard Curve:** A graph that plots the known concentrations of a substance against the corresponding instrument readings
+*   **Quality Control:** Measures taken to ensure the accuracy and reliability of test results
+*   **Matrix Effects:** The effect of the sample matrix on the analytical measurement

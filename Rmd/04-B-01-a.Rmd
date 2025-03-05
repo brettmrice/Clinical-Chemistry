@@ -1,0 +1,256 @@
+# Metabolic {-}
+
+Understanding the biochemical roles of vitamins and their metabolic pathways is critical for appreciating their impact on health and disease
+
+## **General Principles of Vitamin Metabolism** {-}
+
+*   **Vitamins as Essential Nutrients**
+    *   Vitamins are organic compounds that are essential for human health but cannot be synthesized in sufficient quantities by the body
+    *   They must be obtained from dietary sources or supplements
+*   **Classification of Vitamins**
+    *   **Water-Soluble Vitamins:** B vitamins (thiamin, riboflavin, niacin, pantothenic acid, pyridoxine, biotin, folate, cobalamin) and vitamin C
+    *   **Fat-Soluble Vitamins:** Vitamins A, D, E, and K
+*   **General Metabolic Functions**
+    *   **Coenzymes:** Many vitamins act as coenzymes, which are essential for the activity of enzymes involved in metabolic reactions
+    *   **Antioxidants:** Some vitamins act as antioxidants, protecting cells from damage caused by free radicals
+    *   **Hormone-Like Functions:** Some vitamins have hormone-like functions, regulating gene expression and cell differentiation
+    *   **Other Functions:** Some vitamins are involved in vision, blood clotting, and immune function
+*   **Absorption and Transport**
+    *   **Water-Soluble Vitamins:** Absorbed directly into the bloodstream
+    *   **Fat-Soluble Vitamins:** Absorbed along with dietary fats, requiring bile acids and pancreatic enzymes
+    *   **Transport:** Vitamins are transported in the bloodstream either freely or bound to carrier proteins
+*   **Storage and Excretion**
+    *   **Water-Soluble Vitamins:** Not stored in the body to a significant extent; excess is excreted in the urine
+    *   **Fat-Soluble Vitamins:** Stored in the liver and adipose tissue; excess can lead to toxicity
+*   **Deficiency and Toxicity**
+    *   **Vitamin Deficiency:** Occurs when intake is inadequate, leading to impaired metabolic functions and specific deficiency symptoms
+    *   **Vitamin Toxicity:** Occurs when intake is excessive, leading to adverse effects
+
+## **Water-Soluble Vitamins** {-}
+
+### **Thiamin (Vitamin B1)** {-}
+
+*   **Metabolism**
+    *   **Absorption:** Absorbed in the small intestine
+    *   **Conversion to Active Form:** Converted to thiamin pyrophosphate (TPP) by thiamin pyrophosphokinase
+*   **Biochemical Actions**
+    *   **Coenzyme for Carbohydrate Metabolism:** TPP is a coenzyme for several key enzymes in carbohydrate metabolism
+        *   Pyruvate dehydrogenase complex: Converts pyruvate to acetyl-CoA
+        *   α-Ketoglutarate dehydrogenase complex: Part of the citric acid cycle
+        *   Transketolase: Part of the pentose phosphate pathway
+*   **Deficiency**
+    *   **Beriberi:** Characterized by neurological and cardiovascular symptoms
+    *   **Wernicke-Korsakoff Syndrome:** Neurological disorder associated with chronic alcohol abuse
+*   **Toxicity**
+    *   Rare
+
+### **Riboflavin (Vitamin B2)** {-}
+
+*   **Metabolism**
+    *   **Absorption:** Absorbed in the small intestine
+    *   **Conversion to Active Forms:** Converted to flavin mononucleotide (FMN) and flavin adenine dinucleotide (FAD)
+*   **Biochemical Actions**
+    *   **Coenzyme for Redox Reactions:** FMN and FAD are coenzymes for numerous oxidoreductase enzymes involved in energy metabolism
+        *   Complex I and Complex II of the electron transport chain
+        *   Succinate dehydrogenase: Part of the citric acid cycle
+        *   Fatty acyl-CoA dehydrogenase: Involved in fatty acid oxidation
+*   **Deficiency**
+    *   **Ariboflavinosis:** Characterized by cheilosis (cracking at the corners of the mouth), glossitis (inflammation of the tongue), and dermatitis
+*   **Toxicity**
+    *   Rare
+
+### **Niacin (Vitamin B3)** {-}
+
+*   **Metabolism**
+    *   **Absorption:** Absorbed in the small intestine
+    *   **Synthesis:** Can be synthesized from tryptophan, but this process is inefficient
+    *   **Conversion to Active Forms:** Converted to nicotinamide adenine dinucleotide ($NAD^+$) and nicotinamide adenine dinucleotide phosphate ($NADP^+$)
+*   **Biochemical Actions**
+    *   **Coenzyme for Redox Reactions:** NAD+ and NADP+ are coenzymes for numerous dehydrogenase enzymes involved in energy metabolism and biosynthesis
+        *   Glycolysis, citric acid cycle, fatty acid oxidation, and pentose phosphate pathway
+*   **Deficiency**
+    *   **Pellagra:** Characterized by the "three Ds": dermatitis, diarrhea, and dementia
+*   **Toxicity**
+    *   **Niacin Flush:** Skin flushing and itching at high doses
+    *   Liver damage
+
+### **Pantothenic Acid (Vitamin B5)** {-}
+
+*   **Metabolism**
+    *   **Absorption:** Absorbed in the small intestine
+    *   **Conversion to Active Form:** Used to synthesize coenzyme A ($CoA$)
+*   **Biochemical Actions**
+    *   **Component of Coenzyme A (CoA):** $CoA$ is essential for numerous metabolic reactions
+        *   Acetyl-CoA: Involved in the citric acid cycle, fatty acid synthesis, and fatty acid oxidation
+        *   Acyl carrier protein (ACP): Involved in fatty acid synthesis
+*   **Deficiency**
+    *   Rare due to its widespread occurrence in foods
+*   **Toxicity**
+    *   Rare
+
+### **Pyridoxine (Vitamin B6)** {-}
+
+*   **Metabolism**
+    *   **Absorption:** Absorbed in the small intestine
+    *   **Conversion to Active Form:** Converted to pyridoxal phosphate ($PLP$)
+*   **Biochemical Actions**
+    *   **Coenzyme for Amino Acid Metabolism:** $PLP$ is a coenzyme for numerous enzymes involved in amino acid metabolism
+        *   Transaminases: Transfer amino groups between amino acids and keto acids
+        *   Decarboxylases: Remove carboxyl groups from amino acids to form neurotransmitters
+        *   Glycogen phosphorylase: Involved in glycogen breakdown
+*   **Deficiency**
+    *   Neurological symptoms, dermatitis, and anemia
+*   **Toxicity**
+    *   Peripheral neuropathy
+
+### **Biotin (Vitamin B7)** {-}
+
+*   **Metabolism**
+    *   **Absorption:** Absorbed in the small intestine
+    *   **Synthesis:** Can be synthesized by intestinal bacteria
+*   **Biochemical Actions**
+    *   **Coenzyme for Carboxylation Reactions:** Biotin is a coenzyme for several carboxylase enzymes
+        *   Pyruvate carboxylase: Converts pyruvate to oxaloacetate in gluconeogenesis
+        *   Acetyl-CoA carboxylase: Converts acetyl-CoA to malonyl-CoA in fatty acid synthesis
+        *   Propionyl-CoA carboxylase: Involved in the metabolism of odd-chain fatty acids and branched-chain amino acids
+*   **Deficiency**
+    *   Rare, but can occur with excessive consumption of raw egg whites (contains avidin, which binds biotin)
+*   **Toxicity**
+    *   Rare
+
+### **Folate (Vitamin B9)** {-}
+
+*   **Metabolism**
+    *   **Absorption:** Absorbed in the small intestine
+    *   **Conversion to Active Form:** Converted to tetrahydrofolate (THF) and other folate coenzymes
+*   **Biochemical Actions**
+    *   **Coenzyme for One-Carbon Transfer Reactions:** THF is a coenzyme for numerous enzymes involved in one-carbon transfer reactions
+        *   DNA synthesis: Required for the synthesis of purines and pyrimidines
+        *   Amino acid metabolism: Involved in the interconversion of serine and glycine
+*   **Deficiency**
+    *   Megaloblastic anemia, neural tube defects in developing fetuses
+*   **Toxicity**
+    *   Can mask vitamin B12 deficiency
+
+### **Cobalamin (Vitamin B12)** {-}
+
+*   **Metabolism**
+    *   **Absorption:** Requires intrinsic factor, which is secreted by parietal cells in the stomach
+    *   **Conversion to Active Forms:** Converted to methylcobalamin and adenosylcobalamin
+*   **Biochemical Actions**
+    *   **Coenzyme for Two Important Enzymes**
+        *   Methionine synthase: Converts homocysteine to methionine
+        *   Methylmalonyl-CoA mutase: Involved in the metabolism of odd-chain fatty acids and branched-chain amino acids
+*   **Deficiency**
+    *   Pernicious anemia (due to lack of intrinsic factor), neurological symptoms
+*   **Toxicity**
+    *   Rare
+
+### **Ascorbic Acid (Vitamin C)** {-}
+
+*   **Metabolism**
+    *   **Absorption:** Absorbed in the small intestine
+*   **Biochemical Actions**
+    *   **Antioxidant:** Scavenges free radicals and protects against oxidative damage
+    *   **Collagen Synthesis:** Required for the hydroxylation of proline and lysine in collagen
+    *   **Iron Absorption:** Enhances the absorption of non-heme iron
+    *   **Neurotransmitter Synthesis:** Involved in the synthesis of norepinephrine
+*   **Deficiency**
+    *   Scurvy: Characterized by bleeding gums, poor wound healing, and anemia
+*   **Toxicity**
+    *   Gastrointestinal distress, kidney stones
+
+## **Fat-Soluble Vitamins** {-}
+
+### **Vitamin A** {-}
+
+*   **Metabolism**
+    *   **Absorption:** Absorbed along with dietary fats
+    *   **Transport:** Transported in the bloodstream bound to retinol-binding protein (RBP)
+    *   **Storage:** Stored in the liver
+*   **Biochemical Actions**
+    *   **Vision:** Retinal is a component of rhodopsin, the light-sensitive pigment in the retina
+    *   **Cell Differentiation:** Retinoic acid regulates gene expression and cell differentiation
+    *   **Immune Function:** Supports the immune system
+*   **Deficiency**
+    *   Night blindness, xerophthalmia (dry eyes), and impaired immune function
+*   **Toxicity**
+    *   Liver damage, bone abnormalities, and birth defects
+
+### **Vitamin D** {-}
+
+*   **Metabolism**
+    *   **Synthesis:** Can be synthesized in the skin upon exposure to sunlight
+    *   **Activation:** Requires hydroxylation in the liver and kidneys to form the active form, calcitriol (1,25-dihydroxyvitamin D)
+*   **Biochemical Actions**
+    *   **Calcium and Phosphate Metabolism:** Calcitriol regulates calcium and phosphate absorption in the intestine, bone remodeling, and kidney reabsorption
+*   **Deficiency**
+    *   Rickets (in children), osteomalacia (in adults), and osteoporosis
+*   **Toxicity**
+    *   Hypercalcemia, kidney stones, and soft tissue calcification
+
+### **Vitamin E** {-}
+
+*   **Metabolism**
+    *   **Absorption:** Absorbed along with dietary fats
+    *   **Transport:** Transported in the bloodstream by lipoproteins
+    *   **Storage:** Stored in adipose tissue
+*   **Biochemical Actions**
+    *   **Antioxidant:** Protects cell membranes from lipid peroxidation
+*   **Deficiency**
+    *   Rare, but can occur in individuals with fat malabsorption
+    *   Neurological symptoms and hemolytic anemia
+*   **Toxicity**
+    *   Increased risk of bleeding
+
+### **Vitamin K** {-}
+
+*   **Metabolism**
+    *   **Absorption:** Absorbed along with dietary fats
+    *   **Synthesis:** Can be synthesized by intestinal bacteria
+*   **Biochemical Actions**
+    *   **Blood Clotting:** Required for the carboxylation of glutamate residues in several clotting factors (II, VII, IX, and X)
+    *   Bone Metabolism: Involved in bone mineralization
+*   **Deficiency**
+    *   Bleeding disorders
+*   **Toxicity**
+    *   Rare, but can interfere with anticoagulant medications
+
+## **Summary Table of Vitamins** {-}
+
+| Vitamin          | Primary Function                                         | Deficiency Symptoms                                      | Toxicity Symptoms                                         |
+| :--------------- | :------------------------------------------------------- | :----------------------------------------------------- | :------------------------------------------------------- |
+| Thiamin (B1)     | Carbohydrate metabolism                                  | Beriberi, Wernicke-Korsakoff syndrome                   | Rare                                                     |
+| Riboflavin (B2)  | Redox reactions                                          | Ariboflavinosis (cheilosis, glossitis, dermatitis)      | Rare                                                     |
+| Niacin (B3)      | Redox reactions                                          | Pellagra (dermatitis, diarrhea, dementia)               | Niacin flush, liver damage                               |
+| Pantothenic Acid (B5) | Component of coenzyme A                                | Rare                                                     | Rare                                                     |
+| Pyridoxine (B6)  | Amino acid metabolism                                  | Neurological symptoms, dermatitis, anemia               | Peripheral neuropathy                                    |
+| Biotin (B7)      | Carboxylation reactions                                    | Rare                                                     | Rare                                                     |
+| Folate (B9)      | One-carbon transfer reactions                              | Megaloblastic anemia, neural tube defects               | Can mask vitamin B12 deficiency                          |
+| Cobalamin (B12)  | Methionine synthase, methylmalonyl-CoA mutase              | Pernicious anemia, neurological symptoms                | Rare                                                     |
+| Ascorbic Acid (C) | Antioxidant, collagen synthesis                            | Scurvy (bleeding gums, poor wound healing, anemia)      | Gastrointestinal distress, kidney stones                 |
+| Vitamin A        | Vision, cell differentiation, immune function              | Night blindness, xerophthalmia, impaired immune function | Liver damage, bone abnormalities, birth defects        |
+| Vitamin D        | Calcium and phosphate metabolism                           | Rickets (children), osteomalacia (adults), osteoporosis | Hypercalcemia, kidney stones, soft tissue calcification |
+| Vitamin E        | Antioxidant                                              | Neurological symptoms, hemolytic anemia                 | Increased risk of bleeding                               |
+| Vitamin K        | Blood clotting, bone metabolism                            | Bleeding disorders                                     | Rare, can interfere with anticoagulant medications       |
+
+## **Clinical Significance** {-}
+
+*   **Nutritional Deficiencies:** Vitamin deficiencies can lead to a wide range of health problems, including anemia, neurological disorders, and immune dysfunction
+*   **Chronic Diseases:** Vitamins play a role in the prevention and management of chronic diseases, such as cardiovascular disease, cancer, and diabetes
+*   **Dietary Supplements:** Vitamin supplements can be beneficial for individuals with inadequate dietary intake or specific health conditions, but excessive supplementation can be harmful
+*   **Personalized Nutrition:** Understanding an individual's vitamin status and genetic factors can help optimize dietary recommendations and supplement use
+
+## **Key Terms** {-}
+
+*   **Vitamin:** An organic compound that is essential for human health
+*   **Coenzyme:** A substance that is required for the activity of an enzyme
+*   **Antioxidant:** A substance that protects cells from damage caused by free radicals
+*   **Free Radical:** An unstable molecule that can damage cells
+*   **Metabolism:** The sum of all chemical reactions that occur in a living organism
+*   **Absorption:** The process by which nutrients are taken up from the digestive tract into the bloodstream
+*   **Transport:** The process by which nutrients are carried in the bloodstream to tissues and organs
+*   **Storage:** The process by which nutrients are stored in the body
+*   **Excretion:** The process by which waste products are eliminated from the body
+*   **Deficiency:** A condition in which the body does not have enough of a particular nutrient
+*   **Toxicity:** A condition in which the body has too much of a particular nutrient

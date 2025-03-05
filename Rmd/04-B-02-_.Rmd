@@ -1,0 +1,78 @@
+# Procedures {-}
+
+This section covers the laboratory analysis of vitamins and nutrients
+
+## **General Principles of Vitamin and Nutrient Analysis** {-}
+
+*   **Purpose:** To measure the levels of vitamins and nutrients in biological samples for the assessment of nutritional status
+*   **Analytical Techniques**
+    *   Spectrophotometry
+    *   Fluorometry
+    *   Immunoassays (ELISA, CLIA)
+    *   Chromatography (HPLC, GC, TLC)
+    *   Liquid Chromatography-Mass Spectrometry (LC-MS)
+    *   Atomic Absorption Spectrometry (AAS)
+    *   Inductively Coupled Plasma Mass Spectrometry (ICP-MS)
+    *   Point-of-Care Testing (POCT)
+
+## **Special Precautions** {-}
+
+*   **Patient Preparation**
+    *   Fasting: Required for some tests
+    *   Medications: Some drugs interfere with nutrient tests
+    *   Supplements: Avoid before testing
+    *   Alcohol Consumption: Affects absorption and metabolism
+    *   Timing: Important due to diurnal variations
+*   **Specimen Collection**
+    *   Use appropriate collection tubes
+    *   Follow the correct order of draw
+    *   Use proper venipuncture technique
+    *   Label specimens immediately and accurately
+    *   Collect the correct volume of blood
+*   **Specimen Processing**
+    *   Centrifuge promptly after collection
+    *   Separate serum or plasma from cells within the specified time frame
+    *   Aliquot specimens into appropriate containers
+    *   Store specimens at the appropriate temperature
+    *   Thaw specimens properly before testing
+    *   Light Protection: Especially important for certain vitamins
+
+## **Troubleshooting** {-}
+
+*   **High Nutrient Results**
+    *   Pre-analytical: Patient not fasting, recent supplement intake, medication interference, improper collection tube, delayed processing, contamination of specimen
+    *   Analytical: Incorrect calibration, reagent deterioration, interfering substances, cross-reactivity, non-specific binding
+*   **Low Nutrient Results**
+    *   Pre-analytical: Improper collection tube, delayed processing, improper storage, medication interference
+    *   Analytical: Incorrect calibration, reagent deterioration, interfering substances, assay drift
+*   **Inconsistent Results**
+    *   Pre-analytical: Patient variability, specimen handling errors
+    *   Analytical: Assay variability, interfering substances, cross-reactivity
+    *   Post-analytical: Transcription errors, reporting errors
+*   **Quality Control Failures**
+    *   Pre-analytical: QC material improperly stored, QC material expired
+    *   Analytical: Incorrect calibration, reagent deterioration, instrument malfunction
+    *   Action: Investigate the cause of the failure and take corrective action
+
+## **Interfering Substances** {-}
+
+*   **Hemolysis:** Releases intracellular components
+*   **Lipemia:** Interferes with spectrophotometric assays
+*   **Bilirubin:** Interferes with spectrophotometric assays
+*   **Drugs:** Directly affect nutrient levels or interfere with assays
+*   **Heterophile Antibodies:** Cause falsely high or low results
+*   **Cross-Reactivity:** Antibodies may cross-react with structurally similar compounds
+*   **Biotin:** Interferes with biotin-streptavidin assays
+*   **Ascorbic Acid:** Interferes with certain assays by acting as a reducing agent
+*   **Homocysteine:** Interferes with folate and vitamin B12 assays
+
+## **Key Terms** {-}
+
+*   **Pre-Analytical:** Processes before sample analysis
+*   **Analytical:** Processes involved in sample analysis
+*   **Post-Analytical:** Processes after sample analysis
+*   **Interfering Substance:** Affects test accuracy
+*   **Calibration:** Adjusting an instrument for accurate readings
+*   **Quality Control:** Measures to ensure test accuracy and precision
+*   **Hemolysis:** Breakdown of red blood cells
+*   **Lipemia:** Excess lipids in the blood

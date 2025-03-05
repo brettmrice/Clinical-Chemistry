@@ -1,0 +1,127 @@
+# Principles {-}
+
+Understanding the analytical principles behind endocrinology laboratory tests is critical for ensuring accurate and reliable results. Fluorescence and immunoassay techniques are commonly used
+
+## **Fluorescence Assays** {-}
+
+*   **Principle**
+    *   **Fluorescence:** is a phenomenon in which a molecule (fluorophore) absorbs light at a specific wavelength (excitation wavelength) and emits light at a longer wavelength (emission wavelength)
+    *   The intensity of the emitted light is directly proportional to the concentration of the fluorophore
+    *   Fluorescence assays are highly sensitive and specific, making them useful for measuring low concentrations of hormones
+*   **Components**
+    *   **Light Source:** Provides the excitation light (e.g., xenon lamp, laser)
+    *   **Excitation Filter:** Selects the excitation wavelength
+    *   **Sample:** Contains the hormone to be measured, labeled with a fluorophore
+    *   **Emission Filter:** Selects the emission wavelength
+    *   **Detector:** Measures the intensity of the emitted light (e.g., photomultiplier tube, photodiode)
+*   **Types of Fluorescence Assays**
+    *   **Direct Fluorescence Assay**
+        *   The hormone itself is labeled with a fluorophore
+        *   The intensity of the emitted light is measured directly
+    *   **Indirect Fluorescence Assay**
+        *   A secondary reagent labeled with a fluorophore binds to the hormone
+        *   The intensity of the emitted light is measured indirectly
+    *   **Fluorescence Polarization Immunoassay (FPIA)**
+        *   Based on the change in polarization of emitted light
+        *   Small fluorescently labeled hormone molecules emit light with rapid depolarization
+        *   When the labeled hormone binds to antibodies, the resulting complex rotates more slowly, emitting light with increased polarization
+        *   The degree of polarization is inversely proportional to the concentration of the hormone
+    *   **Time-Resolved Fluorescence Immunoassay (TR-FIA)**
+        *   Uses lanthanide chelates as fluorophores
+        *   Lanthanide chelates have long emission lifetimes, allowing for time-resolved measurements
+        *   Background fluorescence is minimized by measuring the emission after a delay period
+        *   TR-FIA is highly sensitive and specific
+*   **Applications in Endocrinology**
+    *   **Thyroid Hormones:** Measurement of T3 and T4
+    *   **Steroid Hormones:** Measurement of cortisol, estradiol, and testosterone
+    *   **Peptide Hormones:** Measurement of insulin and growth hormone
+*   **Advantages**
+    *   High sensitivity
+    *   High specificity
+    *   Relatively simple instrumentation
+    *   Wide range of applications
+*   **Disadvantages**
+    *   Susceptible to interference from fluorescent compounds in the sample (autofluorescence)
+    *   Photobleaching of the fluorophore
+    *   Quenching of fluorescence by other molecules
+
+## **Immunoassays** {-}
+
+*   **Principle**
+    *   **Immunoassays:** are based on the specific binding of antibodies to antigens (or haptens)
+        *   The hormone to be measured acts as the antigen
+        *   The amount of hormone is determined by measuring the amount of antibody-antigen complex formed
+*   **Components**
+    *   **Antibody:** A protein produced by the immune system that binds to a specific antigen
+    *   **Antigen:** The hormone to be measured
+    *   **Label:** A molecule that is attached to the antibody or antigen to allow for detection
+    *   **Detection System:** Measures the amount of label bound to the antibody-antigen complex
+*   **Types of Immunoassays**
+    *   **Competitive Immunoassay**
+        *   Unlabeled hormone in the sample competes with labeled hormone for binding to a limited number of antibodies
+        *   The amount of labeled hormone bound to the antibody is inversely proportional to the concentration of unlabeled hormone in the sample
+        *   **Applications:** Measurement of small hormones, such as steroid hormones and thyroid hormones
+    *   **Non-Competitive Immunoassay (Sandwich Immunoassay)**
+        *   Two antibodies are used: a capture antibody and a detection antibody
+        *   The capture antibody binds to the hormone in the sample
+        *   The detection antibody, which is labeled, binds to a different epitope on the hormone
+        *   The amount of labeled antibody bound to the hormone is directly proportional to the concentration of the hormone in the sample
+        *   **Applications:** Measurement of large hormones, such as peptide hormones and protein hormones
+    *   **Enzyme-Linked Immunosorbent Assay (ELISA)**
+        *   A type of immunoassay that uses an enzyme as the label
+        *   The enzyme converts a substrate to a detectable product, such as a colored compound
+        *   **Applications:** Measurement of a wide range of hormones
+    *   **Chemiluminescent Immunoassay (CLIA)**
+        *   A type of immunoassay that uses a chemiluminescent compound as the label
+        *   The chemiluminescent compound emits light when it undergoes a chemical reaction
+        *   The amount of light emitted is proportional to the concentration of the hormone
+        *   **Applications:** Measurement of hormones requiring high sensitivity
+    *   **Radioimmunoassay (RIA)**
+        *   A type of immunoassay that uses a radioactive isotope as the label
+        *   The amount of radioactivity is measured to determine the concentration of the hormone
+        *   **Applications:** Historically used for many hormones, but now less common due to safety concerns and regulatory requirements
+*   **Applications in Endocrinology**
+    *   **Thyroid Hormones:** Measurement of T3, T4, and TSH
+    *   **Steroid Hormones:** Measurement of cortisol, estradiol, testosterone, and progesterone
+    *   **Peptide Hormones:** Measurement of insulin, growth hormone, prolactin, FSH, LH, ACTH, PTH, and hCG
+*   **Advantages**
+    *   High sensitivity
+    *   High specificity
+    *   Wide range of applications
+*   **Disadvantages**
+    *   Susceptible to interference from heterophile antibodies and other factors
+    *   Cross-reactivity with structurally similar compounds
+    *   Requirement for specific antibodies
+
+## **Comparison of Fluorescence and Immunoassay Techniques** {-}
+
+| Characteristic | Fluorescence Assay | Immunoassay |
+| :------------- | :----------------- | :---------- |
+| Principle | Measures emitted light from fluorophore | Measures binding of antibodies to antigens |
+| Sensitivity | High | High |
+| Specificity | High | High |
+| Instrumentation | Relatively simple | Can be complex, depending on the type of immunoassay |
+| Interferences | Autofluorescence, quenching | Heterophile antibodies, cross-reactivity |
+| Applications | Measurement of hormones, drug monitoring | Measurement of hormones, proteins, and other analytes |
+
+## **Key Terms** {-}
+
+*   **Fluorescence:** Emission of light by a molecule after absorbing light at a specific wavelength
+*   **Fluorophore:** A molecule that emits fluorescence
+*   **Immunoassay:** An assay based on the specific binding of antibodies to antigens
+*   **Antibody:** A protein produced by the immune system that binds to a specific antigen
+*   **Antigen:** A molecule that binds to an antibody
+*   **Competitive Immunoassay:** An immunoassay in which unlabeled antigen competes with labeled antigen for antibody binding
+*   **Non-Competitive Immunoassay:** An immunoassay in which labeled antibody binds to antigen
+*   **Enzyme-Linked Immunosorbent Assay (ELISA):** An immunoassay that uses an enzyme as the label
+*   **Chemiluminescent Immunoassay (CLIA):** An immunoassay that uses a chemiluminescent compound as the label
+*   **Radioimmunoassay (RIA):** An immunoassay that uses a radioactive isotope as the label
+*   **Heterophile Antibodies:** Antibodies that bind to multiple antigens
+*   **Cross-Reactivity:** The ability of an antibody to bind to multiple antigens
+*   **Epitope:** The specific region of an antigen that is recognized by an antibody
+*   **Homogeneous Assay:** An immunoassay where separation of bound and unbound reactants is not required
+*   **Heterogeneous Assay:** An immunoassay where separation of bound and unbound reactants is required
+*   **Polarization:** The alignment of the electric field vector of light waves
+*   **Quenching:** A process that decreases the fluorescence intensity of a fluorophore
+*   **Photobleaching:** The destruction of a fluorophore by light
+*   **Lanthanide:** A rare earth element that exhibits long-lived fluorescence

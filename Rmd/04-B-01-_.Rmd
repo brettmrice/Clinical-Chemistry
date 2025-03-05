@@ -1,0 +1,71 @@
+# Biochemicals {-}
+
+This section covers the key aspects of vitamins and nutrition - their biochemical roles, metabolic pathways, associated normal and abnormal states, and their fundamental properties
+
+## **Biochemical Theory and Pathways** {-}
+
+*   **Essential Nutrients:** Vitamins are organic compounds required in small amounts for various biochemical processes, but cannot be synthesized adequately by the body
+*   **Classification:** Vitamins are classified as either water-soluble (B vitamins, vitamin C) or fat-soluble (vitamins A, D, E, K)
+*   **General Metabolic Functions**
+    *   **Coenzymes:** Act as coenzymes, essential for enzyme activity in metabolic reactions
+    *   **Antioxidants:** Protect cells from damage caused by free radicals
+    *   **Hormone-Like Functions:** Some have hormone-like effects, regulating gene expression
+*   **Metabolic Pathways and Actions**
+    *   **Thiamin (B1):** Coenzyme in carbohydrate metabolism
+    *   **Riboflavin (B2):** Coenzyme in redox reactions
+    *   **Niacin (B3):** Coenzyme in redox reactions
+    *   **Pantothenic Acid (B5):** Component of Coenzyme A
+    *   **Pyridoxine (B6):** Coenzyme in amino acid metabolism
+    *   **Biotin (B7):** Coenzyme in carboxylation reactions
+    *   **Folate (B9):** Coenzyme for one-carbon transfer reactions
+    *   **Cobalamin (B12):** Coenzyme for methionine synthase and methylmalonyl-CoA mutase
+    *   **Ascorbic Acid (Vitamin C):** Antioxidant, collagen synthesis
+    *   **Vitamin A:** Vision, cell differentiation, immune function
+    *   **Vitamin D:** Calcium and phosphate metabolism
+    *   **Vitamin E:** Antioxidant
+    *   **Vitamin K:** Blood clotting, bone metabolism
+*   **Absorption, Transport, Storage, and Excretion**
+    *   **Water-soluble:** Absorbed directly into the bloodstream, not stored significantly, excreted in urine
+    *   **Fat-soluble:** Absorbed with dietary fats, stored in the liver and adipose tissue, excreted in bile
+
+## **Normal and Abnormal States** {-}
+
+*   **Normal Nutritional States**
+    *   Adequate dietary intake of essential nutrients
+    *   Normal absorption and utilization of nutrients
+    *   Maintenance of nutrient levels within the normal reference ranges
+*   **Malnutrition:** Imbalance resulting from inadequate or excessive nutrient intake
+    *   **Undernutrition:** Deficiency of one or more essential nutrients due to inadequate intake, impaired absorption, or increased requirements
+    *   **Overnutrition:** Excessive intake of nutrients, leading to nutrient toxicity and adverse health effects
+*   **Specific Disorders**
+    *   **Vitamin Deficiencies:** Scurvy (C), rickets (D), beriberi (B1), pellagra (B3)
+    *   **Vitamin Toxicity:** Liver damage (A), hypercalcemia (D), increased bleeding risk (E)
+*   **Assessment**
+    *   Dietary assessment, anthropometric measurements, biochemical tests, and clinical assessment are used to determine nutritional status
+
+## **Properties** {-}
+
+*   **Water-Soluble Vitamins**
+    *   Soluble in water
+    *   Not stored in the body
+    *   Less risk of toxicity
+    *   Serve as coenzymes in metabolism
+*   **Fat-Soluble Vitamins**
+    *   Soluble in lipids
+    *   Stored in the body
+    *   Risk of toxicity
+    *   Involved in vision, bone metabolism, and antioxidant functions
+*   **Key Chemical Characteristics**
+    *   Varied chemical structures influencing their solubility, stability, and interactions with other compounds
+*   **Stability and Reactivity**
+    *   Susceptible to degradation from heat, light, air, and pH
+*   **Active Forms**
+    *   Converted into specific coenzymes or active forms to exert their biochemical functions
+    
+## **Clinical Significance** {-}
+
+*   **Understanding these concepts is vital for**
+    *   Diagnosing and managing nutritional disorders effectively
+    *   Providing personalized dietary recommendations
+    *   Developing public health strategies to prevent deficiencies and toxicities
+    *   Interpreting laboratory test results related to vitamin and nutrient status

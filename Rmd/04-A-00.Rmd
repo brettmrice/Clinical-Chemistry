@@ -1,0 +1,84 @@
+# (PART\*) Special Chemistry {-}
+
+# Endocrinology {-}
+
+This section covers the biochemical basis, testing methods, interpretation of results, and associations with different disease states associated with endocrinology
+
+## **Biochemical Theory and Pathways** {-}
+
+*   **Hormones as Messengers**
+    *   Hormones are chemical messengers that regulate various physiological processes, including metabolism, growth, reproduction, and stress response
+*   **Hormone Synthesis, Secretion, and Transport**
+    *   Hormones are synthesized in endocrine glands and secreted into the bloodstream in response to specific stimuli
+    *   They are transported either freely or bound to carrier proteins
+*   **Mechanisms of Action**
+    *   Hormones bind to specific receptors on target cells, initiating intracellular signaling cascades that alter gene expression and cellular function
+    *   Receptors can be located on the cell surface (peptide hormones and catecholamines) or within the cell (steroid hormones and thyroid hormones)
+*   **Key Hormones and Their Functions**
+    *   **Pituitary Hormones:** Growth hormone (GH), adrenocorticotropic hormone (ACTH), thyroid-stimulating hormone (TSH), prolactin, luteinizing hormone (LH), follicle-stimulating hormone (FSH)
+    *   **Thyroid Hormones:** Thyroxine (T4), triiodothyronine (T3)
+    *   **Adrenal Hormones:** Cortisol, aldosterone, epinephrine, norepinephrine
+    *   **Pancreatic Hormones:** Insulin, glucagon
+    *   **Parathyroid Hormone (PTH)**
+    *   **Gonadal Hormones:** Testosterone, estradiol, progesterone
+*   **Feedback Mechanisms**
+    *   Hormone levels are tightly regulated by negative feedback loops to maintain homeostasis
+
+## **Laboratory Test Procedures** {-}
+
+*   **Principles of Hormone Measurement**
+    *   Immunoassays: Based on antibody-antigen interactions (e.g., ELISA, CLIA, RIA)
+    *   Fluorescence Assays: Measure the intensity of emitted light from fluorescently labeled hormones
+    *   Liquid Chromatography-Mass Spectrometry (LC-MS): Separates and quantifies hormones based on their mass-to-charge ratio
+*   **Specimen Collection and Handling**
+    *   Follow specific guidelines for patient preparation, collection tubes, order of draw, and specimen processing to ensure accurate results
+*   **Stimulation/Suppression Tests**
+    *   Used to assess the functional reserve of endocrine glands and diagnose hormone excess or deficiency
+    *   Involve administration of stimulatory or suppressive agents and serial hormone measurements
+*   **Common Tests**
+    *   Pituitary: GH, ACTH, TSH, prolactin, LH, FSH
+    *   Thyroid: Free T4, Free T3, TSH, thyroid antibodies
+    *   Adrenal: Cortisol, aldosterone, catecholamines
+    *   Parathyroid: PTH, calcium, vitamin D
+    *   Gonadal: Testosterone, estradiol, progesterone
+    *   Other: Insulin, C-peptide, human chorionic gonadotropin (hCG)
+
+## **Test Result Interpretation** {-}
+
+*   **Reference Intervals**
+    *   Use appropriate reference intervals for the specific assay and patient population
+*   **Clinical Context**
+    *   Interpret test results in the context of the patient's clinical history, physical examination findings, and other laboratory data
+*   **Multiple Tests**
+    *   Assess the pattern of hormone levels rather than relying on a single value; dynamic tests may be needed
+*   **Interfering Substances**
+    *   Be aware of potential interfering substances that can affect hormone measurements
+*   **Assay Limitations**
+    *   Understand the limitations of the specific assay used, including its sensitivity, specificity, and potential for cross-reactivity
+*   **Common Findings**
+    *   Elevated or suppressed hormone levels
+    *   Abnormal responses to stimulation/suppression tests
+    *   Presence of hormone-specific antibodies
+
+## **Disease State Correlation** {-}
+
+*   **Pituitary Disorders**
+    *   Acromegaly/Gigantism: Elevated GH and IGF-1
+    *   Cushing's Disease: Elevated cortisol and ACTH
+    *   Hypopituitarism: Deficiencies in one or more pituitary hormones
+*   **Thyroid Disorders**
+    *   Hyperthyroidism: Suppressed TSH and elevated free T4 and/or free T3
+    *   Hypothyroidism: Elevated TSH and low free T4
+*   **Adrenal Disorders**
+    *   Cushing's Syndrome: Elevated cortisol levels
+    *   Addison's Disease (Primary Adrenal Insufficiency): Low cortisol and elevated ACTH
+    *   Pheochromocytoma: Elevated catecholamines and metanephrines
+*   **Parathyroid Disorders**
+    *   Hyperparathyroidism: Elevated calcium and PTH
+    *   Hypoparathyroidism: Low calcium and PTH
+*   **Gonadal Disorders**
+    *   Hypogonadism in Males: Low testosterone and elevated LH/FSH (primary) or low LH/FSH (secondary)
+    *   Polycystic Ovary Syndrome (PCOS): Elevated testosterone, LH/FSH ratio, and insulin resistance
+*   **Other Hormones**
+    *   Diabetes Mellitus: Elevated glucose and HbA1c, variable insulin and C-peptide
+    *   Pregnancy: Elevated human chorionic gonadotropin (hCG)

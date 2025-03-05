@@ -1,0 +1,151 @@
+# Action Mechanism {-}
+
+Understanding how hormones work at the cellular level is key to understanding endocrinology. Hormones initiate their effects by binding to receptors, triggering a cascade of intracellular events
+
+## **Hormone Receptors** {-}
+
+*   **Definition:** Proteins located either on the cell surface or within the cell that bind to specific hormones, initiating a cellular response
+*   **Types of Receptors**
+    *   **Cell Surface Receptors:** Typically bind to peptide hormones and catecholamines
+        *   **G Protein-Coupled Receptors (GPCRs):** Activate intracellular signaling pathways through G proteins
+        *   **Receptor Tyrosine Kinases (RTKs):** Initiate phosphorylation cascades, leading to altered gene expression and cellular function
+        *   **Cytokine Receptors:** Activate intracellular signaling pathways through Janus kinases (JAKs) and signal transducers and activators of transcription (STATs)
+    *   **Intracellular Receptors:** Located in the cytoplasm or nucleus, typically bind to steroid hormones and thyroid hormones
+        *   **Nuclear Receptors:** Regulate gene transcription by binding to DNA response elements
+
+## **Mechanisms of Hormone Action** {-}
+
+*   **Peptide Hormones and Catecholamines**
+    *   **Binding to Cell Surface Receptors:**
+        *   Hormone binds to a specific receptor on the cell membrane
+        *   Receptor undergoes a conformational change, activating intracellular signaling pathways
+    *   **Activation of G Proteins:**
+        *   GPCRs activate G proteins (Gs, Gi, Gq)
+        *   Gs stimulates adenylyl cyclase, increasing cAMP levels
+        *   Gi inhibits adenylyl cyclase, decreasing cAMP levels
+        *   Gq activates phospholipase C, increasing IP3 and DAG levels
+    *   **Activation of Second Messengers:**
+        *   cAMP activates protein kinase A (PKA), which phosphorylates target proteins, altering their activity
+        *   IP3 releases calcium from the endoplasmic reticulum, activating protein kinase C (PKC) and other calcium-dependent signaling pathways
+        *   DAG activates PKC, which phosphorylates target proteins
+    *   **Activation of Receptor Tyrosine Kinases (RTKs):**
+        *   Hormone binding causes receptor dimerization and autophosphorylation
+        *   Phosphorylated tyrosine residues recruit intracellular signaling proteins, such as SH2 domain-containing proteins
+        *   Activation of downstream signaling pathways, including the MAPK/ERK pathway and the PI3K/Akt pathway
+    *   **Signal Amplification:**
+        *   The initial hormone-receptor interaction is amplified through signaling cascades, leading to a large cellular response
+    *   **Cellular Response:**
+        *   Changes in enzyme activity, gene expression, and cellular function
+
+*   **Steroid Hormones and Thyroid Hormones**
+    *   **Entry into the Cell:**
+        *   Hormone diffuses across the cell membrane and enters the cytoplasm
+    *   **Binding to Intracellular Receptors:**
+        *   Hormone binds to a specific receptor in the cytoplasm or nucleus
+        *   Receptor undergoes a conformational change, forming a hormone-receptor complex
+    *   **Translocation to the Nucleus (if receptor is cytoplasmic):**
+        *   Hormone-receptor complex translocates to the nucleus
+    *   **Binding to DNA:**
+        *   Hormone-receptor complex binds to specific DNA response elements (HREs) in the promoter region of target genes
+    *   **Regulation of Gene Transcription:**
+        *   The hormone-receptor complex recruits coactivator or corepressor proteins, altering gene transcription
+        *   Increased transcription leads to increased mRNA synthesis and protein production
+        *   Decreased transcription leads to decreased mRNA synthesis and protein production
+    *   **Cellular Response:**
+        *   Changes in protein synthesis and cellular function
+
+## **Detailed Mechanisms** {-}
+
+*   **G Protein-Coupled Receptors (GPCRs)**
+    *   **Structure:**
+        *   GPCRs are transmembrane proteins with seven transmembrane domains
+        *   The extracellular domain binds to the hormone, while the intracellular domain interacts with G proteins
+    *   **Activation:**
+        *   Hormone binding causes a conformational change in the receptor, activating the associated G protein
+        *   G proteins consist of three subunits: alpha, beta, and gamma
+        *   The alpha subunit binds to GTP and has intrinsic GTPase activity
+        *   Activation of the G protein causes the alpha subunit to dissociate and activate or inhibit downstream effectors
+    *   **Downstream Effectors:**
+        *   Adenylyl cyclase: Stimulated by Gs, inhibited by Gi
+            *   Adenylyl cyclase catalyzes the conversion of ATP to cAMP
+            *   cAMP activates protein kinase A (PKA)
+        *   Phospholipase C: Activated by Gq
+            *   Phospholipase C catalyzes the hydrolysis of PIP2 to IP3 and DAG
+            *   IP3 releases calcium from the endoplasmic reticulum
+            *   DAG activates protein kinase C (PKC)
+    *   **Termination of Signal:**
+        *   The intrinsic GTPase activity of the G protein alpha subunit hydrolyzes GTP to GDP, inactivating the G protein
+        *   Phosphodiesterases degrade cAMP, reducing PKA activity
+        *   Calcium pumps remove calcium from the cytoplasm, reducing PKC activity
+
+*   **Receptor Tyrosine Kinases (RTKs)**
+    *   **Structure:**
+        *   RTKs are transmembrane proteins with an extracellular domain that binds to the hormone and an intracellular domain with tyrosine kinase activity
+    *   **Activation:**
+        *   Hormone binding causes receptor dimerization and autophosphorylation of tyrosine residues in the intracellular domain
+        *   Phosphorylated tyrosine residues serve as docking sites for intracellular signaling proteins with SH2 domains
+    *   **Downstream Signaling Pathways:**
+        *   MAPK/ERK Pathway:
+            *   Activated by growth factors, such as epidermal growth factor (EGF)
+            *   Involves a cascade of protein kinases: Ras -> Raf -> MEK -> ERK
+            *   ERK phosphorylates transcription factors, altering gene expression
+        *   PI3K/Akt Pathway:
+            *   Activated by insulin and growth factors
+            *   Involves phosphatidylinositol 3-kinase (PI3K) and Akt
+            *   Akt promotes cell survival, growth, and metabolism
+    *   **Termination of Signal:**
+        *   Protein phosphatases remove phosphate groups from tyrosine residues, inactivating the receptor
+        *   GTPase-activating proteins (GAPs) inactivate Ras by promoting GTP hydrolysis
+
+*   **Nuclear Receptors**
+    *   **Structure:**
+        *   Nuclear receptors are intracellular proteins with a DNA-binding domain and a ligand-binding domain
+        *   The DNA-binding domain contains zinc finger motifs that recognize specific DNA sequences (response elements)
+    *   **Activation:**
+        *   Hormone enters the cell and binds to the receptor, causing a conformational change
+        *   The hormone-receptor complex translocates to the nucleus (if the receptor is cytoplasmic)
+    *   **Regulation of Gene Transcription:**
+        *   The hormone-receptor complex binds to specific DNA response elements (HREs) in the promoter region of target genes
+        *   Recruitment of Coactivators:
+            *   Coactivators are proteins that enhance gene transcription
+            *   They include histone acetyltransferases (HATs), which modify chromatin structure to make DNA more accessible
+        *   Recruitment of Corepressors:
+            *   Corepressors are proteins that inhibit gene transcription
+            *   They include histone deacetylases (HDACs), which modify chromatin structure to make DNA less accessible
+    *   **Termination of Signal:**
+        *   Hormone dissociates from the receptor, inactivating the complex
+        *   Protein phosphatases remove phosphate groups from transcription factors
+
+## **Examples of Hormones and Their Mechanisms of Action** {-}
+
+*   **Insulin:** Binds to receptor tyrosine kinase, activating the PI3K/Akt pathway and promoting glucose uptake
+*   **Glucagon:** Binds to G protein-coupled receptor, activating adenylyl cyclase and increasing cAMP levels
+*   **Epinephrine:** Binds to adrenergic receptors (GPCRs), activating adenylyl cyclase or phospholipase C
+*   **Cortisol:** Binds to intracellular glucocorticoid receptor, regulating gene transcription
+*   **Thyroid Hormone:** Binds to intracellular thyroid hormone receptor, regulating gene transcription
+
+## **Clinical Significance** {-}
+
+*   **Drug Development:** Understanding hormone receptor signaling pathways is crucial for developing drugs that target specific hormone-related disorders
+    *   Agonists: Drugs that activate hormone receptors
+    *   Antagonists: Drugs that block hormone receptors
+*   **Hormone Resistance:** Mutations in hormone receptors can lead to hormone resistance, where target tissues fail to respond normally to hormones
+*   **Cancer:** Aberrant hormone signaling can contribute to cancer development and progression
+*   **Autoimmune Disorders:** In some autoimmune disorders, antibodies target hormone receptors, leading to either overstimulation or blockade of hormone signaling
+
+## **Key Terms** {-}
+
+*   **Hormone Receptor:** A protein that binds to a specific hormone
+*   **Cell Surface Receptor:** A receptor located on the cell membrane
+*   **Intracellular Receptor:** A receptor located within the cell
+*   **G Protein-Coupled Receptor (GPCR):** A receptor that activates intracellular signaling pathways through G proteins
+*   **Receptor Tyrosine Kinase (RTK):** A receptor that initiates phosphorylation cascades
+*   **Second Messenger:** An intracellular signaling molecule, such as cAMP, IP3, or DAG
+*   **Protein Kinase:** An enzyme that phosphorylates proteins
+*   **Transcription Factor:** A protein that regulates gene transcription
+*   **DNA Response Element (HRE):** A specific DNA sequence that binds to hormone-receptor complexes
+*   **Agonist:** A drug that activates a hormone receptor
+*   **Antagonist:** A drug that blocks a hormone receptor
+*   **Hormone Resistance:** A condition where target tissues fail to respond normally to a hormone due to receptor defects or post-receptor signaling abnormalities
+*   **Autophosphorylation:** The phosphorylation of a protein by itself
+*   **Dimerization:** The formation of a complex between two identical proteins

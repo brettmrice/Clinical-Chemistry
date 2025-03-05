@@ -1,0 +1,99 @@
+# Procedures {-}
+
+This section covers general endocrinology testing principles, precautions, specimen handling, troubleshooting, interfering substances, and stimulation/suppression testing
+
+## **General Principles of Endocrine Testing** {-}
+
+*   **Purpose:** To measure hormone levels and assess endocrine gland function for diagnosis and management of endocrine disorders
+*   **Types of Assays**
+    *   **Immunoassays:** Based on antibody-antigen interactions (e.g., ELISA, CLIA, RIA)
+    *   **Fluorescence Assays:** Measure the intensity of emitted light from fluorescently labeled hormones
+    *   **Liquid Chromatography-Mass Spectrometry (LC-MS):** Separates and quantifies hormones based on their mass-to-charge ratio
+
+## **General Precautions** {-}
+
+*   **Patient Preparation**
+    *   **Fasting:** Required for some tests to minimize the effect of food intake on hormone levels
+    *   **Medications:** Some drugs can interfere with hormone tests; the physician should advise on whether to withhold medications
+    *   **Timing:** Specimen collection should be timed appropriately due to diurnal variations or pulsatile secretion of hormones
+    *   **Stress:** Minimize patient stress during specimen collection, as stress can affect hormone levels
+    *   **Menstrual Cycle:** For women, the phase of the menstrual cycle can affect sex hormone levels; specimens should be collected at the specified phase
+*   **Specimen Collection**
+    *   Use appropriate collection tubes for each hormone test
+    *   Follow the correct order of draw when collecting multiple tubes to prevent cross-contamination
+    *   Use proper venipuncture technique to minimize hemolysis and contamination
+    *   Label specimens immediately and accurately to prevent misidentification
+    *   Collect the correct volume of blood to ensure adequate sample for testing
+*   **Specimen Processing**
+    *   Centrifuge specimens promptly after collection to separate serum or plasma from cells
+    *   Separate serum or plasma from cells within the specified time frame to prevent hormone degradation
+    *   Aliquot specimens into appropriate containers to prevent contamination and allow for multiple tests
+    *   Store specimens at the appropriate temperature to preserve hormone stability
+    *   Thaw specimens properly before testing to prevent degradation of hormones
+
+## **Troubleshooting** {-}
+
+*   **High Hormone Results**
+    *   Pre-analytical: Patient not fasting, specimen collected at the wrong time, medication interference, stress during collection, improper collection tube, delayed processing, contamination of specimen
+    *   Analytical: Incorrect calibration, reagent deterioration, interfering substances, cross-reactivity, non-specific binding
+*   **Low Hormone Results**
+    *   Pre-analytical: Improper collection tube, delayed processing, improper storage, medication interference
+    *   Analytical: Incorrect calibration, reagent deterioration, interfering substances, assay drift
+*   **Inconsistent Results**
+    *   Pre-analytical: Patient variability, specimen handling errors
+    *   Analytical: Assay variability, interfering substances, cross-reactivity
+    *   Post-analytical: Transcription errors, reporting errors
+*   **Quality Control Failures**
+    *   Pre-analytical: QC material improperly stored, QC material expired
+    *   Analytical: Incorrect calibration, reagent deterioration, instrument malfunction
+    *   Action: Investigate the cause of the failure and take corrective action
+
+## **Interfering Substances** {-}
+
+*   **Heterophile Antibodies:** Bind to assay antibodies, causing falsely high or low results; use blocking reagents to mitigate
+*   **Biotin:** High levels can interfere with biotin-streptavidin assays; ask patients to discontinue biotin supplements
+*   **Hemolysis:** Releases intracellular components that can interfere with hormone assays; avoid hemolysis during collection and processing
+*   **Lipemia:** Turbidity from high lipid concentrations can interfere with spectrophotometric assays; use lipemia clearing techniques
+*   **Bilirubin:** High bilirubin levels can interfere with spectrophotometric assays; use methods less susceptible to bilirubin interference
+*   **Drugs:** Certain drugs can directly affect hormone levels or interfere with hormone assays; be aware of patient's medication list
+*   **Cross-Reactivity:** Assay antibodies may cross-react with structurally similar compounds; use highly specific antibodies
+*   **Non-Specific Binding:** Non-specific binding of assay components to the solid phase can lead to inaccurate results; use blocking reagents
+
+## **Stimulation/Suppression Tests** {-}
+
+*   **Purpose:** To evaluate the functional reserve of an endocrine gland or assess the autonomy of hormone production
+*   **General Procedure**
+    *   Baseline sample collection
+    *   Administration of stimulatory or suppressive agent
+    *   Serial sample collection
+    *   Interpretation of hormone response
+*   **Common Stimulation Tests**
+    *   ACTH Stimulation Test (Cosyntropin Test): Assesses adrenal gland function
+    *   Insulin Tolerance Test (ITT): Assesses growth hormone and ACTH reserve; requires close medical supervision due to the risk of severe hypoglycemia
+    *   TRH Stimulation Test: Assesses pituitary TSH reserve
+*   **Common Suppression Tests**
+    *   Dexamethasone Suppression Test (DST): Diagnoses Cushing's syndrome and differentiates its causes
+    *   Oral Glucose Suppression Test: Diagnoses acromegaly
+*   **General Precautions**
+    *   Patient Selection: Ensure the patient is an appropriate candidate and there are no contraindications
+    *   Medication Review: Review the patient's medication list
+    *   Informed Consent: Obtain informed consent from the patient
+    *   Adverse Reactions: Be prepared to manage potential adverse reactions
+    *   Standardized Procedures: Follow standardized procedures for test administration, sample collection, and hormone measurement
+    *   Quality Control: Implement rigorous quality control procedures
+    *   Reference Ranges: Use appropriate reference ranges
+    *   Clinical Correlation: Interpret test results in the context of the patient's clinical presentation
+
+## **Key Terms** {-}
+
+*   **Pre-Analytical:** Processes that occur before the sample is analyzed
+*   **Analytical:** Processes involved in analyzing the sample
+*   **Post-Analytical:** Processes that occur after the sample is analyzed
+*   **Interfering Substance:** A substance that affects the accuracy of a test
+*   **Heterophile Antibodies:** Antibodies that bind to multiple antigens
+*   **Cross-Reactivity:** The ability of an antibody to bind to multiple antigens
+*   **Stimulation Test:** A test used to assess hormone deficiency by stimulating hormone release
+*   **Suppression Test:** A test used to assess hormone excess by suppressing hormone production
+*   **Dynamic Testing:** Assessing endocrine function by measuring the response to a challenge
+*   **Baseline Sample:** A blood sample collected prior to the administration of a stimulatory or suppressive agent
+*   **Reference Range:** The range of values found in healthy individuals

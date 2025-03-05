@@ -1,0 +1,137 @@
+# Stimulation/Suppression {-}
+
+Dynamic endocrine testing, through stimulation or suppression, helps assess gland function by challenging the normal feedback loops and observing the hormonal response
+
+## **Principles of Stimulation/Suppression Testing** {-}
+
+*   **Purpose:** To evaluate the functional reserve of an endocrine gland or to assess the autonomy of hormone production
+*   **Dynamic Assessment:** Unlike static hormone measurements, these tests measure the gland's response to a challenge
+*   **Types of Tests**
+    *   **Stimulation Tests:** Used to assess hormone deficiency by stimulating hormone release and measuring the gland's capacity to respond
+    *   **Suppression Tests:** Used to assess hormone excess by suppressing hormone production and measuring the gland's ability to be inhibited
+*   **General Procedure**
+    1.  **Baseline Sample Collection:** One or more baseline blood samples are collected to measure initial hormone levels
+    2.  **Administration of Stimulatory or Suppressive Agent:** A specific agent is administered to stimulate or suppress hormone production
+    3.  **Serial Sample Collection:** Blood samples are collected at specified intervals after the agent is administered to monitor the hormone response
+    4.  **Interpretation:** Hormone levels are measured and compared to established reference ranges to determine if the endocrine gland is functioning normally
+
+## **Common Stimulation Tests** {-}
+
+### **ACTH Stimulation Test (Cosyntropin Test)** {-}
+
+*   **Purpose:** To assess adrenal gland function and diagnose adrenal insufficiency
+*   **Principle:** Synthetic ACTH (cosyntropin) is administered to stimulate cortisol production by the adrenal glands
+*   **Procedure**
+    1.  Baseline cortisol level is measured
+    2.  Cosyntropin (250 μg) is administered intravenously or intramuscularly
+    3.  Cortisol levels are measured 30 and 60 minutes post-injection
+*   **Interpretation**
+    *   **Normal Response:** Cortisol level increases by at least 20 μg/dL from baseline and reaches a peak value of at least 20 μg/dL
+    *   **Primary Adrenal Insufficiency:** Minimal or no increase in cortisol levels, indicating adrenal gland dysfunction
+    *   **Secondary Adrenal Insufficiency:** Delayed or subnormal response, indicating pituitary dysfunction
+*   **Special Considerations**
+    *   Patient should be off any glucocorticoid medications prior to the test
+    *   False-positive results can occur in patients with acute illness or stress
+
+### **Insulin Tolerance Test (ITT)** {-}
+
+*   **Purpose:** To assess growth hormone (GH) and ACTH reserve
+*   **Principle:** Insulin-induced hypoglycemia stimulates the release of GH and ACTH
+*   **Procedure**
+    1.  Baseline GH and cortisol levels are measured
+    2.  Regular insulin (0.05-0.15 U/kg) is administered intravenously to induce hypoglycemia
+    3.  GH and cortisol levels are measured at 30, 60, and 90 minutes post-injection
+    4.  Blood glucose levels are monitored throughout the test to ensure adequate hypoglycemia (glucose < 40 mg/dL)
+*   **Interpretation**
+    *   **Normal GH Response:** GH level increases to at least 5-10 ng/mL
+    *   **Normal Cortisol Response:** Cortisol level increases by at least 7 μg/dL from baseline and reaches a peak value of at least 20 μg/dL
+    *   **Abnormal Response:** Failure to achieve adequate hypoglycemia or failure of GH and/or cortisol to increase appropriately
+*   **Special Considerations**
+    *   ITT is contraindicated in patients with coronary artery disease, seizures, or known adrenal insufficiency
+    *   Test should be performed under close medical supervision due to the risk of severe hypoglycemia
+
+### **TRH Stimulation Test** {-}
+
+*   **Purpose:** To assess pituitary TSH reserve and diagnose thyroid disorders
+*   **Principle:** TRH (thyrotropin-releasing hormone) stimulates the release of TSH from the pituitary gland
+*   **Procedure**
+    1.  Baseline TSH level is measured
+    2.  TRH (200-500 μg) is administered intravenously
+    3.  TSH levels are measured at 30 and 60 minutes post-injection
+*   **Interpretation**
+    *   **Normal Response:** TSH level increases by at least 5 μIU/mL from baseline
+    *   **Primary Hypothyroidism:** Elevated baseline TSH with an exaggerated response to TRH
+    *   **Secondary Hypothyroidism:** Low or normal baseline TSH with a blunted or absent response to TRH, indicating pituitary dysfunction
+    *   **Tertiary Hypothyroidism:** Low or normal baseline TSH with a delayed response to TRH, indicating hypothalamic dysfunction
+*   **Special Considerations**
+    *   Patient should be off any thyroid hormone medications prior to the test
+    *   Certain medications (e.g., glucocorticoids, dopamine) can affect TSH secretion and interfere with the test results
+
+## **Common Suppression Tests** {-}
+
+### **Dexamethasone Suppression Test (DST)** {-}
+
+*   **Purpose:** To diagnose Cushing's syndrome and differentiate its causes
+*   **Principle:** Dexamethasone, a synthetic glucocorticoid, suppresses ACTH production by the pituitary gland, which in turn suppresses cortisol production by the adrenal glands
+*   **Types of DST**
+    *   **Low-Dose DST:** Used to screen for Cushing's syndrome
+    *   **High-Dose DST:** Used to differentiate between pituitary-dependent Cushing's disease and ectopic ACTH-secreting tumors
+*   **Procedure**
+    *   **Low-Dose DST**
+        1.  Baseline cortisol level is measured
+        2.  Dexamethasone (1 mg) is administered orally at 11 PM
+        3.  Cortisol level is measured at 8 AM the following morning
+    *   **High-Dose DST**
+        1.  Baseline cortisol and ACTH levels are measured
+        2.  Dexamethasone (8 mg) is administered orally at 11 PM
+        3.  Cortisol and ACTH levels are measured at 8 AM the following morning
+*   **Interpretation**
+    *   **Low-Dose DST**
+        *   **Normal Suppression:** Cortisol level is suppressed to < 1.8 μg/dL
+        *   **Lack of Suppression:** Cortisol level remains elevated, indicating Cushing's syndrome
+    *   **High-Dose DST**
+        *   **Pituitary-Dependent Cushing's Disease:** Cortisol level is suppressed by at least 50% from baseline
+        *   **Ectopic ACTH-Secreting Tumor:** Cortisol level is not suppressed
+        *   **Adrenal Tumor:** Cortisol level is not suppressed
+*   **Special Considerations**
+    *   Certain medications (e.g., phenytoin, carbamazepine) can increase the metabolism of dexamethasone and interfere with the test results
+    *   False-positive results can occur in patients with depression, alcoholism, or chronic stress
+
+### **Oral Glucose Suppression Test** {-}
+
+*   **Purpose:** To diagnose acromegaly
+*   **Principle:** Glucose normally suppresses growth hormone (GH) secretion
+*   **Procedure**
+    1.  Baseline GH level is measured
+    2.  Patient drinks a standard glucose solution (75 g)
+    3.  GH levels are measured at 30, 60, 90, and 120 minutes post-ingestion
+*   **Interpretation**
+    *   **Normal Suppression:** GH level is suppressed to < 1 ng/mL
+    *   **Lack of Suppression:** GH level remains elevated, indicating autonomous GH secretion characteristic of acromegaly
+*   **Special Considerations**
+    *   Certain medications (e.g., beta-blockers) can interfere with the test results
+    *   False-positive results can occur in patients with renal failure or liver disease
+
+## **General Precautions and Considerations** {-}
+
+*   **Patient Selection:** Ensure that the patient is an appropriate candidate for the test and that there are no contraindications
+*   **Medication Review:** Review the patient's medication list and determine if any medications need to be withheld prior to the test
+*   **Informed Consent:** Obtain informed consent from the patient after explaining the purpose, procedure, and potential risks of the test
+*   **Adverse Reactions:** Be prepared to manage potential adverse reactions to the stimulatory or suppressive agent
+*   **Standardized Procedures:** Follow standardized procedures for test administration, sample collection, and hormone measurement
+*   **Quality Control:** Implement rigorous quality control procedures to ensure the accuracy and reliability of hormone measurements
+*   **Reference Ranges:** Use appropriate reference ranges for the specific test and patient population
+*   **Clinical Correlation:** Interpret test results in the context of the patient's clinical presentation and other laboratory findings
+
+## **Key Terms** {-}
+
+*   **Stimulation Test:** A test used to assess hormone deficiency by stimulating hormone release
+*   **Suppression Test:** A test used to assess hormone excess by suppressing hormone production
+*   **ACTH Stimulation Test:** A test used to assess adrenal gland function
+*   **Insulin Tolerance Test (ITT):** A test used to assess growth hormone and ACTH reserve
+*   **TRH Stimulation Test:** A test used to assess pituitary TSH reserve
+*   **Dexamethasone Suppression Test (DST):** A test used to diagnose Cushing's syndrome
+*   **Oral Glucose Suppression Test:** A test used to diagnose acromegaly
+*   **Dynamic Testing:** Assessing endocrine function by measuring the response to a challenge
+*   **Baseline Sample:** A blood sample collected prior to the administration of a stimulatory or suppressive agent
+*   **Reference Range:** The range of values found in healthy individuals

@@ -1,0 +1,67 @@
+# Biochemicals {-}
+
+This overview summarizes the key aspects of endocrinology related to biochemical theory and pathways, providing a foundation for understanding hormone function and associated disorders
+
+## **Biochemical Theory and Metabolic Pathways** {-}
+
+*   **Hormones as Regulators:** Hormones are chemical messengers that regulate metabolic pathways to maintain homeostasis. They influence energy production, storage, and utilization
+*   **Key Hormones**
+    *   **Insulin:** Lowers blood glucose by promoting glucose uptake, glycogenesis, glycolysis, and lipogenesis. Inhibits gluconeogenesis and lipolysis
+    *   **Glucagon:** Raises blood glucose by stimulating glycogenolysis and gluconeogenesis. Promotes lipolysis and ketogenesis
+    *   **Epinephrine:** Raises blood glucose by stimulating glycogenolysis and gluconeogenesis. Promotes lipolysis and inhibits insulin secretion
+    *   **Cortisol:** Raises blood glucose by stimulating gluconeogenesis and protein catabolism. Promotes lipolysis and induces insulin resistance
+    *   **Growth Hormone:** Promotes protein synthesis and lipolysis. Induces insulin resistance and stimulates gluconeogenesis
+    *   **Thyroid Hormones:** Increase basal metabolic rate, enhance glucose absorption, and affect carbohydrate, lipid, and protein metabolism
+*   **Hormonal Interactions:** Hormones often work in opposition to maintain metabolic homeostasis. Their effects are coordinated through complex feedback mechanisms
+
+## **ormal and Abnormal States** {-}
+
+*   **Normal Endocrine Function**
+    *   **Synthesis and Secretion:** Hormones are synthesized and secreted in endocrine glands, regulated by feedback mechanisms, neural signals, and hormonal signals
+    *   **Transport:** Hormones are transported in the bloodstream, either bound to carrier proteins or freely
+    *   **Action:** Hormones bind to specific receptors on target cells, initiating intracellular signaling cascades
+    *   **Metabolism and Excretion:** Hormones are metabolized in the liver and kidneys and excreted in the urine or bile
+*   **Abnormal Endocrine Function**
+    *   **Hormone Excess:** Can be caused by tumors, autoimmune disorders, or ectopic hormone production, leading to exaggerated physiological responses
+    *   **Hormone Deficiency:** Can be caused by autoimmune destruction, surgical removal, or genetic defects, leading to impaired physiological responses
+    *   **Receptor Abnormalities:** Receptor resistance or mutations can disrupt hormone signaling
+*   **Specific Endocrine Disorders**
+    *   **Pituitary Disorders:** Acromegaly, Cushing's disease, hyperprolactinemia, growth hormone deficiency, adrenal insufficiency, hypothyroidism, hypogonadism
+    *   **Thyroid Disorders:** Hyperthyroidism (Graves' disease), hypothyroidism (Hashimoto's thyroiditis)
+    *   **Adrenal Disorders:** Cushing's syndrome, Addison's disease, hyperaldosteronism, pheochromocytoma
+    *   **Pancreatic Disorders:** Diabetes mellitus (Type 1 & 2), insulinoma
+    *   **Parathyroid Disorders:** Hyperparathyroidism, hypoparathyroidism
+    *   **Gonadal Disorders:** Hypogonadism, polycystic ovary syndrome (PCOS)
+
+## **Mechanism of Action** {-}
+
+*   **Hormone Receptors**
+    *   **Cell Surface Receptors:** Bind to peptide hormones and catecholamines, activating G protein-coupled receptors (GPCRs), receptor tyrosine kinases (RTKs), or cytokine receptors
+    *   **Intracellular Receptors:** Bind to steroid hormones and thyroid hormones, regulating gene transcription as nuclear receptors
+*   **Signaling Pathways**
+    *   **GPCRs:** Activate G proteins, leading to changes in cAMP, IP3, and DAG levels
+    *   **RTKs:** Undergo autophosphorylation and activate downstream signaling pathways, such as MAPK/ERK and PI3K/Akt
+    *   **Nuclear Receptors:** Bind to DNA response elements and recruit coactivators or corepressors to regulate gene transcription
+*   **Cellular Response**
+    *   Hormone signaling leads to changes in enzyme activity, gene expression, and cellular function
+*   **Drug Development**
+    *   Understanding hormone receptor signaling pathways is crucial for developing drugs that target specific hormone-related disorders
+    *   Agonists activate hormone receptors, while antagonists block hormone receptors
+
+## **Physical and Chemical Properties** {-}
+
+*   **Steroid Hormones**
+    *   Derived from cholesterol, lipid-soluble, transported by carrier proteins, bind to intracellular receptors
+    *   Examples: Cortisol, estradiol, testosterone
+*   **Peptide Hormones**
+    *   Composed of amino acid chains, water-soluble, transported freely or by carrier proteins, bind to cell surface receptors
+    *   Examples: Insulin, glucagon, growth hormone
+*   **Thyroid Hormones**
+    *   Derived from tyrosine and iodine, lipid-soluble, transported by thyroxine-binding globulin (TBG), bind to intracellular receptors
+    *   Examples: T3, T4
+*   **Catecholamines**
+    *   Derived from tyrosine, water-soluble, transported freely or by carrier proteins, bind to cell surface receptors
+    *   Examples: Epinephrine, norepinephrine, dopamine
+*   **Impact on Hormone Function**
+    *   The physical and chemical properties of hormones influence their synthesis, transport, receptor binding, and mechanism of action
+    *   They affect the design of assays to measure their levels and the development of hormone replacement therapies

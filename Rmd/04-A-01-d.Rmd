@@ -1,0 +1,148 @@
+# Properties {-}
+
+The physical and chemical properties of hormones influence their synthesis, transport, receptor binding, and mechanism of action
+
+## **Steroid Hormones** {-}
+
+*   **Examples:** Cortisol, aldosterone, testosterone, estradiol (estrogen), progesterone, hCG
+*   **Source:** Adrenal cortex, gonads, placenta
+*   **Biochemical Theory and Pathway**
+    *   **Synthesis:** Steroid hormones are synthesized from cholesterol through a series of enzymatic reactions
+    *   **Key Enzymes:** Cytochrome P450 enzymes (CYP enzymes) are involved in many steps of steroid hormone synthesis
+    *   **Synthesis Pathway**
+        *   Cholesterol is converted to pregnenolone by CYP11A1 (cholesterol side-chain cleavage enzyme)
+        *   Pregnenolone is converted to various steroid hormones through different pathways in different tissues
+        *   Cortisol: Synthesized in the adrenal cortex
+        *   Aldosterone: Synthesized in the adrenal cortex
+        *   Testosterone: Synthesized in the testes
+        *   Estradiol: Synthesized in the ovaries
+        *   Progesterone: Synthesized in the ovaries and placenta
+*   **Physical Properties**
+    *   **Structure:** Characterized by a four-ring structure (steroid nucleus)
+    *   **Solubility:** Lipid-soluble
+        *   Hydrophobic and poorly soluble in water
+        *   Transported in the bloodstream bound to carrier proteins
+    *   **Molecular Weight:** Relatively low (250-400 Da)
+*   **Chemical Properties**
+    *   **Stability:** Relatively stable due to their ring structure
+    *   **Reactivity:** Undergo enzymatic modifications (e.g., hydroxylation, oxidation, reduction)
+        *   These modifications can alter their biological activity
+    *   **Polarity:** Nonpolar
+        *   Can diffuse across cell membranes
+    *   **Binding Affinity:** Bind with high affinity to intracellular receptors
+
+## **Peptide Hormones** {-}
+
+*   **Examples:** Insulin, glucagon, growth hormone, prolactin, follicle-stimulating hormone (FSH), luteinizing hormone (LH), thyroid-stimulating hormone (TSH), adrenocorticotropic hormone (ACTH), parathyroid hormone (PTH), human chorionic gonadotropin (hCG)
+*   **Source:** Pituitary gland, pancreas, parathyroid gland, placenta
+*   **Biochemical Theory and Pathway**
+    *   **Synthesis:** Peptide hormones are synthesized as preprohormones, which are processed to prohormones and then to active hormones
+    *   **Translation:** Synthesized on ribosomes in the endoplasmic reticulum
+    *   **Processing:** Undergo post-translational modifications (e.g., glycosylation, cleavage)
+        *   Cleavage of signal peptides and prohormone sequences
+    *   **Storage:** Stored in secretory granules
+    *   **Secretion:** Released by exocytosis in response to appropriate stimuli
+*   **Physical Properties**
+    *   **Structure:** Consist of amino acid chains
+        *   Can be small peptides (e.g., TRH) or large proteins (e.g., GH)
+    *   **Solubility:** Water-soluble
+        *   Hydrophilic and readily soluble in water
+        *   Transported in the bloodstream freely or bound to carrier proteins
+    *   **Molecular Weight:** Variable, ranging from hundreds to tens of thousands of Daltons
+*   **Chemical Properties**
+    *   **Stability:** Less stable than steroid hormones
+        *   Susceptible to degradation by peptidases
+    *   **Reactivity:** Undergo glycosylation and other post-translational modifications
+        *   These modifications can affect their biological activity and stability
+    *   **Polarity:** Polar
+        *   Cannot easily diffuse across cell membranes
+    *   **Binding Affinity:** Bind with high affinity to cell surface receptors
+
+## **Thyroid Hormones** {-}
+
+*   **Examples:** Thyroxine (T4), triiodothyronine (T3)
+*   **Source:** Thyroid gland
+*   **Biochemical Theory and Pathway**
+    *   **Synthesis:** Thyroid hormones are synthesized from tyrosine and iodine in the thyroid gland
+    *   **Iodide Uptake:** Iodide is actively transported into thyroid follicular cells
+    *   **Thyroglobulin Synthesis:** Thyroglobulin is synthesized in thyroid follicular cells
+    *   **Iodination:** Iodide is oxidized and attached to tyrosine residues on thyroglobulin
+        *   Monoiodotyrosine (MIT) and diiodotyrosine (DIT) are formed
+    *   **Coupling:** MIT and DIT molecules are coupled to form T3 and T4
+        *   DIT + DIT = T4 (thyroxine)
+        *   MIT + DIT = T3 (triiodothyronine)
+    *   **Storage:** T3 and T4 are stored in thyroglobulin within thyroid follicles
+    *   **Release:** T3 and T4 are released from thyroglobulin by proteolysis and secreted into the bloodstream
+    *   **Conversion:** T4 is converted to T3 in peripheral tissues by deiodinases
+*   **Physical Properties**
+    *   **Structure:** Modified amino acids
+        *   Contain iodine atoms
+    *   **Solubility:** Lipid-soluble
+        *   Transported in the bloodstream bound to thyroxine-binding globulin (TBG) and other carrier proteins
+    *   **Molecular Weight:** ~650 Da
+*   **Chemical Properties**
+    *   **Stability:** Relatively stable
+    *   **Reactivity:** Can be deiodinated in peripheral tissues
+        *   T4 is converted to T3 (more active) or reverse T3 (inactive)
+    *   **Polarity:** Amphipathic
+        *   Can cross cell membranes but bind to intracellular receptors
+    *   **Binding Affinity:** Bind with high affinity to intracellular receptors
+
+## **Catecholamines** {-}
+
+*   **Examples:** Epinephrine (adrenaline), norepinephrine (noradrenaline), dopamine
+*   **Source:** Adrenal medulla, sympathetic nervous system
+*   **Biochemical Theory and Pathway**
+    *   **Synthesis:** Catecholamines are synthesized from tyrosine in the adrenal medulla and sympathetic neurons
+    *   **Tyrosine Hydroxylation:** Tyrosine is converted to L-DOPA by tyrosine hydroxylase
+    *   **DOPA Decarboxylation:** L-DOPA is converted to dopamine by DOPA decarboxylase
+    *   **Dopamine Hydroxylation:** Dopamine is converted to norepinephrine by dopamine beta-hydroxylase
+    *   **Norepinephrine Methylation:** Norepinephrine is converted to epinephrine by phenylethanolamine N-methyltransferase (PNMT)
+    *   **Storage:** Catecholamines are stored in vesicles
+    *   **Release:** Released by exocytosis in response to neural stimuli
+    *   **Metabolism:** Metabolized by monoamine oxidase (MAO) and catechol-O-methyltransferase (COMT)
+*   **Physical Properties**
+    *   **Structure:** Derived from the amino acid tyrosine
+        *   Contain a catechol ring and an amine group
+    *   **Solubility:** Water-soluble
+        *   Hydrophilic and readily soluble in water
+        *   Transported in the bloodstream freely or bound to carrier proteins
+    *   **Molecular Weight:** Relatively low (150-200 Da)
+*   **Chemical Properties**
+    *   **Stability:** Relatively unstable
+        *   Susceptible to oxidation and degradation
+    *   **Reactivity:** Undergo methylation and oxidation
+        *   Metabolized by MAO and COMT
+    *   **Polarity:** Polar
+        *   Cannot easily diffuse across cell membranes
+    *   **Binding Affinity:** Bind with high affinity to cell surface receptors (adrenergic receptors)
+
+## **Summary Table of Physical and Chemical Properties** {-}
+
+| Hormone Category | Solubility | Receptor Location | Primary Transport | Example        |
+| :--------------- | :--------- | :---------------- | :---------------- | :------------- |
+| Steroid          | Lipid-soluble | Intracellular       | Carrier Proteins  | Cortisol       |
+| Peptide          | Water-soluble | Cell Surface        | Free or Carriers  | Insulin        |
+| Thyroid          | Lipid-soluble | Intracellular       | TBG             | T3             |
+| Catecholamine    | Water-soluble | Cell Surface        | Free or Carriers  | Epinephrine    |
+
+## **Clinical Significance** {-}
+
+*   **Drug Development:** Understanding the physical and chemical properties of hormones is crucial for developing drugs that mimic or block their actions
+*   **Assay Development:** The properties of hormones influence the design of assays to measure their levels
+*   **Hormone Replacement Therapy:** Hormone replacement therapy involves administering hormones with specific physical and chemical properties to treat hormone deficiencies
+
+## **Key Terms** {-}
+
+*   **Steroid Hormone:** A hormone derived from cholesterol
+*   **Peptide Hormone:** A hormone composed of amino acids
+*   **Thyroid Hormone:** A hormone derived from tyrosine and iodine
+*   **Catecholamine:** A hormone derived from tyrosine, including epinephrine, norepinephrine, and dopamine
+*   **Hydrophobic:** Water-repelling
+*   **Hydrophilic:** Water-attracting
+*   **Polarity:** The distribution of electrical charge in a molecule
+*   **Carrier Protein:** A protein that binds to and transports hormones in the bloodstream
+*   **Receptor:** A protein that binds to a specific hormone, initiating a cellular response
+*   **Intracellular Receptor:** A receptor located within the cell
+*   **Cell Surface Receptor:** A receptor located on the cell membrane
+*   **Half-Life:** The time it takes for half of a substance to be eliminated from the body

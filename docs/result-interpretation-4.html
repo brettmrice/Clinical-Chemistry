@@ -132,6 +132,29 @@
 <li><a class="" href="calculations-1.html">Calculations</a></li>
 <li><a class="" href="result-interpretation-6.html">Result Interpretation</a></li>
 <li><a class="" href="disease-correlation-6.html">Disease Correlation</a></li>
+<li class="book-part">Special Chemistry</li>
+<li><a class="" href="endocrinology.html">Endocrinology</a></li>
+<li><a class="" href="biochemicals-5.html">Biochemicals</a></li>
+<li><a class="" href="metabolic-7.html">Metabolic</a></li>
+<li><a class="" href="physiology-7.html">Physiology</a></li>
+<li><a class="" href="action-mechanism.html">Action Mechanism</a></li>
+<li><a class="" href="properties-5.html">Properties</a></li>
+<li><a class="" href="procedures-7.html">Procedures</a></li>
+<li><a class="" href="principles-7.html">Principles</a></li>
+<li><a class="" href="precautions-2.html">Precautions</a></li>
+<li><a class="" href="stimulationsuppression.html">Stimulation/Suppression</a></li>
+<li><a class="" href="result-interpretation-7.html">Result Interpretation</a></li>
+<li><a class="" href="disease-correlation-7.html">Disease Correlation</a></li>
+<li><a class="" href="vitamins-nutrition.html">Vitamins, Nutrition</a></li>
+<li><a class="" href="biochemicals-6.html">Biochemicals</a></li>
+<li><a class="" href="metabolic-8.html">Metabolic</a></li>
+<li><a class="" href="physiology-8.html">Physiology</a></li>
+<li><a class="" href="properties-7.html">Properties</a></li>
+<li><a class="" href="procedures-8.html">Procedures</a></li>
+<li><a class="" href="principles-8.html">Principles</a></li>
+<li><a class="" href="precautions-3.html">Precautions</a></li>
+<li><a class="" href="result-interpretation-8.html">Result Interpretation</a></li>
+<li><a class="" href="disease-correlation-8.html">Disease Correlation</a></li>
 </ul>
 
         <div class="book-extra" style="display:none;">
@@ -680,7 +703,7 @@
   function scroll_to_element() {
     header_height = document.getElementsByTagName('header')[0].offsetHeight/2;
     toc_element_position = document.querySelector('.book-toc > li > a.active').offsetTop;
-    if(toc_element_position == 1) {
+    if(document.querySelector('.book-toc > li > a.active').offsetLeft == 0) {
       toc_element_position1 = document.querySelector('.book-toc > li > a.active').offsetParent.offsetTop;
       toc_element_position2 = document.querySelector('.book-toc > li > a.active').offsetParent.offsetHeight;
       toc_element_position = toc_element_position1 + toc_element_position2;
@@ -729,7 +752,7 @@
 <footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
 
   <div class="col-12 col-md-6 mt-3" style="text-align: center; flex: 100%; max-width: 100%;">
-    <p>Written by Brett M. Rice | Updated 2025-03-04 | Built by the <a class="text-light" href="https://bookdown.org">bookdown</a> R package</p>
+    <p>Written by Brett M. Rice | Updated 2025-03-05 | Built by the <a class="text-light" href="https://bookdown.org">bookdown</a> R package</p>
   </div>
 
   <!--div class="col-12 col-md-6 mt-3">

@@ -1,0 +1,325 @@
+# Physiology {-}
+
+Understanding the normal and abnormal states associated with vitamin and nutrient metabolism is crucial for identifying and managing nutritional disorders
+
+## **General Principles of Nutritional Status** {-}
+
+*   **Nutritional Requirements**
+    *   The body requires a balanced intake of macronutrients (carbohydrates, fats, proteins) and micronutrients (vitamins, minerals) for optimal health
+    *   Nutritional requirements vary based on age, sex, activity level, and physiological state (e.g., pregnancy, lactation)
+*   **Dietary Intake and Absorption**
+    *   Adequate dietary intake is essential for meeting nutritional requirements
+    *   Factors affecting absorption: Digestive function, intestinal health, and interactions with other nutrients and medications
+*   **Metabolic Processes**
+    *   Nutrients undergo various metabolic processes (digestion, absorption, transport, storage, and utilization)
+    *   Enzymes, hormones, and other factors regulate these processes
+*   **Assessment of Nutritional Status**
+    *   **Dietary Assessment:** Evaluation of dietary intake and eating habits
+    *   **Anthropometric Measurements:** Height, weight, body mass index (BMI), and body composition
+    *   **Biochemical Tests:** Measurement of nutrient levels and related metabolites in blood, urine, and tissues
+    *   **Clinical Assessment:** Physical examination to identify signs and symptoms of nutritional deficiencies or excesses
+
+## **Normal Nutritional States** {-}
+
+*   **Adequate Dietary Intake**
+    *   Consumption of a balanced diet that meets the body's nutritional requirements
+    *   Includes a variety of foods from different food groups (fruits, vegetables, grains, protein sources, and dairy)
+*   **Normal Absorption and Utilization**
+    *   Efficient digestion and absorption of nutrients from the gastrointestinal tract
+    *   Normal metabolic processes for nutrient utilization in cells and tissues
+*   **Optimal Nutrient Levels**
+    *   Maintenance of nutrient levels within the normal reference ranges
+    *   Adequate storage and mobilization of nutrients as needed
+
+## **Abnormal Nutritional States** {-}
+
+*   **Malnutrition**
+    *   A state of nutritional imbalance resulting from inadequate or excessive intake of nutrients, or impaired nutrient utilization
+    *   Includes both undernutrition and overnutrition
+*   **Undernutrition**
+    *   **Definition:** Deficiency of one or more essential nutrients
+    *   **Causes**
+        *   Inadequate dietary intake: Poverty, food insecurity, eating disorders, fad diets
+        *   Impaired absorption: Malabsorption syndromes, gastrointestinal disorders
+        *   Increased nutrient requirements: Pregnancy, lactation, chronic diseases
+        *   Increased nutrient losses: Diarrhea, vomiting, kidney disease
+    *   **Types of Undernutrition**
+        *   Protein-energy malnutrition (PEM): Deficiency of both protein and calories
+        *   Micronutrient deficiencies: Deficiency of vitamins and minerals
+*   **Overnutrition**
+    *   **Definition:** Excessive intake of nutrients, leading to nutrient toxicity and adverse health effects
+    *   **Causes**
+        *   Excessive dietary intake: Overeating, consumption of nutrient-dense foods
+        *   Excessive supplementation: High doses of vitamin and mineral supplements
+    *   **Types of Overnutrition**
+        *   Obesity: Excessive accumulation of body fat
+        *   Vitamin toxicity: Excessive intake of fat-soluble vitamins (A, D, E, K)
+*   **Specific Nutritional Disorders**
+    *   Vitamin Deficiencies: Scurvy, rickets, beriberi, pellagra
+    *   Mineral Deficiencies: Iron deficiency anemia, iodine deficiency, calcium deficiency
+    *   Eating Disorders: Anorexia nervosa, bulimia nervosa
+    *   Obesity: Excessive accumulation of body fat
+    *   Metabolic Syndrome: A cluster of conditions that increase the risk of heart disease, stroke, and diabetes
+*   **Biochemical Markers of Nutritional Status**
+    *   **Protein Status:** Serum albumin, prealbumin, transferrin, retinol-binding protein
+    *   **Vitamin Status:** Serum vitamin levels, urinary excretion of vitamin metabolites
+    *   **Mineral Status:** Serum mineral levels, red blood cell mineral levels
+    *   **Iron Status:** Serum iron, transferrin saturation, ferritin, hemoglobin, hematocrit
+    *   **Lipid Status:** Cholesterol, triglycerides, HDL cholesterol, LDL cholesterol
+    *   **Glucose Status:** Fasting glucose, HbA1c, oral glucose tolerance test
+
+## **Water-Soluble Vitamin Disorders** {-}
+            
+### **Thiamin (Vitamin B1)** {-}
+*   **Normal State:** Adequate dietary intake of thiamin
+    *   Sources: Whole grains, meat, and fish
+    *   Requirements: 1.2 mg/day for men, 1.1 mg/day for women
+*   **Abnormal State: Thiamin Deficiency**
+    *   **Causes**
+        *   Inadequate dietary intake: Common in alcoholics and individuals with poor nutrition
+        *   Impaired absorption: Gastrointestinal disorders
+        *   Increased requirements: Pregnancy, lactation
+    *   **Disorders**
+        *   Beriberi: Neurological and cardiovascular symptoms
+        *   Wernicke-Korsakoff Syndrome: Neurological disorder associated with chronic alcohol abuse
+    *   **Biochemical Findings**
+        *   Decreased erythrocyte transketolase activity
+        *   Elevated blood pyruvate and lactate levels
+        
+### **Riboflavin (Vitamin B2)** {-}
+*   **Normal State:** Adequate dietary intake of riboflavin
+    *   Sources: Milk, eggs, meat, and green vegetables
+    *   Requirements: 1.3 mg/day for men, 1.1 mg/day for women
+*   **Abnormal State: Riboflavin Deficiency**
+    *   **Causes**
+        *   Inadequate dietary intake: Common in individuals with poor nutrition
+        *   Impaired absorption: Gastrointestinal disorders
+        *   Increased requirements: Pregnancy, lactation
+    *   **Disorders**
+        *   Ariboflavinosis: Characterized by cheilosis, glossitis, and dermatitis
+    *   **Biochemical Findings**
+        *   Decreased erythrocyte glutathione reductase activity
+        *   Decreased urinary excretion of riboflavin
+        
+### **Niacin (Vitamin B3)** {-}
+*   **Normal State:** Adequate dietary intake of niacin
+    *   Sources: Meat, fish, poultry, and enriched grains
+    *   Requirements: 16 mg/day for men, 14 mg/day for women
+*   **Abnormal State: Niacin Deficiency**
+    *   **Causes**
+        *   Inadequate dietary intake: Common in individuals with poor nutrition
+        *   Impaired absorption: Gastrointestinal disorders
+        *   Decreased conversion of tryptophan to niacin
+    *   **Disorders**
+        *   Pellagra: Characterized by dermatitis, diarrhea, and dementia
+    *   **Biochemical Findings**
+        *   Decreased urinary excretion of niacin metabolites
+        *   Decreased erythrocyte nicotinamide adenine dinucleotide (NAD) levels
+*   **Abnormal State: Niacin Toxicity**
+    *   **Causes**
+        *   Excessive intake of niacin supplements
+    *   **Disorders**
+        *   Niacin Flush: Characterized by skin flushing and itching
+        *   Liver Damage: Elevated liver enzymes
+        
+### **Pyridoxine (Vitamin B6)** {-}
+*   **Normal State:** Adequate dietary intake of pyridoxine
+    *   Sources: Meat, fish, poultry, and whole grains
+    *   Requirements: 1.3 mg/day for adults
+*   **Abnormal State: Pyridoxine Deficiency**
+    *   **Causes**
+        *   Inadequate dietary intake: Common in alcoholics
+        *   Drug interactions: Certain medications can interfere with pyridoxine metabolism
+    *   **Disorders**
+        *   Neurological Symptoms: Seizures, depression, and peripheral neuropathy
+        *   Dermatitis: Skin rash
+        *   Anemia: Microcytic anemia
+    *   **Biochemical Findings**
+        *   Decreased plasma pyridoxal phosphate (PLP) levels
+        *   Elevated urinary xanthurenic acid excretion after tryptophan load
+*   **Abnormal State: Pyridoxine Toxicity**
+    *   **Causes**
+        *   Excessive intake of pyridoxine supplements
+    *   **Disorders**
+        *   Peripheral Neuropathy: Nerve damage, causing numbness and tingling in the extremities
+        
+### **Folate (Vitamin B9)** {-}
+*   **Normal State:** Adequate dietary intake of folate
+    *   Sources: Green leafy vegetables, fruits, and fortified grains
+    *   Requirements: 400 mcg/day for adults, 600 mcg/day for pregnant women
+*   **Abnormal State: Folate Deficiency**
+    *   **Causes**
+        *   Inadequate dietary intake: Common in individuals with poor nutrition
+        *   Impaired absorption: Malabsorption syndromes
+        *   Drug interactions: Certain medications can interfere with folate metabolism
+    *   **Disorders**
+        *   Megaloblastic Anemia: Characterized by large, abnormal red blood cells
+        *   Neural Tube Defects: Birth defects affecting the brain and spinal cord in developing fetuses
+        *   Increased risk of cardiovascular disease
+    *   **Biochemical Findings**
+        *   Decreased serum and red blood cell folate levels
+        *   Elevated homocysteine levels
+*   **Abnormal State: Folate Toxicity**
+    *   **Causes**
+        *   Excessive intake of folate supplements
+    *   **Disorders**
+        *   Masking Vitamin B12 Deficiency: High folate intake can mask the symptoms of vitamin B12 deficiency, leading to irreversible neurological damage
+        
+### **Cobalamin (Vitamin B12)** {-}
+*   **Normal State:** Adequate dietary intake of cobalamin
+    *   Sources: Meat, fish, poultry, and dairy products
+    *   Requirements: 2.4 mcg/day for adults
+*   **Abnormal State: Cobalamin Deficiency**
+    *   **Causes**
+        *   Inadequate dietary intake: Common in vegans and vegetarians
+        *   Impaired absorption: Pernicious anemia (lack of intrinsic factor), malabsorption syndromes
+    *   **Disorders**
+        *   Megaloblastic Anemia: Characterized by large, abnormal red blood cells
+        *   Neurological Symptoms: Peripheral neuropathy, cognitive impairment
+        *   Increased risk of cardiovascular disease
+    *   **Biochemical Findings**
+        *   Decreased serum vitamin B12 levels
+        *   Elevated homocysteine and methylmalonic acid (MMA) levels
+        
+### **Ascorbic Acid (Vitamin C)** {-}
+*   **Normal State:** Adequate dietary intake of ascorbic acid
+    *   Sources: Fruits and vegetables, especially citrus fruits and berries
+    *   Requirements: 90 mg/day for men, 75 mg/day for women
+*   **Abnormal State: Ascorbic Acid Deficiency**
+    *   **Causes**
+        *   Inadequate dietary intake: Common in individuals with limited access to fresh fruits and vegetables
+    *   **Disorders**
+        *   Scurvy: Characterized by bleeding gums, poor wound healing, and anemia
+    *   **Biochemical Findings**
+        *   Decreased serum ascorbic acid levels
+
+## **Fat-Soluble Vitamin Disorders** {-}
+            
+### **Vitamin A** {-}
+*   **Normal State:** Adequate dietary intake of vitamin A
+    *   Sources: Liver, dairy products, eggs, and orange and yellow fruits and vegetables
+    *   Requirements: 900 mcg/day for men, 700 mcg/day for women
+*   **Abnormal State: Vitamin A Deficiency**
+    *   **Causes**
+        *   Inadequate dietary intake: Common in developing countries
+        *   Impaired absorption: Fat malabsorption syndromes
+    *   **Disorders**
+        *   Night Blindness: Impaired vision in low light conditions
+        *   Xerophthalmia: Dryness and damage to the cornea
+        *   Impaired Immune Function: Increased susceptibility to infections
+    *   **Biochemical Findings**
+        *   Decreased serum retinol levels
+*   **Abnormal State: Vitamin A Toxicity**
+    *   **Causes**
+        *   Excessive intake of vitamin A supplements
+    *   **Disorders**
+        *   Acute Toxicity: Nausea, vomiting, headache, and dizziness
+        *   Chronic Toxicity: Liver damage, bone pain, and birth defects
+    *   **Biochemical Findings**
+        *   Elevated serum retinol levels
+        
+### **Vitamin D** {-}
+*   **Normal State:** Adequate vitamin D status
+    *   Sources: Sunlight exposure, fortified foods, and supplements
+    *   Requirements: 600 IU/day for adults, 800 IU/day for adults over 70
+*   **Abnormal State: Vitamin D Deficiency**
+    *   **Causes**
+        *   Inadequate sunlight exposure: Limited outdoor activities, dark skin pigmentation
+        *   Inadequate dietary intake: Limited consumption of vitamin D-rich foods
+        *   Impaired absorption: Fat malabsorption syndromes
+        *   Kidney and liver disorders: Impaired conversion to active form
+    *   **Disorders**
+        *   Rickets: Bone deformities in children
+        *   Osteomalacia: Softening of the bones in adults
+        *   Osteoporosis: Decreased bone density, increasing the risk of fractures
+    *   **Biochemical Findings**
+        *   Decreased serum 25-hydroxyvitamin D [25(OH)D] levels
+        *   Elevated parathyroid hormone (PTH) levels in response to hypocalcemia
+*   **Abnormal State: Vitamin D Toxicity**
+    *   **Causes**
+        *   Excessive intake of vitamin D supplements
+    *   **Disorders**
+        *   Hypercalcemia: Elevated serum calcium levels
+        *   Kidney Stones: Calcium deposits in the kidneys
+        *   Soft Tissue Calcification: Calcium deposits in soft tissues
+    *   **Biochemical Findings**
+        *   Elevated serum 25(OH)D and calcium levels
+        
+### **Vitamin E** {-}
+*   **Normal State:** Adequate dietary intake of vitamin E
+    *   Sources: Vegetable oils, nuts, seeds, and green leafy vegetables
+    *   Requirements: 15 mg/day for adults
+*   **Abnormal State: Vitamin E Deficiency**
+    *   **Causes**
+        *   Fat malabsorption syndromes: Cystic fibrosis, celiac disease
+        *   Genetic disorders: Abetalipoproteinemia
+    *   **Disorders**
+        *   Neurological Symptoms: Peripheral neuropathy, ataxia
+        *   Hemolytic Anemia: Damage to red blood cells
+    *   **Biochemical Findings**
+        *   Decreased serum alpha-tocopherol levels
+*   **Abnormal State: Vitamin E Toxicity**
+    *   **Causes**
+        *   Excessive intake of vitamin E supplements
+    *   **Disorders**
+        *   Increased Risk of Bleeding: Interferes with blood clotting
+        
+### **Vitamin K** {-}
+*   **Normal State:** Adequate vitamin K status
+    *   Sources: Green leafy vegetables and synthesized by intestinal bacteria
+    *   Requirements: 120 mcg/day for men, 90 mcg/day for women
+*   **Abnormal State: Vitamin K Deficiency**
+    *   **Causes**
+        *   Inadequate dietary intake: Rare
+        *   Malabsorption Syndromes: Cystic fibrosis, celiac disease
+        *   Antibiotic Use: Kills intestinal bacteria
+        *   Newborns: Lack of intestinal bacteria and limited placental transfer
+    *   **Disorders**
+        *   Bleeding Disorders: Impaired blood clotting
+    *   **Biochemical Findings**
+        *   Prolonged Prothrombin Time (PT) and International Normalized Ratio (INR)
+    *   Poor bone health
+*   **Abnormal State: Vitamin K Toxicity**
+    *   **Causes**
+        *   Excessive intake of synthetic vitamin K (menadione)
+    *   **Disorders**
+        *   Rare, but can cause hemolytic anemia and liver damage in infants
+
+## **Summary Table of Nutritional Disorders** {-}
+
+| Nutrient          | Deficiency Disorder(s)                          | Toxicity Disorder(s)                       |
+| :---------------- | :----------------------------------------------- | :----------------------------------------- |
+| Thiamin (B1)     | Beriberi, Wernicke-Korsakoff Syndrome           | Rare                                         |
+| Riboflavin (B2)  | Ariboflavinosis                                  | Rare                                         |
+| Niacin (B3)      | Pellagra                                         | Niacin Flush, Liver Damage                   |
+| Pyridoxine (B6)  | Neurological Symptoms, Dermatitis, Anemia      | Peripheral Neuropathy                        |
+| Folate (B9)      | Megaloblastic Anemia, Neural Tube Defects        | Masks B12 Deficiency                         |
+| Cobalamin (B12)  | Megaloblastic Anemia, Neurological Symptoms     | Rare                                         |
+| Ascorbic Acid (C) | Scurvy                                           | GI Distress, Kidney Stones                   |
+| Vitamin A        | Night Blindness, Xerophthalmia, Immune Dysfunction | Liver Damage, Birth Defects                   |
+| Vitamin D        | Rickets, Osteomalacia, Osteoporosis             | Hypercalcemia, Kidney Stones, Tissue Calcification |
+| Vitamin E        | Neurological Symptoms, Hemolytic Anemia          | Increased Bleeding Risk                      |
+| Vitamin K        | Bleeding Disorders                               | Rare                                         |
+
+## **Clinical Significance** {-}
+
+*   **Diagnosis and Management**
+    *   Accurate assessment of nutritional status is essential for diagnosing and managing nutritional disorders
+*   **Public Health Interventions**
+    *   Addressing nutritional deficiencies in populations through food fortification and supplementation programs
+*   **Personalized Nutrition**
+    *   Tailoring dietary recommendations and supplement use based on an individual's nutritional status and genetic factors
+
+## **Key Terms** {-}
+
+*   **Malnutrition:** Nutritional imbalance resulting from inadequate or excessive intake of nutrients
+*   **Undernutrition:** Deficiency of one or more essential nutrients
+*   **Overnutrition:** Excessive intake of nutrients, leading to nutrient toxicity
+*   **Scurvy:** Vitamin C deficiency
+*   **Rickets:** Vitamin D deficiency in children
+*   **Beriberi:** Thiamin deficiency
+*   **Pellagra:** Niacin deficiency
+*   **Megaloblastic Anemia:** Anemia characterized by large, abnormal red blood cells, often due to folate or vitamin B12 deficiency
+*   **Osteomalacia:** Softening of the bones in adults
+*   **Osteoporosis:** Decreased bone density, increasing the risk of fractures
+*   **Biochemical Marker:** A measurable substance in blood, urine, or tissues that reflects nutritional status

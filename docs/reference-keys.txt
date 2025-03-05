@@ -4,3 +4,9 @@ nutritional-disorders
 cancer
 other-conditions-1
 key-terms-36
+pituitary-disorders
+thyroid-disorders
+adrenal-disorders
+pancreatic-endocrine-disorders
+parathyroid-disorders
+gonadal-disorders

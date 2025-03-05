@@ -1,0 +1,226 @@
+# Properties {-}
+
+Understanding the physical and chemical properties of vitamins and nutrients is crucial for comprehending their absorption, transport, storage, and biological activities
+
+## **General Properties of Vitamins** {-}
+
+*   **Organic Compounds**
+    *   Vitamins are organic compounds that are essential for human health
+*   **Dietary Requirements**
+    *   They are required in small amounts from the diet because the body cannot synthesize them adequately
+*   **Classification**
+    *   Vitamins are classified into two groups based on their solubility: water-soluble and fat-soluble
+
+## **Water-Soluble Vitamins** {-}
+
+*   **General Characteristics**
+    *   Soluble in water
+    *   Absorbed directly into the bloodstream
+    *   Not stored in the body to a significant extent
+    *   Excess is excreted in the urine
+    *   Less risk of toxicity compared to fat-soluble vitamins
+    *   Act as coenzymes in various metabolic reactions
+
+### **Thiamin (Vitamin B1)** {-}
+
+*   **Chemical Name:** Thiamin
+*   **Structure:** Contains a pyrimidine ring and a thiazole ring connected by a methylene bridge
+*   **Solubility:** Soluble in water
+*   **Stability:** Unstable to heat, especially in alkaline solutions
+*   **Active Form:** Thiamin pyrophosphate ($TPP$)
+*   **Biochemical Functions**
+    *   Coenzyme for pyruvate dehydrogenase, α-ketoglutarate dehydrogenase, and transketolase
+    *   Involved in carbohydrate metabolism and energy production
+
+### **Riboflavin (Vitamin B2)** {-}
+
+*   **Chemical Names:** Riboflavin
+*   **Structure:** Consists of a flavin ring system attached to a ribitol (sugar alcohol)
+*   **Solubility:** Slightly soluble in water
+*   **Stability:** Unstable to light, especially in alkaline solutions
+*   **Active Forms:** Flavin mononucleotide ($FMN$) and flavin adenine dinucleotide ($FAD$)
+*   **Biochemical Functions**
+    *   Coenzymes for oxidoreductase enzymes
+    *   Involved in energy metabolism, electron transport, and antioxidant defense
+
+### **Niacin (Vitamin B3)** {-}
+
+*   **Chemical Names:** Nicotinic acid, nicotinamide
+*   **Structure:** Pyridine derivative
+*   **Solubility:** Soluble in water
+*   **Stability:** Stable to heat, light, and air
+*   **Active Forms:** Nicotinamide adenine dinucleotide ($NAD^+$) and nicotinamide adenine dinucleotide phosphate ($NADP^+$)
+*   **Biochemical Functions**
+    *   Coenzymes for numerous dehydrogenase enzymes
+    *   Involved in energy metabolism, DNA repair, and cell signaling
+
+### **Pantothenic Acid (Vitamin B5)** {-}
+
+*   **Chemical Name:** Pantothenic acid
+*   **Structure:** Consists of β-alanine and pantoic acid linked by a peptide bond
+*   **Solubility:** Soluble in water
+*   **Stability:** Unstable to heat, especially in acidic or alkaline solutions
+*   **Active Form:** Coenzyme A ($CoA$)
+*   **Biochemical Functions**
+    *   Component of coenzyme A ($CoA$)
+    *   Involved in fatty acid synthesis and oxidation, citric acid cycle, and synthesis of cholesterol and steroid hormones
+
+### **Pyridoxine (Vitamin B6)** {-}
+
+*   **Chemical Names:** Pyridoxine, pyridoxal, pyridoxamine
+*   **Structure:** Pyridine derivative with different functional groups
+*   **Solubility:** Soluble in water
+*   **Stability:** Unstable to heat, light, and alkaline solutions
+*   **Active Form:** Pyridoxal phosphate ($PLP$)
+*   **Biochemical Functions**
+    *   Coenzyme for numerous enzymes involved in amino acid metabolism
+    *   Involved in neurotransmitter synthesis, heme synthesis, and glycogen metabolism
+
+### **Biotin (Vitamin B7)** {-}
+
+*   **Chemical Name:** Biotin
+*   **Structure:** Consists of a ureido ring fused with a tetrahydrothiophene ring
+*   **Solubility:** Slightly soluble in water
+*   **Stability:** Stable to heat and air, but unstable to strong acids and bases
+*   **Active Form:** Biotin is covalently bound to carboxylase enzymes
+*   **Biochemical Functions**
+    *   Coenzyme for carboxylation enzymes
+    *   Involved in fatty acid synthesis, gluconeogenesis, and amino acid catabolism
+
+### **Folate (Vitamin B9)** {-}
+
+*   **Chemical Names:** Folic acid, pteroylglutamic acid
+*   **Structure:** Consists of a pteridine ring, p-aminobenzoic acid ($PABA$), and glutamic acid
+*   **Solubility:** Slightly soluble in water
+*   **Stability:** Unstable to heat, light, and acidic solutions
+*   **Active Form:** Tetrahydrofolate ($THF$)
+*   **Biochemical Functions**
+    *   Coenzyme for one-carbon transfer reactions
+    *   Involved in DNA synthesis, amino acid metabolism, and homocysteine metabolism
+
+### **Cobalamin (Vitamin B12)** {-}
+
+*   **Chemical Names:** Cobalamin
+*   **Structure:** Contains a corrin ring system with a central cobalt atom
+*   **Solubility:** Soluble in water
+*   **Stability:** Stable to heat, but unstable to light, strong acids, and bases
+*   **Active Forms:** Methylcobalamin and adenosylcobalamin
+*   **Biochemical Functions**
+    *   Coenzyme for methionine synthase and methylmalonyl-CoA mutase
+    *   Involved in homocysteine metabolism, DNA synthesis, and nerve function
+
+### **Ascorbic Acid (Vitamin C)** {-}
+
+*   **Chemical Name:** Ascorbic acid
+*   **Structure:** A six-carbon lactone ring
+*   **Solubility:** Soluble in water
+*   **Stability:** Unstable to heat, light, and air; easily oxidized
+*   **Active Form:** Ascorbic acid
+*   **Biochemical Functions**
+    *   Antioxidant
+    *   Required for collagen synthesis, carnitine synthesis, and neurotransmitter synthesis
+    *   Enhances iron absorption
+
+## **Fat-Soluble Vitamins** {-}
+
+*   **General Characteristics**
+    *   Soluble in lipids
+    *   Absorbed along with dietary fats
+    *   Stored in the liver and adipose tissue
+    *   Risk of toxicity with excessive intake
+    *   Involved in various physiological functions, such as vision, bone metabolism, and antioxidant defense
+
+### **Vitamin A** {-}
+
+*   **Chemical Names:** Retinol, retinal, retinoic acid, beta-carotene (provitamin)
+*   **Structure:** Consists of a beta-ionone ring and an isoprenoid chain
+*   **Solubility:** Soluble in lipids
+*   **Stability:** Unstable to heat, light, and air
+*   **Active Forms:** Retinol, retinal, and retinoic acid
+*   **Biochemical Functions**
+    *   Vision (retinal)
+    *   Cell differentiation and gene expression (retinoic acid)
+    *   Immune function
+
+### **Vitamin D** {-}
+
+*   **Chemical Names:** Cholecalciferol (Vitamin D3), ergocalciferol (Vitamin D2)
+*   **Structure:** Steroid derivative
+*   **Solubility:** Soluble in lipids
+*   **Stability:** Stable to heat and air, but unstable to light
+*   **Active Form:** Calcitriol (1,25-dihydroxyvitamin D)
+*   **Biochemical Functions**
+    *   Calcium and phosphate metabolism
+    *   Bone health
+    *   Cell growth and differentiation
+*   **Activation**
+    *   Cholecalciferol and ergocalciferol require two hydroxylation steps for activation
+        *   25-hydroxylation in the liver forms calcidiol (25-hydroxyvitamin D)
+        *   1α-hydroxylation in the kidney forms calcitriol (1,25-dihydroxyvitamin D)
+
+### **Vitamin E** {-}
+
+*   **Chemical Names:** Tocopherols, tocotrienols
+*   **Structure:** Consists of a chromanol ring and an isoprenoid side chain
+*   **Solubility:** Soluble in lipids
+*   **Stability:** Unstable to heat, light, air, and alkaline conditions
+*   **Active Form:** Alpha-tocopherol
+*   **Biochemical Functions**
+    *   Antioxidant
+    *   Protects cell membranes from lipid peroxidation
+
+### **Vitamin K** {-}
+
+*   **Chemical Names:** Phylloquinone (Vitamin K1), menaquinone (Vitamin K2), menadione (synthetic form)
+*   **Structure:** Consists of a quinone ring and an isoprenoid side chain
+*   **Solubility:** Soluble in lipids
+*   **Stability:** Unstable to light and alkaline solutions
+*   **Active Forms:** Phylloquinone and menaquinone
+*   **Biochemical Functions**
+    *   Blood clotting
+    *   Bone metabolism
+*   **Action**
+    *   Acts as a coenzyme for gamma-glutamyl carboxylase, which carboxylates glutamate residues in clotting factors II, VII, IX, and X
+
+## **Properties and Functions Summary** {-}
+
+| Vitamin          | Solubility | Key Chemical Characteristics | Key Active Forms              | Primary Biochemical Functions                                      |
+| :--------------- | :--------- | :---------------------------- | :---------------------------- | :----------------------------------------------------------------- |
+| Thiamin (B1)     | Water      | Pyrimidine and thiazole rings | Thiamin Pyrophosphate (TPP)   | Carbohydrate metabolism                                            |
+| Riboflavin (B2)  | Water      | Flavin ring system           | FMN, FAD                      | Redox reactions, energy metabolism                                 |
+| Niacin (B3)      | Water      | Pyridine derivative           | NAD+, NADP+                   | Redox reactions, DNA repair                                        |
+| Pantothenic Acid (B5) | Water      | β-alanine and pantoic acid    | Coenzyme A (CoA)              | Fatty acid metabolism, citric acid cycle                           |
+| Pyridoxine (B6)  | Water      | Pyridine derivative           | Pyridoxal Phosphate (PLP)     | Amino acid metabolism, neurotransmitter synthesis                   |
+| Biotin (B7)      | Water      | Ureido and tetrahydrothiophene rings | Biotin-Enzyme Complex         | Carboxylation reactions                                            |
+| Folate (B9)      | Water      | Pteridine, PABA, and glutamate   | Tetrahydrofolate (THF)        | One-carbon transfer reactions, DNA synthesis                       |
+| Cobalamin (B12)  | Water      | Corrin ring system with cobalt | Methylcobalamin, Adenosylcobalamin | Homocysteine metabolism, DNA synthesis                             |
+| Ascorbic Acid (C) | Water      | Lactone ring                  | Ascorbic Acid                 | Antioxidant, collagen synthesis, iron absorption                    |
+| Vitamin A        | Lipid      | Beta-ionone ring and isoprenoid | Retinol, Retinal, Retinoic Acid | Vision, cell differentiation, immune function                      |
+| Vitamin D        | Lipid      | Steroid derivative            | Calcitriol (1,25-(OH)2D)        | Calcium and phosphate metabolism, bone health                       |
+| Vitamin E        | Lipid      | Chromanol ring and isoprenoid  | Alpha-Tocopherol              | Antioxidant, cell membrane protection                               |
+| Vitamin K        | Lipid      | Quinone ring and isoprenoid    | Phylloquinone, Menaquinone     | Blood clotting, bone metabolism                                    |
+
+## **Clinical Significance** {-}
+
+*   **Understanding of these Properties Aids In**
+    *   Predicting the absorption, transport, and storage of vitamins within the body
+    *   Designing appropriate dietary recommendations and supplementation strategies
+    *   Developing analytical methods for measuring vitamin levels in biological samples
+    *   Explaining the mechanisms of vitamin deficiencies and toxicities
+
+## **Key Terms** {-}
+
+*   **Vitamins:** Essential organic compounds required in small amounts for human health
+*   **Water-Soluble Vitamins:** Vitamins that are soluble in water and readily excreted
+*   **Fat-Soluble Vitamins:** Vitamins that are soluble in lipids and stored in the body
+*   **Coenzyme:** A substance that is required for the activity of an enzyme
+*   **Antioxidant:** A substance that protects cells from damage caused by free radicals
+*   **Absorption:** The process by which nutrients are taken up from the digestive tract into the bloodstream
+*   **Transport:** The process by which nutrients are carried in the bloodstream to tissues and organs
+*   **Storage:** The process by which nutrients are stored in the body
+*   **Excretion:** The process by which waste products are eliminated from the body
+*   **Deficiency:** A condition in which the body does not have enough of a particular nutrient
+*   **Toxicity:** A condition in which the body has too much of a particular nutrient
+*   **Retinoids:** A class of chemical compounds that are related to vitamin A
+*   **Tocopherols:** A class of chemical compounds that are related to vitamin E
+*   **Quinones:** A class of chemical compounds that are related to vitamin K

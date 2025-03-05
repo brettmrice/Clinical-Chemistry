@@ -1,0 +1,186 @@
+# Precautions {-}
+
+Ensuring the accuracy and reliability of vitamin and nutrient analyses requires meticulous attention to pre-analytical factors, proper specimen handling, and awareness of potential interferences
+
+## **Special Precautions** {-}
+
+*   **Patient Preparation**
+    *   **Fasting:** Some nutrient tests require patients to fast for a specified period (e.g., 8-12 hours) before specimen collection
+        *   **Rationale:** Fasting minimizes the effects of recent food intake on nutrient levels
+        *   **Examples:** Lipid profiles, glucose, iron studies
+    *   **Medications:** Certain medications can interfere with nutrient tests
+        *   **Rationale:** Medications can affect nutrient absorption, metabolism, or excretion
+        *   **Examples**
+            *   Oral contraceptives: Affect vitamin B6 and folate levels
+            *   Metformin: Affect vitamin B12 levels
+            *   Cholestyramine: Affect fat-soluble vitamin absorption
+        *   **Action:** Inquire about medications and supplements the patient is taking
+    *   **Supplements:** Inform patients to avoid taking vitamin and mineral supplements for a specified period before testing
+        *   **Rationale:** Supplements can falsely elevate nutrient levels
+        *   **Action:** Follow the laboratory's guidelines for supplement restrictions
+    *   **Alcohol Consumption:** Alcohol can affect nutrient absorption and metabolism
+        *   **Rationale:** Chronic alcohol consumption can lead to deficiencies in thiamin, folate, and other nutrients
+        *   **Action:** Instruct patients to avoid alcohol consumption for 24-48 hours before testing
+    *   **Timing:** For some nutrients, the timing of specimen collection can be important due to diurnal variations or postprandial changes
+        *   **Rationale:** Iron levels vary throughout the day; lipid profiles are affected by recent food intake
+        *   **Action:** Collect specimens at the specified time
+
+## **Specimen Collection** {-}
+
+*   **Collection Tubes**
+    *   Use appropriate collection tubes for each nutrient test
+        *   **Rationale:** Different tubes contain different anticoagulants and additives that can affect nutrient stability and assay performance
+        *   **Examples**
+            *   EDTA tubes: Commonly used for vitamin B12, folate, and iron studies
+            *   Serum separator tubes (SST): Used for fat-soluble vitamins
+            *   Light-protected tubes: Used for light-sensitive vitamins (e.g., vitamin A, vitamin B6)
+    *   Follow the manufacturer's instructions for tube selection
+*   **Order of Draw**
+    *   Follow the correct order of draw when collecting multiple tubes
+        *   **Rationale:** Prevents cross-contamination from tube additives
+        *   **Action:** Consult the CLSI guidelines for the correct order of draw
+*   **Technique**
+    *   Use proper venipuncture technique
+        *   **Rationale:** Minimizes hemolysis and contamination
+        *   **Action:** Avoid prolonged tourniquet time and use a gentle technique
+*   **Labeling**
+    *   Label specimens immediately and accurately
+        *   **Rationale:** Prevents misidentification and errors
+        *   **Action:** Use two patient identifiers (e.g., name and date of birth)
+*   **Volume**
+    *   Collect the correct volume of blood
+        *   **Rationale:** Insufficient volume can affect assay performance
+        *   **Action:** Follow the manufacturer's instructions for minimum volume requirements
+
+## **Specimen Processing** {-}
+
+*   **Centrifugation**
+    *   Centrifuge specimens promptly after collection
+        *   **Rationale:** Separates serum or plasma from cells
+        *   **Action:** Follow the manufacturer's instructions for centrifugation speed and time
+*   **Separation**
+    *   Separate serum or plasma from cells within the specified time frame
+        *   **Rationale:** Prevents hemolysis and degradation of nutrients
+        *   **Action:** Follow the manufacturer's instructions for separation time
+*   **Aliquotting**
+    *   Aliquot specimens into appropriate containers
+        *   **Rationale:** Prevents contamination and allows for multiple tests
+        *   **Action:** Use clean, dry containers
+*   **Storage**
+    *   Store specimens at the appropriate temperature
+        *   **Rationale:** Preserves nutrient stability
+        *   **Examples**
+            *   Refrigeration (2-8°C): For short-term storage
+            *   Freezing (-20°C or -80°C): For long-term storage
+    *   Follow the manufacturer's instructions for storage conditions
+*   **Thawing**
+    *   Thaw specimens properly before testing
+        *   **Rationale:** Prevents degradation of nutrients
+        *   **Action:** Thaw at room temperature or in a refrigerator, and mix gently
+*   **Light Protection**
+    *   Protect light-sensitive vitamins from light exposure during collection, processing, and storage
+        *   **Rationale:** Light can degrade certain vitamins (e.g., vitamin A, vitamin B6, folate)
+        *   **Action:** Use amber-colored tubes or wrap clear tubes in aluminum foil
+
+## **Troubleshooting** {-}
+
+*   **High Nutrient Results**
+    *   **Pre-analytical**
+        *   Patient not fasting
+        *   Recent supplement intake
+        *   Medication interference
+        *   Improper collection tube
+        *   Delayed processing
+        *   Contamination of specimen
+    *   **Analytical**
+        *   Incorrect calibration
+        *   Reagent deterioration
+        *   Interfering substances
+        *   Cross-reactivity
+        *   Non-specific binding
+*   **Low Nutrient Results**
+    *   **Pre-analytical**
+        *   Improper collection tube
+        *   Delayed processing
+        *   Improper storage
+        *   Medication interference
+    *   **Analytical**
+        *   Incorrect calibration
+        *   Reagent deterioration
+        *   Interfering substances
+        *   Assay drift
+*   **Inconsistent Results**
+    *   **Pre-analytical**
+        *   Patient variability
+        *   Specimen handling errors
+    *   **Analytical**
+        *   Assay variability
+        *   Interfering substances
+        *   Cross-reactivity
+    *   **Post-analytical**
+        *   Transcription errors
+        *   Reporting errors
+*   **Quality Control Failures**
+    *   **Pre-analytical**
+        *   QC material improperly stored
+        *   QC material expired
+    *   **Analytical**
+        *   Incorrect calibration
+        *   Reagent deterioration
+        *   Instrument malfunction
+    *   **Action:** Investigate the cause of the failure and take corrective action
+
+## **Interfering Substances** {-}
+
+*   **Hemolysis**
+    *   **Interference:** Releases intracellular components that can interfere with nutrient assays
+    *   **Mechanism:** Interferes with spectrophotometric or immunoassay measurements
+    *   **Mitigation:** Avoid hemolysis during collection and processing
+*   **Lipemia**
+    *   **Interference:** Turbidity from high lipid concentrations can interfere with spectrophotometric assays
+    *   **Mechanism:** Lipids scatter light, leading to inaccurate absorbance measurements
+    *   **Mitigation:** Use lipemia clearing techniques or consider methods less affected by turbidity
+*   **Bilirubin**
+    *   **Interference:** High bilirubin levels can interfere with spectrophotometric assays
+    *   **Mechanism:** Bilirubin absorbs light at similar wavelengths, affecting absorbance readings
+    *   **Mitigation:** Use methods less susceptible to bilirubin interference or employ bilirubin correction techniques
+*   **Drugs**
+    *   **Interference:** Certain drugs can directly affect nutrient levels or interfere with nutrient assays
+    *   **Examples**
+        *   Metformin: Affects vitamin B12 levels
+        *   Cholestyramine: Affects fat-soluble vitamin absorption
+        *   Oral contraceptives: Affect vitamin B6 and folate levels
+    *   **Mitigation:** Be aware of patient's medication list
+*   **Heterophile Antibodies**
+    *   **Interference:** Bind to assay antibodies, causing falsely high or low results
+    *   **Mechanism:** Non-specific binding to assay components
+    *   **Mitigation:** Use blocking reagents or heterophile antibody blocking tubes
+*   **Cross-Reactivity**
+    *   **Interference:** Assay antibodies may cross-react with structurally similar compounds, leading to inaccurate results
+    *   **Mechanism:** Antibodies bind to unintended targets
+    *   **Mitigation:** Use highly specific antibodies and be aware of potential cross-reactants
+*   **Biotin**
+    *   **Interference:** High levels of biotin can interfere with biotin-streptavidin assays, causing falsely high or low results
+    *   **Mechanism:** Biotin competes with the analyte for binding to streptavidin
+    *   **Mitigation:** Ask patients to discontinue biotin supplements for several days before testing
+*   **Ascorbic Acid (Vitamin C)**
+    *   **Interference:** Can interfere with certain assays by acting as a reducing agent
+    *   **Mitigation:** Use methods less susceptible to ascorbic acid interference
+*   **Homocysteine**
+    *   **Interference:** Elevated homocysteine levels can interfere with folate and vitamin B12 assays
+    *   **Mitigation:** Consider measuring homocysteine levels separately
+
+## **Key Terms** {-}
+
+*   **Pre-Analytical:** Processes that occur before the sample is analyzed
+*   **Analytical:** Processes involved in analyzing the sample
+*   **Post-Analytical:** Processes that occur after the sample is analyzed
+*   **Interfering Substance:** A substance that affects the accuracy of a test
+*   **Hemolysis:** The breakdown of red blood cells
+*   **Lipemia:** The presence of excess lipids in the blood
+*   **Calibration:** Adjusting an instrument to ensure accurate readings
+*   **Quality Control:** Samples used to monitor the accuracy and precision of a test
+*   **Heterophile Antibodies:** Antibodies that bind to multiple antigens
+*   **Cross-Reactivity:** The ability of an antibody to bind to multiple antigens
+*   **Fasting:** Abstaining from food or drink for a specified period
+*   **Supplement:** A product taken orally that contains one or more ingredients intended to supplement the diet

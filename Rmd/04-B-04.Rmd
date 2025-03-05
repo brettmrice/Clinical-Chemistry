@@ -1,0 +1,191 @@
+# Disease Correlation {-}
+
+Understanding the connections between specific disease states and abnormalities in vitamin and nutrient levels is critical for effective diagnosis and management
+
+## **Vitamin and Mineral Deficiencies: General Considerations** {-}
+
+*   **Etiology:** Inadequate dietary intake, impaired absorption, increased nutrient requirements, and drug interactions are common causes of vitamin and mineral deficiencies
+*   **Populations at Risk:** Certain populations are at higher risk of nutrient deficiencies, including infants, children, pregnant women, elderly individuals, and those with chronic diseases or poor dietary habits
+*   **Clinical Manifestations:** Nutrient deficiencies can lead to a wide range of symptoms, including fatigue, weakness, neurological problems, skin changes, and impaired immune function
+*   **Diagnosis:** Diagnosis is based on dietary assessment, clinical evaluation, and laboratory testing
+*   **Treatment:** Treatment involves dietary modifications, supplementation, and addressing underlying causes
+
+## **Water-Soluble Vitamin Deficiencies** {-}
+
+### **Thiamin (Vitamin B1) Deficiency** {-}
+
+*   **Disorder:** Beriberi and Wernicke-Korsakoff Syndrome
+*   **Etiology**
+    *   Alcohol abuse
+    *   Malnutrition
+    *   Malabsorption
+*   **Laboratory Findings**
+    *   Decreased erythrocyte transketolase activity
+    *   Elevated blood pyruvate and lactate levels
+*   **Disease State Correlation**
+    *   Beriberi: Cardiovascular (wet beriberi) and neurological (dry beriberi) symptoms
+    *   Wernicke-Korsakoff Syndrome: Confusion, ataxia, nystagmus, and memory impairment
+
+### **Riboflavin (Vitamin B2) Deficiency** {-}
+
+*   **Disorder:** Ariboflavinosis
+*   **Etiology**
+    *   Malnutrition
+    *   Malabsorption
+    *   Certain medications
+*   **Laboratory Findings**
+    *   Decreased erythrocyte glutathione reductase activity
+    *   Decreased urinary excretion of riboflavin
+*   **Disease State Correlation**
+    *   Cheilosis (cracking at the corners of the mouth)
+    *   Glossitis (inflammation of the tongue)
+    *   Dermatitis
+
+### **Niacin (Vitamin B3) Deficiency** {-}
+
+*   **Disorder:** Pellagra
+*   **Etiology**
+    *   Inadequate dietary intake
+    *   Malabsorption
+    *   Certain medications
+    *   Hartnup disease
+*   **Laboratory Findings**
+    *   Decreased urinary excretion of niacin metabolites
+    *   Decreased erythrocyte nicotinamide adenine dinucleotide (NAD) levels
+*   **Disease State Correlation**
+    *   Dermatitis (photosensitive)
+    *   Diarrhea
+    *   Dementia
+
+### **Pyridoxine (Vitamin B6) Deficiency** {-}
+
+*   **Disorder:** Pyridoxine Deficiency
+*   **Etiology**
+    *   Alcohol abuse
+    *   Drug interactions (isoniazid, penicillamine)
+    *   Malabsorption
+*   **Laboratory Findings**
+    *   Decreased plasma pyridoxal phosphate (PLP) levels
+    *   Elevated urinary xanthurenic acid excretion after tryptophan load
+*   **Disease State Correlation**
+    *   Neurological symptoms (seizures, depression, peripheral neuropathy)
+    *   Dermatitis
+    *   Anemia (microcytic)
+
+### **Folate (Vitamin B9) Deficiency** {-}
+
+*   **Disorder:** Folate Deficiency
+*   **Etiology**
+    *   Inadequate dietary intake
+    *   Malabsorption
+    *   Drug interactions (methotrexate)
+    *   Pregnancy
+*   **Laboratory Findings**
+    *   Decreased serum and red blood cell folate levels
+    *   Elevated homocysteine levels
+*   **Disease State Correlation**
+    *   Megaloblastic anemia
+    *   Neural tube defects in developing fetuses
+    *   Increased risk of cardiovascular disease
+
+### **Cobalamin (Vitamin B12) Deficiency** {-}
+
+*   **Disorder:** Cobalamin Deficiency
+*   **Etiology**
+    *   Inadequate dietary intake (vegans)
+    *   Pernicious anemia (lack of intrinsic factor)
+    *   Malabsorption (Crohn's disease, celiac disease)
+    *   Gastrectomy
+*   **Laboratory Findings**
+    *   Decreased serum vitamin B12 levels
+    *   Elevated homocysteine and methylmalonic acid (MMA) levels
+*   **Disease State Correlation**
+    *   Megaloblastic anemia
+    *   Neurological symptoms (peripheral neuropathy, cognitive impairment)
+    *   Increased risk of cardiovascular disease
+
+### **Ascorbic Acid (Vitamin C) Deficiency** {-}
+
+*   **Disorder:** Scurvy
+*   **Etiology**
+    *   Inadequate dietary intake
+    *   Alcohol abuse
+*   **Laboratory Findings**
+    *   Decreased serum ascorbic acid levels
+*   **Disease State Correlation**
+    *   Bleeding gums
+    *   Poor wound healing
+    *   Anemia
+
+## **Fat-Soluble Vitamin Deficiencies** {-}
+
+### **Vitamin A Deficiency** {-}
+
+*   **Disorder:** Vitamin A Deficiency
+*   **Etiology**
+    *   Inadequate dietary intake
+    *   Fat malabsorption
+*   **Laboratory Findings**
+    *   Decreased serum retinol levels
+*   **Disease State Correlation**
+    *   Night blindness
+    *   Xerophthalmia (dry eyes)
+    *   Impaired immune function
+
+### **Vitamin D Deficiency** {-}
+
+*   **Disorder:** Vitamin D Deficiency
+*   **Etiology**
+    *   Inadequate sunlight exposure
+    *   Inadequate dietary intake
+    *   Fat malabsorption
+    *   Kidney and liver disorders
+*   **Laboratory Findings**
+    *   Decreased serum 25-hydroxyvitamin D [25(OH)D] levels
+    *   Elevated parathyroid hormone (PTH) levels
+*   **Disease State Correlation**
+    *   Rickets (in children)
+    *   Osteomalacia (in adults)
+    *   Osteoporosis
+    *   Increased risk of falls and fractures
+
+### **Vitamin E Deficiency** {-}
+
+*   **Disorder:** Vitamin E Deficiency
+*   **Etiology**
+    *   Fat malabsorption
+    *   Genetic disorders (abetalipoproteinemia)
+*   **Laboratory Findings**
+    *   Decreased serum alpha-tocopherol levels
+*   **Disease State Correlation**
+    *   Neurological symptoms (peripheral neuropathy, ataxia)
+    *   Hemolytic anemia
+
+### **Vitamin K Deficiency** {-}
+
+*   **Disorder:** Vitamin K Deficiency
+*   **Etiology**
+    *   Inadequate dietary intake
+    *   Fat malabsorption
+    *   Antibiotic use
+    *   Newborns (lack of intestinal bacteria)
+*   **Laboratory Findings**
+    *   Prolonged Prothrombin Time (PT) and International Normalized Ratio (INR)
+*   **Disease State Correlation**
+    *   Bleeding disorders
+
+## **General Notes on Interpretation** {-}
+
+*   **Influence of Assay Methodology:** Different analytical methods for measuring vitamins and nutrients can have varying sensitivities and specificities
+*   **Patient Population:** Consider age, sex, physiological state (e.g., pregnancy), and coexisting medical conditions
+*   **Clinical Correlation:** Always interpret test results in the context of the patient's overall health and clinical presentation
+
+## **Key Terms** {-}
+
+*   **Vitamin:** An organic compound that is essential for human health
+*   **Deficiency:** A condition in which the body does not have enough of a particular nutrient
+*   **Toxicity:** A condition in which the body has too much of a particular nutrient
+*   **Malnutrition:** A state of nutritional imbalance
+*   **Megaloblastic Anemia:** A type of anemia characterized by large, abnormal red blood cells
+*   **Homocysteine:** An amino acid that is elevated in folate and vitamin B12 deficiencies
+*   **Clinical Correlation:** Considering the patient's clinical history, physical examination, and other test results when interpreting laboratory data

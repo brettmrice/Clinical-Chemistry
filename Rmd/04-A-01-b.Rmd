@@ -1,0 +1,154 @@
+# Physiology {-}
+
+Endocrine disorders are abnormal states that arise from either hormone excess or deficiency. Understanding what constitutes a normal hormonal balance is crucial for identifying and interpreting abnormal states
+
+## **Normal Endocrine Function** {-}
+
+*   **Hormone Synthesis and Secretion**
+    *   **Synthesis:** Hormones are synthesized in endocrine glands through various biochemical pathways, often involving enzymatic reactions and precursor molecules
+    *   **Secretion:** Hormone secretion is regulated by feedback mechanisms, neural signals, and hormonal signals to maintain homeostasis
+*   **Hormone Transport**
+    *   **Protein Binding:** Many hormones are transported in the bloodstream bound to carrier proteins, which protect them from degradation and prolong their half-life
+    *   **Free Hormone:** Only the free (unbound) hormone is biologically active and can interact with target tissues
+*   **Hormone Action**
+    *   **Receptor Binding:** Hormones bind to specific receptors on target cells, initiating intracellular signaling cascades
+    *   **Signal Transduction:** These cascades alter cellular function, gene expression, and protein synthesis to produce physiological effects
+*   **Hormone Metabolism and Excretion**
+    *   **Metabolism:** Hormones are metabolized in the liver, kidneys, and other tissues to inactive forms
+    *   **Excretion:** Metabolites are excreted in the urine or bile
+*   **Feedback Mechanisms**
+    *   **Negative Feedback:** Hormone levels are tightly regulated by negative feedback loops, where the hormone's effects inhibit its own secretion
+    *   **Positive Feedback:** In some cases, hormones can stimulate their own secretion, leading to a surge in hormone levels (e.g., during ovulation)
+
+##  **Abnormal Endocrine Function** {-}
+
+*   **Hormone Excess**
+    *   **Causes:** Tumors, autoimmune disorders, ectopic hormone production
+    *   **Effects:** Exaggerated physiological responses, metabolic imbalances, organ damage
+*   **Hormone Deficiency**
+    *   **Causes:** Autoimmune destruction, surgical removal, genetic defects, infections
+    *   **Effects:** Impaired physiological responses, metabolic abnormalities, developmental issues
+*   **Receptor Abnormalities**
+    *   **Receptor Resistance:** Target tissues fail to respond normally to hormones due to receptor defects or post-receptor signaling abnormalities
+    *   **Receptor Mutations:** Genetic mutations can alter receptor structure and function, leading to hormone resistance or constitutive activation
+*   **Ectopic Hormone Production**
+    *   **Non-Endocrine Tumors:** Some tumors can produce hormones that are not normally secreted by that tissue, leading to hormonal imbalances
+    *   **Paraneoplastic Syndromes:** These syndromes can cause a wide range of endocrine and metabolic abnormalities
+
+## **Specific Endocrine Disorders** {-}
+
+### **Pituitary Disorders**
+*   **Hyperpituitarism (Hormone Excess)**
+    *   **Acromegaly:** Excess growth hormone (GH) leads to enlarged hands, feet, and facial features
+    *   **Cushing's Disease:** Excess adrenocorticotropic hormone (ACTH) leads to excess cortisol production, causing weight gain, hypertension, and muscle weakness
+    *   **Hyperprolactinemia:** Excess prolactin leads to galactorrhea (milk production) and amenorrhea (absence of menstruation) in women, and hypogonadism in men
+*   **Hypopituitarism (Hormone Deficiency)**
+    *   **Growth Hormone Deficiency:** Leads to growth retardation in children and metabolic abnormalities in adults
+    *   **Adrenal Insufficiency:** Deficiency of ACTH leads to decreased cortisol production, causing fatigue, weight loss, and hypotension
+    *   **Hypothyroidism:** Deficiency of thyroid-stimulating hormone (TSH) leads to decreased thyroid hormone production, causing fatigue, weight gain, and cold intolerance
+    *   **Hypogonadism:** Deficiency of luteinizing hormone (LH) and follicle-stimulating hormone (FSH) leads to decreased sex hormone production, causing infertility and sexual dysfunction
+    
+### **Thyroid Disorders**
+*   **Hyperthyroidism (Hormone Excess)**
+    *   **Graves' Disease:** Autoimmune disorder that stimulates the thyroid gland, leading to excess thyroid hormone production
+    *   **Toxic Nodular Goiter:** Overactive thyroid nodules produce excess thyroid hormone
+    *   Symptoms: Weight loss, anxiety, heat intolerance, palpitations, and exophthalmos (bulging eyes)
+*   **Hypothyroidism (Hormone Deficiency)**
+    *   **Hashimoto's Thyroiditis:** Autoimmune destruction of the thyroid gland, leading to decreased thyroid hormone production
+    *   **Iodine Deficiency:** Inadequate iodine intake impairs thyroid hormone synthesis
+    *   Symptoms: Fatigue, weight gain, cold intolerance, constipation, and dry skin
+    
+### **Adrenal Disorders**
+*   **Hypercortisolism (Cushing's Syndrome) (Hormone Excess)**
+    *   **Cushing's Disease:** Pituitary tumor that overproduces ACTH, leading to excess cortisol production
+    *   **Adrenal Tumors:** Tumors of the adrenal gland that produce excess cortisol
+    *   **Exogenous Steroids:** Prolonged use of corticosteroids
+    *   Symptoms: Weight gain, moon face, buffalo hump, hypertension, muscle weakness, and skin changes
+*   **Adrenal Insufficiency (Hormone Deficiency)**
+    *   **Addison's Disease:** Autoimmune destruction of the adrenal glands, leading to decreased cortisol and aldosterone production
+    *   **Secondary Adrenal Insufficiency:** Pituitary or hypothalamic disorders that decrease ACTH production
+    *   Symptoms: Fatigue, weight loss, hypotension, hyperpigmentation (in Addison's disease), and electrolyte imbalances
+*   **Hyperaldosteronism (Hormone Excess)**
+    *   **Primary Hyperaldosteronism (Conn's Syndrome):** Adrenal tumor that produces excess aldosterone
+    *   **Secondary Hyperaldosteronism:** Increased renin production due to kidney disease or other conditions
+    *   Symptoms: Hypertension, hypokalemia, and muscle weakness
+*   **Pheochromocytoma (Hormone Excess)**
+    *   Tumor of the adrenal medulla that produces excess catecholamines (epinephrine and norepinephrine)
+    *   Symptoms: Hypertension, palpitations, sweating, anxiety, and headaches
+
+### **Pancreatic Endocrine Disorders**
+*   **Diabetes Mellitus (Hormone Deficiency/Resistance)**
+    *   **Type 1 Diabetes:** Autoimmune destruction of pancreatic beta cells, leading to absolute insulin deficiency
+    *   **Type 2 Diabetes:** Insulin resistance and progressive beta-cell dysfunction
+    *   Symptoms: Polyuria, polydipsia, polyphagia, weight loss, and hyperglycemia
+*   **Insulinoma (Hormone Excess)**
+    *   Tumor of the pancreatic beta cells that produces excess insulin, leading to hypoglycemia
+    *   Symptoms: Hypoglycemia, sweating, palpitations, anxiety, and confusion
+
+### **Parathyroid Disorders**
+*   **Hyperparathyroidism (Hormone Excess)**
+    *   **Primary Hyperparathyroidism:** Parathyroid adenoma or hyperplasia that produces excess parathyroid hormone (PTH), leading to hypercalcemia
+    *   **Secondary Hyperparathyroidism:** Increased PTH production due to chronic kidney disease or vitamin D deficiency
+    *   Symptoms: Hypercalcemia, kidney stones, bone pain, and muscle weakness
+*   **Hypoparathyroidism (Hormone Deficiency)**
+    *   Surgical removal or autoimmune destruction of the parathyroid glands, leading to hypocalcemia
+    *   Symptoms: Hypocalcemia, muscle cramps, tetany, and seizures
+
+### **Gonadal Disorders**
+*   **Hypogonadism (Hormone Deficiency)**
+    *   **Primary Hypogonadism:** Gonadal failure due to genetic disorders, autoimmune destruction, or radiation exposure
+    *   **Secondary Hypogonadism:** Pituitary or hypothalamic disorders that decrease LH and FSH production
+    *   Symptoms: Infertility, sexual dysfunction, decreased muscle mass, and osteoporosis
+*   **Polycystic Ovary Syndrome (PCOS)**
+    *   Hormonal disorder characterized by hyperandrogenism, irregular menstruation, and polycystic ovaries
+    *   Symptoms: Hirsutism (excess hair growth), acne, infertility, and metabolic syndrome
+
+## **Summary Table of Normal and Abnormal States** {-}
+
+| **Endocrine Gland:** | **Hormone:**         | **Normal State:**                      | **Hormone Excess:**               | **Hormone Deficiency:**             |
+| :------------------ | :------------------ | :---------------------------------- | :------------------------------- | :--------------------------------- |
+| Pituitary           | GH                  | Normal growth and metabolism         | Acromegaly                       | Growth hormone deficiency          |
+|                     | ACTH                | Normal cortisol production            | Cushing's disease                 | Adrenal insufficiency              |
+|                     | TSH                 | Normal thyroid hormone production   | Rare, can cause hyperthyroidism  | Hypothyroidism                     |
+|                     | Prolactin           | Normal lactation                     | Hyperprolactinemia               | Rare                              |
+| Thyroid             | T3/T4               | Normal metabolism                   | Hyperthyroidism (Graves' disease) | Hypothyroidism (Hashimoto's)       |
+| Adrenal Cortex      | Cortisol            | Normal stress response, metabolism    | Cushing's syndrome                | Addison's disease (adrenal insuff.) |
+|                     | Aldosterone         | Normal blood pressure, electrolyte balance | Hyperaldosteronism (Conn's)      | Adrenal insufficiency              |
+| Adrenal Medulla     | Epinephrine/Norepi. | Normal "fight or flight" response     | Pheochromocytoma                 | Rare                              |
+| Pancreas            | Insulin             | Normal glucose metabolism           | Insulinoma                       | Diabetes mellitus (Type 1 & 2)     |
+| Parathyroid         | PTH                 | Normal calcium homeostasis            | Hyperparathyroidism               | Hypoparathyroidism                 |
+| Gonads              | Estrogen/Testosterone | Normal sexual development/function  | Precocious puberty, hormone-producing tumors | Hypogonadism                       |
+
+## **Key Terms** {-}
+
+*   **Homeostasis:** The maintenance of stable internal conditions
+*   **Negative Feedback:** A regulatory mechanism where the output inhibits its own production
+*   **Positive Feedback:** A regulatory mechanism where the output stimulates its own production
+*   **Hormone Receptor:** A protein on a target cell that binds to a hormone
+*   **Signal Transduction:** The process by which a hormone-receptor interaction triggers intracellular events
+*   **Hypersecretion:** Excessive hormone production
+*   **Hyposecretion:** Insufficient hormone production
+*   **Hormone Resistance:** A condition where target tissues fail to respond normally to a hormone
+*   **Ectopic Hormone Production:** Hormone production by non-endocrine tissues
+*   **Autoimmune Disorder:** A condition where the immune system attacks the body's own tissues
+*   **Tumor:** An abnormal mass of tissue
+*   **Hyperplasia:** An increase in the number of cells in a tissue or organ
+*   **Atrophy:** A decrease in the size of a tissue or organ
+*   **Metabolic Syndrome:** A cluster of conditions that increase the risk of heart disease, stroke, and diabetes
+*   **Polycystic Ovary Syndrome (PCOS):** A hormonal disorder characterized by hyperandrogenism, irregular menstruation, and polycystic ovaries
+*   **Hypertension:** High blood pressure
+*   **Hypotension:** Low blood pressure
+*   **Hypercalcemia:** Elevated blood calcium levels
+*   **Hypocalcemia:** Reduced blood calcium levels
+*   **Hyperkalemia:** Elevated blood potassium levels
+*   **Hypokalemia:** Reduced blood potassium levels
+*   **Hirsutism:** Excess hair growth in women
+*   **Virilization:** Development of male characteristics in women
+*   **Gynecomastia:** Enlargement of breast tissue in men
+*   **Galactorrhea:** Spontaneous milk production
+*   **Amenorrhea:** Absence of menstruation
+*   **Infertility:** Inability to conceive
+*   **Osteoporosis:** Reduced bone density, increasing the risk of fractures
+*   **Lethargy:** A state of fatigue or drowsiness
+*   **Goiter:** Enlargement of the thyroid gland
+*   **Exophthalmos:** Bulging eyes, typically associated with hyperthyroidism

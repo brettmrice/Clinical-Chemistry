@@ -1,0 +1,94 @@
+# Vitamins, Nutrition {-}
+
+This section covers vitamins and nutrition in special chemistry - biochemical theory, lab procedures, result interpretation, and disease correlations
+
+## **Biochemical Theory and Pathways** {-}
+
+*   **Vitamins as Essential Nutrients**
+    *   Organic compounds needed in small amounts for metabolic processes; the body cannot synthesize them adequately
+    *   Classified as water-soluble (B vitamins, C) and fat-soluble (A, D, E, K)
+*   **General Functions**
+    *   Act as coenzymes (assist enzymes), antioxidants (protect against damage), or regulators (influence gene expression)
+*   **Specific Roles**
+    *   B vitamins: Involved in energy metabolism
+    *   Vitamin C: Antioxidant, collagen synthesis
+    *   Vitamin A: Vision, cell differentiation
+    *   Vitamin D: Calcium and phosphate regulation
+    *   Vitamin E: Antioxidant
+    *   Vitamin K: Blood clotting
+*   **Metabolic Pathways**
+    *   Absorption: Occurs in the small intestine
+    *   Transport: Via bloodstream, either freely or bound to proteins
+    *   Storage: Fat-soluble vitamins stored in the liver/adipose tissue
+    *   Excretion: Water-soluble vitamins excreted in urine
+
+## **Laboratory Test Procedures** {-}
+
+*   **Analytical Principles**
+    *   Spectrophotometry: Measures light absorbance
+    *   Fluorometry: Measures fluorescence
+    *   Immunoassays: Uses antibody-antigen interactions (e.g., ELISA)
+    *   Chromatography: Separates compounds (e.g., HPLC, GC)
+    *   Mass Spectrometry: Measures mass-to-charge ratio (LC-MS)
+    *   Atomic Absorption Spectrometry: Measures light absorption by free atoms
+*   **Pre-analytical Considerations**
+    *   Patient Preparation: Fasting, medication/supplement restrictions
+    *   Specimen Collection: Proper tubes, order of draw, technique
+    *   Specimen Processing: Timely centrifugation, separation, storage
+*   **Quality Control**
+    *   Run QC samples to ensure accuracy and precision
+    *   Calibrate instruments regularly
+
+## **Test Result Interpretation** {-}
+
+*   **Reference Intervals**
+    *   Use appropriate reference ranges based on age, sex, population
+*   **Clinical Context**
+    *   Interpret results with patient history, symptoms, and other lab data
+*   **Interpreting Vitamin Levels**
+    *   Evaluate whether the vitamin is high, low, or within range
+    *   Consider test limitations: Assay specificity, interfering substances
+*   **Influencing Factors**
+    *   Medications, diet, malabsorption, lifestyle
+
+## **Disease State Correlation** {-}
+
+*   **Deficiency Disorders**
+    *   Vitamin B1 (Thiamin): Beriberi, Wernicke-Korsakoff Syndrome
+    *   Vitamin B2 (Riboflavin): Ariboflavinosis
+    *   Vitamin B3 (Niacin): Pellagra
+    *   Vitamin B6 (Pyridoxine): Neurological symptoms, dermatitis
+    *   Vitamin B9 (Folate): Megaloblastic anemia, neural tube defects
+    *   Vitamin B12 (Cobalamin): Megaloblastic anemia, neurological problems
+    *   Vitamin C (Ascorbic Acid): Scurvy
+    *   Vitamin A: Night blindness, xerophthalmia, immune dysfunction
+    *   Vitamin D: Rickets/osteomalacia
+    *   Vitamin E: Neurological symptoms, hemolytic anemia
+    *   Vitamin K: Bleeding disorders
+*   **Toxicities**
+    *   Vitamin A: Liver damage, birth defects
+    *   Vitamin D: Hypercalcemia, kidney stones
+    *   Vitamin E: Increased bleeding risk
+    *   Niacin: Flushing, liver damage
+*   **Other Disease Correlations**
+    *   Chronic diseases: CV disease, cancer, diabetes
+    *   Malabsorption syndromes: Affect vitamin/mineral absorption
+*   **Key Biochemical Tests**
+    *   Vitamin levels (serum or plasma)
+    *   Red blood cell folate
+    *   Homocysteine and methylmalonic acid (B12 status)
+    *   25-hydroxyvitamin D (Vitamin D status)
+    *   Prothrombin time (Vitamin K status)
+
+## **Key Terms** {-}
+
+*   **Vitamin:** Essential organic compound
+*   **Coenzyme:** Assists enzymes
+*   **Antioxidant:** Protects against free radicals
+*   **Malnutrition:** Imbalance from inadequate/excessive intake
+*   **Deficiency:** Inadequate nutrient levels
+*   **Toxicity:** Excessive nutrient levels
+*   **Reference Interval:** Normal range for lab test
+*   **Pre-analytical:** Processes before analysis
+*   **Analytical:** Processes during analysis
+*   **Post-analytical:** Processes after analysis
