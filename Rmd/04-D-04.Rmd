@@ -1,0 +1,145 @@
+# Result Interpretation {-}
+
+Interpreting toxicology test results is multifaceted. This section describes the steps to follow in order to properly interpret
+
+## **General Principles of Test Result Interpretation** {-}
+
+*   **Quantitative vs. Qualitative Results**
+    *   Qualitative: Indicates the presence or absence of a substance (e.g., positive or negative)
+    *   Quantitative: Provides a numerical value for the concentration of a substance
+*   **Cutoff Values**
+    *   The concentration above which a test is considered positive
+    *   Cutoff values are established based on analytical sensitivity and clinical relevance
+*   **Units of Measurement**
+    *   Be familiar with the units of measurement used by the laboratory (e.g., ng/mL, μg/mL, mg/L)
+*   **Reference Intervals**
+    *   Toxicology tests typically do not have "normal" reference intervals, as the goal is to detect the presence of toxic substances
+    *   However, therapeutic ranges may be available for some drugs
+*   **Chain of Custody**
+    *   Verify the chain of custody to ensure the integrity and validity of the specimen
+*   **Positive and Negative Controls**
+    *   Ensure that positive and negative controls are within acceptable limits
+*   **Interfering Substances**
+    *   Be aware of potential interfering substances that can affect test results
+
+## **Factors Affecting Interpretation** {-}
+
+*   **Patient History**
+    *   Age, sex, weight, medical conditions, medications, and substance use history
+*   **Time of Sample Collection**
+    *   Time since ingestion, inhalation, or exposure
+*   **Route of Exposure**
+    *   Ingestion, inhalation, dermal, injection
+*   **Metabolism and Elimination**
+    *   Liver and kidney function
+    *   Genetic factors affecting drug metabolism
+*   **Drug Interactions**
+    *   Concurrent use of other drugs
+*   **Analytical Limitations**
+    *   Cross-reactivity, sensitivity, and specificity of the assay
+
+## **Step-by-Step Approach to Result Interpretation** {-}
+
+1.  **Verify Patient Information:** Confirm the patient's identity and demographic information
+2.  **Review Analytical Data**
+        *   Check QC results and calibration data
+        *   Assess the validity of the results
+3.  **Assess Qualitative Results**
+        *   If positive, proceed to confirmation and quantitative analysis
+        *   If negative, consider the possibility of a false-negative result due to low concentration, interfering substances, or limitations of the assay
+4.  **Evaluate Quantitative Results**
+        *   Compare the concentration to cutoff values and therapeutic ranges
+        *   Consider the dose-response relationship
+5.  **Correlate with Clinical Information**
+        *   Interpret the results in the context of the patient's clinical presentation, medical history, and other laboratory data
+6.  **Consider Interfering Factors**
+        *   Assess potential drug interactions and interfering substances
+7.  **Provide an Interpretation**
+        *   Summarize the findings and provide a concise interpretation of the results
+        *   Explain the clinical significance of the results
+        *   Offer recommendations for further testing or management
+
+## **Specific Considerations for Different Substance Classes** {-}
+
+### **Alcohols** {-}
+
+*   **Typical Analytes:** Ethanol, methanol, isopropanol, ethylene glycol
+*   **Reporting Units:** mg/dL, g/dL
+*   **Cutoff Values:** Vary depending on the substance and the legal or clinical context
+*   **Factors to Consider**
+    *   Ethanol: Legal limits for driving under the influence (DUI)
+    *   Methanol and ethylene glycol: Toxic metabolites can cause severe acidosis and organ damage
+    *   Osmolal Gap: The difference between measured and calculated osmolality can suggest the presence of unmeasured alcohols
+*   **Clinical Significance:** Intoxication, poisoning, differential diagnosis of altered mental status
+
+### **Heavy Metals** {-}
+
+*   **Typical Analytes:** Lead, mercury, arsenic, cadmium
+*   **Reporting Units:** μg/dL, μg/L
+*   **Cutoff Values:** Vary depending on the metal and the regulatory guidelines
+*   **Factors to Consider**
+    *   Lead: Elevated levels can cause neurological damage, developmental delays, and anemia
+    *   Mercury: Different forms of mercury (elemental, inorganic, organic) have different toxicities
+    *   Arsenic: Acute and chronic exposure can cause various health effects, including cancer
+*   **Clinical Significance:** Environmental or occupational exposure, poisoning, chronic toxicity
+
+### **Analgesics** {-}
+
+*   **Typical Analytes:** Acetaminophen, salicylates, opioids, NSAIDs
+*   **Reporting Units:** μg/mL, mg/L
+*   **Cutoff Values:** Vary depending on the drug and the clinical context
+*   **Factors to Consider**
+    *   Acetaminophen: Risk of hepatotoxicity
+    *   Salicylates: Risk of metabolic acidosis and respiratory alkalosis
+    *   Opioids: Respiratory depression, altered mental status
+*   **Clinical Significance:** Overdose, toxicity, monitoring of therapeutic drug levels
+
+### **Drugs of Abuse** {-}
+
+*   **Typical Analytes:** Amphetamines, cocaine, opiates, cannabinoids, benzodiazepines, barbiturates, etc
+*   **Reporting Units:** ng/mL, μg/mL
+*   **Cutoff Values:** Vary depending on the drug and the testing purpose (e.g., forensic, workplace, clinical)
+*   **Factors to Consider**
+    *   Metabolic pathways: Different metabolites may be detected depending on the assay
+    *   Cross-reactivity: Some assays may cross-react with structurally similar compounds
+*   **Clinical Significance:** Drug abuse, overdose, monitoring of drug treatment programs
+
+### **Cardioactive Drugs (e.g., Digoxin)** {-}
+
+*   **Typical Analytes:** Digoxin
+*   **Reporting Units:** ng/mL
+*   **Therapeutic Range:**  0.5 - 2.0 ng/mL (Varies based on condition/patient)
+*   **Factors to Consider**
+    *   Clinical picture: Underlying cardio condition and additional meds
+    *   Electrolyte levels: Potassium, Magnesium
+*   **Clinical Significance:** to verify and avoid toxic levels that cause side effects
+
+### **Anticonvulsants (e.g., Phenobarbital)** {-}
+
+*   **Typical Analytes:** Phenobarbital
+*   **Reporting Units:** μg/mL
+*   **Therapeutic Range:**  15 - 40 μg/mL (Varies based on patient)
+*   **Factors to Consider**
+    *   The patient’s additional meds
+    *   The patient’s liver/kidney function
+*   **Clinical Significance:** To maintain safe and therapeutic levels
+
+## **Limitations in Interpretations** {-}
+
+*   **Cut-off Values:** They are set for specific tests
+*   **Drugs not included:** All drug panels do not test for every single drug
+*   **Patients can metabolize drugs differently:** The patient's body and disease states will also affect how the drug is metabolized
+
+## **Key Terms** {-}
+
+*   **Cutoff Value:** The concentration above which a test is considered positive
+*   **Reference Interval:** The range of values found in healthy individuals
+*   **Clinical Context:** The patient's clinical history, physical examination findings, and other laboratory data
+*   **Cross-Reactivity:** The ability of an antibody to bind to multiple antigens
+*   **Metabolite:** A product of drug metabolism
+*   **Drug Interaction:** The effect of one drug on the ADME of another drug
+*   **Toxidrome:** A group of signs and symptoms associated with a particular class of toxic substances
+*   **Forensic Toxicology:** The application of toxicology to legal investigations
+*   **Workplace Drug Testing:** Testing employees for drug use
+*   **Therapeutic Range:** Concentration range in which effects are most commonly observed
+

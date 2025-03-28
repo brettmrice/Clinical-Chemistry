@@ -1,0 +1,102 @@
+# Aminoglycosides {-}
+
+Understanding the chemical and physical properties of aminoglycosides like gentamicin is essential for comprehending their pharmacokinetic behavior, mechanism of action, and analytical methods used in therapeutic drug monitoring (TDM)
+
+## **Chemical Properties of Aminoglycosides** {-}
+
+*   **Definition:** Aminoglycosides are a class of antibiotics composed of amino-modified glycosides (sugars) linked by glycosidic bonds
+*   **Structure:** Each aminoglycoside molecule consists of an aminocyclitol ring (usually 2-deoxystreptamine) connected to various amino sugars
+*   **Functional Groups:** Multiple amino and hydroxyl groups, giving them strong basic properties
+*   **Molecular Weight:** Typically ranges from 400 to 600 Da
+*   **Chemical Stability:** Generally stable in aqueous solutions, but can be affected by pH and temperature
+
+## **Physical Properties of Aminoglycosides** {-}
+
+*   **Appearance:** White or off-white powders
+*   **Solubility:** Highly water-soluble due to the presence of multiple polar amino and hydroxyl groups
+*   **Partition Coefficient (Log P):** Low Log P values indicate poor lipid solubility
+*   **Ionization:** Aminoglycosides are polycationic at physiological pH, meaning they have multiple positive charges
+*   **Hygroscopicity:** Some aminoglycosides are hygroscopic, meaning they readily absorb moisture from the air
+
+## **Specific Chemical and Physical Properties of Gentamicin** {-}
+
+*   **Structure:** Gentamicin is a mixture of closely related aminoglycoside antibiotics, primarily gentamicin C1, C1a, and C2
+*   **Molecular Formula**
+    *   Gentamicin C1: $C_{21}H_{43}N_5O_7$
+    *   Gentamicin C1a: $C_{20}H_{41}N_5O_7$
+    *   Gentamicin C2: $C_{20}H_{41}N_5O_6$
+*   **Molecular Weight:** Approximately 477.60 g/mol for gentamicin C1
+*   **Appearance:** White to off-white powder
+*   **Solubility:** Highly soluble in water, slightly soluble in ethanol, and practically insoluble in chloroform and ether
+*   **pKa Values:** Gentamicin has multiple pKa values due to the presence of several amino groups
+*   **Partition Coefficient (Log P):** Low Log P value indicates poor lipid solubility
+
+## **Pharmacokinetic Implications** {-}
+
+*   **Absorption:** Poor oral absorption due to high polarity and charge
+    *   Primarily administered intravenously or intramuscularly
+*   **Distribution:** Limited distribution into tissues and body fluids
+    *   Low volume of distribution (Vd)
+    *   Does not readily cross the blood-brain barrier
+*   **Protein Binding:** Low protein binding (less than 30%)
+    *   Most of the drug exists in the free, active form in the plasma
+*   **Metabolism:** Minimal metabolism
+    *   Primarily excreted unchanged in the urine
+*   **Excretion:** Primarily eliminated by glomerular filtration in the kidneys
+    *   Renal impairment significantly affects drug clearance
+
+## **Mechanism of Action and Structure-Activity Relationship (SAR)** {-}
+
+*   **Mechanism of Action:** Aminoglycosides inhibit bacterial protein synthesis by binding to the 30S ribosomal subunit
+    *   This binding interferes with mRNA translation and causes misreading of the genetic code
+*   **Structure-Activity Relationship (SAR)**
+    *   The presence of multiple amino groups is crucial for binding to the negatively charged ribosomal RNA
+    *   The specific arrangement of amino sugars and the aminocyclitol ring determines the spectrum of activity and susceptibility to bacterial resistance mechanisms
+
+## **Analytical Considerations in TDM** {-}
+
+*   **Analytical Methods**
+    *   **Immunoassays:** Commonly used for routine TDM due to their ease of use and high throughput
+    *   **Chromatography:** HPLC with UV or fluorescence detection can be used to separate and quantify individual gentamicin components
+    *   **Mass Spectrometry:** LC-MS/MS provides high sensitivity and specificity for gentamicin quantification
+*   **Sample Preparation**
+    *   Protein precipitation or solid-phase extraction (SPE) may be used to remove interfering substances from the sample
+*   **Calibration and Quality Control**
+    *   Use appropriate calibrators and quality control materials to ensure accurate and reliable results
+*   **Interferences**
+    *   Other antibiotics and drugs can interfere with aminoglycoside assays
+    *   Hemolysis and lipemia can also affect assay performance
+    *    Cross reactivity can occur between aminoglycosides within certain immunoassays
+
+## **Clinical Significance in TDM** {-}
+
+*   **Therapeutic Drug Monitoring (TDM)**
+    *   TDM is essential for optimizing aminoglycoside therapy and minimizing the risk of toxicity
+    *   Aminoglycosides have a narrow therapeutic index, meaning that the therapeutic and toxic concentrations are close together
+    *   TDM is used to monitor peak and trough concentrations:
+        *   **Peak Concentrations:** Reflect the maximum drug level in the body and are associated with efficacy
+        *   **Trough Concentrations:** Reflect the minimum drug level in the body and are associated with toxicity
+*   **Dosage Adjustments**
+    *   Dosage adjustments are based on TDM results and patient-specific factors, such as renal function and infection severity
+*   **Monitoring for Toxicity**
+    *   Assess renal function (serum creatinine, creatinine clearance)
+    *   Monitor for ototoxicity (hearing loss, tinnitus, vertigo)
+*   **Specific considerations**
+    *   Aminoglycoside concentrations can be higher in patients with ascites
+    *   High doses can be more effective to treat infection, but must balance the risk of nephrotoxicity and ototoxicity
+
+## **Key Terms** {-}
+
+*   **Aminoglycosides:** A class of antibiotics composed of amino-modified glycosides
+*   **Gentamicin:** An aminoglycoside antibiotic used to treat bacterial infections
+*   **Therapeutic Drug Monitoring (TDM):** Measurement of drug concentrations to optimize therapy
+*   **Peak Concentration:** The maximum drug level in the body after administration
+*   **Trough Concentration:** The minimum drug level in the body before the next dose
+*   **Pharmacokinetics:** The study of how the body affects a drug (ADME)
+*   **Mechanism of Action:** The way in which a drug produces its therapeutic effect
+*   **Structure-Activity Relationship (SAR):** The relationship between the chemical structure of a drug and its biological activity
+*   **Nephrotoxicity:** Kidney damage
+*   **Ototoxicity:** Hearing loss or vertigo
+*   **Hydrophilic:** Having an affinity for water; water-loving
+*   **Hydrophobic:** Lacking affinity for water; water-fearing
+*   **Therapeutic index:** Ratio of a drug's toxic level to the level that provides therapeutic benefits

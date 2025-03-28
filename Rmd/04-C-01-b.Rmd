@@ -1,0 +1,148 @@
+# Toxic States {-}
+
+Delving into toxic states within therapeutic drug monitoring (TDM) is crucial for understanding the factors that lead to toxic drug concentrations and the subsequent adverse effects
+
+## **Toxic States in TDM** {-}
+
+*   **Definition:** A toxic state occurs when the concentration of a drug in the body exceeds the therapeutic range, leading to an increased risk of adverse effects and potential organ damage
+*   **Importance of Understanding Toxic States**
+    *   Prevents iatrogenic harm
+    *   Ensures patient safety
+    *   Optimizes drug therapy by identifying and managing factors contributing to toxicity
+
+## **Causes of Toxic States** {-}
+
+*   **Excessive Dosage**
+    *   **Prescription Errors:** Incorrect dose prescribed by the physician
+    *   **Patient Non-Adherence:** Taking more than the prescribed dose, either intentionally or unintentionally
+    *   **Medication Errors:** Dispensing errors by the pharmacy
+*   **Impaired Elimination**
+    *   **Renal Impairment:** Reduced kidney function decreases renal clearance, leading to drug accumulation
+    *   **Hepatic Impairment:** Liver disease decreases hepatic metabolism, resulting in higher drug concentrations
+    *   **Heart Failure:** Reduced blood flow to the kidneys and liver impairs drug elimination
+*   **Drug Interactions**
+    *   **Enzyme Inhibition:** Some drugs inhibit the metabolism of other drugs, leading to increased drug levels
+    *   **Protein Binding Displacement:** Drugs can displace other drugs from plasma proteins, increasing the concentration of free (active) drug
+    *   **Reduced Absorption:** Drugs can increase the absorption leading to supratherapeutic levels
+*   **Patient-Specific Factors**
+    *   **Age:** Infants and elderly individuals are more susceptible to toxicity due to immature or declining organ function
+    *   **Genetics:** Genetic variations in drug-metabolizing enzymes can affect drug levels
+    *   **Disease States:** Certain diseases can affect drug metabolism and elimination
+    *   **Pregnancy:** Physiological changes during pregnancy can affect drug pharmacokinetics
+
+## **Commonly Monitored Drugs and Their Toxic Effects** {-}
+
+| Drug                  | Therapeutic Use                    | Common Toxic Effects                                                                                                                             |
+| :-------------------- | :--------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Digoxin               | Heart failure, atrial fibrillation | Cardiac arrhythmias, nausea, vomiting, visual disturbances (halos)                                                                                |
+| Lithium               | Bipolar disorder                   | Tremor, ataxia, confusion, seizures, renal toxicity, thyroid dysfunction                                                                        |
+| Theophylline          | Asthma, COPD                       | Nausea, vomiting, tremor, tachycardia, seizures, cardiac arrhythmias                                                                               |
+| Aminoglycosides       | Bacterial infections               | Nephrotoxicity (renal damage), ototoxicity (hearing loss, vertigo)                                                                                 |
+| Vancomycin            | Bacterial infections               | Nephrotoxicity, ototoxicity, red man syndrome (histamine release)                                                                                    |
+| Phenytoin             | Seizures                           | Nystagmus, ataxia, slurred speech, gingival hyperplasia, skin rash                                                                                  |
+| Valproic Acid         | Seizures, bipolar disorder         | Hepatotoxicity (liver damage), thrombocytopenia (low platelet count), pancreatitis                                                                   |
+| Methotrexate          | Cancer, autoimmune disorders       | Myelosuppression (bone marrow suppression), hepatotoxicity, mucositis, pulmonary toxicity                                                          |
+| Cyclosporine/Tacrolimus | Immunosuppression (transplant)     | Nephrotoxicity, hypertension, tremor, gingival hyperplasia                                                                                            |
+| Tricyclic Antidepressants | Depression                         | Cardiac arrhythmias, seizures, anticholinergic effects (dry mouth, blurred vision, constipation, urinary retention)                               |
+| Salicylates           | Pain, inflammation                 | Tinnitus (ringing in the ears), hyperventilation, metabolic acidosis, nausea, vomiting, confusion                                                   |
+| Acetaminophen        | Pain, fever                        | Hepatotoxicity (liver damage)                                                                                                                   |
+
+## **Symptoms and Clinical Presentation of Drug Toxicity** {-}
+
+*   **Gastrointestinal:** Nausea, vomiting, diarrhea, abdominal pain, loss of appetite
+*   **Neurological:** Headache, dizziness, confusion, tremor, seizures, ataxia, visual disturbances, altered mental status
+*   **Cardiovascular:** Arrhythmias, hypotension, hypertension, bradycardia, tachycardia
+*   **Renal:** Decreased urine output, elevated creatinine and BUN, electrolyte imbalances
+*   **Hepatic:** Jaundice, abdominal pain, elevated liver enzymes (AST, ALT)
+*   **Hematological:** Bleeding, bruising, fatigue, infection
+*   **Dermatological:** Rash, itching, hives
+
+## **Laboratory Tests for Monitoring Drug Toxicity** {-}
+
+*   **Therapeutic Drug Monitoring (TDM):** Measurement of drug concentrations in serum or plasma
+    *   Assays used: Immunoassays, chromatography (HPLC, LC-MS/MS)
+*   **Renal Function Tests**
+    *   Serum creatinine
+    *   Blood urea nitrogen (BUN)
+    *   Creatinine clearance
+    *   Urinalysis
+*   **Hepatic Function Tests**
+    *   Alanine aminotransferase (ALT)
+    *   Aspartate aminotransferase (AST)
+    *   Alkaline phosphatase (ALP)
+    *   Bilirubin
+    *   Albumin
+    *   Prothrombin time (PT)/INR
+*   **Electrolyte Monitoring**
+    *   Sodium
+    *   Potassium
+    *   Chloride
+    *   Bicarbonate
+*   **Cardiac Monitoring**
+    *   Electrocardiogram (ECG): To detect arrhythmias
+    *   Cardiac enzymes: Troponin, CK-MB (if cardiac damage is suspected)
+*   **Hematological Tests**
+    *   Complete blood count (CBC): To monitor for bone marrow suppression or bleeding abnormalities
+*   **Specific Drug Toxicity Tests**
+    *   Salicylate levels
+    *   Acetaminophen levels
+    *   Digoxin levels
+    *   Lithium levels
+
+## **Management of Drug Toxicity** {-}
+
+*   **Immediate Actions**
+    *   Discontinue the drug: Stop further drug administration
+    *   Supportive care: Maintain vital functions (airway, breathing, circulation)
+    *   Monitor vital signs: Blood pressure, heart rate, respiratory rate
+    *   Assess mental status: Level of consciousness, orientation
+*   **Decontamination (if applicable)**
+    *   Activated charcoal: To prevent further absorption of the drug from the gastrointestinal tract (if the drug was ingested recently)
+    *   Gastric lavage: To remove the drug from the stomach (rarely used)
+*   **Enhance Elimination**
+    *   Forced diuresis: Administer intravenous fluids and diuretics to increase urine output and enhance renal elimination of the drug
+    *   Hemodialysis: Remove the drug from the blood using a dialysis machine (for drugs that are readily dialyzable)
+    *   Hemoperfusion: Remove the drug from the blood by passing it through a cartridge containing an adsorbent material
+    *   Urine alkalinization: Increase urine pH to enhance renal elimination of certain acidic drugs (e.g., salicylates)
+*   **Administer Antidotes (if available)**
+    *   N-acetylcysteine (NAC) for acetaminophen overdose
+    *   Digoxin-specific antibody fragments (Digibind) for digoxin toxicity
+    *   Naloxone for opioid overdose
+    *   Flumazenil for benzodiazepine overdose
+*   **Symptomatic Treatment**
+    *   Manage specific symptoms with appropriate medications (e.g., antiemetics for nausea, anticonvulsants for seizures)
+*   **Consult Toxicology Experts**
+    *   Contact a regional poison control center or medical toxicologist for guidance on the management of drug toxicity
+
+## **Prevention of Drug Toxicity** {-}
+
+*   **Appropriate Prescribing**
+    *   Consider patient-specific factors (age, weight, renal function, liver function, drug interactions) when prescribing medications
+    *   Start with a low dose and titrate gradually
+*   **Patient Education**
+    *   Educate patients about the importance of adherence, potential side effects, and drug interactions
+    *   Encourage patients to report any unusual symptoms to their healthcare provider
+*   **Therapeutic Drug Monitoring (TDM)**
+    *   Monitor drug concentrations in patients receiving medications with a narrow therapeutic range
+*   **Medication Reconciliation**
+    *   Review the patient's medication list regularly to identify potential drug interactions
+*   **Electronic Prescribing**
+    *   Use electronic prescribing systems with built-in safety alerts to prevent medication errors
+*   **Pharmacist Involvement**
+    *   Pharmacists can play a key role in preventing drug toxicity by reviewing prescriptions, educating patients, and monitoring for drug interactions
+
+## **Key Terms** {-}
+
+*   **Therapeutic Drug Monitoring (TDM):** Measurement of drug concentrations to optimize therapy
+*   **Toxic State:** Drug concentration above the therapeutic range, increasing the risk of adverse effects
+*   **Enzyme Inhibition:** Decreased activity of drug-metabolizing enzymes
+*   **Protein Binding Displacement:** Displacement of a drug from plasma proteins, increasing free drug concentration
+*   **Renal Clearance:** The rate at which a drug is removed from the body by the kidneys
+*   **Hepatic Metabolism:** The process by which the liver chemically alters a drug
+*   **Antidote:** A substance that counteracts the effects of a poison or drug overdose
+*   **Activated Charcoal:** A substance used to prevent further absorption of a drug from the gastrointestinal tract
+*   **Hemodialysis:** A procedure that removes waste products and excess fluid from the blood using a dialysis machine
+*   **Nephrotoxicity:** Kidney damage
+*   **Ototoxicity:** Hearing loss or vertigo
+*   **Hepatotoxicity:** Liver damage
+*   **Myelosuppression:** Bone marrow suppression

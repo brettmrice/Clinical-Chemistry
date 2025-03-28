@@ -2,7 +2,7 @@
 
 Accurate lab testing, and the ability to correlate the results to a patient's symptoms, greatly assists in accurate diagnosis and treatment
 
-## **Liver Diseases**
+## **Liver Diseases** {-}
 
 *   **Cirrhosis**
     *   Laboratory Findings:
@@ -28,7 +28,7 @@ Accurate lab testing, and the ability to correlate the results to a patient's sy
     *   Disease State Correlation: Liver failure leads to impaired ammonia detoxification, resulting in neurological dysfunction
     *   Clinical Significance: Requires quick treatment to help prevent permanent brain damage
 
-## **Kidney Diseases**
+## **Kidney Diseases** {-}
 
 *   **Nephrotic Syndrome**
     *   Laboratory Findings:
@@ -43,7 +43,7 @@ Accurate lab testing, and the ability to correlate the results to a patient's sy
     *   Disease State Correlation: Gradual loss of kidney function leads to decreased excretion of waste products and increased protein excretion
     *   Clinical Significance: Indicates impaired kidney function
 
-## **Nutritional Disorders**
+## **Nutritional Disorders** {-}
 
 *   **Protein-Energy Malnutrition (PEM)**
     *   Laboratory Findings:
@@ -52,7 +52,7 @@ Accurate lab testing, and the ability to correlate the results to a patient's sy
     *   Disease State Correlation: Inadequate intake of protein and energy leads to depletion of body protein stores and impaired organ function
     *   Clinical Significance: Used to measure nutritional deficiency
 
-## **Cancer**
+## **Cancer** {-}
 
 *   **Multiple Myeloma**
     *   Laboratory Findings:
@@ -69,7 +69,7 @@ Accurate lab testing, and the ability to correlate the results to a patient's sy
     *   Disease State Correlation: Tumor cells produce specific tumor markers that can be detected in the blood
     *   Clinical Significance: Monitoring, assessing, and helping determine the stage of the cancer
 
-## **Other Conditions**
+## **Other Conditions** {-}
 
 *   **Gout**
     *   Laboratory Findings:
@@ -77,7 +77,7 @@ Accurate lab testing, and the ability to correlate the results to a patient's sy
     *   Disease State Correlation: Increased uric acid production or decreased excretion leads to urate crystal deposition in joints
     *   Clinical Significance: Confirmation of gout is possible through detection of uric acid crystals within synovial fluid of joints
 
-## **Key Terms**
+## **Key Terms** {-}
 
 *   **Hyperproteinemia:** Elevated total protein levels in blood
 *   **Hypoalbuminemia:** Abnormally low levels of albumin in the blood

@@ -1,0 +1,159 @@
+# Alcohols {-}
+
+Understanding the chemical and physical properties of alcohols is crucial in toxicology
+
+## **General Properties of Alcohols** {-}
+
+*   **Definition:** Organic compounds characterized by the presence of one or more hydroxyl ($-OH$) groups attached to a carbon atom
+*   **Nomenclature:** Named by adding the suffix "-ol" to the parent alkane name (e.g., methanol, ethanol)
+*   **Classification:** Alcohols can be classified as primary, secondary, or tertiary, depending on the number of carbon atoms bonded to the carbon atom bearing the hydroxyl group
+*   **Hydrogen Bonding:** The presence of the hydroxyl group allows alcohols to form hydrogen bonds with other molecules, including water
+
+## **Chemical Properties of Alcohols** {-}
+
+*   **Polarity:** The hydroxyl group makes alcohols polar molecules
+*   **Acidity:** Alcohols are weakly acidic due to the ability of the hydroxyl group to donate a proton ($H^+$)
+*   **Reactivity:** Alcohols undergo various chemical reactions, including:
+    *   Oxidation: Alcohols can be oxidized to aldehydes, ketones, or carboxylic acids, depending on the alcohol and the oxidizing agent
+    *   Esterification: Alcohols react with carboxylic acids to form esters
+    *   Dehydration: Alcohols can be dehydrated to form alkenes
+    *   Ether Formation: Alcohols react with other alcohols to form ethers
+*    **Flammability:** Alcohols are flammable
+
+## **Physical Properties of Alcohols** {-}
+
+*   **Appearance:** Alcohols can be liquids or solids at room temperature, depending on their molecular weight
+*   **Boiling Point:** Boiling points increase with increasing molecular weight and hydrogen bonding
+*   **Solubility:** Alcohols with short carbon chains are miscible with water due to hydrogen bonding. Solubility decreases as the carbon chain length increases, because the influence of the nonpolar part of the molecule increases
+*   **Viscosity:** Alcohols tend to be more viscous than alkanes with similar molecular weights due to hydrogen bonding
+
+## **Specific Alcohols of Toxicological Significance** {-}
+
+### **Methanol (Methyl Alcohol)** {-}
+
+*   **Chemical Formula:** $CH_3OH$
+*   **Molecular Weight:** 32.04 g/mol
+*   **Appearance:** Colorless, volatile liquid
+*   **Boiling Point:** 64.7°C
+*   **Solubility:** Miscible with water and many organic solvents
+*   **Toxicokinetics**
+    *   Rapidly absorbed after ingestion or inhalation
+    *   Widely distributed throughout the body
+    *   Metabolized by alcohol dehydrogenase (ADH) and aldehyde dehydrogenase (ALDH) to formaldehyde and formic acid, which are highly toxic
+    *   Excreted in the urine and as carbon dioxide via the lungs
+*   **Toxicity**
+    *   Visual disturbances: Blurred vision, decreased visual acuity, blindness
+    *   Metabolic acidosis: Due to the accumulation of formic acid
+    *   Neurological symptoms: Headache, dizziness, confusion, seizures, coma
+*   **Analytical Methods:** Gas chromatography (GC), enzymatic assays
+
+### **Ethanol (Ethyl Alcohol)** {-}
+
+*   **Chemical Formula:** $C_2H_5OH$
+*   **Molecular Weight:** 46.07 g/mol
+*   **Appearance:** Colorless, volatile liquid
+*   **Boiling Point:** 78.37°C
+*   **Solubility:** Miscible with water and many organic solvents
+*   **Toxicokinetics**
+    *   Rapidly absorbed after ingestion
+    *   Widely distributed throughout the body
+    *   Metabolized by alcohol dehydrogenase (ADH) and aldehyde dehydrogenase (ALDH) to acetaldehyde and acetic acid
+    *   Excreted in the urine and as carbon dioxide via the lungs
+*   **Toxicity**
+    *   Central nervous system (CNS) depression: Impaired judgment, slurred speech, ataxia, coma
+    *   Liver damage: Cirrhosis, hepatitis
+    *   Gastrointestinal problems: Gastritis, pancreatitis
+    *   Withdrawal syndrome: Tremors, anxiety, seizures, delirium tremens
+*   **Analytical Methods:** Gas chromatography (GC), enzymatic assays
+
+### **Isopropanol (Isopropyl Alcohol)** {-}
+
+*   **Chemical Formula:** $(CH_3)_2CHOH$
+*   **Molecular Weight:** 60.10 g/mol
+*   **Appearance:** Colorless liquid
+*   **Boiling Point:** 82.4°C
+*   **Solubility:** Miscible with water and many organic solvents
+*   **Toxicokinetics**
+    *   Rapidly absorbed after ingestion or inhalation
+    *   Widely distributed throughout the body
+    *   Metabolized by alcohol dehydrogenase (ADH) to acetone
+    *   Excreted in the urine and as acetone via the lungs
+*   **Toxicity**
+    *   CNS depression: Drowsiness, confusion, coma
+    *   Gastrointestinal irritation: Nausea, vomiting, abdominal pain
+    *   Pulmonary edema
+*   **Analytical Methods:** Gas chromatography (GC)
+
+### **Ethylene Glycol** {-}
+
+*   **Chemical Formula:** $C_2H_6O_2$
+*   **Molecular Weight:** 62.07 g/mol
+*   **Appearance:** Colorless, odorless liquid
+*   **Boiling Point:** 197.3°C
+*   **Solubility:** Miscible with water and many organic solvents
+*   **Toxicokinetics**
+    *   Rapidly absorbed after ingestion
+    *   Widely distributed throughout the body
+    *   Metabolized by alcohol dehydrogenase (ADH) and aldehyde dehydrogenase (ALDH) to glycoaldehyde, glycolic acid, glyoxylic acid, and oxalic acid, which are highly toxic
+    *   Excreted in the urine
+*   **Toxicity**
+    *   Stage 1 (0.5-12 hours): CNS depression, nausea, vomiting
+    *   Stage 2 (12-24 hours): Cardiopulmonary effects, tachycardia, hypertension, pulmonary edema
+    *   Stage 3 (24-72 hours): Renal failure, flank pain, oliguria
+    *   Calcium oxalate crystals in the urine
+*   **Analytical Methods:** Gas chromatography (GC), enzymatic assays, osmolal gap calculation
+
+### **Propylene Glycol** {-}
+
+*   **Chemical Formula:** $C_3H_8O_2$
+*   **Molecular Weight:** 76.09 g/mol
+*   **Appearance:** Colorless, odorless liquid
+*   **Boiling Point:** 188.2°C
+*   **Solubility:** Miscible with water and many organic solvents
+*   **Toxicokinetics**
+    *   Rapidly absorbed after ingestion
+    *   Widely distributed throughout the body
+    *   Metabolized to lactic acid and pyruvic acid
+    *   Excreted in the urine
+*   **Toxicity**
+    *   Generally considered less toxic than ethylene glycol
+    *   High concentrations can cause CNS depression, lactic acidosis, and hyperosmolality
+*   **Analytical Methods:** Gas chromatography (GC)
+
+## **Summary Table of Alcohols** {-}
+
+| Alcohol          | Formula                | Molecular Weight | Appearance          | Boiling Point (°C) | Solubility       | Primary Toxic Effects                                    |
+| :--------------- | :--------------------- | :--------------- | :------------------ | :----------------- | :--------------- | :------------------------------------------------------- |
+| Methanol         | $CH_3OH$               | 32.04            | Colorless liquid    | 64.7               | Miscible         | Visual disturbances, metabolic acidosis                    |
+| Ethanol          | $C_2H_5OH$             | 46.07            | Colorless liquid    | 78.37              | Miscible         | CNS depression, liver damage, withdrawal syndrome        |
+| Isopropanol      | $(CH_3)_2CHOH$         | 60.10            | Colorless liquid    | 82.4               | Miscible         | CNS depression, gastrointestinal irritation            |
+| Ethylene Glycol  | $C_2H_6O_2$             | 62.07            | Colorless liquid    | 197.3              | Miscible         | CNS depression, cardiopulmonary effects, renal failure     |
+| Propylene Glycol | $C_3H_8O_2$             | 76.09            | Colorless liquid    | 188.2              | Miscible         | CNS depression, lactic acidosis, hyperosmolality       |
+
+## **Analytical Significance** {-}
+
+*   **Selection of Analytical Method:** Physical and chemical properties guide the selection of appropriate analytical methods
+*   **Sample Preparation:** Solubility and stability determine the optimal sample preparation techniques
+*   **Interpretation of Results:** Understanding metabolism and excretion helps interpret analytical results and assess the severity of poisoning
+
+## **Clinical Significance** {-}
+
+*   **Accurate Diagnosis:** Prompt and accurate identification of the ingested alcohol is crucial for appropriate treatment
+*   **Assessment of Severity:** Measurement of alcohol concentrations helps assess the severity of poisoning and guide clinical management
+*   **Monitoring of Treatment:** Serial measurements of alcohol concentrations are used to monitor the effectiveness of treatment and guide further interventions
+
+## **Key Terms** {-}
+
+*   **Alcohol:** An organic compound containing one or more hydroxyl ($-OH$) groups
+*   **Methanol:** Methyl alcohol, a highly toxic alcohol
+*   **Ethanol:** Ethyl alcohol, the alcohol found in alcoholic beverages
+*   **Isopropanol:** Isopropyl alcohol, a common disinfectant
+*   **Ethylene Glycol:** A toxic alcohol found in antifreeze
+*   **Propylene Glycol:** A less toxic alcohol used in various products
+*   **Toxicokinetics:** The study of the movement of toxic substances within the body
+*   **Metabolism:** The process by which the body chemically alters a substance
+*   **Excretion:** The process by which the body eliminates a substance
+*   **Alcohol Dehydrogenase (ADH):** An enzyme involved in the metabolism of alcohols
+*   **Aldehyde Dehydrogenase (ALDH):** An enzyme involved in the metabolism of aldehydes
+*   **Osmolal Gap:** The difference between the measured osmolality and the calculated osmolality of serum or plasma
+

@@ -1,0 +1,176 @@
+# Therapeutic States {-}
+
+Understanding the interplay between drug pharmacokinetics and therapeutic states is essential for effective therapeutic drug monitoring (TDM)
+
+## **Pharmacokinetics: The Body's Effect on Drugs** {-}
+
+*   **Definition:** The study of how the body affects a drug after administration, including the processes of absorption, distribution, metabolism, and excretion (ADME)
+
+### **Absorption** {-}
+
+*   **Definition:** The process by which a drug enters the bloodstream from its site of administration
+*   **Factors Affecting Absorption**
+    *   **Route of Administration:** Oral, intravenous, intramuscular, subcutaneous, transdermal, etc
+    *   **Drug Formulation:** Tablet, capsule, solution, etc
+    *   **Physicochemical Properties of the Drug:** Solubility, ionization, molecular size
+    *   **Physiological Factors:** Gastric emptying time, intestinal motility, blood flow, pH
+    *   **First-Pass Metabolism:** Metabolism of a drug in the liver before it reaches systemic circulation (for orally administered drugs)
+*   **Bioavailability:** The fraction of an administered dose of a drug that reaches the systemic circulation unchanged
+    *   Intravenous administration: Bioavailability is 100%
+    *   Oral administration: Bioavailability is often less than 100% due to incomplete absorption and first-pass metabolism
+
+### **Distribution** {-}
+
+*   **Definition:** The process by which a drug is transported from the bloodstream to various tissues and organs in the body
+*   **Factors Affecting Distribution**
+    *   **Blood Flow:** Highly perfused organs (brain, heart, liver, kidneys) receive the drug more rapidly
+    *   **Tissue Permeability:** Ability of the drug to cross cell membranes and enter tissues
+        *   Lipid-soluble drugs can easily cross cell membranes
+        *   Water-soluble drugs may require transport proteins
+    *   **Protein Binding:** Binding of drugs to plasma proteins (albumin, alpha-1-acid glycoprotein)
+        *   Only unbound (free) drug can exert pharmacological effects
+        *   Drugs with high protein binding have limited distribution
+    *   **Volume of Distribution (Vd):** A measure of the apparent space in the body available to contain the drug
+        *   Vd = Dose / Plasma Concentration
+        *   High Vd: Indicates extensive tissue distribution
+        *   Low Vd: Indicates limited tissue distribution
+
+### **Metabolism** {-}
+
+*   **Definition:** The process by which the body chemically alters a drug, usually to make it more water-soluble and easier to excrete
+*   **Primary Site:** Liver
+*   **Phases of Metabolism**
+    *   **Phase I Reactions:** Introduce or expose a functional group on the drug molecule
+        *   Oxidation, reduction, hydrolysis
+        *   Enzymes: Cytochrome P450 (CYP) enzymes, flavin-containing monooxygenases (FMOs)
+    *   **Phase II Reactions:** Conjugate a polar molecule to the drug molecule
+        *   Glucuronidation, sulfation, acetylation, glutathione conjugation
+        *   Enzymes: UDP-glucuronosyltransferases (UGTs), sulfotransferases (SULTs)
+*   **Enzyme Induction and Inhibition**
+    *   Enzyme Inducers: Increase the activity of metabolizing enzymes, leading to decreased drug levels
+        *   Examples: Rifampin, carbamazepine
+    *   Enzyme Inhibitors: Decrease the activity of metabolizing enzymes, leading to increased drug levels
+        *   Examples: Ketoconazole, erythromycin
+*   **Prodrugs:** Drugs that are inactive in their administered form and must be metabolized to active metabolites to exert their effects
+        *   Examples: Codeine, prednisone
+
+### **Excretion** {-}
+
+*   **Definition:** The process by which the body eliminates a drug
+*   **Primary Routes**
+    *   **Kidneys:** Most drugs are excreted in the urine
+        *   Glomerular filtration, tubular secretion, tubular reabsorption
+    *   **Liver:** Some drugs are excreted in the bile and eliminated in the feces
+    *   Other Routes: Lungs, sweat, saliva, breast milk
+*   **Factors Affecting Excretion**
+    *   **Renal Function:** Glomerular filtration rate (GFR), tubular secretion, and tubular reabsorption affect renal drug excretion
+    *   **Liver Function:** Bile flow and hepatic metabolism affect biliary drug excretion
+    *   **Drug Properties:** Molecular size, ionization, and protein binding affect excretion
+*   **Clearance (CL):** A measure of the body's ability to eliminate a drug
+    *   CL = Rate of Elimination / Plasma Concentration
+    *   High CL: Indicates rapid drug elimination
+    *   Low CL: Indicates slow drug elimination
+
+## **Therapeutic States in TDM** {-}
+
+*   **Objective of TDM:** To optimize drug therapy by maintaining drug concentrations within a specific therapeutic range
+*   **Therapeutic Range:** The range of drug concentrations associated with a high probability of desired therapeutic effect and a low probability of adverse effects
+*   **Factors Influencing the Therapeutic Range**
+    *   **Drug Properties:** Potency, selectivity, and therapeutic index
+    *   **Patient Factors:** Age, sex, weight, genetics, disease state, and concurrent medications
+*   **Therapeutic States**
+    *   **Subtherapeutic:** Drug concentration is below the therapeutic range, resulting in inadequate therapeutic effect
+    *   **Therapeutic:** Drug concentration is within the therapeutic range, achieving the desired therapeutic effect with minimal adverse effects
+    *   **Toxic:** Drug concentration is above the therapeutic range, increasing the risk of adverse effects
+    *   **Supratherapeutic:** Drug concentration is above the therapeutic range, but not necessarily associated with toxicity
+        *   Supratherapeutic levels may be intentional in certain situations (e.g., antibiotic dosing for severe infections)
+
+### **Subtherapeutic State** {-}
+
+*   **Definition:** Drug concentration is below the therapeutic range, resulting in inadequate therapeutic effect
+*   **Causes**
+    *   Inadequate Dose: The prescribed dose is too low
+    *   Poor Adherence: The patient is not taking the medication as prescribed
+    *   Drug Interactions: Other medications or substances are decreasing drug levels
+    *   Rapid Metabolism: The patient is metabolizing the drug too quickly
+    *   Increased Clearance: The patient's kidneys are eliminating the drug too quickly
+    *   Malabsorption: Drug is not adequately absorbed in the GI tract
+*   **Consequences**
+    *   Lack of therapeutic effect: The drug is not effectively treating the condition
+    *   Disease progression: The condition may worsen due to lack of treatment
+    *   Development of resistance: In the case of antibiotics, subtherapeutic levels can promote the development of drug-resistant bacteria
+*   **Management**
+    *   Increase the dose
+    *   Improve adherence through patient education and support
+    *   Adjust the dosing interval
+    *   Avoid or manage drug interactions
+    *   Use an alternative drug
+
+### **Therapeutic State** {-}
+
+*   **Definition:** Drug concentration is within the therapeutic range, achieving the desired therapeutic effect with minimal adverse effects
+*   **Goal of TDM:** To maintain drug concentrations within the therapeutic range
+*   **Factors Influencing the Therapeutic Range**
+    *   Individual variability in drug metabolism and response
+    *   Patient-specific factors (age, weight, genetics, disease state)
+    *   Drug interactions
+*   **Management**
+    *   Monitor drug concentrations regularly
+    *   Adjust the dose or dosing interval as needed
+    *   Monitor for adverse effects
+    *   Educate the patient about the importance of adherence and potential drug interactions
+
+### **Toxic State** {-}
+
+*   **Definition:** Drug concentration is above the therapeutic range, increasing the risk of adverse effects
+*   **Causes**
+    *   Excessive Dose: The prescribed dose is too high
+    *   Decreased Clearance: The patient's kidneys or liver are not eliminating the drug efficiently
+    *   Drug Interactions: Other medications or substances are increasing drug levels
+    *   Overdose: Intentional or accidental ingestion of too much drug
+*   **Consequences**
+    *   Adverse effects: The drug causes unwanted side effects
+    *   Organ damage: The drug damages organs, such as the liver or kidneys
+    *   Life-threatening conditions: The drug causes serious complications, such as arrhythmias or seizures
+*   **Management**
+    *   Reduce the dose
+    *   Increase the dosing interval
+    *   Discontinue the drug
+    *   Administer an antidote, if available
+    *   Provide supportive care
+
+### **Supratherapeutic State** {-}
+
+*   **Definition:** Drug concentration is above the therapeutic range, but not necessarily associated with toxicity
+*   **Intentional Supratherapeutic Levels**
+    *   Certain situations may require supratherapeutic levels to achieve the desired effect (e.g., antibiotic dosing for severe infections, chemotherapy)
+    *   Monitor patients closely for adverse effects
+*   **Unintentional Supratherapeutic Levels**
+    *   May occur due to errors in dosing, drug interactions, or impaired drug elimination
+    *   Monitor patients for adverse effects and adjust the dose accordingly
+
+## **Summary Table of Therapeutic States** {-}
+
+| Therapeutic State | Drug Concentration | Therapeutic Effect | Adverse Effects | Management                                                    |
+| :---------------- | :----------------- | :----------------- | :---------------- | :------------------------------------------------------------ |
+| Subtherapeutic    | Below therapeutic range | Inadequate          | Low               | Increase the dose, improve adherence, avoid drug interactions, use alternative drug |
+| Therapeutic       | Within therapeutic range | Desired             | Minimal           | Monitor drug concentrations, adjust dose as needed           |
+| Toxic             | Above therapeutic range | May or may not increase; monitor for adverse effects | High              | Reduce the dose, discontinue drug, administer antidote, provide supportive care |
+| Supratherapeutic  | Above therapeutic range | May be intentional or unintentional | May be present       | Monitor for adverse effects, adjust dose as needed           |
+
+## **Key Terms** {-}
+
+*   **Pharmacokinetics:** The study of how the body affects a drug (ADME)
+*   **Absorption:** The process by which a drug enters the bloodstream
+*   **Distribution:** The process by which a drug is transported to tissues
+*   **Metabolism:** The process by which the body chemically alters a drug
+*   **Excretion:** The process by which the body eliminates a drug
+*   **Therapeutic Range:** The range of drug concentrations associated with optimal therapeutic effect and minimal toxicity
+*   **Subtherapeutic:** Drug concentration is below the therapeutic range
+*   **Therapeutic:** Drug concentration is within the therapeutic range
+*   **Toxic:** Drug concentration is above the therapeutic range
+*   **Supratherapeutic:** Drug concentration is above the therapeutic range, but not necessarily toxic
+*   **Clearance:** The measure of the body’s ability to eliminate a drug
+*   **Bioavailability:** The fraction of a drug reaching systemic circulation
+*   **Volume of Distribution:** Apparent space in the body available to contain the drug
+*   **Protein Binding:** Binding of drugs to plasma proteins reducing distribution

@@ -1,0 +1,117 @@
+# Precautions {-}
+
+Toxicology lab procedures are highly sensitive. This section gives a full overview of how to maximize accuracy and safety
+
+## **Special Precautions** {-}
+
+*   **Personnel Safety**
+    *   Personal Protective Equipment (PPE): Wear appropriate PPE, including gloves, lab coats, and eye protection
+    *   Chemical Hygiene Plan: Follow the laboratory's chemical hygiene plan
+    *   Fume Hood: Work with volatile organic compounds (VOCs) and other hazardous chemicals in a fume hood
+    *   Spill Response: Have spill kits readily available and follow proper spill response procedures
+*   **Specimen Handling**
+    *   Chain of Custody: Maintain a strict chain of custody for all specimens
+    *   Labeling: Label specimens clearly and accurately with patient information, date, and time of collection
+    *   Storage: Store specimens at appropriate temperatures to maintain stability
+*   **Instrumentation**
+    *   Calibration: Calibrate instruments regularly using appropriate standards
+    *   Maintenance: Perform routine maintenance on instruments to ensure proper functioning
+    *   Quality Control: Run quality control samples at regular intervals to monitor accuracy and precision
+*   **Waste Disposal**
+    *   Chemical Waste: Dispose of chemical waste according to federal, state, and local regulations
+    *   Biohazardous Waste: Dispose of biohazardous waste properly
+*   **Documentation**
+    *   Record all procedures, results, and quality control data accurately and completely
+    *   Maintain a log of instrument maintenance and calibrations
+*   **Security**
+    *   Store controlled substances securely
+    *   Limit access to the toxicology laboratory
+
+## **Specimen Collection and Processing** {-}
+
+*   **General Considerations**
+    *   Sample Integrity: Collect specimens in appropriate containers to prevent contamination or degradation
+    *   Volume: Collect adequate volume for testing and potential reanalysis
+    *   Timeliness: Process specimens promptly to minimize changes in analyte concentrations
+*   **Specific Specimen Types**
+    *   Blood:
+        *   Collect in appropriate tubes (e.g., gray-top tubes for alcohol analysis)
+        *   Avoid hemolysis
+        *   Separate plasma or serum from cells promptly
+    *   Urine:
+        *   Collect a random or timed urine sample
+        *   Use appropriate containers with preservatives, if necessary
+    *   Gastric Contents:
+        *   Collect as soon as possible after ingestion
+        *   Record the volume and appearance of the gastric contents
+    *   Tissues:
+        *   Collect tissue samples during autopsy or biopsy
+        *   Store in appropriate containers at -20°C or -80°C
+    *   Hair:
+        *   Collect hair samples close to the scalp
+        *   Wash and segment the hair before analysis
+    *   Oral Fluid:
+        *   Collect using a specialized collection device
+        *   Follow the manufacturer's instructions for collection and storage
+
+## **Troubleshooting** {-}
+
+*   **Unexpected Results**
+    *   Verify the patient identification
+    *   Repeat the test to confirm the result
+    *   Check for interfering substances
+    *   Review the patient's medical history and medication list
+    *   Consider alternative analytical methods
+*   **Quality Control Failures**
+    *   Out-of-Range QC: Investigate and correct the cause of the failure
+    *   Calibration Issues: Check calibration standards and recalibrate the instrument
+    *   Reagent Problems: Verify reagent integrity, storage conditions, and expiration dates
+    *   Instrument Malfunction: Troubleshoot and repair the instrument
+*   **Interferences**
+    *   Identify the interfering substance
+    *   Use appropriate methods to minimize or eliminate the interference
+    *   Consider using an alternative analytical method
+
+## **Common Interfering Substances** {-}
+
+*   **Endogenous Substances**
+    *   Bilirubin: Can interfere with spectrophotometric assays
+    *   Lipids: Can cause turbidity and affect immunoassays
+    *   Proteins: Can interfere with chromatography and mass spectrometry
+*   **Exogenous Substances**
+    *   Medications: Many drugs can interfere with toxicology assays
+    *   Herbal Supplements: Can contain compounds that interfere with assays
+    *   Food: Can affect the absorption and metabolism of drugs
+    *   Cleaning Agents: Can contaminate specimens and affect results
+*   **Collection and Handling Materials**
+    *   Tube Additives: Can interfere with assays
+    *   Contaminated Containers: Can introduce interfering substances
+*   **Specific Interferences**
+    *   Cross-Reactivity: Antibodies may bind to multiple compounds
+    *   Matrix Effects: Components in the sample matrix can affect results
+    *   Heterophile Antibodies: Can cause falsely high or low results
+
+## **Specific Strategies for Addressing Interferences** {-}
+
+*   **Dilution:** Dilute the sample to reduce the concentration of the interfering substance
+*   **Extraction:** Use liquid-liquid extraction or solid-phase extraction (SPE) to remove interfering substances
+*   **Cleanup Procedures:** Employ cleanup procedures to remove interfering substances
+*   **Masking Agents:** Add masking agents to bind to interfering substances and prevent them from interfering with the assay
+*   **Alternate Methods:** Use a different analytical method that is less susceptible to the interference
+*   **Interference Checks:** Implement interference checks to assess the impact of potential interfering substances
+
+## **Key Terms** {-}
+
+*   **Calibration:** Adjusting an instrument to ensure accurate readings
+*   **Chain of Custody:** Documentation of the handling of a specimen
+*   **Control:** A sample with a known result that is run as a reference point
+*   **Heterophile Antibodies:** Human antibodies that can bind to animal antibodies
+*   **Interfering Substance:** A component which affects test measurements
+*   **Matrix Effects:** The combined effect of all sample components other than the analyte
+*   **Personnel Protective Equipment (PPE):** Provides safety for laboratory staff
+*   **Preservative:** Chemical added to maintain stability
+*   **Quality Control (QC):** Testing the process by which results are created
+*   **Toxicology:** Branch of science concerned with nature, effects, and detection of poisons
+*   **Extraction:** The process of separating a substance from the sample matrix
+*   **Matrix Effects:** How components within a sample affect the results
+*   **Interference Checks:** Testing how specific components can affect the test results

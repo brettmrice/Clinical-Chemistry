@@ -1,0 +1,50 @@
+# Toxicokinetics {-}
+
+This section covers the key components of toxicokinetics
+
+## **Toxicokinetics** {-}
+
+*   **Definition:** The study of the kinetics of toxic substances in the body, focusing on ADME processes
+*   **Purpose:** To understand how the body handles toxic substances, predict their distribution and effects, and guide treatment strategies
+
+### **Toxic Effects, Signs, and Symptoms** {-}
+
+*   **Dose-Response Relationship**
+    *   Describes the relationship between the amount of exposure to a toxic substance and the severity of the effects
+*   **Target Organs**
+    *   Some toxins selectively target specific organs
+*   **Mechanisms of Toxicity**
+    *   Cellular necrosis, apoptosis, oxidative stress, mitochondrial dysfunction, inflammation, neurotoxicity, carcinogenesis, teratogenesis
+*   **Signs and Symptoms**
+    *   Vary based on the substance, exposure route, and individual factors
+*   **Common Toxic Syndromes (Toxidromes)**
+    *   Cholinergic, anticholinergic, sympathomimetic, opioid, sedative-hypnotic
+
+### **Metabolism and Excretion** {-}
+
+*   **Metabolism (Biotransformation)**
+    *   Process by which the body chemically alters toxins
+    *   Primary site: Liver
+    *   Purpose: Detoxification (convert to less harmful) or bioactivation (convert to more harmful)
+    *   Phases:
+        *   Phase I: Oxidation, reduction, hydrolysis (CYP enzymes)
+        *   Phase II: Conjugation (glucuronidation, sulfation, etc.)
+    *   Factors Affecting Metabolism:
+        *   Genetics, age, liver and kidney function, drug interactions
+*   **Excretion**
+    *   Process by which the body eliminates toxins
+    *   Primary Routes:
+        *   Kidneys (urine)
+        *   Liver (bile)
+    *   Renal Excretion:
+        *   Glomerular filtration, tubular secretion, tubular reabsorption
+    *   Factors Affecting Excretion:
+        *   Renal and liver function, pH
+
+## **Clinical Significance** {-}
+
+*   **Understanding Toxicokinetics Helps In**
+    *   Predicting the toxicity of substances
+    *   Assessing individual susceptibility to toxic effects
+    *   Developing effective treatments for poisoning
+    *   Designing strategies for preventing exposure to toxic substances

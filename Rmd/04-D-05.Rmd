@@ -1,0 +1,192 @@
+# Disease Correlation {-}
+
+Understanding how various disease states influence toxicological findings is critical for accurate interpretation and effective patient management
+
+## **General Principles of Disease State Correlation in Toxicology** {-}
+
+*   **Impact on Toxicokinetics:** Disease states can alter drug absorption, distribution, metabolism, and excretion (ADME), leading to changes in toxic substance concentrations
+*   **Individual Variability:** Disease states can introduce significant variability in how individuals respond to toxic substances
+*   **Pre-Existing Conditions:** Pre-existing conditions can increase susceptibility to toxicity
+*   **Clinical Context:** Always interpret toxicological results in the context of the patient's clinical presentation and medical history
+*   **Diagnostic Considerations:** Knowledge of common associations helps guide diagnostic evaluation
+*   **Management Strategies:** Disease-specific considerations influence treatment decisions
+
+## **Liver Disease** {-}
+
+*   **Mechanism of Impact**
+    *   Impaired hepatic metabolism
+    *   Decreased production of clotting factors
+    *   Altered protein binding
+    *   Reduced bile flow
+*   **Commonly Affected Substances**
+    *   Acetaminophen: Increased risk of hepatotoxicity
+    *   Alcohol: Increased susceptibility to alcohol-related liver damage
+    *   Drugs metabolized by CYP enzymes (e.g., opioids, benzodiazepines)
+*   **Typical Laboratory Findings**
+    *   Elevated liver enzymes (ALT, AST)
+    *   Increased bilirubin
+    *   Prolonged prothrombin time (PT/INR)
+    *   Decreased albumin
+*   **Toxicological Considerations**
+    *   Increased sensitivity to hepatotoxic substances
+    *   Impaired clearance of drugs, leading to elevated drug levels
+    *   Higher risk of bleeding with anticoagulants or antiplatelet agents
+*   **Disease Examples**
+    *   Cirrhosis
+    *   Hepatitis
+    *   Liver Failure
+
+## **Renal Disease** {-}
+
+*   **Mechanism of Impact**
+    *   Reduced glomerular filtration rate (GFR)
+    *   Impaired tubular secretion
+    *   Decreased drug clearance
+    *   Altered fluid and electrolyte balance
+*   **Commonly Affected Substances**
+    *   Drugs primarily excreted by the kidneys (e.g., aminoglycosides, lithium, methotrexate)
+    *   Heavy metals (e.g., lead, mercury)
+*   **Typical Laboratory Findings**
+    *   Elevated serum creatinine and blood urea nitrogen (BUN)
+    *   Decreased creatinine clearance
+    *   Electrolyte imbalances (e.g., hyperkalemia)
+*   **Toxicological Considerations**
+    *   Increased risk of toxicity from renally excreted substances
+    *   Reduced effectiveness of some antidotes
+*   **Disease Examples**
+    *   Chronic Kidney Disease (CKD)
+    *   Acute Kidney Injury (AKI)
+    *   Nephrotic Syndrome
+
+## **Cardiovascular Disease** {-}
+
+*   **Mechanism of Impact**
+    *   Reduced cardiac output
+    *   Impaired drug distribution
+    *   Altered hepatic and renal blood flow
+*   **Commonly Affected Substances**
+    *   Digoxin
+    *   Antiarrhythmics
+    *   Beta-blockers
+*   **Typical Laboratory Findings**
+    *   Elevated cardiac enzymes (troponin, CK-MB)
+    *   Abnormal electrocardiogram (ECG)
+*   **Toxicological Considerations**
+    *   Increased sensitivity to cardiotoxic substances
+    *   Altered drug pharmacokinetics
+*   **Disease Examples**
+    *   Congestive Heart Failure (CHF)
+    *   Ischemic Heart Disease
+
+## **Pulmonary Disease** {-}
+
+*   **Mechanism of Impact**
+    *   Impaired gas exchange
+    *   Reduced pulmonary clearance
+    *   Increased susceptibility to respiratory irritants
+*   **Commonly Affected Substances**
+    *   Inhaled toxins (e.g., carbon monoxide, smoke)
+    *   Drugs that cause pulmonary toxicity (e.g., amiodarone, bleomycin)
+*   **Typical Laboratory Findings**
+    *   Abnormal arterial blood gases (ABGs)
+    *   Decreased oxygen saturation
+    *   Abnormal chest X-ray or CT scan
+*   **Toxicological Considerations**
+    *   Increased risk of respiratory complications
+    *   Impaired clearance of inhaled toxins
+*   **Disease Examples**
+    *   Chronic Obstructive Pulmonary Disease (COPD)
+    *   Asthma
+    *   Pneumonia
+
+## **Neurological Disorders** {-}
+
+*   **Mechanism of Impact**
+    *   Increased permeability of the blood-brain barrier (BBB)
+    *   Altered neurotransmitter function
+    *   Increased susceptibility to neurotoxic substances
+*   **Commonly Affected Substances**
+    *   Drugs that affect the central nervous system (CNS)
+    *   Neurotoxins (e.g., heavy metals, organophosphates)
+*   **Typical Laboratory Findings**
+    *   Abnormal neurological examination
+    *   Elevated intracranial pressure
+    *   Abnormal brain imaging (CT or MRI)
+*   **Toxicological Considerations**
+    *   Increased risk of seizures, coma, and other neurological complications
+    *   Altered response to antidotes
+*   **Disease Examples**
+    *   Epilepsy
+    *   Alzheimer's Disease
+    *   Parkinson's Disease
+
+## **Nutritional Deficiencies** {-}
+
+*   **Mechanism of Impact**
+    *   Impaired detoxification pathways
+    *   Increased susceptibility to oxidative stress
+    *   Altered drug metabolism
+*   **Commonly Affected Substances**
+    *   Acetaminophen: Increased risk of hepatotoxicity with glutathione deficiency
+    *   Alcohol: Increased susceptibility to liver damage with malnutrition
+*   **Typical Laboratory Findings**
+    *   Low serum levels of vitamins and minerals
+    *   Elevated homocysteine levels
+*   **Toxicological Considerations**
+    *   Increased vulnerability to the toxic effects of various substances
+    *   Impaired ability to metabolize and eliminate toxins
+*   **Disease Examples**
+    *   Malnutrition
+    *   Vitamin Deficiencies
+
+## **Genetic Factors** {-}
+
+*   **Mechanism of Impact**
+    *   Genetic polymorphisms in drug-metabolizing enzymes and drug transporters
+    *   Altered drug metabolism and excretion
+*   **Commonly Affected Substances**
+    *   Drugs metabolized by CYP2C9, CYP2C19, CYP2D6, and other polymorphic enzymes
+*   **Typical Laboratory Findings**
+    *   Pharmacogenetic testing can identify specific genotypes
+*   **Toxicological Considerations**
+    *   Individuals with certain genotypes may be more susceptible to toxicity or have altered responses to antidotes
+*   **Examples**
+    *   CYP2D6 polymorphisms affecting opioid metabolism
+    *   NAT2 polymorphisms affecting isoniazid metabolism
+
+## **The Importance of History and Exam** {-}
+
+*   The proper assessment of drug levels and how they relate to disease is done by:
+        *   Obtaining a thorough history from the patient
+        *   Completing a full physical examination
+*   **Examples**
+        *   Asking patients if they have taken any additional pain or fever reducers when acetaminophen toxicity is suspected can help guide treatment
+        *   Asking patients if they have noticed visual halos when digoxin toxicity is suspected
+*   *These factors cannot be overlooked to properly assess toxicology results*
+
+## **Summary Table of Disease State Correlation** {-}
+
+| Disease State        | Common Impact on Toxicokinetics                         | Commonly Affected Substances                                  | TDM Considerations                                                    |
+| :------------------- | :------------------------------------------------------ | :------------------------------------------------------------ | :-------------------------------------------------------------------- |
+| Liver Disease        | Impaired metabolism, altered protein binding            | Acetaminophen, Warfarin, Phenytoin, Opioids, Alcohol               | Monitor liver function, consider lower doses, monitor for toxicity    |
+| Renal Disease        | Reduced clearance, altered volume of distribution       | Aminoglycosides, Lithium, Methotrexate, Heavy Metals | Monitor renal function, reduce dose, extend dosing interval         |
+| Heart Failure        | Reduced blood flow, impaired drug distribution          | Digoxin, Antiarrhythmics                                      | Monitor cardiac function, adjust dose based on response            |
+| Pulmonary Disease      | Impaired gas exchange, reduced pulmonary clearance     | Inhaled Toxins, Drugs causing Pulmonary Toxicity              | Monitor respiratory function, avoid irritants                       |
+| Neurological Disorders | Increased BBB permeability, altered neurotransmitter function | Neurotoxic Drugs, Heavy Metals, Organophosphates             | Monitor neurological status, consider alternative treatments        |
+| Malnutrition        | Impaired detoxification pathways                          | Acetaminophen, Alcohol                                         | Provide nutritional support, monitor for increased toxicity           |
+| Genetic Factors       | Altered metabolism and excretion                        | Drugs metabolized by polymorphic enzymes                   | Consider pharmacogenetic testing, adjust dose based on genotype     |
+
+## **Key Terms** {-}
+
+*   **Pharmacokinetics:** The study of how the body affects a drug (ADME)
+*   **Toxicokinetics:** The study of how a toxic substance moves through the body
+*   **Drug Interaction:** The effect of one drug on the pharmacokinetics or pharmacodynamics of another drug
+*   **Genotype:** The genetic makeup of an individual
+*   **Phenotype:** The observable characteristics of an individual, resulting from the interaction of genotype and environment
+*   **Enzyme Induction:** Increased activity of drug-metabolizing enzymes
+*   **Enzyme Inhibition:** Decreased activity of drug-metabolizing enzymes
+*   **Half-Life:** The time it takes for the concentration of a drug in the body to be reduced by one-half
+*   **Clearance:** The measure of the body’s ability to eliminate a drug from the body
+*   **Volume of Distribution:** Apparent space in the body available to contain the drug
+*    **Toxidrome:** A group of signs and symptoms consistently associated with a specific condition or resulting from exposure to a particular substance
+*    **Medical Toxicology:** Branch of medicine focused on the adverse effects of chemicals and drugs

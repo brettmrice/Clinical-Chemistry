@@ -1,0 +1,120 @@
+# Procedures {-}
+
+This section covers the various aspects of toxicology lab procedures
+
+## **General Principles of Toxicology Laboratory Test Procedures** {-}
+
+*   **Objective:** To identify and quantify toxic substances in biological samples for clinical, forensic, and environmental purposes
+*   **Scope:** Encompasses a wide range of analytes, including drugs, poisons, heavy metals, and environmental toxins
+*   **Types of Assays**
+    *   Screening Assays: Provide rapid, qualitative detection of substances or classes of substances
+    *   Confirmatory Assays: Provide quantitative identification and confirmation of specific substances
+*   **Sample Types**
+    *   Blood, urine, gastric contents, tissues, hair, oral fluid, and other specimens
+
+## **Analytical Principles** {-}
+
+*   **Immunoassays (IAs)**
+    *   Principle: Based on antibody-antigen binding
+    *   Types: ELISA, FPIA, CLIA
+    *   Advantages: High throughput, ease of use
+    *   Limitations: Cross-reactivity, limited quantitative accuracy
+*   **Chromatography (GC, HPLC)**
+    *   Principle: Separates compounds based on physical and chemical properties
+    *   Detectors: UV-Vis, fluorescence, electrochemical, mass spectrometry (MS)
+    *   Advantages: High resolution, quantitative analysis
+    *   Limitations: Requires skilled operators
+*   **Mass Spectrometry (MS)**
+    *   Principle: Identifies and quantifies compounds based on mass-to-charge ratio
+    *   Techniques: GC-MS, LC-MS/MS
+    *   Advantages: High sensitivity and specificity, can identify unknowns
+    *   Limitations: Requires expensive equipment and highly skilled operators
+*   **Atomic Absorption Spectrometry (AAS)**
+    *   Principle: Measures light absorption by free atoms
+    *   Application: Heavy metal analysis
+    *   Advantages: High sensitivity for minerals
+    *   Limitations: Requires specialized equipment, matrix effects
+*   **Inductively Coupled Plasma Mass Spectrometry (ICP-MS)**
+    *   Principle: Measures mass-to-charge ratio of ions in plasma
+    *   Application: Trace elements, heavy metals
+    *   Advantages: High sensitivity, multi-element analysis
+    *   Limitations: Requires specialized equipment, matrix effects
+
+## **Special Precautions** {-}
+
+*   **Personnel Safety**
+    *   Personal Protective Equipment (PPE)
+    *   Chemical Hygiene Plan
+    *   Fume Hood
+    *   Spill Response
+*   **Specimen Handling**
+    *   Chain of Custody
+    *   Labeling
+    *   Storage
+*   **Instrumentation**
+    *   Calibration
+    *   Maintenance
+    *   Quality Control
+*   **Waste Disposal**
+    *   Chemical Waste
+    *   Biohazardous Waste
+*   **Documentation**
+    *   Procedures, results, QC data, maintenance logs
+*   **Security**
+    *   Controlled substances stored securely
+    *   Limited access
+
+## **Specimen Collection and Processing** {-}
+
+*   **General Guidelines**
+    *   Sample Integrity: Proper containers to prevent contamination
+    *   Volume: Collect adequate volume
+    *   Timeliness: Process promptly
+*   **Specific Specimen Types**
+    *   Blood: Gray-top for alcohol, avoid hemolysis
+    *   Urine: Random or timed, preservatives if needed
+    *   Gastric Contents: Collect as soon as possible
+    *   Tissues: Collect during autopsy or biopsy
+    *   Hair: Collect close to scalp, wash and segment
+    *   Oral Fluid: Use specialized collection devices
+
+## **Troubleshooting** {-}
+
+*   **Unexpected Results**
+    *   Verify patient ID
+    *   Repeat the test
+    *   Check for interferences
+    *   Review history
+    *   Consider alternative methods
+*   **Quality Control (QC) Failures**
+    *   Out-of-Range QC
+    *   Calibration Issues
+    *   Reagent Problems
+    *   Instrument Malfunction
+    *   Action: Investigate and correct the source of the error
+
+## **Interfering Substances** {-}
+
+*   **Endogenous Substances**
+    *   Bilirubin
+    *   Lipids
+    *   Proteins
+*   **Exogenous Substances**
+    *   Medications
+    *   Herbal Supplements
+    *   Food
+    *   Cleaning Agents
+*   **Collection/Handling Materials**
+    *   Tube Additives
+    *   Contaminated Containers
+*   **Specific Interferences**
+    *   Cross-Reactivity
+    *   Matrix Effects
+    *   Heterophile Antibodies
+*   **Strategies to Address Interferences**
+    *   Dilution
+    *   Extraction
+    *   Cleanup Procedures
+    *   Masking Agents
+    *   Alternate Methods
+    *   Interference Checks

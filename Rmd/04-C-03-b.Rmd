@@ -1,0 +1,146 @@
+# Precautions {-}
+
+To ensure the reliability of TDM, it's essential to address pre-analytical and analytical factors, including special precautions, specimen handling, and interfering substances
+
+## **Special Precautions** {-}
+
+*   **Patient Identification**
+    *   Accurate patient identification is essential to prevent errors
+    *   Use two unique identifiers (e.g., name and date of birth)
+*   **Timing of Specimen Collection**
+    *   Collect specimens at the correct time relative to the drug administration schedule
+        *   Trough levels: Collected immediately before the next dose
+        *   Peak levels: Collected at a specific time after drug administration
+    *   Record the date and time of drug administration and specimen collection
+*   **Medication History**
+    *   Obtain a complete medication history from the patient
+    *   Document all prescription and over-the-counter medications, as well as any herbal supplements
+*   **Clinical Information**
+    *   Gather relevant clinical information, such as the patient's age, weight, renal function, liver function, and concurrent medical conditions
+*   **Chain of Custody**
+    *   Maintain a clear chain of custody for all specimens
+    *   Document the date, time, and initials of each person handling the specimen
+*   **Informed Consent**
+    *   Obtain informed consent from the patient before collecting specimens for TDM
+*   **Safety Precautions**
+    *   Follow standard safety precautions when handling blood and other biological specimens
+    *   Wear gloves, gowns, and eye protection
+
+## **Specimen Collection** {-}
+
+*   **Specimen Type**
+    *   Serum or plasma is commonly used for TDM
+    *   Whole blood is used for some immunosuppressant drugs (e.g., tacrolimus, cyclosporine)
+*   **Collection Tubes**
+    *   Use appropriate collection tubes for each drug
+        *   Serum separator tubes (SST)
+        *   EDTA tubes
+        *   Heparin tubes
+    *   Follow the manufacturer's instructions for tube selection
+*   **Order of Draw**
+    *   Follow the correct order of draw to prevent cross-contamination
+    *   Consult the CLSI guidelines for the correct order of draw
+*   **Collection Technique**
+    *   Use proper venipuncture technique to minimize hemolysis
+    *   Avoid prolonged tourniquet time
+*   **Specimen Volume**
+    *   Collect sufficient volume to perform the assay and allow for repeat testing
+    *   Follow the laboratory's guidelines for minimum volume requirements
+*   **Labeling**
+    *   Label specimens immediately and accurately with patient information, date, and time of collection
+
+## **Specimen Processing** {-}
+
+*   **Centrifugation**
+    *   Centrifuge specimens promptly after collection
+    *   Follow the manufacturer's instructions for centrifugation speed and time
+*   **Separation**
+    *   Separate serum or plasma from cells within the specified time frame
+    *   Prevent hemolysis
+*   **Aliquotting**
+    *   Aliquot specimens into appropriate containers
+    *   Use clean, dry containers
+*   **Storage**
+    *   Store specimens at the appropriate temperature
+        *   Refrigeration (2-8°C): For short-term storage
+        *   Freezing (-20°C or -80°C): For long-term storage
+    *   Follow the manufacturer's instructions for storage conditions
+*   **Thawing**
+    *   Thaw specimens properly before testing
+    *   Thaw at room temperature or in a refrigerator, and mix gently
+
+## **Troubleshooting** {-}
+
+*   **High Drug Results**
+    *   Pre-analytical: Specimen collected at the wrong time, medication administration error, contamination
+    *   Analytical: Incorrect calibration, reagent deterioration, interfering substances, cross-reactivity
+*   **Low Drug Results**
+    *   Pre-analytical: Specimen collected at the wrong time, improper storage, medication error, dilution
+    *   Analytical: Incorrect calibration, reagent deterioration, interfering substances, assay drift
+*   **Inconsistent Results**
+    *   Pre-analytical: Patient variability, specimen handling errors, timing errors
+    *   Analytical: Assay variability, interfering substances, cross-reactivity
+*   **Quality Control Failures**
+    *   Pre-analytical: QC material improperly stored, QC material expired
+    *   Analytical: Incorrect calibration, reagent deterioration, instrument malfunction
+    *   Action: Investigate the cause of the failure and take corrective action
+
+## **Interfering Substances** {-}
+
+*   **Hemolysis**
+    *   Interference: Releases intracellular components that can interfere with immunoassays
+    *   Mitigation: Avoid hemolysis during collection and processing
+*   **Lipemia**
+    *   Interference: Turbidity from high lipid concentrations can interfere with spectrophotometric assays
+    *   Mitigation: Use lipemia clearing techniques or consider methods less affected by turbidity
+*   **Bilirubin**
+    *   Interference: High bilirubin levels can interfere with spectrophotometric assays
+    *   Mitigation: Use methods less susceptible to bilirubin interference
+*   **Drugs**
+    *   Interference: Other drugs can directly interfere with assays or affect drug levels
+    *   Mitigation: Be aware of patient's medication list and potential drug interactions
+*   **Heterophile Antibodies**
+    *   Interference: Bind to assay antibodies, causing falsely high or low results
+    *   Mitigation: Use blocking reagents or heterophile antibody blocking tubes
+*   **Cross-Reactivity**
+    *   Interference: Assay antibodies may cross-react with structurally similar compounds
+    *   Mitigation: Use highly specific antibodies and be aware of potential cross-reactants
+*   **Matrix Effects**
+    *   Interference: Components in the sample matrix can affect the assay results
+    *   Mitigation: Use matrix-matched calibrators and quality control materials
+*   **Endogenous Substances**
+    *   Interference: Digoxin-like immunoreactive substances (DLIS) can interfere with digoxin assays
+    *   Mitigation: Use methods less susceptible to DLIS interference
+
+## **Factors Specific to Different Drug Classes** {-}
+
+*   **Aminoglycosides**
+    *   Renal function: Monitor serum creatinine and creatinine clearance
+    *   Interfering antibiotics: Certain penicillins can inactivate aminoglycosides in vitro
+*   **Cardioactive Drugs**
+    *   Electrolyte levels: Monitor potassium, magnesium, and calcium
+    *   Cardiac function: Assess ECG for arrhythmias
+    *   Digoxin-like immunoreactive substances (DLIS): Especially in neonates and patients with renal failure
+*   **Anticonvulsants**
+    *   Protein binding: Monitor free drug levels in patients with altered protein binding
+    *   Drug interactions: Phenobarbital is a CYP enzyme inducer
+*   **Antidepressants**
+    *   CYP2D6 genotype: Consider genetic testing to predict drug metabolism
+    *   Drug interactions: Many antidepressants are CYP enzyme inhibitors
+*   **Immunosuppressants**
+    *   Hematocrit levels: Use whole blood specimens and correct for hematocrit
+    *   Calcineurin inhibitors: Monitor renal function and blood pressure
+    *   Drug interactions: Many drugs can affect CYP3A4-mediated metabolism
+
+## **Key Terms** {-}
+
+*   **Pre-Analytical:** Processes before sample analysis
+*   **Analytical:** Processes during sample analysis
+*   **Post-Analytical:** Processes after sample analysis
+*   **Interfering Substance:** Affects test accuracy
+*   **Calibration:** Adjusting an instrument for accurate readings
+*   **Quality Control:** Measures to ensure test accuracy and precision
+*   **Homogenous assay:** Assay where the antigen/antibody reaction is measured without a separation step
+*   **Heterogenous assay:** Assay where the antigen/antibody reaction is measured with a separation step
+*   **Hemolysis:** Breakdown of red blood cells
+*   **Lipemia:** Excess lipids in the blood

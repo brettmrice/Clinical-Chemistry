@@ -1,0 +1,151 @@
+# Metabolism, Excretion {-}
+
+Understanding drug metabolism and excretion processes is critical in therapeutic drug monitoring (TDM)
+
+## **Drug Metabolism** {-}
+
+*   **Definition:** The process by which the body chemically alters a drug, often to facilitate its elimination
+*   **Primary Site of Metabolism:** Liver
+*   **Other Sites:** Kidneys, intestines, lungs, and plasma
+*   **Purpose of Metabolism**
+    *   Convert lipid-soluble drugs into more water-soluble metabolites, facilitating their excretion in the urine
+    *   Inactivate drugs to terminate their pharmacological effects
+    *   Activate prodrugs into active metabolites
+*   **Phases of Metabolism**
+    *   Phase I Reactions: Introduce or expose a functional group on the drug molecule through oxidation, reduction, or hydrolysis
+    *   Phase II Reactions: Conjugate a polar molecule to the drug molecule, such as glucuronic acid, sulfate, or glutathione
+
+### **Phase I Metabolism** {-}
+
+*   **Oxidation**
+    *   Addition of oxygen or removal of hydrogen atoms from the drug molecule
+    *   Enzymes involved: Cytochrome P450 (CYP) enzymes
+    *   Examples of reactions: Hydroxylation, epoxidation, N-oxidation, S-oxidation
+*   **Reduction**
+    *   Addition of hydrogen atoms or electrons to the drug molecule
+    *   Enzymes involved: Reductases
+    *   Examples of reactions: Reduction of nitro groups, azo groups, and carbonyl groups
+*   **Hydrolysis**
+    *   Addition of water to break a chemical bond
+    *   Enzymes involved: Esterases, amidases, peptidases
+    *   Examples of reactions: Hydrolysis of esters, amides, and peptides
+
+### **Phase II Metabolism** {-}
+
+*   **Glucuronidation**
+    *   Addition of glucuronic acid to the drug molecule
+    *   Enzymes involved: UDP-glucuronosyltransferases (UGTs)
+    *   Results in highly water-soluble metabolites that are easily excreted in the urine
+*   **Sulfation**
+    *   Addition of a sulfate group to the drug molecule
+    *   Enzymes involved: Sulfotransferases (SULTs)
+    *   Results in water-soluble metabolites that are easily excreted in the urine
+*   **Acetylation**
+    *   Addition of an acetyl group to the drug molecule
+    *   Enzymes involved: N-acetyltransferases (NATs)
+    *   Genetic polymorphisms in NAT enzymes can affect drug metabolism
+*   **Glutathione Conjugation**
+    *   Addition of glutathione to the drug molecule
+    *   Enzymes involved: Glutathione S-transferases (GSTs)
+    *   Important for detoxifying reactive metabolites
+*   **Methylation**
+    *   Addition of a methyl group to the drug molecule
+    *   Enzymes involved: Methyltransferases
+    *   Can either activate or inactivate drugs
+
+### **Cytochrome P450 (CYP) Enzymes** {-}
+
+*   **Definition:** A superfamily of heme-containing monooxygenases that catalyze the oxidation of many drugs and endogenous compounds
+*   **Location:** Primarily in the liver, but also present in other tissues
+*   **Importance in Drug Metabolism:** Responsible for the metabolism of approximately 75% of clinically used drugs
+*   **Key CYP Enzymes**
+    *   CYP3A4: Metabolizes the largest number of drugs
+    *   CYP2D6: Metabolizes many psychiatric and cardiovascular drugs
+    *   CYP2C9: Metabolizes nonsteroidal anti-inflammatory drugs (NSAIDs) and warfarin
+    *   CYP2C19: Metabolizes proton pump inhibitors (PPIs) and clopidogrel
+    *   CYP1A2: Metabolizes caffeine and theophylline
+
+### **Factors Affecting Drug Metabolism** {-}
+
+*   **Genetic Factors**
+    *   Genetic polymorphisms in drug-metabolizing enzymes can affect drug metabolism
+    *   Individuals can be classified as poor metabolizers, intermediate metabolizers, extensive metabolizers, or ultra-rapid metabolizers
+*   **Age**
+    *   Infants have immature metabolic enzyme systems
+    *   Elderly individuals may have decreased liver function and reduced enzyme activity
+*   **Disease States**
+    *   Liver disease: Reduces metabolic enzyme activity
+    *   Kidney disease: Affects drug clearance and can lead to drug accumulation
+    *   Heart failure: Reduces blood flow to the liver and kidneys, impairing drug metabolism and excretion
+*   **Drug Interactions**
+    *   Enzyme Inducers: Increase the activity of metabolizing enzymes, leading to decreased drug levels
+    *   Enzyme Inhibitors: Decrease the activity of metabolizing enzymes, leading to increased drug levels
+*   **Diet and Environmental Factors**
+    *   Grapefruit juice: Inhibits CYP3A4
+    *   Smoking: Induces CYP1A2
+    *   Alcohol: Can induce or inhibit certain enzymes
+*   **Gender**
+    *   Differences in hormone levels and body composition can affect drug metabolism
+
+## **Drug Excretion** {-}
+
+*   **Definition:** The process by which the body eliminates a drug or its metabolites
+*   **Primary Routes of Excretion**
+    *   Kidneys: Most drugs are excreted in the urine
+    *   Liver: Some drugs are excreted in the bile and eliminated in the feces
+*   **Other Routes:** Lungs, sweat, saliva, breast milk
+*   **Renal Excretion**
+    *   Glomerular Filtration: Drugs and small molecules are filtered from the blood into the renal tubules
+        *   Only unbound (free) drug can be filtered
+    *   Tubular Secretion: Active transport of drugs from the blood into the renal tubules
+        *   Can be affected by drug interactions
+    *   Tubular Reabsorption: Passive or active transport of drugs from the renal tubules back into the blood
+        *   Lipid-soluble drugs are more readily reabsorbed
+        *   Urine pH can affect the reabsorption of weak acids and bases
+*   **Biliary Excretion**
+    *   Drugs and metabolites are transported from the liver into the bile
+    *   Bile is secreted into the small intestine and eliminated in the feces
+    *   Some drugs undergo enterohepatic circulation, where they are reabsorbed from the intestine back into the blood
+*   **Clearance (CL)**
+    *   A measure of the body's efficiency in eliminating a drug from the body
+    *   Total Clearance: Sum of all clearance pathways (renal, hepatic, and other)
+    *   Renal Clearance: The volume of plasma from which a drug is completely removed by the kidneys per unit of time
+    *   Hepatic Clearance: The volume of plasma from which a drug is completely removed by the liver per unit of time
+*   **Factors Affecting Excretion**
+    *   Renal Function: Glomerular filtration rate (GFR), tubular secretion, and tubular reabsorption affect renal drug excretion
+    *   Liver Function: Bile flow and hepatic metabolism affect biliary drug excretion
+    *   Drug Properties: Molecular size, ionization, and protein binding affect excretion
+    *   Drug Interactions: Some drugs can affect the excretion of other drugs
+
+## **Clinical Significance** {-}
+
+*   **Drug-Drug Interactions (DDIs)**
+    *   Knowledge of metabolic pathways and drug excretion mechanisms is crucial for predicting and managing DDIs
+    *   Enzyme inducers and inhibitors can significantly alter drug levels, leading to therapeutic failure or toxicity
+*   **Pharmacogenomics**
+    *   Genetic testing can identify individuals with variations in drug-metabolizing enzymes
+    *   Personalized dosing recommendations can be made based on an individual's genotype
+*   **Dosage Adjustments in Patients with Renal or Hepatic Impairment**
+    *   Patients with impaired renal or hepatic function may require lower doses or less frequent dosing to avoid drug accumulation and toxicity
+*   **Therapeutic Drug Monitoring (TDM)**
+    *   TDM is used to optimize drug therapy by monitoring drug concentrations and adjusting doses based on individual patient factors
+    *   TDM can help ensure that drug levels are within the therapeutic range and minimize the risk of toxicity
+
+## **Key Terms** {-}
+
+*   **Drug Metabolism:** The process by which the body chemically alters a drug
+*   **Enzyme Induction:** Increased activity of drug-metabolizing enzymes
+*   **Enzyme Inhibition:** Decreased activity of drug-metabolizing enzymes
+*   **Cytochrome P450 (CYP) Enzymes:** A superfamily of heme-containing monooxygenases
+*   **Prodrug:** An inactive drug that is metabolized to an active metabolite
+*   **Drug Excretion:** The process by which the body eliminates a drug or its metabolites
+*   **Glomerular Filtration:** The process by which drugs and small molecules are filtered from the blood into the renal tubules
+*   **Tubular Secretion:** The active transport of drugs from the blood into the renal tubules
+*   **Tubular Reabsorption:** The transport of drugs from the renal tubules back into the blood
+*   **Biliary Excretion:** The excretion of drugs and metabolites from the liver into the bile
+*   **Enterohepatic Circulation:** The reabsorption of drugs from the intestine back into the blood
+*   **Clearance (CL):** A measure of the body's efficiency in eliminating a drug from the body
+*   **Drug-Drug Interactions (DDIs):** The interactions between two or more drugs that can affect their absorption, distribution, metabolism, or excretion
+*   **Pharmacogenomics:** The study of how genes affect a person's response to drugs
+*   **Therapeutic Drug Monitoring (TDM):** Measurement of drug concentrations to optimize therapy
+*   **Genetic Polymorphism:** Variation in the DNA sequence among individuals

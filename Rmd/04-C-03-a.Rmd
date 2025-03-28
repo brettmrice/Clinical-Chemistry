@@ -1,0 +1,156 @@
+# Principles {-}
+
+Understanding the analytical principles behind immunoassays and chromatography is essential for accurate and reliable therapeutic drug monitoring (TDM)
+
+## **Immunoassays in TDM** {-}
+
+*   **Principle:** Immunoassays rely on the specific binding of an antibody to its target antigen (the drug being measured)
+*   **Types of Immunoassays**
+    *   **Competitive Immunoassay:** Unlabeled drug in the sample competes with labeled drug for binding to a limited number of antibodies
+    *   **Non-Competitive Immunoassay:** Antibodies are in excess, and the amount of antibody-drug complex formed is directly proportional to the drug concentration
+    *   **Homogeneous Immunoassay:** Antibody-antigen binding directly alters the signal without the need for separation steps
+    *   **Heterogeneous Immunoassay:** Requires separation of bound and unbound antibody-antigen complexes before signal detection
+*   **Components**
+    *   **Antibody:** A protein produced by the immune system that specifically binds to the target drug (antigen)
+    *   **Antigen (Drug):** The drug being measured in the sample
+    *   **Label:** A molecule attached to the antibody or antigen to allow for detection
+    *   **Detection System:** Measures the amount of label bound to the antibody-antigen complex
+*   **Common Immunoassay Formats in TDM**
+    *   **Enzyme-Multiplied Immunoassay Technique (EMIT):** A homogeneous competitive immunoassay
+    *   **Fluorescence Polarization Immunoassay (FPIA):** A homogeneous competitive immunoassay that measures changes in polarized light
+    *   **Chemiluminescent Microparticle Immunoassay (CMIA):** A heterogeneous non-competitive immunoassay using chemiluminescent labels
+*   **Applications in TDM**
+    *   Measurement of a wide range of drugs, including antibiotics, anticonvulsants, cardioactive drugs, immunosuppressants, and antidepressants
+
+### **Enzyme-Multiplied Immunoassay Technique (EMIT)** {-}
+
+*   **Principle:** A homogeneous competitive immunoassay that uses an enzyme label
+*   **Procedure**
+    1.  Antibody and Enzyme-Labeled Drug: A fixed amount of antibody specific to the drug and a fixed amount of drug labeled with an active enzyme are mixed with the patient sample
+    2.  Competition: If the drug is present in the patient sample, it competes with the enzyme-labeled drug for binding to the antibody
+    3.  Enzyme Activity: The amount of enzyme-labeled drug that binds to the antibody is inversely proportional to the concentration of the drug in the patient sample. The enzyme activity is measured by adding a substrate that is converted to a detectable product
+*   **Advantages:** Rapid, simple, automated, and cost-effective
+*   **Limitations:** Less sensitive and specific compared to chromatographic methods; susceptible to interferences
+
+### **Fluorescence Polarization Immunoassay (FPIA)** {-}
+
+*   **Principle:** A homogeneous competitive immunoassay that measures changes in polarized light
+*   **Procedure**
+    1.  Antibody and Fluorescently-Labeled Drug: A fixed amount of antibody specific to the drug and a fixed amount of drug labeled with a fluorophore are mixed with the patient sample
+    2.  Polarization: When the labeled drug is free in solution, it rotates rapidly, resulting in low polarization of the emitted light. When the labeled drug binds to the antibody, the resulting complex rotates more slowly, resulting in increased polarization of the emitted light
+    3.  Polarization Measurement: The degree of polarization is inversely proportional to the concentration of the drug in the patient sample
+*   **Advantages:** Automated, relatively high throughput, and less susceptible to interferences compared to EMIT
+*   **Limitations:** Lower sensitivity and specificity compared to chromatographic methods
+
+### **Chemiluminescent Microparticle Immunoassay (CMIA)** {-}
+
+*   **Principle:** A heterogeneous non-competitive immunoassay using chemiluminescent labels
+*   **Procedure**
+    1.  Antibody-Coated Microparticles: The patient sample is incubated with antibody-coated microparticles that capture the drug
+    2.  Washing: Unbound substances are washed away
+    3.  Chemiluminescent-Labeled Antibody: A chemiluminescent-labeled antibody specific to the drug is added, which binds to the drug captured by the microparticles
+    4.  Chemiluminescent Reaction: A chemiluminescent substrate is added, and the emitted light is measured
+*   **Advantages:** High sensitivity and specificity, automated, and relatively high throughput
+*   **Limitations:** More complex than homogeneous immunoassays and requires separation steps
+
+## **Chromatography in TDM** {-}
+
+*   **Principle:** Chromatography is a separation technique used to separate and quantify individual compounds in a complex mixture based on their physical and chemical properties
+*   **Types of Chromatography**
+    *   **High-Performance Liquid Chromatography (HPLC):** Uses a liquid mobile phase and a solid stationary phase to separate compounds
+    *   **Gas Chromatography (GC):** Uses a gaseous mobile phase and a solid or liquid stationary phase to separate volatile compounds
+    *   **Liquid Chromatography-Mass Spectrometry (LC-MS):** Combines the separation capabilities of HPLC with the detection power of mass spectrometry
+    *   **Gas Chromatography-Mass Spectrometry (GC-MS):** Combines the separation capabilities of GC with the detection power of mass spectrometry
+*   **Components**
+    *   **Mobile Phase:** A liquid or gas that carries the sample through the chromatography system
+    *   **Stationary Phase:** A solid or liquid material that interacts with the sample components, causing them to separate
+    *   **Column:** Contains the stationary phase
+    *   **Detector:** Detects the separated compounds as they elute from the column
+*   **Detection Methods**
+    *   **UV-Vis Detection:** Measures the absorbance of compounds at specific wavelengths
+    *   **Fluorescence Detection:** Measures the fluorescence of compounds after excitation with light
+    *   **Electrochemical Detection:** Measures the oxidation or reduction of compounds
+    *   **Mass Spectrometry (MS):** Measures the mass-to-charge ratio of compounds
+*   **Applications in TDM**
+    *   Measurement of drugs that are not easily measured by immunoassays
+    *   Separation and quantification of multiple drugs or metabolites in a single sample
+    *   Confirmation of immunoassay results
+    *   Detection of drug metabolites
+    *   Accurate measurement of Free Drug (HPLC-UF)
+
+### **High-Performance Liquid Chromatography (HPLC)** {-}
+
+*   **Principle:** Separates compounds based on their interactions with a liquid mobile phase and a solid stationary phase under high pressure
+*   **Procedure**
+    1.  Sample Preparation: Extract the drug from the sample and dissolve it in a suitable solvent
+    2.  Injection: Inject the sample into the HPLC system
+    3.  Separation: The sample components are separated based on their interactions with the mobile and stationary phases
+    4.  Detection: The separated compounds are detected using a UV-Vis detector, fluorescence detector, or electrochemical detector
+    5.  Quantification: The peak areas or heights are compared to a standard curve to determine the drug concentrations
+*   **Advantages:** Versatile, can separate a wide range of compounds, and high resolution
+*   **Limitations:** Requires skilled operators, expensive instrumentation, and can be time-consuming
+
+### **Liquid Chromatography-Mass Spectrometry (LC-MS)** {-}
+
+*   **Principle:** Combines the separation capabilities of liquid chromatography with the detection power of mass spectrometry
+*   **Procedure**
+    1.  Sample Preparation: Extract the drug from the sample and dissolve it in a suitable solvent
+    2.  Chromatographic Separation: Inject the sample into the liquid chromatography system and separate the compounds based on their interactions with the mobile and stationary phases
+    3.  Mass Spectrometry Detection: The separated compounds are ionized and passed through a mass spectrometer, which measures their mass-to-charge ratio
+    4.  Quantification: The peak areas are compared to a standard curve to determine the drug concentrations
+*   **Advantages:** High sensitivity, specificity, and throughput; can quantify multiple compounds simultaneously
+*   **Limitations:** Requires highly skilled operators and expensive instrumentation
+
+### **Gas Chromatography (GC)** {-}
+
+*   **Principle:** Separates volatile compounds based on their boiling points
+*   **Sample Requirement:** must be volatile or be able to be derivatized to be volatile
+*   **Procedure**
+    1.  Sample Preparation: Extract the drug from the sample and dissolve it in a suitable solvent
+    2.  Injection: Inject the sample into the GC system
+    3.  Separation: The sample components are vaporized and separated based on their boiling points
+    4.  Detection: The separated compounds are detected using a flame ionization detector (FID) or mass spectrometer
+    5.  Quantification: The peak areas are compared to a standard curve to determine the drug concentrations
+*   **Advantages:** High resolution and sensitivity for volatile compounds
+*   **Limitations:** Limited to volatile compounds; requires derivatization for non-volatile compounds
+
+## **Comparison of Immunoassays and Chromatography** {-}
+
+| Characteristic | Immunoassay | Chromatography |
+| :------------- | :---------- | :------------- |
+| Principle | Antibody-antigen binding | Separation based on physical and chemical properties |
+| Sensitivity | High | High |
+| Specificity | Can be limited due to cross-reactivity | High |
+| Throughput | High | Can be lower |
+| Automation | Highly automated | Can be automated but requires skilled operators |
+| Cost | Relatively inexpensive | More expensive |
+| Sample Preparation | Minimal | More extensive |
+| Interferences | Susceptible to heterophile antibodies and matrix effects | Less susceptible to matrix effects |
+| Applications | Routine TDM | Confirmation, complex samples, metabolite detection |
+
+## **Key Terms** {-}
+
+*   **Immunoassay:** An assay based on the specific binding of antibodies to antigens
+*   **Chromatography:** A separation technique used to separate and quantify individual compounds in a complex mixture
+*   **Antibody:** A protein produced by the immune system that specifically binds to an antigen
+*   **Antigen:** A molecule that binds to an antibody
+*   **Competitive Immunoassay:** An immunoassay in which unlabeled antigen competes with labeled antigen for antibody binding
+*   **Non-Competitive Immunoassay:** An immunoassay in which labeled antibody binds to antigen
+*   **Homogeneous Immunoassay:** An immunoassay in which the signal is directly altered by antibody-antigen binding
+*   **Heterogeneous Immunoassay:** An immunoassay that requires separation of bound and unbound complexes before signal detection
+*   **Label:** A molecule attached to an antibody or antigen to allow for detection
+*   **HPLC:** High-performance liquid chromatography
+*   **GC:** Gas chromatography
+*   **LC-MS:** Liquid chromatography-mass spectrometry
+*   **GC-MS:** Gas chromatography-mass spectrometry
+*   **Mobile Phase:** The liquid or gas that carries the sample through the chromatography system
+*   **Stationary Phase:** The solid or liquid material that interacts with the sample components
+*   **Retention Time:** The time it takes for a compound to elute from the chromatography column
+*   **Elute:** To remove by washing with a solvent
+*   **Detector:** A device that detects the separated compounds as they elute from the chromatography column
+*   **Sensitivity:** The ability of an assay to detect small amounts of a substance
+*   **Specificity:** The ability of an assay to measure only the substance of interest
+*   **Throughput:** The number of samples that can be analyzed in a given period
+*   **Matrix Effects:** The effect of the sample matrix on the analytical measurement
+*   **Accuracy:** The closeness of a measurement to the true value
+*   **Precision:** The reproducibility of a measurement

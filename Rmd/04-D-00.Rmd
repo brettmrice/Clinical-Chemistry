@@ -1,0 +1,56 @@
+# Toxicology {-}
+
+This section covers the key components of toxicology
+
+## **Biochemical Theory and Pathways** {-}
+
+*   **Toxicokinetics:** How the body handles toxins (ADME processes)
+    *   Absorption: Entry into the body
+    *   Distribution: Transport to tissues
+    *   Metabolism: Chemical alteration (detoxification or bioactivation)
+    *   Excretion: Elimination from the body
+*   **Mechanisms of Toxicity**
+    *   Cellular damage, enzyme inhibition, oxidative stress, etc
+*   **Target Organs**
+    *   Specific organs are more vulnerable to certain toxins
+    *   Liver, kidneys, brain, lungs, heart
+*   **Dose-Response Relationship**
+    *   Higher doses generally cause more severe effects
+
+## **Laboratory Test Procedures** {-}
+
+*   **Analytical Principles**
+    *   Immunoassays: Antibody-antigen binding for screening
+    *   Chromatography: Separates compounds
+    *   Mass Spectrometry: Identifies compounds by mass
+    *   Atomic Absorption Spectrometry: Measures light absorption by atoms
+*   **Common Assays**
+    *   Drugs of abuse screens
+    *   Alcohol levels
+    *   Heavy metal analysis
+    *   Specific drug assays
+*   **Special Precautions**
+    *   Chain of custody, proper storage, quality control
+
+## **Test Result Interpretation** {-}
+
+*   **Quantitative vs. Qualitative Results**
+    *   Qualitative: Positive/negative
+    *   Quantitative: Numerical concentration
+*   **Cutoff Values**
+    *   Threshold for positive results
+*   **Reference Intervals**
+    *   Limited in toxicology (therapeutic ranges for some drugs)
+*   **Analytical Considerations**
+    *   Cross-reactivity, interfering substances
+*   **Clinical Correlation**
+    *   Patient history, symptoms, medications
+
+## **Disease State Correlation** {-}
+
+*   **Liver Disease:** Impairs metabolism
+*   **Renal Disease:** Impairs excretion
+*   **Heart Failure:** Alters distribution
+*   **Pulmonary Disease:** Affects inhalation
+*   **Nutritional Deficiencies:** Increases susceptibility
+*   **Genetic Factors:** Influence metabolism

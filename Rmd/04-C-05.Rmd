@@ -1,0 +1,216 @@
+# Disease Correlation {-}
+
+Understanding the connections between specific disease states and alterations in drug pharmacokinetics is essential for effective therapeutic drug monitoring (TDM). Different diseases can significantly impact drug absorption, distribution, metabolism, and excretion (ADME), thereby influencing drug concentrations and therapeutic outcomes
+
+## **General Principles of Disease State Correlation in TDM** {-}
+
+*   **Impact on ADME Processes:** Disease states can alter drug absorption, distribution, metabolism, and excretion, leading to changes in drug concentrations and therapeutic response
+*   **Individual Variability:** Disease states can introduce significant variability in drug pharmacokinetics among patients
+*   **Dose Adjustments:** Dosage adjustments may be necessary to maintain drug concentrations within the therapeutic range in patients with certain diseases
+*   **Monitoring for Toxicity:** Patients with altered drug pharmacokinetics may be at increased risk of drug toxicity
+*   **Importance of Clinical Assessment:** TDM should always be interpreted in the context of the patient's clinical status and other laboratory data
+
+## **Renal Disease** {-}
+
+*   **Mechanism of Impact**
+    *   Reduced glomerular filtration rate (GFR)
+    *   Impaired tubular secretion
+    *   Decreased drug clearance
+    *   Increased drug half-life
+    *   Altered protein binding
+*   **Drugs Commonly Affected**
+    *   Aminoglycosides (gentamicin, tobramycin)
+    *   Vancomycin
+    *   Lithium
+    *   Methotrexate
+    *   Digoxin
+*   **TDM Considerations**
+    *   Monitor renal function (serum creatinine, creatinine clearance)
+    *   Reduce drug doses and/or extend dosing intervals
+    *   Monitor drug levels more frequently
+*   **Disease Examples**
+    *   Chronic Kidney Disease (CKD)
+    *   Acute Kidney Injury (AKI)
+    *   Nephrotic Syndrome
+
+## **Liver Disease** {-}
+
+*   **Mechanism of Impact**
+    *   Reduced hepatic blood flow
+    *   Impaired hepatic metabolism
+    *   Decreased drug clearance
+    *   Increased drug half-life
+    *   Altered protein binding
+*   **Drugs Commonly Affected**
+    *   Many drugs metabolized by CYP enzymes (e.g., phenytoin, warfarin, theophylline, cyclosporine, tacrolimus)
+*   **TDM Considerations**
+    *   Monitor liver function (AST, ALT, bilirubin, albumin, INR)
+    *   Reduce drug doses and/or extend dosing intervals
+    *   Monitor drug levels more frequently
+*   **Disease Examples**
+    *   Cirrhosis
+    *   Hepatitis
+    *   Liver Failure
+
+## **Heart Failure** {-}
+
+*   **Mechanism of Impact**
+    *   Reduced cardiac output
+    *   Decreased blood flow to the kidneys and liver
+    *   Impaired drug absorption, distribution, metabolism, and excretion
+    *   Edema can increase the volume of distribution
+*   **Drugs Commonly Affected**
+    *   Digoxin
+    *   Diuretics
+    *   Antiarrhythmics
+*   **TDM Considerations**
+    *   Monitor cardiac function (ejection fraction, heart rate)
+    *   Adjust doses based on clinical response and drug levels
+    *   Be aware of potential electrolyte imbalances
+*   **Relevant Disease Examples**
+    *   Congestive Heart Failure (CHF)
+    *   Cardiomyopathy
+
+## **Gastrointestinal Disorders** {-}
+
+*   **Mechanism of Impact**
+    *   Altered gastric pH
+    *   Changes in gastrointestinal motility
+    *   Malabsorption
+    *   Changes in gut flora
+*   **Drugs Commonly Affected**
+    *   Drugs with pH-dependent absorption
+    *   Drugs that undergo enterohepatic recirculation
+    *   Drugs that are metabolized by gut bacteria
+*   **TDM Considerations**
+    *   Monitor for symptoms of malabsorption (diarrhea, weight loss)
+    *   Adjust doses based on drug levels and clinical response
+    *   Consider alternative routes of administration (e.g., intravenous)
+*   **Disease Examples**
+    *   Crohn's Disease
+    *   Ulcerative Colitis
+    *   Celiac Disease
+    *   Gastric Bypass Surgery
+
+## **Obesity** {-}
+
+*   **Mechanism of Impact**
+    *   Increased volume of distribution for lipophilic drugs
+    *   Altered drug metabolism
+    *   Changes in renal function
+*   **Drugs Commonly Affected**
+    *   Lipophilic drugs (e.g., some antidepressants, benzodiazepines)
+*   **TDM Considerations**
+    *   Use ideal body weight or adjusted body weight to calculate doses
+    *   Monitor drug levels and adjust doses accordingly
+*   **Relevant Disease Examples**
+    *   Morbid Obesity
+
+## **Pregnancy** {-}
+
+*   **Mechanism of Impact**
+    *   Increased blood volume
+    *   Increased cardiac output
+    *   Increased glomerular filtration rate
+    *   Altered drug metabolism
+    *   Changes in protein binding
+*   **Drugs Commonly Affected**
+    *   Anticonvulsants
+    *   Antibiotics
+    *   Antiretrovirals
+*   **TDM Considerations**
+    *   Monitor drug levels more frequently
+    *   Adjust doses as needed to maintain therapeutic concentrations
+    *   Be aware of potential risks to the fetus
+*   **Physiological Changes**
+    *   Increased blood volume
+    *   Increased cardiac output
+    *   Increased glomerular filtration rate
+*   **Placental Transfer**
+    *   Some drugs can cross the placenta and affect the fetus
+    *   Weigh the benefits and risks of drug therapy during pregnancy
+
+## **Hypoalbuminemia** {-}
+
+*   **Mechanism of Impact**
+    *   Decreased protein binding
+    *   Increased free drug concentration
+    *   Increased risk of toxicity
+*   **Drugs Commonly Affected**
+    *   Highly protein-bound drugs (e.g., phenytoin, warfarin, valproic acid)
+*   **TDM Considerations**
+    *   Monitor albumin levels
+    *   Measure free drug concentrations, if available
+    *   Adjust doses based on free drug levels and clinical response
+*   **Relevant Disease Examples**
+    *   Nephrotic Syndrome
+    *   Liver Disease
+    *   Malnutrition
+
+## **Cystic Fibrosis** {-}
+
+*   **Mechanism of Impact**
+    *   Increased drug clearance
+    *   Altered volume of distribution
+    *   Malabsorption
+*   **Drugs Commonly Affected**
+    *   Aminoglycosides
+    *   Beta-lactam antibiotics
+*   **TDM Considerations**
+    *   Higher doses may be required to achieve therapeutic concentrations
+    *   Monitor drug levels more frequently
+
+## **Drug Interactions** {-}
+
+*   **Mechanism of Impact**
+    *   Enzyme induction
+    *   Enzyme inhibition
+    *   Altered drug transport
+    *   Displacement from protein binding
+*   **Drugs Commonly Affected**
+    *   Drugs metabolized by CYP enzymes (e.g., warfarin, phenytoin, cyclosporine, tacrolimus)
+    *   Drugs that are substrates or inhibitors of drug transporters (e.g., P-glycoprotein)
+*   **TDM Considerations**
+    *   Be aware of potential drug interactions
+    *   Monitor drug levels when starting or stopping interacting medications
+    *   Adjust doses as needed
+
+## **Genetics** {-}
+
+*   **Mechanism of Impact**
+    *   Genetic polymorphisms in drug-metabolizing enzymes and drug transporters
+    *   Altered drug metabolism and response
+*   **Drugs Commonly Affected**
+    *   Drugs metabolized by CYP2C9, CYP2C19, CYP2D6, and other polymorphic enzymes
+*   **TDM Considerations**
+    *   Consider pharmacogenetic testing to personalize drug therapy
+    *   Adjust doses based on genotype
+
+## **Summary Table of Disease State Correlation** {-}
+
+| Disease State | Common Impact on Pharmacokinetics | Drugs Commonly Affected | TDM Considerations |
+| :------------ | :------------------------------ | :----------------------- | :------------------ |
+| Renal Disease | Decreased clearance, increased half-life | Aminoglycosides, Lithium | Monitor renal function, reduce dose |
+| Liver Disease | Decreased metabolism, altered protein binding | Phenytoin, Warfarin, Cyclosporine | Monitor liver function, adjust dose |
+| Heart Failure | Decreased blood flow, increased Vd | Digoxin, Antiarrhythmics | Monitor cardiac function, adjust dose |
+| GI Disorders | Malabsorption, altered motility | Drugs with pH-dependent absorption | Consider alternative routes of administration |
+| Obesity | Increased Vd | Lipophilic drugs | Use ideal/adjusted body weight |
+| Pregnancy | Increased clearance, increased Vd | Anticonvulsants | Monitor drug levels frequently |
+| Hypoalbuminemia | Increased free drug concentration | Highly protein-bound drugs | Measure free drug levels |
+| Cystic Fibrosis | Increased clearance | Aminoglycosides, Beta-lactams | Higher doses may be needed |
+| Drug Interactions | Altered metabolism, transport, protein binding | Many drugs (Warfarin, Cyclosporine) | Be aware of interactions and adjust dose |
+| Genetics | Polymorphisms in drug-metabolizing enzymes | Drugs metabolized by CYP enzymes | Consider pharmacogenetic testing |
+
+## **Key Terms** {-}
+
+*   **Pharmacokinetics:** The study of how the body affects a drug (ADME)
+*   **Therapeutic Drug Monitoring (TDM):** Measurement of drug concentrations to optimize therapy
+*   **Disease State:** A specific medical condition or disorder
+*   **Drug Interaction:** The interaction between two or more drugs that can affect their ADME
+*   **Renal Clearance:** The rate at which a drug is removed from the body by the kidneys
+*   **Hepatic Metabolism:** The process by which the liver chemically alters a drug
+*   **Volume of Distribution (Vd):** Apparent space in the body available to contain the drug
+*   **Protein Binding:** The degree to which a drug binds to plasma proteins
+*   **Genetic Polymorphism:** Variation in the DNA sequence among individuals
+*   **Cytochrome P450 (CYP) Enzymes:** A superfamily of heme-containing monooxygenases
+*   **Malabsorption:** Impaired absorption of nutrients from the gastrointestinal tract

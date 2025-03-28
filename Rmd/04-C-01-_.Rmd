@@ -1,0 +1,67 @@
+# Pharmacokinetics {-}
+
+This section presents the key aspects of pharmacokinetics in TDM, including therapeutic and toxic states, and the processes of metabolism and excretion
+
+## **Pharmacokinetics in Therapeutic Drug Monitoring (TDM)** {-}
+
+*   **Definition:** The study of how the body affects a drug after administration, including absorption, distribution, metabolism, and excretion (ADME)
+*   **Importance in TDM:** Understanding pharmacokinetics is essential for optimizing drug therapy by maintaining drug concentrations within a specific therapeutic range
+
+## **Therapeutic States** {-}
+
+*   **Therapeutic Range:** The range of drug concentrations associated with a high probability of desired therapeutic effect and a low probability of adverse effects
+*   **Subtherapeutic State**
+    *   Definition: Drug concentration is below the therapeutic range, resulting in inadequate therapeutic effect
+    *   Causes: Inadequate dose, poor adherence, drug interactions, rapid metabolism, increased clearance, malabsorption
+    *   Management: Increase the dose, improve adherence, adjust dosing interval, avoid/manage drug interactions, use an alternative drug
+*   **Therapeutic State**
+    *   Definition: Drug concentration is within the therapeutic range, achieving the desired therapeutic effect with minimal adverse effects
+    *   Goal of TDM: To maintain drug concentrations within the therapeutic range
+    *   Management: Monitor drug concentrations regularly, adjust dose as needed, monitor for adverse effects, educate the patient
+*   **Toxic State**
+    *   Definition: Drug concentration is above the therapeutic range, increasing the risk of adverse effects
+    *   Causes: Excessive dose, decreased clearance, drug interactions, overdose
+    *   Consequences: Adverse effects, organ damage, life-threatening conditions
+    *   Management: Reduce dose, discontinue drug, administer antidote, provide supportive care
+*   **Supratherapeutic State**
+    *   Definition: Drug concentration is above the therapeutic range but may be intentional in certain situations
+    *   Management: Monitor patients closely for adverse effects and adjust the dose accordingly
+
+## **Toxic States** {-}
+
+*   **Causes of Toxic States**
+    *   Excessive dosage
+    *   Impaired Elimination: Renal or hepatic impairment
+    *   Drug Interactions: Enzyme inhibition or induction
+    *   Patient-Specific Factors: Age, genetics, disease states
+*   **Commonly Monitored Drugs and Toxic Effects**
+    *   Digoxin, Lithium, Theophylline, Aminoglycosides, Vancomycin, Phenytoin, Valproic Acid, Methotrexate, Cyclosporine/Tacrolimus, Tricyclic Antidepressants, Salicylates, Acetaminophen
+*   **Symptoms and Clinical Presentation**
+    *   Gastrointestinal, Neurological, Cardiovascular, Renal, Hepatic, Hematological, Dermatological
+*   **Laboratory Tests for Monitoring Toxicity**
+    *   Therapeutic Drug Monitoring (TDM), Renal Function Tests, Hepatic Function Tests, Electrolyte Monitoring, Cardiac Monitoring, Hematological Tests
+*   **Management**
+    *   Discontinue the drug, provide supportive care, consider decontamination, enhance elimination, administer antidotes
+*   **Prevention**
+    *   Appropriate Prescribing, Patient Education, Therapeutic Drug Monitoring, Medication Reconciliation, Electronic Prescribing, Pharmacist Involvement
+
+## **Metabolism and Excretion** {-}
+
+*   **Drug Metabolism**
+    *   Definition: The process by which the body chemically alters a drug
+    *   Primary Site: Liver
+    *   Purpose: Convert drugs to more water-soluble forms for elimination, inactivate drugs, or activate prodrugs
+    *   Phases of Metabolism: Phase I (oxidation, reduction, hydrolysis), Phase II (conjugation)
+    *   Cytochrome P450 (CYP) Enzymes: Key enzymes involved in drug metabolism
+    *   Factors Affecting Drug Metabolism: Genetic factors, age, disease states, drug interactions, diet
+*   **Drug Excretion**
+    *   Definition: The process by which the body eliminates a drug or its metabolites
+    *   Primary Routes: Kidneys (urine), Liver (bile)
+    *   Renal Excretion: Glomerular filtration, tubular secretion, tubular reabsorption
+    *   Biliary Excretion: Excretion into the bile and eliminated in the feces
+    *   Clearance (CL): Measure of the body's efficiency in eliminating a drug
+*   **Clinical Significance**
+    *   Drug-Drug Interactions (DDIs): Knowledge of metabolic pathways is crucial
+    *   Pharmacogenomics: Genetic testing for personalized dosing
+    *   Dosage Adjustments: Adjustments in patients with renal/hepatic impairment
+    *   Therapeutic Drug Monitoring (TDM): Monitoring to optimize drug therapy

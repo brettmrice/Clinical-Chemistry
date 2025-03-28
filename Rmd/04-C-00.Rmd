@@ -1,0 +1,78 @@
+# Therapeutic Drug Monitoring {-}
+
+This section provides a comprehensive overview of TDM
+
+## **Pharmacokinetics (PK)** {-}
+
+*   **Definition:** The study of how the body affects a drug after administration (ADME)
+*   **ADME Processes**
+    *   Absorption: Entry of drug into the bloodstream
+    *   Distribution: Transport of drug to tissues
+    *   Metabolism: Chemical alteration of drug
+    *   Excretion: Elimination of drug and metabolites
+*   **Key PK Parameters**
+    *   Bioavailability: Fraction of drug reaching systemic circulation
+    *   Volume of Distribution (Vd): Apparent space in the body available to contain the drug
+    *   Clearance (CL): Rate of drug removal from the body
+    *   Half-Life (t1/2): Time for drug concentration to decrease by half
+*   **Therapeutic Range**
+    *   The range of drug concentrations associated with optimal therapeutic effect and minimal toxicity
+*   **Therapeutic States**
+    *   Subtherapeutic: Below therapeutic range
+    *   Therapeutic: Within therapeutic range
+    *   Toxic: Above therapeutic range
+    *   Supratherapeutic: Above therapeutic range
+
+## **Chemical and Physical Properties** {-}
+
+*   **Importance:** Properties influence ADME, mechanism of action, and analytical methods
+*   **Key Properties**
+    *   Solubility: Affects absorption and excretion
+    *   Ionization: Influences absorption, distribution, and renal excretion
+    *   Protein Binding: Affects distribution and free drug concentration
+    *   Partition Coefficient (Log P): Affects membrane permeability
+*   **Drug Classes and Properties**
+    *   Aminoglycosides: Water-soluble, polycationic
+    *   Cardioactive Drugs: Variable properties
+    *   Anticonvulsants: Lipid-soluble
+    *   Antidepressants: Variable properties
+    *   Immunosuppressants: Lipid-soluble, highly protein-bound
+
+## **Laboratory Test Procedures** {-}
+
+*   **Analytical Principles**
+    *   Immunoassays: Antibody-antigen binding
+    *   Chromatography: Separates compounds
+    *   Mass Spectrometry: Measures mass-to-charge ratio
+*   **Specimen Collection and Handling**
+    *   Timing of Dose: Trough, peak
+    *   Collection Tubes: Correct type to minimize interference
+    *   Processing: Centrifugation, separation, storage
+*   **Quality Control**
+    *   Use QC samples to validate accuracy
+    *   Calibrate instruments routinely
+
+## **Test Result Interpretation** {-}
+
+*   **Reference Intervals**
+    *   Use appropriate reference ranges
+*   **Clinical Context**
+    *   Patient history, symptoms, medication list
+*   **Influence of Other Variables**
+    *   Drug-drug interactions
+    *   Age, Weight, etc
+*   **Common Findings**
+    *   Drug level results below, above, or within the therapeutic range
+*   **Limitations**
+    *   Consider test specificity
+
+## **Disease State Correlation** {-}
+
+*   **Renal Disease:** Affects excretion
+*   **Liver Disease:** Affects metabolism
+*   **Heart Failure:** Affects distribution
+*   **Gastrointestinal Disorders:** Affects absorption
+*   **Obesity:** Alters distribution
+*   **Pregnancy:** Alters all ADME phases
+*   **Other Correlations**
+    *   Other diseases or conditions that may alter the distribution, metabolization, and excretion

@@ -1,0 +1,85 @@
+# Properties {-}
+
+This section outlines the chemical and physical properties of key drug classes monitored in TDM
+
+## **General Overview of Chemical and Physical Properties in TDM** {-}
+
+*   **Importance:** Understanding the chemical and physical properties of drugs is critical for comprehending their ADME processes, mechanism of action, analytical methods, and TDM
+*   **Properties Influencing ADME**
+    *   Solubility: Affects absorption and excretion
+    *   Ionization: Impacts absorption, distribution, and renal excretion
+    *   Protein Binding: Influences distribution and free drug concentration
+    *   Partition Coefficient (Log P): Affects membrane permeability and distribution
+
+## **Drug Classes and Properties** {-}
+
+### **Aminoglycosides (e.g., Gentamicin)** {-}
+
+*   **Definition:** Antibiotics used to treat bacterial infections
+*   **Chemical Structure:** Amino-modified glycosides (sugars)
+*   **Molecular Weight:** 400-600 Da
+*   **Solubility:** Highly water-soluble due to multiple polar amino and hydroxyl groups
+*   **Ionization:** Polycationic at physiological pH
+*   **Protein Binding:** Low protein binding (< 30%)
+*   **Pharmacokinetic Implications:** Poor oral absorption, limited distribution, renal excretion
+*   **Analytical Methods:** Immunoassays, chromatography, mass spectrometry
+
+### **Cardioactive Drugs (e.g., Digoxin)** {-}
+
+*   **Definition:** Used to treat heart failure and arrhythmias
+*   **Chemical Structure:** Steroid nucleus linked to a lactone ring and sugar molecules
+*   **Molecular Weight:** Approximately 780 g/mol
+*   **Solubility:** Slightly soluble in water
+*   **Ionization:** Variable, depends on functional groups
+*   **Protein Binding:** Moderate protein binding (20-30%)
+*   **Pharmacokinetic Implications:** Oral bioavailability varies, distributes widely, renal excretion
+*   **Analytical Methods:** Immunoassays, chromatography
+
+### **Anticonvulsants (e.g., Phenobarbital)** {-}
+
+*   **Definition:** Used to prevent or control seizures
+*   **Chemical Structure:** Barbiturate
+*   **Molecular Weight:** Approximately 232 g/mol
+*   **Solubility:** Slightly soluble in water
+*   **Ionization:** Weakly acidic
+*   **Protein Binding:** Moderate protein binding (45-60%)
+*   **Pharmacokinetic Implications:** Oral bioavailability, extensive metabolism in the liver, renal excretion (pH-dependent)
+*   **Analytical Methods:** Immunoassays, chromatography
+
+### **Antidepressants (e.g., Lithium)** {-}
+
+*   **Definition:** Used to treat depression and mood disorders
+*   **Chemical Structure:** Simplest structure in the antidepressents, with only a single charge
+*   **Molecular Weight:** Approximately 7 g/mol
+*   **Solubility:** Lithium salts soluble in water
+*   **Ionization:** Exists as a monovalent cation ($Li^+$) in solution
+*   **Protein Binding:** Negligible protein binding
+*   **Pharmacokinetic Implications:** Rapid and complete oral absorption, distributes throughout total body water, renal excretion
+*   **Analytical Methods:** Flame Emission Spectrophotometry (FES), Ion-Selective Electrode (ISE), Atomic Absorption Spectrometry (AAS)
+
+### **Immunosuppressants (e.g., Tacrolimus)** {-}
+
+*   **Definition:** Used to prevent organ rejection and treat autoimmune diseases
+*   **Chemical Structure:** Macrolide lactone
+*   **Molecular Weight:** Approximately 804 g/mol
+*   **Solubility:** Practically insoluble in water
+*   **Ionization:** Not applicable
+*   **Protein Binding:** Highly protein-bound (approximately 99%)
+*   **Pharmacokinetic Implications:** Low and variable oral bioavailability, extensive metabolism in the liver, biliary excretion
+*   **Analytical Methods:** Immunoassays, chromatography (LC-MS/MS)
+
+## **Summary Table of Chemical and Physical Properties** {-}
+
+| Drug Class        | Solubility | Ionization           | Protein Binding | Key Chemical Features               |
+| :---------------- | :--------- | :------------------- | :---------------- | :---------------------------------- |
+| Aminoglycosides   | Water      | Polycationic         | Low               | Amino sugars, glycosidic bonds      |
+| Cardioactive Drugs| Variable   | Variable             | Moderate          | Steroid nucleus, lactone ring, sugar |
+| Anticonvulsants   | Slightly Soluble   | Weakly Acidic         | Moderate       | Barbituric acid ring                  |
+| Antidepressants   | Water      | Monovalent Cation        | Negligible          | Single positive charge                   |
+| Immunosuppressants| Insoluble   | N/A             | High      | Macrolide lactone                |
+
+## **Clinical Significance** {-}
+
+*   These properties influence how the drug is absorbed, distributed, metabolized, and excreted (ADME)
+*   Affects the choice of analytical method
+*   Knowledge of how drug properties can change due to disease states, concomitant disease and drug interactions

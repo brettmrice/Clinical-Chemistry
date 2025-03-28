@@ -1,0 +1,139 @@
+# Analgesics {-}
+
+Analyzing analgesics hinges on understanding their chemical nature. This section gives an overview of analgesics
+
+## **General Properties of Analgesics** {-}
+
+*   **Definition:** Analgesics are medications used to relieve pain
+*   **Classification:** Analgesics can be classified into several categories based on their mechanism of action:
+    *   Opioids: Bind to opioid receptors in the central nervous system (e.g., morphine, codeine, oxycodone)
+    *   Nonsteroidal Anti-Inflammatory Drugs (NSAIDs): Inhibit cyclooxygenase (COX) enzymes (e.g., ibuprofen, naproxen, aspirin)
+    *   Acetaminophen: A centrally acting analgesic with antipyretic properties
+    *   Others: Atypical analgesics with various mechanisms of action (e.g., gabapentin, pregabalin, tramadol)
+*   **Common Properties**
+    *   Analgesic Effect: Relieve pain
+    *   Anti-Inflammatory Effect: May reduce inflammation (NSAIDs)
+    *   Antipyretic Effect: May reduce fever (acetaminophen, NSAIDs)
+
+## **Chemical Properties of Analgesics** {-}
+
+*   **Structural Diversity:** Analgesics exhibit significant structural diversity, encompassing a wide range of chemical classes
+*   **Functional Groups:** They contain various functional groups, such as hydroxyl, amino, carbonyl, and carboxyl groups, which influence their solubility, binding properties, and metabolism
+*   **Acidic or Basic Character:** Acidic (NSAIDs) or basic (opioids) properties influence their behavior in biological systems
+*   **Chirality:** Some analgesics are chiral molecules, existing as enantiomers or diastereomers with differing pharmacological activities
+*   **Chemical Stability:** Varies widely depending on the specific drug and its formulation; storage conditions can affect stability
+
+## **Physical Properties of Analgesics** {-}
+
+*   **Appearance:** Crystalline solids or powders
+*   **Solubility:** Varies depending on the specific drug and its chemical structure
+*   **Partition Coefficient (Log P):** Indicates the relative affinity of a drug for lipid and aqueous phases
+*   **Ionization:** Acidic or basic properties influence their absorption, distribution, and excretion
+*   **Protein Binding:** Binding to plasma proteins (albumin, alpha-1-acid glycoprotein)
+*   **Melting Point:** Characteristic property for identification and purity assessment
+*   **Hygroscopicity:** Some analgesics are hygroscopic, absorbing moisture from the air
+
+## **Specific Analgesic: Acetaminophen** {-}
+
+*   **Definition:** Acetaminophen (also known as paracetamol) is a widely used over-the-counter analgesic and antipyretic drug
+*   **Chemical Structure:** N-acetyl-p-aminophenol
+*   **Molecular Formula:** $C_8H_9NO_2$
+*   **Molecular Weight:** 151.16 g/mol
+*   **Appearance:** White crystalline powder
+*   **Solubility:** Slightly soluble in water (1.4 g/100 mL at 22°C), soluble in ethanol and methanol
+*   **pKa Value:** 9.5 (weakly acidic)
+*   **Partition Coefficient (Log P):** Approximately 0.46, indicating moderate polarity
+*   **Protein Binding:** Relatively low protein binding (20-50%)
+*   **Melting Point:** 169-170.5°C
+
+## **Pharmacokinetic Implications** {-}
+
+*   **Absorption**
+    *   Rapid and almost complete absorption after oral administration
+    *   Peak plasma concentrations are typically reached within 30-60 minutes
+    *   Absorption can be affected by gastric emptying rate and food intake
+*   **Distribution**
+    *   Distributes rapidly and uniformly throughout most body tissues and fluids
+    *   Crosses the blood-brain barrier
+*   **Protein Binding**
+    *   Relatively low protein binding (20-50%)
+    *   Changes in protein binding are usually not clinically significant
+*   **Metabolism**
+    *   Primarily metabolized in the liver by:
+        *   Glucuronidation (55-60%)
+        *   Sulfation (20-30%)
+        *   CYP2E1-mediated oxidation to a reactive intermediate, N-acetyl-p-benzoquinone imine (NAPQI) (5-10%)
+*   **Excretion**
+    *   Excreted primarily in the urine as glucuronide and sulfate conjugates
+    *   Small amounts are excreted unchanged
+*   **Half-Life**
+    *   Half-life is approximately 1.5-3 hours in adults with normal liver function
+
+## **Mechanism of Action** {-}
+
+*   The exact mechanism of action of acetaminophen is not fully understood, but it is believed to involve:
+    *   Inhibition of cyclooxygenase (COX) enzymes in the brain: Selectively inhibits COX-2 in the CNS, reducing prostaglandin synthesis and pain/fever
+    *   Activation of the descending inhibitory serotonergic pathway
+    *   Inhibition of the endocannabinoid system
+
+## **Structure-Activity Relationship (SAR)** {-}
+*   The acetamide group is essential for activity
+*   The para-aminophenol structure is important for its analgesic and antipyretic effects
+
+## **Analytical Considerations in TDM** {-}
+
+*   **Analytical Methods**
+    *   Spectrophotometry: Historically used, but less specific and sensitive
+    *   Immunoassays: Commonly used for routine TDM due to their ease of use and high throughput
+        *   Enzyme-multiplied immunoassay technique (EMIT)
+        *   Latex agglutination inhibition assay (LIA)
+    *   Chromatography: HPLC with UV or mass spectrometry detection is used for more specific and sensitive measurements
+        *   Liquid chromatography-tandem mass spectrometry (LC-MS/MS)
+*   **Sample Preparation**
+    *   For immunoassays, serum or plasma can be analyzed directly or after simple dilution
+    *   For chromatographic methods, sample preparation may involve protein precipitation or solid-phase extraction (SPE)
+*   **Calibration and Quality Control**
+    *   Use appropriate calibrators and quality control materials to ensure accurate and reliable results
+*   **Interferences**
+    *   High bilirubin levels can interfere with some spectrophotometric assays
+    *   N-acetylcysteine (NAC), the antidote for acetaminophen overdose, can interfere with some immunoassays
+
+## **Clinical Significance in TDM** {-}
+
+*   **Therapeutic Drug Monitoring (TDM)**
+    *   TDM is not routinely used for acetaminophen, as it is a relatively safe drug at recommended doses
+    *   TDM is primarily used in cases of suspected overdose or liver toxicity to assess the risk of hepatotoxicity
+*   **Hepatotoxicity**
+    *   Acetaminophen overdose can lead to severe liver damage and liver failure
+    *   NAPQI, a toxic metabolite, is normally detoxified by glutathione, but in overdose, glutathione stores are depleted, leading to liver damage
+*   **Rumack-Matthew Nomogram**
+    *   A graph used to assess the risk of hepatotoxicity based on the serum acetaminophen concentration and the time since ingestion
+*   **Treatment for Acetaminophen Overdose**
+    *   N-acetylcysteine (NAC): An antidote that replenishes glutathione stores and detoxifies NAPQI
+*   **Factors Affecting Toxicity**
+    *   Dose: Higher doses increase the risk of hepatotoxicity
+    *   Time since ingestion: The risk of hepatotoxicity decreases with time
+    *   Liver function: Patients with pre-existing liver disease are at higher risk
+    *   Drug interactions: CYP2E1 inducers (e.g., alcohol, isoniazid) can increase NAPQI formation
+    *   Glutathione levels: Malnutrition or fasting can deplete glutathione stores
+*   **Non-linearity of Liver Function Tests (LFTs)**
+    *   Severe toxicity may be underestimated if LFTs are not repeated since the elevation of LFTs is non-linear
+
+## **Key Terms** {-}
+
+*   **Analgesics:** Medications used to relieve pain
+*   **Acetaminophen:** A widely used over-the-counter analgesic and antipyretic drug
+*   **Therapeutic Drug Monitoring (TDM):** Measurement of drug concentrations to optimize therapy
+*   **Hepatotoxicity:** Liver damage
+*   **NAPQI:** N-acetyl-p-benzoquinone imine, a toxic metabolite of acetaminophen
+*   **Glutathione:** An antioxidant that protects cells from damage
+*   **Rumack-Matthew Nomogram:** A graph used to assess the risk of hepatotoxicity after acetaminophen overdose
+*   **N-acetylcysteine (NAC):** An antidote for acetaminophen overdose
+*   **Bioavailability:** The fraction of an administered dose of a drug that reaches the systemic circulation
+*   **Volume of Distribution:** Apparent space in the body available to contain the drug
+*   **Protein Binding:** The degree to which a drug binds to plasma proteins
+*   **Metabolism:** The process by which the body chemically alters a drug
+*   **Excretion:** The process by which the body eliminates a drug or its metabolites
+*   **Analgesic:** A medicine used to relieve pain
+*   **Antipyretic:** A medicine used to reduce fever
+

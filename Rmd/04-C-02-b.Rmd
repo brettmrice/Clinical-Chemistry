@@ -1,0 +1,114 @@
+# Cardioactive {-}
+
+Understanding the chemical and physical properties of cardioactive drugs like digoxin is essential for comprehending their pharmacokinetic behavior, mechanism of action, and analytical methods used in therapeutic drug monitoring (TDM)
+
+## **Chemical Properties of Cardioactive Drugs** {-}
+
+*   **Definition:** Cardioactive drugs are a diverse group of medications used to treat various cardiovascular conditions, including heart failure, arrhythmias, and hypertension
+*   **Structural Diversity:** This class of drugs exhibits significant structural diversity, including steroids, alkaloids, and synthetic compounds
+*   **Functional Groups:** They contain various functional groups, such as hydroxyl, amino, carbonyl, and ether groups, which influence their solubility, binding properties, and metabolism
+*   **Stereochemistry:** Stereochemistry plays a crucial role in their activity
+*   **Chemical Stability:** Varies widely depending on the specific drug and its formulation; storage conditions can affect stability
+
+## **Physical Properties of Cardioactive Drugs** {-}
+
+*   **Appearance:** Crystalline solids or powders
+*   **Solubility:** Varies depending on the specific drug and its chemical structure
+*   **Partition Coefficient (Log P):** Indicates the relative affinity of a drug for lipid and aqueous phases
+*   **Ionization:** Acidic or basic properties influence their absorption, distribution, and excretion
+*   **Protein Binding:** Binding to plasma proteins (albumin, alpha-1-acid glycoprotein)
+*   **Melting Point:** Characteristic property for identification and purity assessment
+*   **Hygroscopicity:** Some cardioactive drugs are hygroscopic, absorbing moisture from the air
+
+## **Specific Chemical and Physical Properties of Digoxin** {-}
+
+*   **Definition:** Digoxin is a cardiac glycoside used to treat heart failure and atrial fibrillation
+*   **Chemical Structure:** Consists of a steroid nucleus linked to a lactone ring and three sugar molecules (digitoxose)
+*   **Molecular Formula:** $C_{41}H_{64}O_{14}$
+*   **Molecular Weight:** 780.94 g/mol
+*   **Appearance:** White to off-white crystalline powder
+*   **Solubility:** Slightly soluble in water, soluble in diluted alcohol, and practically insoluble in chloroform and ether
+*   **pKa Values:** Digoxin has several pKa values due to the presence of hydroxyl groups on the sugar molecules
+*   **Partition Coefficient (Log P):** Approximately 0.9, indicating moderate lipid solubility
+*   **Protein Binding:** Approximately 20-30% bound to plasma proteins, primarily albumin
+
+## **Pharmacokinetic Implications** {-}
+
+*   **Absorption**
+    *   Oral bioavailability varies from 70-85%, depending on the formulation and patient factors
+    *   Absorption can be affected by gastrointestinal motility, pH, and drug interactions
+*   **Distribution**
+    *   Distributes widely throughout the body, with a large volume of distribution (Vd) of approximately 7 L/kg
+    *   Concentrates in the heart, kidneys, and skeletal muscle
+    *   Crosses the blood-brain barrier to a limited extent
+*   **Protein Binding**
+    *   Moderate protein binding (20-30%)
+    *   Changes in protein binding can affect the free (active) drug concentration
+*   **Metabolism**
+    *   Limited metabolism; primarily excreted unchanged in the urine
+    *   A small fraction undergoes metabolism in the liver by hydrolysis and oxidation
+*   **Excretion**
+    *   Primarily eliminated by glomerular filtration in the kidneys
+    *   Renal impairment significantly affects drug clearance
+
+## **Mechanism of Action and Structure-Activity Relationship (SAR)** {-}
+
+*   **Mechanism of Action:** Digoxin inhibits the $Na^+/K^+-ATPase$ pump in myocardial cells, leading to increased intracellular sodium and calcium concentrations
+    *   This results in increased cardiac contractility (positive inotropic effect) and slowed atrioventricular (AV) conduction
+*   **Structure-Activity Relationship (SAR)**
+    *   The steroid nucleus is essential for binding to the $Na^+/K^+-ATPase$ pump
+    *   The lactone ring is important for activity
+    *   The sugar molecules enhance water solubility and affect pharmacokinetic properties
+
+## **Analytical Considerations in TDM** {-}
+
+*   **Analytical Methods**
+    *   Immunoassays: Most commonly used for routine TDM due to their ease of use and high throughput
+        *   Enzyme-multiplied immunoassay technique (EMIT)
+        *   Fluorescence polarization immunoassay (FPIA)
+        *   Chemiluminescent microparticle immunoassay (CMIA)
+    *   Chromatography: HPLC with UV or mass spectrometry detection can be used for more specific and sensitive measurements
+        *   Liquid chromatography-tandem mass spectrometry (LC-MS/MS)
+*   **Sample Preparation**
+    *   Direct immunoassays can be performed on serum or plasma without extensive sample preparation
+    *   For chromatographic methods, sample preparation may involve protein precipitation or solid-phase extraction (SPE)
+*   **Calibration and Quality Control**
+    *   Use appropriate calibrators and quality control materials to ensure accurate and reliable results
+*   **Interferences**
+    *   Endogenous digoxin-like immunoreactive substances (DLIS) can interfere with digoxin immunoassays, leading to falsely elevated results
+    *   Spironolactone, quinidine, and amiodarone can increase digoxin concentrations by inhibiting its renal clearance
+    *   Hyperkalemia can decrease digoxin’s therapeutic effect
+
+## **Clinical Significance in TDM** {-}
+
+*   **Therapeutic Drug Monitoring (TDM)**
+    *   TDM is essential for optimizing digoxin therapy due to its narrow therapeutic index
+    *   Digoxin has a narrow therapeutic range (0.5-2.0 ng/mL), and toxicity can occur at levels only slightly above this range
+    *   TDM is used to monitor serum digoxin concentrations and adjust the dose accordingly
+*   **Dosage Adjustments**
+    *   Dosage adjustments are based on TDM results and patient-specific factors, such as renal function, age, and concurrent medications
+*   **Monitoring for Toxicity**
+    *   Monitor for signs and symptoms of digoxin toxicity, such as nausea, vomiting, diarrhea, visual disturbances, cardiac arrhythmias, and altered mental status
+    *   Assess renal function (serum creatinine, creatinine clearance) and electrolyte levels (potassium, magnesium)
+*   **Interpreting Digoxin Levels**
+    *   Sample timing: Digoxin should be measured at least 6 hours after the previous dose to allow for distribution
+    *   Check for Digoxin-Like Immunoreactive Substances (DLIS): DLIS can interfere and cause false high reading
+*   **Other cardioactive drugs**
+    *   Cardiac function and other cardioactive drugs are important factors to consider when interpreting the results
+
+## **Key Terms** {-}
+
+*   **Cardioactive Drugs:** Medications used to treat cardiovascular conditions
+*   **Digoxin:** A cardiac glycoside used to treat heart failure and atrial fibrillation
+*   **Therapeutic Drug Monitoring (TDM):** Measurement of drug concentrations to optimize therapy
+*   **Volume of Distribution:** Apparent space in the body available to contain the drug
+*   **Protein Binding:** The degree to which a drug binds to plasma proteins
+*   **Bioavailability:** The fraction of an administered dose of a drug that reaches the systemic circulation
+*   **Mechanism of Action:** The way in which a drug produces its therapeutic effect
+*   **Structure-Activity Relationship (SAR):** The relationship between the chemical structure of a drug and its biological activity
+*   **Renal Clearance:** The rate at which a drug is removed from the body by the kidneys
+*   **Hepatic Metabolism:** The process by which the liver chemically alters a drug
+*   **$Na^+/K^+-ATPase$ Pump:** An enzyme that maintains sodium and potassium gradients across cell membranes
+*   **Positive Inotropic Effect:** Increased cardiac contractility
+*   **Atrioventricular (AV) Conduction:** The transmission of electrical impulses from the atria to the ventricles of the heart
+*   **Digoxin-Like Immunoreactive Substances (DLIS):** Endogenous substances that can interfere with digoxin immunoassays

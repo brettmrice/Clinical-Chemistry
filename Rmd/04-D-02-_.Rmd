@@ -1,0 +1,73 @@
+# Properties {-}
+
+This section covers the chemical and physical properties of key substance classes in toxicology
+
+## **Alcohols** {-}
+
+*   **Definition:** Organic compounds characterized by one or more hydroxyl (-OH) groups
+*   **Examples:** Methanol, ethanol, isopropanol, ethylene glycol, propylene glycol
+*   **Key Properties**
+    *   Polarity: The hydroxyl group makes alcohols polar
+    *   Solubility: Short-chain alcohols are miscible with water; solubility decreases with increasing carbon chain length
+    *   Boiling Point: Increases with increasing molecular weight and hydrogen bonding
+    *   Flammability: Alcohols are flammable
+*   **Toxicokinetics**
+    *   Rapid absorption
+    *   Metabolism: Alcohol dehydrogenase (ADH), aldehyde dehydrogenase (ALDH)
+    *   Excretion: Urine and lungs
+*   **Toxic Effects**
+    *   CNS depression, metabolic acidosis, organ damage
+
+## **Heavy Metals (e.g., Lead)** {-}
+
+*   **Definition:** Metallic elements with relatively high densities that are toxic at low concentrations
+*   **Examples:** Lead (Pb), mercury (Hg), arsenic (As), cadmium (Cd)
+*   **Key Properties**
+    *   Metallic Bonding: Good electrical and thermal conductivity
+    *   Variable Oxidation States: Can exist in multiple oxidation states
+    *   Complex Formation: Tendency to form complexes with biological molecules
+    *   High Density
+*   **Toxicokinetics**
+    *   Absorption: Varies based on the metal and route
+    *   Distribution: Accumulation in specific tissues (e.g., bone, kidneys)
+    *   Metabolism: Some undergo biotransformation
+    *   Excretion: Primarily urine and feces
+*   **Toxic Effects**
+    *   Enzyme inhibition, oxidative stress, organ damage, neurological effects
+
+## **Analgesics (e.g., Acetaminophen)** {-}
+
+*   **Definition:** Medications used to relieve pain
+*   **Examples:** Acetaminophen, NSAIDs, Opioids
+*   **Key Properties**
+    *   Structural Diversity: Wide range of chemical classes
+    *   Functional Groups: Hydroxyl, amino, carbonyl, carboxyl
+    *   Solubility: Varies depending on the specific drug
+    *   Acidic or Basic Character
+*   **Toxicokinetics**
+    *   Variable absorption and distribution
+    *   Metabolism: Liver (CYP enzymes)
+    *   Excretion: Urine
+*   **Toxic Effects**
+    *   Liver damage, gastrointestinal effects, respiratory depression
+
+## **Drugs of Abuse** {-}
+
+*   **Definition:** Substances used for non-medical purposes, often for psychoactive effects, which can lead to dependence and addiction
+*   **Examples:** Opioids, stimulants, cannabinoids, hallucinogens, depressants
+*   **Key Properties**
+    *   Structural Diversity: Wide range of chemical classes
+    *   Psychoactive Effects: Alter mood, perception, and cognition
+    *   Lipophilicity: Many are lipophilic
+    *   Solubility: Variable
+*   **Toxicokinetics**
+    *   Variable absorption, distribution, metabolism, and excretion depending on the drug
+*   **Toxic Effects**
+    *   Dependence, addiction, organ damage, neurological and cardiovascular effects              |
+
+## **Clinical Significance** {-}
+
+*   **Analytical Method Selection:** Physical and chemical properties influence the choice of analytical methods
+*   **Toxic Effects:** These properties influence how the substances are absorbed, distributed, metabolized, excreted, and interact with biological systems, ultimately affecting their toxicity
+*   **Sample Preparation:** Understanding these properties helps optimize sample preparation
+*   **Exposure Assessment and Risk Evaluation:** Knowing the sources and fate of these chemicals is important for assessing exposure risks

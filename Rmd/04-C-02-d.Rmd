@@ -1,0 +1,111 @@
+# Antidepressants {-}
+
+Understanding the chemical and physical properties of antidepressants like lithium is essential for comprehending their pharmacokinetic behavior, mechanism of action, and analytical methods used in therapeutic drug monitoring (TDM)
+
+## **Chemical Properties of Antidepressants** {-}
+
+*   **Definition:** Antidepressants are a diverse group of medications used to treat depression and other mood disorders
+*   **Structural Diversity:** Antidepressants exhibit significant structural diversity, encompassing a wide range of chemical classes such as selective serotonin reuptake inhibitors (SSRIs), serotonin-norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), and monoamine oxidase inhibitors (MAOIs)
+*   **Functional Groups:** They contain various functional groups, such as hydroxyl, amino, methyl, and halogen groups, which influence their solubility, binding properties, and metabolism
+*   **Chirality:** Some antidepressants are chiral molecules, existing as enantiomers or diastereomers with differing pharmacological activities
+*   **Chemical Stability:** Varies widely depending on the specific drug and its formulation; storage conditions can affect stability
+
+## **Physical Properties of Antidepressants** {-}
+
+*   **Appearance:** Crystalline solids or powders
+*   **Solubility:** Varies depending on the specific drug and its chemical structure
+*   **Partition Coefficient (Log P):** Indicates the relative affinity of a drug for lipid and aqueous phases
+*   **Ionization:** Acidic or basic properties influence their absorption, distribution, and excretion
+*   **Protein Binding:** Binding to plasma proteins (albumin, alpha-1-acid glycoprotein)
+*   **Melting Point:** Characteristic property for identification and purity assessment
+*   **Hygroscopicity:** Some antidepressants are hygroscopic, absorbing moisture from the air
+
+## **Specific Chemical and Physical Properties of Lithium** {-}
+
+*   **Definition:** Lithium is a mood-stabilizing drug used primarily in the treatment of bipolar disorder
+*   **Chemical Structure:** Simplest structure of the antidepressants consisting of a single positive charge
+*   **Molecular Formula:** Li
+*   **Molecular Weight:** 6.94 g/mol
+*   **Appearance:** Soft, silver-white metal
+*   **Solubility:** Lithium salts (e.g., lithium carbonate, lithium citrate) are soluble in water
+*   **Ionization:** Exists as a monovalent cation ($Li^+$) in solution
+*   **Protein Binding:** Negligible protein binding
+
+## **Pharmacokinetic Implications** {-}
+
+*   **Absorption**
+    *   Rapid and complete absorption after oral administration
+    *   Absorption is not significantly affected by food
+*   **Distribution**
+    *   Distributes throughout total body water
+    *   Does not bind to plasma proteins
+    *   Enters cells slowly via sodium channels
+*   **Protein Binding**
+    *   Negligible protein binding
+    *   Exists primarily in the free, ionized form
+*   **Metabolism**
+    *   Lithium is not metabolized by the body
+*   **Excretion**
+    *   Primarily excreted unchanged by the kidneys
+    *   Renal excretion is affected by sodium balance
+        *   Sodium depletion increases lithium reabsorption, leading to increased lithium levels
+        *   Sodium loading decreases lithium reabsorption, leading to decreased lithium levels
+    *   Thiazide diuretics, NSAIDs, and ACE inhibitors can reduce lithium clearance
+*   **Half-life**
+    *   Half-life is approximately 24 hours
+
+## **Mechanism of Action and Structure-Activity Relationship (SAR)** {-}
+
+*   **Mechanism of Action:** The exact mechanism of action of lithium is not fully understood, but it is believed to involve multiple effects on neuronal signaling pathways
+    *   Inhibition of inositol monophosphatase: Disrupts the phosphatidylinositol signaling pathway
+    *   Inhibition of glycogen synthase kinase-3 (GSK-3): Affects various cellular processes, including apoptosis and inflammation
+    *   Modulation of neurotransmitter release: Affects the release of dopamine, serotonin, and glutamate
+*   **Structure-Activity Relationship (SAR)**
+    *   The small size and positive charge of the lithium ion are critical for its interaction with cellular targets
+    *   Lithium mimics sodium ions and can interfere with sodium transport
+
+## **Analytical Considerations in TDM** {-}
+
+*   **Analytical Methods**
+    *   Flame Emission Spectrophotometry (FES): Measures the light emitted by lithium atoms in a flame
+    *   Ion-Selective Electrode (ISE): Measures the concentration of lithium ions in solution
+    *   Atomic Absorption Spectrometry (AAS): Measures the absorption of light by lithium atoms
+*   **Sample Preparation**
+    *   Typically, no sample preparation is required for lithium measurements
+    *   Serum or plasma can be analyzed directly
+*   **Calibration and Quality Control**
+    *   Use appropriate calibrators and quality control materials to ensure accurate and reliable results
+*   **Interferences**
+    *   Sodium and potassium can interfere with some lithium assays
+    *   Hemolysis can also affect assay performance
+
+## **Clinical Significance in TDM** {-}
+
+*   **Therapeutic Drug Monitoring (TDM)**
+    *   TDM is essential for optimizing lithium therapy due to its narrow therapeutic index and potential for toxicity
+    *   Lithium has a therapeutic range of 0.6-1.2 mEq/L for acute mania and 0.6-0.8 mEq/L for maintenance therapy, but these values can vary among individuals
+    *   TDM is used to monitor serum lithium concentrations and adjust the dose accordingly
+*   **Dosage Adjustments**
+    *   Dosage adjustments are based on TDM results and patient-specific factors, such as renal function, age, and concurrent medications
+*   **Monitoring for Toxicity**
+    *   Monitor for signs and symptoms of lithium toxicity, such as nausea, vomiting, diarrhea, tremor, ataxia, confusion, seizures, and renal dysfunction
+    *   Assess renal function (serum creatinine, creatinine clearance) and thyroid function (TSH, free T4)
+*   **Timing of Sample Collection**
+    *   Lithium levels should be drawn 12 hours after the last dose to ensure accurate trough concentrations
+
+## **Key Terms** {-}
+
+*   **Antidepressants:** Medications used to treat depression and other mood disorders
+*   **Lithium:** A mood-stabilizing drug used primarily in the treatment of bipolar disorder
+*   **Therapeutic Drug Monitoring (TDM):** Measurement of drug concentrations to optimize therapy
+*   **Bioavailability:** The fraction of an administered dose of a drug that reaches the systemic circulation
+*   **Volume of Distribution:** Apparent space in the body available to contain the drug
+*   **Protein Binding:** The degree to which a drug binds to plasma proteins
+*   **Metabolism:** The process by which the body chemically alters a drug
+*   **Excretion:** The process by which the body eliminates a drug or its metabolites
+*   **Half-Life:** The time it takes for the concentration of a drug in the body to be reduced by one-half
+*   **TDM:** to monitor the drug and ensure that it is at the therapeutic range in the blood
+*   **Serotonin:** A neurotransmitter involved in mood regulation
+*   **Norepinephrine:** A neurotransmitter involved in mood regulation and stress response
+*   **GABA:** Gamma-aminobutyric acid, the main inhibitory neurotransmitter in the brain
+*   **Lithium Toxicity:** A condition in which the level of lithium in the blood becomes too high

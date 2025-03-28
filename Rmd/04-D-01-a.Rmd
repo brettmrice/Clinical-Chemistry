@@ -1,0 +1,146 @@
+# Toxic Effects {-}
+
+Understanding the relationship between toxicokinetics and toxic effects, signs, and symptoms is crucial for effective clinical toxicology. Toxicokinetics describes how a substance moves through the body, while understanding the clinical manifestations of toxicity aids in diagnosis and treatment
+
+## **Toxicokinetics: What the Body Does to the Toxin** {-}
+
+*   **Definition:** The study of the movement of toxic substances within the body, encompassing absorption, distribution, metabolism, and excretion (ADME)
+*   **Relationship to Pharmacokinetics:** Toxicokinetics is essentially the study of pharmacokinetics applied to toxic substances, providing insights into how the body handles these compounds
+
+### **Absorption** {-}
+
+*   **Definition:** The process by which a toxic substance enters the body
+*   **Routes of Exposure**
+    *   Ingestion: Oral intake of a toxic substance
+    *   Inhalation: Breathing in toxic gases, vapors, or particulate matter
+    *   Dermal Absorption: Absorption through the skin
+    *   Injection: Introduction directly into the bloodstream or tissues
+    *   Mucosal Absorption: Absorption through mucous membranes (e.g., nasal, oral, rectal)
+*   **Factors Affecting Absorption**
+    *   **Route of Exposure:** Intravenous (IV) exposure has 100% bioavailability
+    *   **Physicochemical Properties**
+        *   Molecular weight, lipophilicity, and ionization affect the ease with which a substance crosses biological membranes
+    *   **Concentration:** Higher concentrations increase absorption rates
+    *   **Surface Area:** Larger surface areas (e.g., lungs, small intestine) enhance absorption
+    *   **Blood Flow:** Increased blood flow at the absorption site increases absorption rates
+    *   **Physiological Factors:** Gastric emptying time, intestinal motility, and skin integrity influence absorption rates
+
+### **Distribution** {-}
+
+*   **Definition:** The process by which a toxic substance is transported from the bloodstream to various tissues and organs in the body
+*   **Factors Affecting Distribution**
+    *   **Blood Flow:** Highly perfused organs (brain, heart, liver, kidneys) receive the toxic substance more rapidly
+    *   **Tissue Permeability**
+        *   Lipid-soluble substances can easily cross cell membranes
+        *   Water-soluble substances may require transport proteins
+    *   **Protein Binding:** Binding of toxic substances to plasma proteins (albumin, alpha-1-acid glycoprotein)
+        *   Only unbound (free) substance can exert toxic effects
+        *   Substances with high protein binding have limited distribution
+    *   **Volume of Distribution (Vd):** A measure of the apparent space in the body available to contain the toxic substance
+        *   Vd = Amount of Substance in the Body / Plasma Concentration
+        *   High Vd: Indicates extensive tissue distribution
+        *   Low Vd: Indicates limited tissue distribution
+    *   **Tissue Binding:** Accumulation of toxic substances in specific tissues (e.g., lead in bone, DDT in adipose tissue)
+*   **Barriers to Distribution**
+    *   **Blood-Brain Barrier (BBB):** Protects the brain from many toxic substances
+    *   **Placental Barrier:** Protects the fetus from some, but not all, toxic substances
+
+### **Metabolism** {-}
+
+*   **Definition:** The process by which the body chemically alters a toxic substance, often to facilitate its elimination
+*   **Primary Site:** Liver
+*   **Other Sites:** Kidneys, intestines, lungs, and plasma
+*   **Phases of Metabolism**
+    *   **Phase I Reactions:** Introduce or expose a functional group on the toxic substance molecule
+        *   Oxidation, reduction, hydrolysis
+        *   Enzymes: Cytochrome P450 (CYP) enzymes, flavin-containing monooxygenases (FMOs)
+    *   **Phase II Reactions:** Conjugate a polar molecule to the toxic substance molecule
+        *   Glucuronidation, sulfation, acetylation, glutathione conjugation
+        *   Enzymes: UDP-glucuronosyltransferases (UGTs), sulfotransferases (SULTs)
+*   **Activation vs. Detoxification**
+    *   **Detoxification:** Metabolism can convert toxic substances into less harmful metabolites
+    *   **Activation:** Metabolism can convert relatively harmless substances into more toxic metabolites (bioactivation)
+*   **Factors Affecting Metabolism**
+    *   **Genetic Factors:** Genetic polymorphisms in drug-metabolizing enzymes can affect the rate of metabolism
+    *   **Age:** Infants and elderly individuals may have reduced metabolic capacity
+    *   **Disease States:** Liver disease can impair metabolism
+    *   **Drug Interactions:** Enzyme inducers and inhibitors can affect the metabolism of other substances
+
+### **Excretion** {-}
+
+*   **Definition:** The process by which the body eliminates a toxic substance or its metabolites
+*   **Primary Routes**
+    *   **Kidneys:** Most toxic substances are excreted in the urine
+        *   Glomerular filtration, tubular secretion, tubular reabsorption
+    *   **Liver:** Some toxic substances are excreted in the bile and eliminated in the feces
+*   **Other Routes:** Lungs, sweat, saliva, breast milk
+*   **Factors Affecting Excretion**
+    *   **Renal Function:** Glomerular filtration rate (GFR), tubular secretion, and tubular reabsorption affect renal excretion
+    *   **Liver Function:** Bile flow and hepatic metabolism affect biliary excretion
+    *   **Substance Properties:** Molecular size, ionization, and protein binding affect excretion
+    *   **Urine pH:** Can affect the excretion of weak acids and bases
+*   **Clearance (CL):** A measure of the body's ability to eliminate a toxic substance
+    *   CL = Rate of Elimination / Plasma Concentration
+
+## **Toxic Effects, Signs, and Symptoms: What the Toxin Does to the Body** {-}
+
+*   **Dose-Response Relationship:** The severity of toxic effects is generally related to the dose of the toxic substance
+*   **Target Organs:** Toxic substances can selectively target specific organs or tissues (e.g., liver, kidneys, brain)
+*   **Mechanisms of Toxicity:** Toxic substances can cause damage through various mechanisms, including:
+    *   Cellular Necrosis: Cell death
+    *   Apoptosis: Programmed cell death
+    *   Oxidative Stress: Damage caused by free radicals
+    *   Mitochondrial Dysfunction: Disruption of energy production
+    *   Inflammation: Activation of the immune system
+    *   Neurotoxicity: Damage to the nervous system
+    *   Carcinogenesis: Cancer development
+    *   Teratogenesis: Birth defects
+*   **Signs and Symptoms:** The clinical manifestations of toxicity vary depending on the toxic substance, the dose, the route of exposure, and individual factors
+*   **Common Toxic Syndromes (Toxidromes):** A group of signs and symptoms associated with a particular class of toxic substances
+    *   **Cholinergic Toxidrome:** Associated with exposure to organophosphates, carbamates, and other cholinergic agents
+        *   Symptoms: Salivation, lacrimation, urination, defecation, gastrointestinal distress, emesis (SLUDGE)
+    *   **Anticholinergic Toxidrome:** Associated with exposure to anticholinergic medications and plants
+        *   Symptoms: Dry mouth, blurred vision, dilated pupils, urinary retention, constipation, tachycardia, delirium
+    *   **Sympathomimetic Toxidrome:** Associated with exposure to stimulants such as cocaine, amphetamines, and caffeine
+        *   Symptoms: Tachycardia, hypertension, diaphoresis, agitation, tremor, seizures
+    *   **Opioid Toxidrome:** Associated with exposure to opioid medications
+        *   Symptoms: Respiratory depression, miosis (pinpoint pupils), altered mental status
+    *   **Sedative-Hypnotic Toxidrome:** Associated with exposure to benzodiazepines, barbiturates, and other sedatives
+        *   Symptoms: Sedation, altered mental status, slurred speech, ataxia, respiratory depression
+
+## **Specific Examples of Toxic Substances and Their Effects** {-}
+
+| Toxic Substance | Target Organ(s) | Mechanism of Toxicity               | Signs and Symptoms                                                                           |
+| :-------------- | :-------------- | :---------------------------------- | :------------------------------------------------------------------------------------------- |
+| Acetaminophen   | Liver           | Formation of toxic metabolite NAPQI | Nausea, vomiting, abdominal pain, jaundice, liver failure                                     |
+| Salicylates      | Multiple        | Uncoupling of oxidative phosphorylation | Tinnitus, hyperventilation, metabolic acidosis, confusion                                    |
+| Opioids        | Brain, Lungs    | Respiratory depression, CNS depression | Miosis, respiratory depression, altered mental status, coma                                  |
+| Organophosphates | Nervous System   | Cholinesterase inhibition           | Salivation, lacrimation, urination, defecation, emesis, muscle weakness, seizures, respiratory failure |
+| Lead           | Multiple        | Disruption of enzyme function        | Abdominal pain, constipation, anemia, neurological symptoms, developmental delays                |
+| Mercury         | Kidneys, Brain    | Protein binding, oxidative stress  | Tremor, memory loss, kidney damage                                                               |
+| Carbon Monoxide   | Brain, Heart    | Binds to hemoglobin, reduces oxygen delivery | Headache, dizziness, nausea, vomiting, confusion, loss of consciousness                              |
+
+## **Key Terms** {-}
+
+*   **Toxicokinetics:** The study of how a toxic substance moves through the body (ADME)
+*   **Absorption:** The process by which a toxic substance enters the body
+*   **Distribution:** The process by which a toxic substance is transported to tissues
+*   **Metabolism:** The process by which the body chemically alters a toxic substance
+*   **Excretion:** The process by which the body eliminates a toxic substance
+*   **Volume of Distribution (Vd):** A measure of the apparent space in the body available to contain the toxic substance
+*   **Clearance (CL):** A measure of the body's efficiency in eliminating a toxic substance
+*   **Toxidrome:** A group of signs and symptoms associated with a particular class of toxic substances
+*   **Dose-Response Relationship:** The relationship between the dose of a toxic substance and the severity of its effects
+*   **Target Organ:** The organ or tissue most affected by a toxic substance
+*   **Mechanism of Toxicity:** The way in which a toxic substance causes damage
+*   **Signs:** Objective evidence of a disease or condition
+*   **Symptoms:** Subjective evidence of a disease or condition
+*   **Cellular Necrosis:** Cell death
+*   **Apoptosis:** Programmed cell death
+*   **Oxidative Stress:** Damage caused by free radicals
+*   **Mitochondrial Dysfunction:** Disruption of energy production
+*   **Inflammation:** Activation of the immune system
+*   **Neurotoxicity:** Damage to the nervous system
+*   **Carcinogenesis:** Cancer development
+*   **Teratogenesis:** Birth defects
+*   **Bioactivation:** Metabolic activation of a substance to become toxic

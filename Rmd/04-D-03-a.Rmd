@@ -1,0 +1,183 @@
+# Principles {-}
+
+This section covers the common analytical principles in toxicology lab procedures
+
+## **General Principles of Toxicological Analysis** {-}
+
+*   **Objective:** To identify and quantify toxic substances in biological samples
+*   **Sample Types:** Blood, urine, gastric contents, tissues, hair, and other specimens
+*   **Screening vs. Confirmation**
+    *   Screening tests: Rapid, inexpensive, and sensitive methods used to detect the presence of a substance or class of substances
+    *   Confirmation tests: More specific and sensitive methods used to confirm the identity and quantity of a substance
+*   **Quality Control (QC):** Essential to ensure accuracy and reliability
+
+## **Common Analytical Techniques** {-}
+
+### **Immunoassays** {-}
+
+*   **Principle:** Based on the specific binding of antibodies to their target antigens (toxic substances)
+*   **Types**
+    *   Enzyme-Linked Immunosorbent Assay (ELISA)
+    *   Radioimmunoassay (RIA)
+    *   Fluorescence Polarization Immunoassay (FPIA)
+    *   Chemiluminescent Immunoassay (CLIA)
+*   **Procedure**
+    1.  Sample Preparation: May involve dilution or extraction
+    2.  Antibody Binding: Add sample to a microplate coated with antibodies
+    3.  Enzyme-Labeled Antibody: Add labeled antibodies that bind to the target
+    4.  Signal Detection: Add substrate and measure the signal
+    5.  Quantification: Compare signal intensity to a standard curve
+*   **Advantages**
+    *   High throughput
+    *   Ease of use
+    *   Relatively inexpensive
+*   **Limitations**
+    *   Potential for cross-reactivity
+    *   Limited quantitative accuracy
+    *   Susceptible to interferences
+*   **Applications**
+    *   Screening for drugs of abuse, therapeutic drugs, and some toxins
+
+### **Chromatography** {-}
+
+*   **Principle:** Separates compounds based on their physical and chemical properties
+*   **Types**
+    *   Thin-Layer Chromatography (TLC): Separates substances on a thin layer of adsorbent material
+        *   Simple, inexpensive, and versatile
+        *   Used for screening
+    *   Gas Chromatography (GC): Separates volatile compounds based on their boiling points
+        *   Suitable for volatile organic compounds
+        *   Requires derivatization for non-volatile compounds
+    *   High-Performance Liquid Chromatography (HPLC): Separates compounds based on their interactions with mobile and stationary phases
+        *   Used for non-volatile compounds
+        *   Versatile, and widely applicable
+*   **Detectors**
+    *   UV-Vis Detection
+    *   Fluorescence Detection
+    *   Electrochemical Detection
+    *   Mass Spectrometry (MS)
+*   **Procedure**
+    1.  Sample Preparation: Extract analytes from the sample
+    2.  Separation: Inject the sample into the chromatography system
+    3.  Detection: Detect the separated compounds using an appropriate detection method
+    4.  Quantification: Compare peak areas to a standard curve
+*   **Advantages**
+    *   High resolution and sensitivity
+    *   Can separate complex mixtures
+    *   Quantitative analysis
+*   **Limitations**
+    *   Requires specialized equipment
+    *   Skilled operators
+    *   Time-consuming
+*   **Applications**
+    *   Identification and quantification of drugs, pesticides, and other toxins
+
+### **Mass Spectrometry (MS)** {-}
+
+*   **Principle:** Identifies and quantifies compounds based on their mass-to-charge ratio
+*   **Types**
+    *   Gas Chromatography-Mass Spectrometry (GC-MS)
+        *   Combines gas chromatography with mass spectrometry for the analysis of volatile compounds
+    *   Liquid Chromatography-Mass Spectrometry (LC-MS)
+        *   Combines liquid chromatography with mass spectrometry for the analysis of non-volatile compounds
+    *   Tandem Mass Spectrometry (MS/MS)
+        *   More sensitive and specific than single MS
+        *   Used for quantifying low-level analytes and confirming the identity of compounds
+*   **Procedure**
+    1.  Sample Preparation: Extract analytes from the sample
+    2.  Chromatographic Separation: Inject the sample into a GC or LC system
+    3.  Ionization: Ionize the separated compounds
+    4.  Mass Analysis: Separate the ions based on their mass-to-charge ratio
+    5.  Detection: Detect the ions using a mass spectrometer
+    6.  Quantification: Compare ion abundances to a standard curve
+*   **Advantages**
+    *   High sensitivity and specificity
+    *   Can identify unknown compounds
+    *   Can quantify multiple compounds simultaneously
+*   **Limitations**
+    *   Requires expensive equipment
+    *   Highly skilled operators
+*   **Applications**
+    *   Confirmation and quantification of drugs and toxins
+    *   Metabolite identification
+    *   Forensic toxicology
+    *   Environmental analysis
+
+### **Atomic Absorption Spectrometry (AAS)** {-}
+
+*   **Principle:** Measures the absorption of light by free atoms in the gaseous state
+*   **Procedure**
+    1.  Sample Preparation: Digest the sample to release the elements
+    2.  Atomization: Convert the elements to free atoms
+    3.  Absorption Measurement: Pass light through the atomized sample and measure the absorption
+    4.  Quantification: Compare the absorbance to a standard curve
+*   **Advantages**
+    *   High sensitivity and specificity for mineral analysis
+*   **Limitations**
+    *   Requires specialized equipment
+    *   Matrix effects
+*   **Applications**
+    *   Measuring heavy metals (lead, mercury, cadmium) in biological samples
+
+### **Inductively Coupled Plasma Mass Spectrometry (ICP-MS)** {-}
+
+*   **Principle:** Measures the mass-to-charge ratio of ions produced in an inductively coupled plasma
+*   **Procedure**
+    1.  Sample Preparation: Digest the sample to release the elements
+    2.  Plasma Generation: Introduce the sample into an ICP, which ionizes the elements
+    3.  Mass Analysis: Separate the ions based on their mass-to-charge ratio
+    4.  Detection: Detect the ions using a mass spectrometer
+    5.  Quantification: Compare ion intensities to a standard curve
+*   **Advantages**
+    *   High sensitivity
+    *   Multi-element analysis
+    *   Isotope ratio measurements
+*   **Limitations**
+    *   Requires specialized equipment
+    *   Matrix effects
+*   **Applications**
+    *   Measuring trace elements and heavy metals in biological samples
+
+## **Point-of-Care Testing (POCT)** {-}
+
+*   **Principle:** Rapid, portable testing performed near the patient
+*   **Types**
+    *   Lateral flow immunoassays
+    *   Electrochemical sensors
+*   **Advantages**
+    *   Rapid turnaround time
+    *   Ease of use
+    *   Portability
+*   **Limitations**
+    *   Lower accuracy and precision
+    *   Limited range of analytes
+*   **Applications**
+    *   Screening for drugs of abuse
+    *   Rapid detection of certain toxins
+
+## **Summary Table of Analytical Techniques** {-}
+
+| Technique                    | Principle                                      | Advantages                                                                | Limitations                                                              |
+| :--------------------------- | :--------------------------------------------- | :------------------------------------------------------------------------ | :----------------------------------------------------------------------- |
+| Immunoassays                 | Antibody-antigen binding                       | High throughput, ease of use, relatively inexpensive                     | Potential for cross-reactivity, matrix effects                          |
+| Thin-Layer Chromatography    | Separation based on polarity                   | Simple, inexpensive, versatile                                            | Low sensitivity, qualitative or semi-quantitative                         |
+| Gas Chromatography           | Separation of volatile compounds                | High resolution for volatile substances                                   | Requires derivatization for non-volatile compounds                      |
+| High-Performance Liquid Chromatography | Separation of non-volatile compounds             | Versatile, high resolution                                               | Requires specialized equipment and skilled operators                   |
+| Mass Spectrometry            | Measures mass-to-charge ratio                  | High sensitivity and specificity, can identify unknowns                   | Requires expensive equipment and highly skilled operators                   |
+| Atomic Absorption Spectrometry | Measures absorption of light by free atoms    | High sensitivity and specificity for mineral analysis                     | Requires specialized equipment, matrix effects                          |
+| ICP-MS                       | Measures mass-to-charge ratio of ions in plasma | High sensitivity, multi-element analysis, isotope ratio measurements | Requires specialized equipment, matrix effects                          |
+| Point-of-Care Testing        | Various (immunoassay, electrochemical)          | Rapid turnaround time, ease of use, portability                        | Lower accuracy and precision, limited range of analytes               |
+
+## **Key Terms** {-}
+
+*   **Analytical Sensitivity:** The ability of an assay to detect small amounts of a substance
+*   **Analytical Specificity:** The ability of an assay to measure only the substance of interest
+*   **Cross-Reactivity:** The ability of an antibody to bind to multiple antigens
+*   **Matrix Effects:** The effect of the sample matrix on the analytical measurement
+*   **Calibration:** The process of adjusting an analytical instrument to ensure accurate measurements
+*   **Quality Control (QC):** A set of procedures used to monitor the accuracy and precision of analytical measurements
+*   **Detection Limit:** The lowest amount of a substance that can be reliably detected by an assay
+*   **Quantitation Limit:** The lowest amount of a substance that can be reliably quantified by an assay
+*   **Dynamic Range:** The range of concentrations that can be accurately measured by an assay
+*   **Sample Preparation:** The process of preparing a sample for analysis
+*    **Derivatization:** Altering the chemical structure to increase detection

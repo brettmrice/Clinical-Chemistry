@@ -1,0 +1,216 @@
+# Heavy Metals {-}
+
+Heavy metals group of metallic elements with relatively high densities, atomic weights, or atomic numbers that are toxic or poisonous at low concentrations
+*   **Characteristics**
+    *   Naturally occurring elements
+    *   Persistent in the environment
+    *   Non-biodegradable
+    *   Can accumulate in living organisms
+*   **Sources of Exposure**
+    *   Occupational (mining, manufacturing)
+    *   Environmental (contaminated soil, water, air)
+    *   Dietary (food, beverages)
+    *   Household (lead-based paint, plumbing)
+
+## **General Chemical Properties of Heavy Metals** {-}
+
+*   **Metallic Bonding:** Exhibit metallic bonding, resulting in good electrical and thermal conductivity
+*   **Variable Oxidation States:** Can exist in multiple oxidation states, influencing their chemical behavior and toxicity
+*   **Complex Formation:** Tendency to form complexes with various ligands, such as proteins, enzymes, and DNA
+*   **Reactivity:** React with biological molecules, disrupting their structure and function
+
+## **General Physical Properties of Heavy Metals** {-}
+
+*   **Appearance:** Typically have a metallic luster
+*   **Density:** Relatively high densities compared to other elements
+*   **Melting and Boiling Points:** Varies depending on the specific metal
+*   **Solubility:** Solubility of metal compounds varies widely depending on the specific compound and the solvent
+*   **Conductivity:** Good electrical and thermal conductivity
+
+## **Specific Heavy Metals of Toxicological Significance** {-}
+
+### **Lead ($Pb$)** {-}
+
+*   **Definition:** A naturally occurring heavy metal that is toxic even at low concentrations
+*   **Sources of Exposure**
+    *   Lead-based paint
+    *   Contaminated soil and dust
+    *   Drinking water from lead pipes
+    *   Occupational exposure (mining, manufacturing)
+*   **Chemical Properties**
+    *   Atomic Number: 82
+    *   Atomic Weight: 207.2 g/mol
+    *   Oxidation States: +2 (most common), +4
+    *   Forms complexes with various ligands, including proteins, enzymes, and DNA
+*   **Physical Properties**
+    *   Appearance: Soft, gray-blue metal
+    *   Density: 11.34 g/cm³
+    *   Melting Point: 327.5°C
+    *   Boiling Point: 1749°C
+    *   Solubility: Insoluble in water, but lead compounds (e.g., lead acetate, lead nitrate) are soluble
+*   **Toxicokinetics**
+    *   Absorption:
+        *   Inhalation: Rapidly absorbed into the bloodstream
+        *   Ingestion: Absorption varies depending on the form of lead and the presence of food in the stomach
+        *   Dermal: Minimal absorption through intact skin
+    *   Distribution:
+        *   Distributed throughout the body
+        *   Accumulates in bone (90%), blood (1-2%), and soft tissues (5-8%)
+        *   Crosses the blood-brain barrier and the placenta
+    *   Metabolism:
+        *   Not metabolized
+    *   Excretion:
+        *   Primarily excreted in the urine and feces
+        *   Excretion is slow, leading to accumulation in the body
+*   **Mechanism of Toxicity**
+    *   Interferes with various enzymatic processes
+    *   Inhibits heme synthesis, leading to anemia
+    *   Disrupts calcium homeostasis
+    *   Causes oxidative stress
+    *   Affects the nervous system, kidneys, and reproductive system
+*   **Signs and Symptoms of Lead Poisoning**
+    *   Neurological:
+        *   Adults: Headache, irritability, memory loss, peripheral neuropathy
+        *   Children: Developmental delays, learning disabilities, seizures, coma
+    *   Gastrointestinal: Abdominal pain, constipation, nausea, vomiting
+    *   Hematological: Anemia (microcytic, hypochromic)
+    *   Renal: Kidney damage
+*   **Analytical Methods**
+    *   Atomic Absorption Spectrometry (AAS)
+    *   Inductively Coupled Plasma Mass Spectrometry (ICP-MS)
+    *   Anodic Stripping Voltammetry (ASV)
+
+### **Mercury ($Hg$)** {-}
+
+*   **Definition:** A naturally occurring heavy metal that exists in various forms, each with different toxicological properties
+*   **Forms of Mercury**
+    *   Elemental Mercury (Hg⁰): Liquid at room temperature
+    *   Inorganic Mercury (Hg⁺, Hg²⁺): Mercury salts
+    *   Organic Mercury: Methylmercury, ethylmercury
+*   **Sources of Exposure**
+    *   Occupational (mining, manufacturing)
+    *   Dental amalgams
+    *   Contaminated fish (methylmercury)
+    *   Industrial waste
+*   **Chemical Properties**
+    *   Atomic Number: 80
+    *   Atomic Weight: 200.59 g/mol
+    *   Oxidation States: 0, +1, +2
+    *   Forms complexes with sulfur, selenium, and other elements
+*   **Physical Properties**
+    *   Appearance: Silver-white liquid metal
+    *   Density: 13.534 g/cm³ (very dense)
+    *   Melting Point: -38.83°C
+    *   Boiling Point: 356.7°C
+    *   Solubility: Insoluble in water, but some mercury compounds are soluble
+*   **Toxicokinetics**
+    *   Elemental Mercury:
+        *   Inhalation: Rapidly absorbed into the bloodstream
+        *   Ingestion: Poorly absorbed
+    *   Inorganic Mercury:
+        *   Ingestion: Poorly absorbed
+    *   Organic Mercury (Methylmercury):
+        *   Rapidly and completely absorbed from the gastrointestinal tract
+        *   Crosses the blood-brain barrier and the placenta
+    *   Distribution:
+        *   Elemental Mercury: Accumulates in the brain and kidneys
+        *   Inorganic Mercury: Accumulates in the kidneys
+        *   Organic Mercury: Distributed throughout the body, including the brain and fetus
+    *   Metabolism:
+        *   Elemental Mercury: Oxidized to inorganic mercury
+        *   Organic Mercury: Demethylated to inorganic mercury
+    *   Excretion:
+        *   Primarily excreted in the urine and feces
+        *   Excretion is slow, leading to accumulation in the body
+*   **Mechanism of Toxicity**
+    *   Binds to sulfhydryl groups in proteins and enzymes, disrupting their function
+    *   Causes oxidative stress
+    *   Affects the nervous system, kidneys, and immune system
+*   **Signs and Symptoms of Mercury Poisoning**
+    *   Neurological: Tremor, memory loss, irritability, numbness, and tingling
+    *   Renal: Kidney damage, proteinuria
+    *   Gastrointestinal: Nausea, vomiting, abdominal pain
+    *   Dermatological: Skin rash
+    *   Minamata Disease (methylmercury poisoning): Neurological syndrome with ataxia, sensory disturbances, and cognitive impairment
+*   **Analytical Methods**
+    *   Cold Vapor Atomic Absorption Spectrometry (CVAAS)
+    *   Inductively Coupled Plasma Mass Spectrometry (ICP-MS)
+
+### **Arsenic ($As$)** {-}
+
+*   **Definition:** A naturally occurring metalloid that is toxic in both inorganic and organic forms
+*   **Sources of Exposure**
+    *   Contaminated drinking water
+    *   Food (seafood, rice)
+    *   Pesticides
+    *   Industrial processes (smelting, wood preservation)
+*   **Chemical Properties**
+    *   Atomic Number: 33
+    *   Atomic Weight: 74.92 g/mol
+    *   Oxidation States: -3, 0, +3, +5
+    *   Forms compounds with oxygen, sulfur, and other elements
+*   **Physical Properties**
+    *   Appearance: Gray, metallic solid
+    *   Density: 5.727 g/cm³
+    *   Melting Point: 817°C (at 28 atm)
+    *   Boiling Point: Sublimes at 615°C
+    *   Solubility: Insoluble in water, but some arsenic compounds are soluble
+*   **Toxicokinetics**
+    *   Absorption:
+        *   Inorganic Arsenic: Well-absorbed from the gastrointestinal tract and lungs
+        *   Organic Arsenic: Less well-absorbed
+    *   Distribution:
+        *   Distributed throughout the body
+        *   Accumulates in the liver, kidneys, spleen, and skin
+    *   Metabolism:
+        *   Inorganic arsenic is methylated to monomethylarsonic acid (MMA) and dimethylarsinic acid (DMA)
+        *   Methylation is a detoxification pathway, but some intermediates may be more toxic
+    *   Excretion:
+        *   Primarily excreted in the urine as inorganic arsenic and methylated metabolites
+        *   Excretion half-life varies depending on the form of arsenic
+*   **Mechanism of Toxicity**
+    *   Inhibits enzyme function
+    *   Causes oxidative stress
+    *   Disrupts DNA repair
+*   **Signs and Symptoms of Arsenic Poisoning**
+    *   Acute:
+        *   Gastrointestinal: Nausea, vomiting, abdominal pain, diarrhea
+        *   Cardiovascular: Hypotension, arrhythmias
+        *   Neurological: Encephalopathy, seizures
+    *   Chronic:
+        *   Dermatological: Hyperpigmentation, palmar-plantar hyperkeratosis (Mees' lines on nails)
+        *   Neurological: Peripheral neuropathy
+        *   Cardiovascular: Increased risk of cardiovascular disease
+        *   Cancer: Increased risk of skin, lung, and bladder cancer
+*   **Analytical Methods**
+    *   Hydride Generation Atomic Absorption Spectrometry (HGAAS)
+    *   Inductively Coupled Plasma Mass Spectrometry (ICP-MS)
+
+## **Analytical Significance** {-}
+
+*   **Selection of Analytical Method:** Physical and chemical properties guide the selection of appropriate analytical methods
+*   **Sample Preparation:** Solubility and stability determine the optimal sample preparation techniques
+*   **Interpretation of Results:** Understanding metabolism and excretion helps interpret analytical results and assess the severity of poisoning
+
+## **Clinical Significance** {-}
+
+*   **Accurate Diagnosis:** Prompt and accurate identification of the ingested heavy metal is crucial for appropriate treatment
+*   **Assessment of Severity:** Measurement of heavy metal concentrations helps assess the severity of poisoning and guide clinical management
+*   **Monitoring of Treatment:** Serial measurements of heavy metal concentrations are used to monitor the effectiveness of treatment and guide further interventions
+
+## **Key Terms** {-}
+
+*   **Heavy Metal:** A metallic element with a relatively high density that is toxic at low concentrations
+*   **Lead:** A naturally occurring heavy metal
+*   **Mercury:** A heavy metal that exists in various forms, each with different toxicological properties
+*   **Arsenic:** A metalloid that is toxic in both inorganic and organic forms
+*   **Toxicokinetics:** The study of the movement of toxic substances within the body
+*   **Metabolism:** The process by which the body chemically alters a substance
+*   **Excretion:** The process by which the body eliminates a substance
+*   **Chelation Therapy:** The use of chelating agents to bind to heavy metals and facilitate their excretion
+*   **Atomic Absorption Spectrometry (AAS):** An analytical technique used to measure the concentration of elements in a sample
+*   **Inductively Coupled Plasma Mass Spectrometry (ICP-MS):** An analytical technique used to measure the concentration of elements in a sample
+*   **Hydride Generation Atomic Absorption Spectrometry (HGAAS):** An analytical technique used to measure the concentration of arsenic in a sample
+*   **Cold Vapor Atomic Absorption Spectrometry (CVAAS):** An analytical technique used to measure the concentration of mercury in a sample
+*   **Chelating Agent:** A molecule that binds to metal ions
+*   **Metalloid:** An element with properties intermediate between those of a metal and a nonmetal

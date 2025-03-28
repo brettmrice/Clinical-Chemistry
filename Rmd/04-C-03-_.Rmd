@@ -1,0 +1,96 @@
+# Procedures {-}
+
+This section covers the various facets of laboratory test procedures in TDM
+
+## **General Principles of TDM Laboratory Test Procedures** {-}
+
+*   **Purpose:** To accurately measure drug concentrations in biological samples to optimize therapy and minimize toxicity
+*   **Analytical Methods**
+    *   Immunoassays: Based on antibody-antigen binding
+    *   Chromatography: Separates and quantifies drugs based on their properties
+*   **Sample Types**
+    *   Serum, plasma, whole blood (depending on the drug)
+*   **Reporting Units**
+    *   ng/mL, μg/mL, mg/L, etc
+
+## **Immunoassay Methods** {-}
+
+*   **Principle**
+    *   Utilizes specific antibodies to bind to the drug being measured
+    *   The antibody-drug complex is then detected and quantified
+*   **Types**
+    *   Competitive Immunoassays: Drug in sample competes with labeled drug
+    *   Non-Competitive Immunoassays: Antibody binds directly to the drug
+    *   Homogeneous Immunoassays: No separation steps
+    *   Heterogeneous Immunoassays: Require separation steps
+*   **Examples**
+    *   Enzyme-Multiplied Immunoassay Technique (EMIT)
+    *   Fluorescence Polarization Immunoassay (FPIA)
+    *   Chemiluminescent Microparticle Immunoassay (CMIA)
+*   **Advantages:** High throughput, ease of use, and automation
+*   **Limitations:** Potential for cross-reactivity, matrix effects, and interference from heterophile antibodies
+
+## **Chromatographic Methods** {-}
+
+*   **Principle**
+    *   Separates drugs and metabolites based on physical and chemical properties
+    *   Quantifies the separated compounds using various detectors
+*   **Types**
+    *   High-Performance Liquid Chromatography (HPLC)
+    *   Liquid Chromatography-Mass Spectrometry (LC-MS/MS)
+    *   Gas Chromatography (GC)
+*   **Detectors**
+    *   UV-Vis, fluorescence, mass spectrometry
+*   **Advantages:** High specificity and sensitivity, ability to measure multiple drugs/metabolites simultaneously
+*   **Limitations:** More complex, requires skilled operators, and more expensive than immunoassays
+
+## **Special Precautions** {-}
+
+*   **Patient Preparation**
+    *   Timing of dose: Collect samples at appropriate times (trough, peak)
+    *   Medication history: Document all medications and supplements
+    *   Fasting requirements: May be needed for some tests
+*   **Sample Collection**
+    *   Use correct collection tubes
+    *   Follow the correct order of draw
+    *   Proper venipuncture technique to minimize hemolysis
+    *   Label specimens immediately and accurately
+*   **Sample Handling**
+    *   Process promptly
+    *   Aliquot correctly
+    *   Store at correct temperature
+    *   Protect from light if necessary
+
+## **Specimen Collection and Processing** {-}
+
+*   **Specimen Types:** Serum, plasma, whole blood
+*   **Collection Tubes:** SST, EDTA, heparin
+*   **Centrifugation:** Centrifuge promptly after collection
+*   **Separation:** Separate serum or plasma from cells within the specified time frame
+*   **Storage:** Refrigerate or freeze samples at recommended temperatures
+
+## **Troubleshooting** {-}
+
+*   **High Drug Results**
+    *   Pre-analytical: Wrong collection time, medication administration error, contamination
+    *   Analytical: Incorrect calibration, reagent issues, interferences
+*   **Low Drug Results**
+    *   Pre-analytical: Wrong collection time, degradation, improper storage
+    *   Analytical: Calibration issues, reagent problems, interferences
+*   **Inconsistent Results**
+    *   Pre-analytical: Patient variability, handling errors
+    *   Analytical: Assay variability, interferences
+*   **Quality Control (QC) Failures**
+    *   Pre-analytical: QC improperly stored or expired
+    *   Analytical: Calibration errors, reagent issues, instrument malfunction
+    *   Investigate and correct the source of the error
+
+## **Interfering Substances** {-}
+
+*   **Hemolysis:** Can interfere with immunoassays
+*   **Lipemia:** Can cause turbidity and affect spectrophotometric assays
+*   **Bilirubin:** Can interfere with spectrophotometric assays
+*   **Drugs:** Other drugs can interfere with the assay or affect drug levels
+*   **Heterophile Antibodies:** Can cause falsely high or low results
+*   **Cross-Reactivity:** Antibodies may bind to other substances
+*   **Matrix Effects:** Components in the sample matrix can affect results

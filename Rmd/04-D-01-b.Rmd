@@ -1,0 +1,152 @@
+# Metabolism, Excretion {-}
+
+Understanding the processes of metabolism and excretion is crucial in toxicology
+
+## **Drug Metabolism** {-}
+
+*   **Definition:** The process by which the body chemically alters a toxic substance, often to facilitate its elimination
+*   **Primary Site of Metabolism:** Liver
+*   **Other Sites:** Kidneys, intestines, lungs, and plasma
+*   **Purpose of Metabolism**
+    *   Convert lipid-soluble toxic substances into more water-soluble metabolites, facilitating their excretion in the urine
+    *   Detoxify by converting toxic substances into less harmful metabolites
+    *   Bioactivation: Convert relatively harmless substances into more toxic metabolites
+*   **Phases of Metabolism**
+    *   Phase I Reactions: Introduce or expose a functional group on the toxic substance molecule through oxidation, reduction, or hydrolysis
+    *   Phase II Reactions: Conjugate a polar molecule to the toxic substance molecule, such as glucuronic acid, sulfate, or glutathione
+
+### **Phase I Metabolism** {-}
+
+*   **Oxidation**
+    *   Addition of oxygen or removal of hydrogen atoms from the toxic substance molecule
+    *   Enzymes involved: Cytochrome P450 (CYP) enzymes
+    *   Examples of reactions: Hydroxylation, epoxidation, N-oxidation, S-oxidation
+*   **Reduction**
+    *   Addition of hydrogen atoms or electrons to the toxic substance molecule
+    *   Enzymes involved: Reductases
+    *   Examples of reactions: Reduction of nitro groups, azo groups, and carbonyl groups
+*   **Hydrolysis**
+    *   Addition of water to break a chemical bond
+    *   Enzymes involved: Esterases, amidases, peptidases
+    *   Examples of reactions: Hydrolysis of esters, amides, and peptides
+
+### **Phase II Metabolism** {-}
+
+*   **Glucuronidation**
+    *   Addition of glucuronic acid to the toxic substance molecule
+    *   Enzymes involved: UDP-glucuronosyltransferases (UGTs)
+    *   Results in highly water-soluble metabolites that are easily excreted in the urine
+*   **Sulfation**
+    *   Addition of a sulfate group to the toxic substance molecule
+    *   Enzymes involved: Sulfotransferases (SULTs)
+    *   Results in water-soluble metabolites that are easily excreted in the urine
+*   **Acetylation**
+    *   Addition of an acetyl group to the toxic substance molecule
+    *   Enzymes involved: N-acetyltransferases (NATs)
+    *   Genetic polymorphisms in NAT enzymes can affect the metabolism of some toxic substances
+*   **Glutathione Conjugation**
+    *   Addition of glutathione to the toxic substance molecule
+    *   Enzymes involved: Glutathione S-transferases (GSTs)
+    *   Important for detoxifying reactive metabolites, such as those formed during acetaminophen metabolism
+*   **Methylation**
+    *   Addition of a methyl group to the toxic substance molecule
+    *   Enzymes involved: Methyltransferases
+    *   Can either activate or inactivate drugs
+
+### **Cytochrome P450 (CYP) Enzymes** {-}
+
+*   **Definition:** A superfamily of heme-containing monooxygenases that catalyze the oxidation of many drugs, toxins, and endogenous compounds
+*   **Location:** Primarily in the liver, but also present in other tissues
+*   **Importance in Toxicology:** Responsible for the metabolism of many toxic substances
+*   **Key CYP Enzymes**
+    *   CYP3A4: Metabolizes the largest number of drugs and toxins
+    *   CYP2D6: Metabolizes many psychiatric and cardiovascular drugs
+    *   CYP2C9: Metabolizes nonsteroidal anti-inflammatory drugs (NSAIDs) and warfarin
+    *   CYP2E1: Metabolizes ethanol, acetaminophen, and some volatile organic compounds
+
+### **Factors Affecting Drug Metabolism** {-}
+
+*   **Genetic Factors**
+    *   Genetic polymorphisms in drug-metabolizing enzymes can affect the rate of metabolism
+    *   Individuals can be classified as poor metabolizers, intermediate metabolizers, extensive metabolizers, or ultra-rapid metabolizers
+*   **Age**
+    *   Infants have immature metabolic enzyme systems
+    *   Elderly individuals may have decreased liver function and reduced enzyme activity
+*   **Disease States**
+    *   Liver disease: Reduces metabolic enzyme activity
+    *   Kidney disease: Affects drug clearance and can lead to drug accumulation
+*   **Drug Interactions**
+    *   Enzyme Inducers: Increase the activity of metabolizing enzymes, leading to decreased levels of toxicant
+    *   Enzyme Inhibitors: Decrease the activity of metabolizing enzymes, leading to increased levels of toxicant
+*   **Diet and Environmental Factors**
+    *   Grapefruit juice: Inhibits CYP3A4
+    *   Smoking: Induces CYP1A2
+*   **Gender**
+    *   Differences in hormone levels and body composition can affect drug metabolism
+
+## **Excretion** {-}
+
+*   **Definition:** The process by which the body eliminates a toxic substance or its metabolites
+*   **Primary Routes of Excretion**
+    *   Kidneys: Most toxic substances are excreted in the urine
+    *   Liver: Some toxic substances are excreted in the bile and eliminated in the feces
+*   **Other Routes:** Lungs, sweat, saliva, breast milk
+*   **Renal Excretion**
+    *   Glomerular Filtration: Toxic substances and small molecules are filtered from the blood into the renal tubules
+        *   Only unbound (free) substance can be filtered
+    *   Tubular Secretion: Active transport of toxic substances from the blood into the renal tubules
+        *   Can be affected by drug interactions
+    *   Tubular Reabsorption: Passive or active transport of toxic substances from the renal tubules back into the blood
+        *   Lipid-soluble toxic substances are more readily reabsorbed
+        *   Urine pH can affect the reabsorption of weak acids and bases
+*   **Biliary Excretion**
+    *   Toxic substances and metabolites are transported from the liver into the bile
+    *   Bile is secreted into the small intestine and eliminated in the feces
+    *   Some toxic substances undergo enterohepatic circulation, where they are reabsorbed from the intestine back into the blood
+*   **Clearance (CL)**
+    *   A measure of the body's efficiency in eliminating a toxic substance from the body
+    *   Total Clearance: Sum of all clearance pathways (renal, hepatic, and other)
+    *   Renal Clearance: The volume of plasma from which a toxic substance is completely removed by the kidneys per unit of time
+    *   Hepatic Clearance: The volume of plasma from which a toxic substance is completely removed by the liver per unit of time
+*   **Factors Affecting Excretion**
+    *   Renal Function: Glomerular filtration rate (GFR), tubular secretion, and tubular reabsorption affect renal excretion
+    *   Liver Function: Bile flow and hepatic metabolism affect biliary excretion
+    *   Substance Properties: Molecular size, ionization, and protein binding affect excretion
+    *   Drug Interactions: Some drugs can affect the excretion of other substances
+    *   Urine pH: Can influence the excretion of weak acids and bases
+
+## **Clinical Significance** {-}
+
+*   **Understanding of Metabolism and Excretion Is Crucial for**
+    *   Predicting the toxicity of substances
+    *   Assessing individual susceptibility to toxic effects
+    *   Developing effective treatments for poisoning
+    *   Designing strategies for preventing exposure to toxic substances
+*   **Altered Drug Metabolism Can Affect Toxicity**
+        *   Enzyme inducers can decrease toxicant concentrations
+        *   Enzyme inhibitors can increase toxicant concentrations
+*    **Pharmacogenomics**
+        *   Genetic testing can determine specific treatment to detox or remove the substance from the system
+*   **Dosage Adjustments in Patients with Renal or Hepatic Impairment**
+        *   Knowing kidney or liver capabilities will allow for proper dosage adjustments
+*   **Therapeutic Drug Monitoring (TDM)**
+        *   Some drugs may be used as treatments
+
+## **Key Terms** {-}
+
+*   **Drug Metabolism:** The process by which the body chemically alters a drug
+*   **Enzyme Induction:** Increased activity of drug-metabolizing enzymes
+*   **Enzyme Inhibition:** Decreased activity of drug-metabolizing enzymes
+*   **Cytochrome P450 (CYP) Enzymes:** A superfamily of heme-containing monooxygenases
+*   **Prodrug:** An inactive drug that is metabolized to an active metabolite
+*   **Drug Excretion:** The process by which the body eliminates a drug or its metabolites
+*   **Glomerular Filtration:** The process by which drugs and small molecules are filtered from the blood into the renal tubules
+*   **Tubular Secretion:** The active transport of drugs from the blood into the renal tubules
+*   **Tubular Reabsorption:** The transport of drugs from the renal tubules back into the blood
+*   **Biliary Excretion:** The excretion of drugs and metabolites from the liver into the bile
+*   **Enterohepatic Circulation:** The reabsorption of drugs from the intestine back into the blood
+*   **Clearance (CL):** A measure of the body's efficiency in eliminating a drug from the body
+*   **Drug-Drug Interactions (DDIs):** The interactions between two or more drugs that can affect their absorption, distribution, metabolism, or excretion
+*   **Pharmacogenomics:** The study of how genes affect a person's response to drugs
+*   **Genetic Polymorphism:** Variation in the DNA sequence among individuals
+*   **Bioactivation:** Metabolic activation of a substance to become toxic
