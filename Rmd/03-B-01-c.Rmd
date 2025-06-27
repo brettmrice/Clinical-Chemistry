@@ -20,7 +20,6 @@ In addition to major electrolytes, trace elements are critical for a variety of 
     *   Storage
     *   Excretion
 
-
 ## **Iron ($Fe$)** {-}
 *   Normal Range: 60-170 μg/dL (10.7-30.4 μmol/L)
 *   Functions:
@@ -29,6 +28,7 @@ In addition to major electrolytes, trace elements are critical for a variety of 
     *   Immune function
 *   Deficiency: Iron deficiency anemia (fatigue, weakness)
 *   Excess: Hemochromatosis (tissue damage)
+
 ## **Zinc ($Zn$)** {-}
 *   Normal Range: 70-120 μg/dL (10.7-18.4 μmol/L)
 *   Functions:
@@ -38,6 +38,7 @@ In addition to major electrolytes, trace elements are critical for a variety of 
     *   Growth and development
 *   Deficiency: Impaired immune function, growth retardation, skin lesions, taste and smell abnormalities
 *   Excess: Copper deficiency, impaired immune function
+
 ## **Copper ($Cu$)** {-}
 *   Normal Range: 70-140 μg/dL (11.0-22.0 μmol/L)
 *   Functions:
@@ -46,6 +47,7 @@ In addition to major electrolytes, trace elements are critical for a variety of 
     *   Antioxidant defense
 *   Deficiency: Anemia, neutropenia, neurological abnormalities
 *   Excess: Wilson's disease (liver and neurological damage)
+
 ## **Selenium ($Se$)** {-}
 *   Normal Range: 50-120 μg/L (0.63-1.52 μmol/L)
 *   Functions:
@@ -55,12 +57,14 @@ In addition to major electrolytes, trace elements are critical for a variety of 
     *   Immune function
 *   Deficiency: Keshan disease (cardiomyopathy), Kashin-Beck disease (osteoarthritis)
 *   Excess: Selenosis (hair loss, nail changes, neurological abnormalities)
+
 ## **Iodine ($I$)** {-}
 *   Normal Range: Varies depending on the method and population
 *   Functions:
     *   Thyroid hormone synthesis (thyroxine, triiodothyronine)
 *   Deficiency: Hypothyroidism, goiter, developmental abnormalities
 *   Excess: Hyperthyroidism, thyroiditis
+
 ## **Manganese ($Mn$)** {-}
 *   Normal Range: 4-15 μg/L (0.07-0.27 μmol/L)
 *   Functions:
@@ -69,6 +73,7 @@ In addition to major electrolytes, trace elements are critical for a variety of 
     *   Carbohydrate and lipid metabolism
 *   Deficiency: Rare, may cause impaired growth and bone development
 *   Excess: Manganism (neurological abnormalities)
+
 ## **Chromium ($Cr$)** {-}
 *   Normal Range: 0.5-10 μg/L (0.01-0.19 μmol/L)
 *   Functions:
@@ -77,6 +82,7 @@ In addition to major electrolytes, trace elements are critical for a variety of 
     *   Lipid metabolism
 *   Deficiency: Impaired glucose tolerance, insulin resistance
 *   Excess: Rare, may cause kidney or liver damage
+
 ## **Molybdenum ($Mo$)** {-}
 *   Normal Range: 0.4-1.0 μg/L (0.004-0.01 μmol/L)
 *   Functions:
@@ -85,6 +91,7 @@ In addition to major electrolytes, trace elements are critical for a variety of 
     *   Purine metabolism
 *   Deficiency: Rare, may cause neurological abnormalities
 *   Excess: Rare, may cause gout-like symptoms
+
 ## **Fluoride ($F$)** {-}
 *   Normal Range: Varies depending on water fluoridation levels
 *   Functions:

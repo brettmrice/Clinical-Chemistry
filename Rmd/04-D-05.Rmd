@@ -157,11 +157,11 @@ Understanding how various disease states influence toxicological findings is cri
 ## **The Importance of History and Exam** {-}
 
 *   The proper assessment of drug levels and how they relate to disease is done by:
-        *   Obtaining a thorough history from the patient
-        *   Completing a full physical examination
+    *   Obtaining a thorough history from the patient
+    *   Completing a full physical examination
 *   **Examples**
-        *   Asking patients if they have taken any additional pain or fever reducers when acetaminophen toxicity is suspected can help guide treatment
-        *   Asking patients if they have noticed visual halos when digoxin toxicity is suspected
+    *   Asking patients if they have taken any additional pain or fever reducers when acetaminophen toxicity is suspected can help guide treatment
+    *   Asking patients if they have noticed visual halos when digoxin toxicity is suspected
 *   *These factors cannot be overlooked to properly assess toxicology results*
 
 ## **Summary Table of Disease State Correlation** {-}

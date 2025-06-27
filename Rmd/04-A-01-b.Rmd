@@ -48,7 +48,7 @@ Endocrine disorders are abnormal states that arise from either hormone excess or
     *   **Hypothyroidism:** Deficiency of thyroid-stimulating hormone (TSH) leads to decreased thyroid hormone production, causing fatigue, weight gain, and cold intolerance
     *   **Hypogonadism:** Deficiency of luteinizing hormone (LH) and follicle-stimulating hormone (FSH) leads to decreased sex hormone production, causing infertility and sexual dysfunction
     
-### **Thyroid Disorders**
+### **Thyroid Disorders** {-}
 *   **Hyperthyroidism (Hormone Excess)**
     *   **Graves' Disease:** Autoimmune disorder that stimulates the thyroid gland, leading to excess thyroid hormone production
     *   **Toxic Nodular Goiter:** Overactive thyroid nodules produce excess thyroid hormone
@@ -58,7 +58,7 @@ Endocrine disorders are abnormal states that arise from either hormone excess or
     *   **Iodine Deficiency:** Inadequate iodine intake impairs thyroid hormone synthesis
     *   Symptoms: Fatigue, weight gain, cold intolerance, constipation, and dry skin
     
-### **Adrenal Disorders**
+### **Adrenal Disorders** {-}
 *   **Hypercortisolism (Cushing's Syndrome) (Hormone Excess)**
     *   **Cushing's Disease:** Pituitary tumor that overproduces ACTH, leading to excess cortisol production
     *   **Adrenal Tumors:** Tumors of the adrenal gland that produce excess cortisol
@@ -76,7 +76,7 @@ Endocrine disorders are abnormal states that arise from either hormone excess or
     *   Tumor of the adrenal medulla that produces excess catecholamines (epinephrine and norepinephrine)
     *   Symptoms: Hypertension, palpitations, sweating, anxiety, and headaches
 
-### **Pancreatic Endocrine Disorders**
+### **Pancreatic Endocrine Disorders** {-}
 *   **Diabetes Mellitus (Hormone Deficiency/Resistance)**
     *   **Type 1 Diabetes:** Autoimmune destruction of pancreatic beta cells, leading to absolute insulin deficiency
     *   **Type 2 Diabetes:** Insulin resistance and progressive beta-cell dysfunction
@@ -85,7 +85,7 @@ Endocrine disorders are abnormal states that arise from either hormone excess or
     *   Tumor of the pancreatic beta cells that produces excess insulin, leading to hypoglycemia
     *   Symptoms: Hypoglycemia, sweating, palpitations, anxiety, and confusion
 
-### **Parathyroid Disorders**
+### **Parathyroid Disorders** {-}
 *   **Hyperparathyroidism (Hormone Excess)**
     *   **Primary Hyperparathyroidism:** Parathyroid adenoma or hyperplasia that produces excess parathyroid hormone (PTH), leading to hypercalcemia
     *   **Secondary Hyperparathyroidism:** Increased PTH production due to chronic kidney disease or vitamin D deficiency
@@ -94,7 +94,7 @@ Endocrine disorders are abnormal states that arise from either hormone excess or
     *   Surgical removal or autoimmune destruction of the parathyroid glands, leading to hypocalcemia
     *   Symptoms: Hypocalcemia, muscle cramps, tetany, and seizures
 
-### **Gonadal Disorders**
+### **Gonadal Disorders** {-}
 *   **Hypogonadism (Hormone Deficiency)**
     *   **Primary Hypogonadism:** Gonadal failure due to genetic disorders, autoimmune destruction, or radiation exposure
     *   **Secondary Hypogonadism:** Pituitary or hypothalamic disorders that decrease LH and FSH production

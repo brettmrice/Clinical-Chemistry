@@ -14,7 +14,7 @@ This overview summarizes the key aspects of endocrinology related to biochemical
     *   **Thyroid Hormones:** Increase basal metabolic rate, enhance glucose absorption, and affect carbohydrate, lipid, and protein metabolism
 *   **Hormonal Interactions:** Hormones often work in opposition to maintain metabolic homeostasis. Their effects are coordinated through complex feedback mechanisms
 
-## **ormal and Abnormal States** {-}
+## **Normal and Abnormal States** {-}
 
 *   **Normal Endocrine Function**
     *   **Synthesis and Secretion:** Hormones are synthesized and secreted in endocrine glands, regulated by feedback mechanisms, neural signals, and hormonal signals

@@ -41,12 +41,12 @@ Accurate heme derivative testing is crucial for diagnosis, monitoring, and manag
 *   **Definition:** Anemias caused by increased destruction of red blood cells
 *   **Examples:** Hereditary spherocytosis, sickle cell anemia, autoimmune hemolytic anemia
 *   **Laboratory Findings**
-        *   Elevated Total Bilirubin: Typically < 5.0 mg/dL
-        *   Elevated Indirect (Unconjugated) Bilirubin: Predominantly indirect bilirubin
-        *   Increased Reticulocyte Count: Indicates increased red blood cell production by the bone marrow
-        *   Decreased Hemoglobin and Hematocrit: Indicators of anemia
-        *   Increased Lactate Dehydrogenase (LDH): Released from damaged red blood cells
-        *   Decreased Haptoglobin: Binds free hemoglobin and is depleted in hemolytic anemia
+    *   Elevated Total Bilirubin: Typically < 5.0 mg/dL
+    *   Elevated Indirect (Unconjugated) Bilirubin: Predominantly indirect bilirubin
+    *   Increased Reticulocyte Count: Indicates increased red blood cell production by the bone marrow
+    *   Decreased Hemoglobin and Hematocrit: Indicators of anemia
+    *   Increased Lactate Dehydrogenase (LDH): Released from damaged red blood cells
+    *   Decreased Haptoglobin: Binds free hemoglobin and is depleted in hemolytic anemia
 *   **Disease State Correlation**
     *   Increased red blood cell breakdown leads to elevated indirect bilirubin, increased reticulocyte count, and decreased hemoglobin
 
@@ -65,45 +65,45 @@ Accurate heme derivative testing is crucial for diagnosis, monitoring, and manag
 
 *   **Definition:** Anemia caused by insufficient iron levels, leading to impaired heme and hemoglobin synthesis
 *   **Laboratory Findings**
-        *   Decreased Hemoglobin and Hematocrit: Indicators of anemia
-        *   Decreased Mean Corpuscular Volume (MCV): Microcytic anemia
-        *   Decreased Serum Iron: < 60 μg/dL (10.7 μmol/L)
-        *   Decreased Ferritin: < 20 ng/mL (women), < 20 ng/mL (men)
-        *   Increased Total Iron-Binding Capacity (TIBC): > 450 μg/dL (80.6 μmol/L)
-        *   Decreased Transferrin Saturation: < 20%
+    *   Decreased Hemoglobin and Hematocrit: Indicators of anemia
+    *   Decreased Mean Corpuscular Volume (MCV): Microcytic anemia
+    *   Decreased Serum Iron: < 60 μg/dL (10.7 μmol/L)
+    *   Decreased Ferritin: < 20 ng/mL (women), < 20 ng/mL (men)
+    *   Increased Total Iron-Binding Capacity (TIBC): > 450 μg/dL (80.6 μmol/L)
+    *   Decreased Transferrin Saturation: < 20%
 *   **Disease State Correlation**
-    *   Inadequate iron stores impair heme and hemoglobin synthesis, leading to microcytic anemia and decreased iron levels
+*   Inadequate iron stores impair heme and hemoglobin synthesis, leading to microcytic anemia and decreased iron levels
 
 ## **Hemochromatosis** {-}
 
 *   **Definition:** A genetic disorder characterized by excessive iron absorption and accumulation in tissues
 *   **Laboratory Findings**
-        *   Elevated Serum Iron: > 170 μg/dL (30.4 μmol/L)
-        *   Elevated Transferrin Saturation: > 50%
-        *   Elevated Ferritin: > 200 ng/mL (women), > 500 ng/mL (men)
-        *   Decreased Total Iron-Binding Capacity (TIBC): < 240 μg/dL (42.9 μmol/L)
+    *   Elevated Serum Iron: > 170 μg/dL (30.4 μmol/L)
+    *   Elevated Transferrin Saturation: > 50%
+    *   Elevated Ferritin: > 200 ng/mL (women), > 500 ng/mL (men)
+    *   Decreased Total Iron-Binding Capacity (TIBC): < 240 μg/dL (42.9 μmol/L)
 *   **Disease State Correlation**
-    *   Excessive iron absorption leads to iron overload, causing tissue damage and organ dysfunction
+*   Excessive iron absorption leads to iron overload, causing tissue damage and organ dysfunction
 
 ## **Lead Poisoning** {-}
 
 *   **Definition:** Exposure to lead, which inhibits enzymes in the heme synthesis pathway
 *   **Laboratory Findings**
-        *   Elevated Blood Lead Levels: > 5 μg/dL
-        *   Elevated Zinc Protoporphyrin (ZPP) in Red Blood Cells: Indicates impaired heme synthesis
-        *   Decreased Hemoglobin: Anemia
+    *   Elevated Blood Lead Levels: > 5 μg/dL
+    *   Elevated Zinc Protoporphyrin (ZPP) in Red Blood Cells: Indicates impaired heme synthesis
+    *   Decreased Hemoglobin: Anemia
 *   **Disease State Correlation**
-    *   Lead inhibits ALA dehydratase and ferrochelatase, disrupting heme synthesis and causing neurological and developmental problems
+*   Lead inhibits ALA dehydratase and ferrochelatase, disrupting heme synthesis and causing neurological and developmental problems
 
 ## **Anemia of Chronic Disease (ACD)** {-}
 
 *   **Definition:** Anemia associated with chronic inflammatory conditions
 *   **Laboratory Findings**
-        *   Decreased Hemoglobin and Hematocrit: Indicators of anemia
-        *   Decreased Serum Iron: < 60 μg/dL (10.7 μmol/L)
-        *   Decreased Total Iron-Binding Capacity (TIBC): < 240 μg/dL (42.9 μmol/L)
-        *   Decreased Transferrin Saturation: < 20%
-        *   Normal or Increased Ferritin: > 20 ng/mL (women), > 20 ng/mL (men)
+    *   Decreased Hemoglobin and Hematocrit: Indicators of anemia
+    *   Decreased Serum Iron: < 60 μg/dL (10.7 μmol/L)
+    *   Decreased Total Iron-Binding Capacity (TIBC): < 240 μg/dL (42.9 μmol/L)
+    *   Decreased Transferrin Saturation: < 20%
+    *   Normal or Increased Ferritin: > 20 ng/mL (women), > 20 ng/mL (men)
 *   **Disease State Correlation**
     *   Inflammation leads to increased hepcidin production, which reduces iron absorption and release, causing anemia
 

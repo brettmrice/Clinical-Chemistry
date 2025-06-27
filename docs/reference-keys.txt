@@ -1,6 +1,1 @@
 pituitary-disorders
-thyroid-disorders
-adrenal-disorders
-pancreatic-endocrine-disorders
-parathyroid-disorders
-gonadal-disorders

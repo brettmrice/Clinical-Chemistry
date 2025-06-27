@@ -24,10 +24,10 @@ Clearance tests assess the rate at which substances are removed from the body, u
 *   **Corrections:** Corrected for Body Surface Area (BSA)
 *   **Reportable Range:** 25 - 250 mL/min
 *   **Sources of Error**
-        *   Incomplete Urine Collection: A major source of error. Ensure the patient understands the importance of collecting all urine during the 24-hour period
-        *   Improper Timing: Starting and ending the collection at the wrong time
-        *   Medications: Some medications can affect creatinine clearance
-        *   Muscle Mass: Creatinine production is related to muscle mass. Individuals with very high or low muscle mass may have inaccurate creatinine clearance estimates
+    *   Incomplete Urine Collection: A major source of error. Ensure the patient understands the importance of collecting all urine during the 24-hour period
+    *   Improper Timing: Starting and ending the collection at the wrong time
+    *   Medications: Some medications can affect creatinine clearance
+    *   Muscle Mass: Creatinine production is related to muscle mass. Individuals with very high or low muscle mass may have inaccurate creatinine clearance estimates
 *   **Alternate Estimates (eGFR)**
     *   **Equations**
         *   Cockcroft-Gault Equation: Estimates creatinine clearance based on serum creatinine, age, weight, and sex. Overestimates GFR in obese patients
@@ -38,12 +38,12 @@ Clearance tests assess the rate at which substances are removed from the body, u
     *   Decreased creatinine clearance indicates impaired kidney function
     *   Creatinine clearance is used to stage chronic kidney disease (CKD) and to adjust medication dosages
 *   **CKD Stages**
-        *   Stage 1: Kidney damage with normal or increased GFR (≥ 90 mL/min/1.73 m2)
-        *   Stage 2: Kidney damage with mild decrease in GFR (60-89 mL/min/1.73 m2)
-        *   Stage 3a: Moderate decrease in GFR (45-59 mL/min/1.73 m2)
-        *   Stage 3b: Moderate decrease in GFR (30-44 mL/min/1.73 m2)
-        *   Stage 4: Severe decrease in GFR (15-29 mL/min/1.73 m2)
-        *   Stage 5: Kidney failure (GFR < 15 mL/min/1.73 m2 or dialysis)
+    *   Stage 1: Kidney damage with normal or increased GFR (≥ 90 mL/min/1.73 m2)
+    *   Stage 2: Kidney damage with mild decrease in GFR (60-89 mL/min/1.73 m2)
+    *   Stage 3a: Moderate decrease in GFR (45-59 mL/min/1.73 m2)
+    *   Stage 3b: Moderate decrease in GFR (30-44 mL/min/1.73 m2)
+    *   Stage 4: Severe decrease in GFR (15-29 mL/min/1.73 m2)
+    *   Stage 5: Kidney failure (GFR < 15 mL/min/1.73 m2 or dialysis)
 
 ## **Urea Clearance** {-}
 

@@ -1,6 +1,7 @@
 # Glycated Proteins {-}
 
 Glycated proteins, particularly HbA1c, are the cornerstone of diabetes monitoring. They provide a retrospective view of glucose control, helping clinicians and patients make informed decisions
+
 *   **Definition:** Glycated proteins are formed when glucose non-enzymatically binds to proteins, a process known as glycation or the Maillard reaction. The extent of glycation depends on the average glucose concentration over time and the protein's lifespan
 *   **Clinical Significance:** Glycated proteins provide a measure of average glucose levels over an extended period, making them valuable for assessing glycemic control in diabetes mellitus
 *   **Types of Glycated Proteins**

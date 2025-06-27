@@ -1,6 +1,7 @@
 # Heavy Metals {-}
 
 Heavy metals group of metallic elements with relatively high densities, atomic weights, or atomic numbers that are toxic or poisonous at low concentrations
+
 *   **Characteristics**
     *   Naturally occurring elements
     *   Persistent in the environment

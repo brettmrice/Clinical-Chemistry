@@ -1,5 +1,5 @@
 --- 
-title: "Chemistry"
+title: "CH"
 author: "Brett M. Rice"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site

@@ -1,6 +1,7 @@
 # Disease Correlation {-}
 
 Understanding how lipid tests connect to specific disease states is vital for effective diagnosis and management. Lipids, including cholesterol and triglycerides, play a critical role in various physiological processes. Abnormal lipid levels are associated with several disease states
+
 *   **Key Conditions**
     *   Atherosclerosis
     *   Coronary Artery Disease (CAD)
